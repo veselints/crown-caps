@@ -2,27 +2,26 @@
   <div>
     <input type="button" value="click" v-on:click="getData()"/>
     <div class="container">
-      <div v-for="img, i in images" :key="img.name">
+      <div v-for="img in images" :key="img.name">
         <img :src="img.pathLong"/>
         <div>
-          <label>Image name:</label>
-          <input v-model="images[i].name"/>
+          <span>{{img.name}}</span>
         </div>
         <div>
           <label>Brand:</label>
-          <input v-model="images[i].brand"/>
+          <input v-model="img.brand"/>
         </div>
         <div>
           <label>Words:</label>
-          <input v-model="images[i].words"/>
+          <input v-model="img.words"/>
         </div>
         <div>
           <label>Colors:</label>
-          <input v-model="images[i].colors"/>
+          <input v-model="img.colors"/>
         </div>
         <div>
           <label>Figures:</label>
-          <input v-model="images[i].figures"/>
+          <input v-model="img.figures"/>
         </div>
       </div>
     </div>
@@ -44,7 +43,7 @@ export default {
   },
 
   mounted() {
-    this.importAll(require.context('../assets/images/plate1/', true, /\.jpg$/));
+    this.importAll(require.context('../assets/images/plate5/', true, /\.jpg$/));
   },
 
   methods: {
