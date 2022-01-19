@@ -1,0 +1,720 @@
+[
+    {
+        "imageName": "plate13_100.jpg",
+        "brand": "sol",
+        "words": [
+            "sol",
+            "cerveza"
+        ],
+        "colors": [
+            "red",
+            "golden",
+            "white"
+        ],
+        "figures": [
+            "sun"
+        ]
+    },
+    {
+        "imageName": "plate13_101.jpg",
+        "brand": "amstel",
+        "words": [
+            "amstel",
+            "bier",
+            "brewed",
+            "to",
+            "the",
+            "tradition",
+            "1870"
+        ],
+        "colors": [
+            "red",
+            "yellow",
+            "white",
+            "blue"
+        ],
+        "figures": [
+            "shield",
+            "lion"
+        ]
+    },
+    {
+        "imageName": "plate13_102.jpg",
+        "brand": "gambrinus",
+        "words": [],
+        "colors": [
+            "red",
+            "silver",
+            "black"
+        ],
+        "figures": [
+            "man",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "plate13_103.jpg",
+        "brand": "gambrinus",
+        "words": [],
+        "colors": [
+            "brown",
+            "silver",
+            "black"
+        ],
+        "figures": [
+            "man",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "plate13_104.jpg",
+        "brand": "cristal",
+        "words": [
+            "cristal",
+            "twist",
+            "off"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "blue"
+        ],
+        "figures": [
+            "sphinx"
+        ]
+    },
+    {
+        "imageName": "plate13_105.jpg",
+        "words": [
+            "biere",
+            "des",
+            "trappistes",
+            "rochefort",
+            "8",
+            "cat"
+        ],
+        "colors": [
+            "green",
+            "white"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate13_106.jpg",
+        "brand": "bavaria",
+        "words": [],
+        "colors": [
+            "blue",
+            "silver"
+        ],
+        "figures": [
+            "shield",
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "plate13_107.jpg",
+        "brand": "schnieder weisse",
+        "words": [
+            "aventinus",
+            "weizen",
+            "eisbock"
+        ],
+        "colors": [
+            "purple",
+            "silver"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate13_108.jpg",
+        "words": [
+            "rolling",
+            "rock"
+        ],
+        "colors": [
+            "blue",
+            "silver"
+        ],
+        "figures": [
+            "horse"
+        ]
+    },
+    {
+        "imageName": "plate13_109.jpg",
+        "brand": "estrella damm",
+        "words": [
+            "estrella",
+            "damm",
+            "18",
+            "76",
+            ""
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate13_110.jpg",
+        "words": [
+            "cebada"
+        ],
+        "colors": [
+            "red",
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "grain"
+        ]
+    },
+    {
+        "imageName": "plate13_111.jpg",
+        "words": [],
+        "colors": [
+            "red",
+            "brown"
+        ],
+        "figures": [
+            "owl"
+        ]
+    },
+    {
+        "imageName": "plate13_112.jpg",
+        "words": [
+            "victory",
+            "v",
+            "brewing",
+            "company"
+        ],
+        "colors": [
+            "blue",
+            "red",
+            "silver"
+        ],
+        "figures": [
+            "letter",
+            "sun"
+        ]
+    },
+    {
+        "imageName": "plate13_113.jpg",
+        "brand": "blue point",
+        "words": [
+            "blue",
+            "point",
+            "brewing",
+            "company"
+        ],
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "figures": [
+            "lighthouse"
+        ]
+    },
+    {
+        "imageName": "plate13_114.jpg",
+        "brand": "blue moon",
+        "words": [
+            "blue",
+            "moon",
+            "brewing",
+            "company",
+            "established",
+            "1995"
+        ],
+        "colors": [
+            "blue",
+            "black",
+            "gray"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate13_115.jpg",
+        "words": [
+            "smadny",
+            "mnich"
+        ],
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate13_116.jpg",
+        "brand": "red stripe",
+        "words": [
+            "red",
+            "stripe",
+            "brewed",
+            "in",
+            "jamaica"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate13_117.jpg",
+        "words": [
+            "lose"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate13_118.jpg",
+        "words": [],
+        "colors": [
+            "red",
+            "silver"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate13_119.jpg",
+        "words": [],
+        "colors": [
+            "pink"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate13_120.jpg",
+        "words": [
+            "hasen",
+            "biere",
+            "seit",
+            "1464"
+        ],
+        "colors": [
+            "red",
+            "golden",
+            "white",
+            "black"
+        ],
+        "figures": [
+            "rabbit"
+        ]
+    },
+    {
+        "imageName": "plate13_121.jpg",
+        "words": [
+            "coney",
+            "island",
+            "brewing",
+            "co"
+        ],
+        "colors": [
+            "blue",
+            "red",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate13_122.jpg",
+        "words": [
+            "df"
+        ],
+        "colors": [
+            "blue",
+            "golden"
+        ],
+        "figures": [
+            "shield",
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate13_123.jpg",
+        "words": [
+            "b"
+        ],
+        "colors": [
+            "blue",
+            "silver"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate13_124.jpg",
+        "brand": "lav",
+        "words": [
+            "kvasac",
+            "jecam",
+            "hmelj",
+            "voda"
+        ],
+        "colors": [
+            "blue",
+            "golden"
+        ],
+        "figures": [
+            "lion"
+        ]
+    },
+    {
+        "imageName": "plate13_125.jpg",
+        "brand": "kirin ichiban",
+        "words": [
+            "kirin"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "dragon"
+        ]
+    },
+    {
+        "imageName": "plate13_126.jpg",
+        "brand": "rotlicht",
+        "words": [
+            "rotlicht"
+        ],
+        "colors": [
+            "red",
+            "black",
+            "white"
+        ],
+        "figures": [
+            "heart"
+        ]
+    },
+    {
+        "imageName": "plate13_127.jpg",
+        "brand": "bintang",
+        "words": [
+            "bintang",
+            "pilsener",
+            "trade",
+            "mark"
+        ],
+        "colors": [
+            "red",
+            "black",
+            "white"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate13_128.jpg",
+        "brand": "ambar",
+        "words": [
+            "ambar"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "triangle"
+        ]
+    },
+    {
+        "imageName": "plate13_129.jpg",
+        "brand": "ambar",
+        "words": [
+            "ambar"
+        ],
+        "colors": [
+            "red",
+            "blue"
+        ],
+        "figures": [
+            "triangle"
+        ]
+    },
+    {
+        "imageName": "plate13_130.jpg",
+        "brand": "efes",
+        "words": [
+            "efes"
+        ],
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate13_131.jpg",
+        "words": [],
+        "colors": [
+            "blue",
+            "black"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate13_132.jpg",
+        "brand": "efes",
+        "words": [
+            "efes",
+            "malt",
+            "bira"
+        ],
+        "colors": [
+            "blue",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate13_133.jpg",
+        "brand": "amstel",
+        "words": [
+            "amstel",
+            "oro"
+        ],
+        "colors": [
+            "gray",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate13_134.jpg",
+        "brand": "zubr",
+        "words": [
+            "zubr",
+            "grand"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate13_135.jpg",
+        "brand": "mahou",
+        "words": [
+            "m",
+            "1890"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": [
+            "letter",
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate13_136.jpg",
+        "brand": "mahou",
+        "words": [
+            "m"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate13_137.jpg",
+        "brand": "mahou",
+        "words": [
+            "m"
+        ],
+        "colors": [
+            "blue",
+            "golden"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate13_138.jpg",
+        "brand": "esb",
+        "words": [
+            "red",
+            "hook",
+            "esb"
+        ],
+        "colors": [
+            "pink",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate13_139.jpg",
+        "brand": "mahou",
+        "words": [
+            "m",
+            "sin",
+            "1890"
+        ],
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate13_140.jpg",
+        "brand": "coors",
+        "words": [
+            "coors",
+            "light",
+            "born",
+            "in",
+            "the",
+            "rockies",
+            "est",
+            "1978"
+        ],
+        "colors": [
+            "gray",
+            "silver"
+        ],
+        "figures": [
+            "mountain"
+        ]
+    },
+    {
+        "imageName": "plate13_141.jpg",
+        "words": [],
+        "colors": [
+            "green"
+        ],
+        "figures": [
+            "fish"
+        ]
+    },
+    {
+        "imageName": "plate13_142.jpg",
+        "words": [
+            "brewfist",
+            "birra",
+            "italiana"
+        ],
+        "colors": [
+            "pink",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate13_143.jpg",
+        "words": [
+            "biere",
+            "des",
+            "trappistes",
+            "rochefort",
+            "8",
+            "cat"
+        ],
+        "colors": [
+            "white"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate13_144.jpg",
+        "words": [],
+        "colors": [
+            "pink",
+            "white"
+        ],
+        "figures": [
+            "fish"
+        ]
+    },
+    {
+        "imageName": "plate13_145.jpg",
+        "brand": "iron maiden",
+        "words": [],
+        "colors": [
+            "white",
+            "black"
+        ],
+        "figures": [
+            "monster"
+        ]
+    },
+    {
+        "imageName": "plate13_146.jpg",
+        "words": [
+            "o"
+        ],
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate13_147.jpg",
+        "brand": "varnensko",
+        "words": [
+            "варненско",
+            "1887"
+        ],
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "figures": [
+            "lighthouse"
+        ]
+    },
+    {
+        "imageName": "plate13_148.jpg",
+        "words": [
+            "birra",
+            "italiana",
+            "1906"
+        ],
+        "colors": [
+            "blue",
+            "white",
+            "green",
+            "red"
+        ],
+        "figures": []
+    }
+]

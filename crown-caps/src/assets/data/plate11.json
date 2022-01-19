@@ -1,0 +1,735 @@
+[
+    {
+        "imageName": "plate11_100.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "plate11_101.jpg",
+        "brand": "mahou",
+        "words": [
+            "negra",
+            "m"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate11_102.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "hops"
+        ]
+    },
+    {
+        "imageName": "plate11_103.jpg",
+        "words": [
+            "edinburgh",
+            "1801"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "elephant"
+        ]
+    },
+    {
+        "imageName": "plate11_104.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "hops"
+        ]
+    },
+    {
+        "imageName": "plate11_105.jpg",
+        "words": [],
+        "colors": [
+            "green",
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate11_106.jpg",
+        "words": [
+            "lakeland",
+            "ales",
+            "jennings"
+        ],
+        "colors": [
+            "green",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "mountain"
+        ]
+    },
+    {
+        "imageName": "plate11_107.jpg",
+        "words": [
+            "black",
+            "beer",
+            "taste"
+        ],
+        "colors": [
+            "brown",
+            "silver"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "plate11_108.jpg",
+        "brand": "svijany",
+        "words": [
+            "svijany",
+            "bez",
+            "pasterizace",
+            "tradicni",
+            "pivo",
+            "1564"
+        ],
+        "colors": [
+            "silver",
+            "black",
+            "red"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate11_109.jpg",
+        "words": [
+            "specially",
+            "brewed",
+            "selected",
+            "malt",
+            "and",
+            "hops"
+        ],
+        "colors": [
+            "black",
+            "golden",
+            "silver"
+        ],
+        "figures": [
+            "hops",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "plate11_110.jpg",
+        "brand": "miller",
+        "words": [
+            "miller",
+            "draft",
+            "since"
+        ],
+        "colors": [
+            "black",
+            "white",
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "plate11_111.jpg",
+        "brand": "saporo",
+        "words": [
+            "saporo"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate11_112.jpg",
+        "brand": "shofferhofer",
+        "words": [
+            "schofferhofer",
+            "hefeweizen",
+            "dunkels"
+        ],
+        "colors": [
+            "black",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate11_113.jpg",
+        "brand": "poretti",
+        "words": [
+            "birrificio",
+            "angelo",
+            "poretti",
+            "valganna",
+            "dat",
+            "1877"
+        ],
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate11_114.jpg",
+        "brand": "esb",
+        "words": [
+            "esb"
+        ],
+        "colors": [
+            "blue",
+            "gray",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate11_115.jpg",
+        "brand": "svijany",
+        "words": [
+            "svijany",
+            "tradicni",
+            "pivo",
+            "bez",
+            "pasterizace",
+            "1564"
+        ],
+        "colors": [
+            "blue",
+            "silver",
+            "red"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate11_116.jpg",
+        "words": [],
+        "colors": [
+            "gray",
+            "white",
+            "black"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate11_117.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "orange"
+        ],
+        "figures": [
+            "mustache"
+        ]
+    },
+    {
+        "imageName": "plate11_118.jpg",
+        "brand": "ledenika",
+        "words": [
+            "ledenika"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate11_119.jpg",
+        "words": [
+            "beer",
+            "taste"
+        ],
+        "colors": [
+            "red",
+            "yellow",
+            "white"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "plate11_120.jpg",
+        "words": [
+            "taste",
+            "tested",
+            "by",
+            "customers",
+            "dt"
+        ],
+        "colors": [
+            "blue",
+            "golden"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate11_121.jpg",
+        "words": [
+            "griffin",
+            "brewery"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "griffon"
+        ]
+    },
+    {
+        "imageName": "plate11_122.jpg",
+        "brand": "geuze boon",
+        "words": [
+            "geuze",
+            "boon"
+        ],
+        "colors": [
+            "green",
+            "white",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate11_123.jpg",
+        "words": [],
+        "colors": [
+            "green",
+            "golden"
+        ],
+        "figures": [
+            "moon",
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate11_124.jpg",
+        "brand": "svijany",
+        "words": [
+            "svijany",
+            "tradicni",
+            "pivo",
+            "bez",
+            "pasterizace",
+            "1564"
+        ],
+        "colors": [
+            "orange",
+            "black",
+            "red"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate11_125.jpg",
+        "words": [
+            "bohemia"
+        ],
+        "colors": [
+            "black",
+            "white",
+            "yellow"
+        ],
+        "figures": [
+            "brewery"
+        ]
+    },
+    {
+        "imageName": "plate11_126.jpg",
+        "brand": "",
+        "words": [
+            "ambar",
+            "export"
+        ],
+        "colors": [
+            "black",
+            "golden",
+            "red"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "plate11_127.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "owl"
+        ]
+    },
+    {
+        "imageName": "plate11_128.jpg",
+        "brand": "cruz campo",
+        "words": [],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "man",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "plate11_129.jpg",
+        "brand": "wychwood",
+        "words": [
+            "wychwood",
+            "brewery"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "witch",
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate11_130.jpg",
+        "words": [
+            "kraft",
+            "malz",
+            "braumeisters"
+        ],
+        "colors": [
+            "green",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "tree"
+        ]
+    },
+    {
+        "imageName": "plate11_131.jpg",
+        "words": [
+            "b"
+        ],
+        "colors": [
+            "black",
+            "silver"
+        ],
+        "figures": [
+            "apple",
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate11_132.jpg",
+        "words": [],
+        "colors": [
+            "red",
+            "orange"
+        ],
+        "figures": [
+            "goat"
+        ]
+    },
+    {
+        "imageName": "plate11_133.jpg",
+        "brand": "svyjany",
+        "words": [
+            "svijany",
+            "tradicni",
+            "pivo",
+            "bez",
+            "pasterizace",
+            "1564"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate11_134.jpg",
+        "brand": "morland",
+        "words": [
+            "morland",
+            "est",
+            "1711"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate11_135.jpg",
+        "brand": "ringwood",
+        "words": [
+            "ringwood",
+            "brewery"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "boar"
+        ]
+    },
+    {
+        "imageName": "plate11_136.jpg",
+        "words": [],
+        "colors": [
+            "white",
+            "black"
+        ],
+        "figures": [
+            "hops"
+        ]
+    },
+    {
+        "imageName": "plate11_137.jpg",
+        "words": [],
+        "colors": [
+            "white",
+            "black"
+        ],
+        "figures": [
+            "hops"
+        ]
+    },
+    {
+        "imageName": "plate11_138.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "silver",
+            "red"
+        ],
+        "figures": [
+            "owl"
+        ]
+    },
+    {
+        "imageName": "plate11_139.jpg",
+        "words": [
+            "porteris",
+            "aldaris"
+        ],
+        "colors": [
+            "black",
+            "white",
+            "red",
+            "yellow"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate11_140.jpg",
+        "brand": "zakorka",
+        "words": [
+            "zagorka",
+            "rezerva",
+            "2012"
+        ],
+        "colors": [
+            "brown",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "lion",
+            "shield",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate11_141.jpg",
+        "brand": "zagorka",
+        "words": [
+            "zagorka",
+            "rezerva"
+        ],
+        "colors": [
+            "brown",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "lion",
+            "shield",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate11_142.jpg",
+        "brand": "asahi",
+        "words": [
+            "asahi"
+        ],
+        "colors": [
+            "black",
+            "silver"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate11_143.jpg",
+        "words": [
+            "born",
+            "bred",
+            "in",
+            "masham",
+            "yorkshire"
+        ],
+        "colors": [
+            "black",
+            "silver"
+        ],
+        "figures": [
+            "goat"
+        ]
+    },
+    {
+        "imageName": "plate11_144.jpg",
+        "brand": "asahi",
+        "words": [
+            "asahi"
+        ],
+        "colors": [
+            "black",
+            "silver"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate11_145.jpg",
+        "words": [
+            "cugee",
+            "des",
+            "trolls"
+        ],
+        "colors": [
+            "black",
+            "yellow"
+        ],
+        "figures": [
+            "troll"
+        ]
+    },
+    {
+        "imageName": "plate11_146.jpg",
+        "brand": "kamenitza",
+        "words": [
+            "kamenitza",
+            "1892"
+        ],
+        "colors": [
+            "black",
+            "silver"
+        ],
+        "figures": [
+            "lion",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate11_147.jpg",
+        "words": [
+            "coruja",
+            "cerveias",
+            "especiais",
+            "beba",
+            "com",
+            "sabedoria"
+        ],
+        "colors": [
+            "black",
+            "white",
+            "yellow"
+        ],
+        "figures": [
+            "grain",
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "plate11_148.jpg",
+        "brand": "svijany",
+        "words": [
+            "svijany",
+            "tradicni",
+            "pivo",
+            "bez",
+            "pasterizace",
+            "1564"
+        ],
+        "colors": [
+            "green",
+            "golden",
+            "red"
+        ],
+        "figures": [
+            "shield"
+        ]
+    }
+]

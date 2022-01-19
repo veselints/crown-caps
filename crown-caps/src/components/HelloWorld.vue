@@ -43,7 +43,7 @@ export default {
   },
 
   mounted() {
-    this.importAll(require.context('../assets/images/plate10/', true, /\.jpg$/));
+    this.importAll(require.context('../assets/images/plate13/', true, /\.jpg$/));
   },
 
   methods: {
