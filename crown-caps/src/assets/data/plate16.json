@@ -1,0 +1,763 @@
+[
+    {
+        "imageName": "plate16_100.jpg",
+        "brand": "kobanyai",
+        "words": [
+            "kobanyai",
+            "jutalom",
+            "a",
+            "nap",
+            "vegen"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate16_101.jpg",
+        "words": [
+            "1516",
+            "cerveza",
+            "100",
+            "malta"
+        ],
+        "colors": [
+            "black",
+            "golden",
+            "red"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate16_102.jpg",
+        "brand": "kaltenberg",
+        "words": [
+            "kaltenberg",
+            "spezial"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "blue"
+        ],
+        "figures": [
+            "shield",
+            "lion",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate16_103.jpg",
+        "brand": "cobra",
+        "words": [
+            "cobra"
+        ],
+        "colors": [
+            "golden",
+            "green",
+            "red"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate16_104.jpg",
+        "brand": "jever",
+        "words": [
+            "jever",
+            "pilsner"
+        ],
+        "colors": [
+            "golden",
+            "green"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate16_105.jpg",
+        "words": [
+            "podroze",
+            "kormorana"
+        ],
+        "colors": [
+            "orange",
+            "black",
+            "blue",
+            "yellow"
+        ],
+        "figures": [
+            "man",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "plate16_106.jpg",
+        "words": [
+            "het",
+            "anker"
+        ],
+        "colors": [
+            "golden",
+            "brown"
+        ],
+        "figures": [
+            "shield",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate16_107.jpg",
+        "words": [],
+        "colors": [
+            "golden",
+            "red",
+            "white"
+        ],
+        "figures": [
+            "temple",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "plate16_108.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "helmet"
+        ]
+    },
+    {
+        "imageName": "plate16_109.jpg",
+        "words": [
+            "maestria",
+            "cervecera"
+        ],
+        "colors": [
+            "golden"
+        ],
+        "figures": [
+            "circle",
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "plate16_110.jpg",
+        "brand": "castle",
+        "words": [
+            "castle",
+            "lager"
+        ],
+        "colors": [
+            "golden",
+            "red",
+            "white"
+        ],
+        "figures": [
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "plate16_111.jpg",
+        "words": [
+            "abc",
+            "extra",
+            "stout"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "red"
+        ],
+        "figures": [
+            "lion",
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate16_112.jpg",
+        "brand": "o'hara's",
+        "words": [
+            "o'hara's",
+            "carlow",
+            "brewing",
+            "company"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "plate16_113.jpg",
+        "brand": "camba",
+        "words": [
+            "camba",
+            "bayern"
+        ],
+        "colors": [
+            "golden",
+            "blue",
+            "red"
+        ],
+        "figures": [
+            "bird"
+        ]
+    },
+    {
+        "imageName": "plate16_114.jpg",
+        "words": [
+            "махнатий",
+            "шмел"
+        ],
+        "colors": [
+            "golden",
+            "brown"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate16_115.jpg",
+        "brand": "mahou",
+        "words": [
+            "mac-mahou",
+            "girar",
+            "para",
+            "abrir",
+            "2",
+            "m"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "red",
+            "white"
+        ],
+        "figures": [
+            "shield",
+            "arrow",
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate16_116.jpg",
+        "words": [
+            "w"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate16_117.jpg",
+        "words": [
+            "siris",
+            "microbrewery"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate16_118.jpg",
+        "words": [
+            "kloud"
+        ],
+        "colors": [
+            "golden",
+            "red",
+            "black"
+        ],
+        "figures": [
+            "tube",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "plate16_119.jpg",
+        "brand": "jelen",
+        "words": [
+            "jelen",
+            "svetlo",
+            "pivo",
+            "apatinska",
+            "pivara"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate16_120.jpg",
+        "brand": "franziskaner",
+        "words": [
+            "franziskaner",
+            "keller",
+            "bier",
+            "brau",
+            "munchen"
+        ],
+        "colors": [
+            "golden",
+            "red"
+        ],
+        "figures": [
+            "grain"
+        ]
+    },
+    {
+        "imageName": "plate16_121.jpg",
+        "brand": "o'hara's",
+        "words": [
+            "o'hara's",
+            "carlow",
+            "brewing",
+            "company"
+        ],
+        "colors": [
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "plate16_122.jpg",
+        "words": [
+            "cervesa",
+            "artesanal",
+            "genesis",
+            "craft",
+            "farm",
+            "beer"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "sun"
+        ]
+    },
+    {
+        "imageName": "plate16_123.jpg",
+        "brand": "mcgargles",
+        "words": [
+            "mcgargles",
+            "irish",
+            "family",
+            "brewers"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate16_124.jpg",
+        "brand": "stolichno",
+        "words": [
+            "s",
+            "crafted",
+            "quality"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "black"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate16_125.jpg",
+        "words": [],
+        "colors": [
+            "golden",
+            "white"
+        ],
+        "figures": [
+            "grain",
+            "hops"
+        ]
+    },
+    {
+        "imageName": "plate16_126.jpg",
+        "brand": "krug-brau",
+        "words": [
+            "krug-brau",
+            "breitenlesau"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "house"
+        ]
+    },
+    {
+        "imageName": "plate16_127.jpg",
+        "brand": "krusovice",
+        "words": [
+            "lezak"
+        ],
+        "colors": [
+            "golden",
+            "green",
+            "red"
+        ],
+        "figures": [
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate16_128.jpg",
+        "brand": "nymburk",
+        "words": [
+            "nymburk"
+        ],
+        "colors": [
+            "golden",
+            "red",
+            "green"
+        ],
+        "figures": [
+            "shield",
+            "lion",
+            "hops",
+            "grain",
+            "tower"
+        ]
+    },
+    {
+        "imageName": "plate16_129.jpg",
+        "words": [
+            "bohemia",
+            "king",
+            "beer"
+        ],
+        "colors": [
+            "golden",
+            "red"
+        ],
+        "figures": [
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate16_130.jpg",
+        "words": [
+            "brauerei",
+            "simon",
+            "lauf",
+            "seit",
+            "1875"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "red"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate16_131.jpg",
+        "brand": "los coast",
+        "words": [
+            "lost",
+            "coast",
+            "brewery"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "brown"
+        ],
+        "figures": [
+            "triangle"
+        ]
+    },
+    {
+        "imageName": "plate16_132.jpg",
+        "brand": "ariana",
+        "words": [
+            "ариана"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate16_133.jpg",
+        "brand": "pilsplus",
+        "words": [
+            "pilsplus",
+            "pivo"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "green"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate16_134.jpg",
+        "brand": "svijany",
+        "words": [
+            "svijany",
+            "tradicni",
+            "pivo",
+            "bez",
+            "pasterizace"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "red"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate16_135.jpg",
+        "words": [
+            "twist",
+            "to",
+            "open",
+            "devissez"
+        ],
+        "colors": [
+            "golden",
+            "white"
+        ],
+        "figures": [
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "plate16_136.jpg",
+        "words": [],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "bird",
+            "key"
+        ]
+    },
+    {
+        "imageName": "plate16_137.jpg",
+        "words": [],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "shovel"
+        ]
+    },
+    {
+        "imageName": "plate16_138.jpg",
+        "words": [
+            "wellpark",
+            "brewery",
+            "scotland",
+            "since",
+            "1556"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "lion"
+        ]
+    },
+    {
+        "imageName": "plate16_139.jpg",
+        "words": [
+            "de",
+            "parel",
+            "brouwerij"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "white"
+        ],
+        "figures": [
+            "drop"
+        ]
+    },
+    {
+        "imageName": "plate16_140.jpg",
+        "words": [
+            "benediktinerabtei",
+            "plankstetten"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "monastery"
+        ]
+    },
+    {
+        "imageName": "plate16_141.jpg",
+        "words": [
+            "selecta",
+            "cerveza",
+            "tostada",
+            "extra"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "red"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate16_142.jpg",
+        "brand": "clausthaler",
+        "words": [
+            "clausthaler",
+            "non-alcoholic"
+        ],
+        "colors": [
+            "brown",
+            "red",
+            "black"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate16_143.jpg",
+        "words": [
+            "limited",
+            "edition",
+            "shiner",
+            "brewer's",
+            "pride",
+            "selection",
+            "craft",
+            "brew"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "brown"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate16_144.jpg",
+        "brand": "moretti",
+        "words": [
+            "birra",
+            "moretti",
+            "ricetta",
+            "originale"
+        ],
+        "colors": [
+            "golden",
+            "red"
+        ],
+        "figures": [
+            "man",
+            "glass",
+            "hat"
+        ]
+    },
+    {
+        "imageName": "plate16_145.jpg",
+        "brand": "jelen",
+        "words": [
+            "jelen",
+            "pivo",
+            "nefiltrirano"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate16_146.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "donkey"
+        ]
+    },
+    {
+        "imageName": "plate16_147.jpg",
+        "words": [
+            "the",
+            "craft",
+            "brewing",
+            "company"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "mustache"
+        ]
+    },
+    {
+        "imageName": "plate16_148.jpg",
+        "words": [
+            "world",
+            "beer",
+            "cup",
+            "german-style",
+            "pilsner",
+            "gold",
+            "award",
+            "2016"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": []
+    }
+]

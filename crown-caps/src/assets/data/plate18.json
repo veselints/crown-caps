@@ -1,0 +1,791 @@
+[
+    {
+        "imageName": "plate18_100.jpg",
+        "words": [
+            "2011",
+            "ppc/cpil"
+        ],
+        "colors": [
+            "yellow",
+            "blue"
+        ],
+        "figures": [
+            "boy",
+            "dog",
+            "town"
+        ]
+    },
+    {
+        "imageName": "plate18_101.jpg",
+        "words": [
+            "zwei",
+            "meister"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "black"
+        ],
+        "figures": [
+            "man",
+            "cask"
+        ]
+    },
+    {
+        "imageName": "plate18_102.jpg",
+        "brand": "kilkenny",
+        "words": [
+            "kilkenny"
+        ],
+        "colors": [
+            "yellow",
+            "ted",
+            "black"
+        ],
+        "figures": [
+            "chirch"
+        ]
+    },
+    {
+        "imageName": "plate18_103.jpg",
+        "words": [],
+        "colors": [
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "triangle",
+            "square",
+            "circle",
+            "moon"
+        ]
+    },
+    {
+        "imageName": "plate18_104.jpg",
+        "brand": "zillertal",
+        "words": [
+            "zillertal",
+            "pils"
+        ],
+        "colors": [
+            "white",
+            "green",
+            "red"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate18_105.jpg",
+        "brand": "astika",
+        "words": [],
+        "colors": [
+            "gray",
+            "black"
+        ],
+        "figures": [
+            "glass"
+        ]
+    },
+    {
+        "imageName": "plate18_106.jpg",
+        "brand": "zillertal",
+        "words": [
+            "zillertal",
+            "bier"
+        ],
+        "colors": [
+            "white",
+            "golden",
+            "black",
+            "red"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate18_107.jpg",
+        "brand": "freibergitch",
+        "words": [
+            "freibergitch",
+            "export"
+        ],
+        "colors": [
+            "red",
+            "yellow",
+            "golden"
+        ],
+        "figures": [
+            "man",
+            "house"
+        ]
+    },
+    {
+        "imageName": "plate18_108.jpg",
+        "brand": "ichnusa",
+        "words": [
+            "ichnusa",
+            "birra",
+            "dal",
+            "1912"
+        ],
+        "colors": [
+            "white",
+            "silver",
+            "black",
+            "red"
+        ],
+        "figures": [
+            "cross",
+            "head"
+        ]
+    },
+    {
+        "imageName": "plate18_109.jpg",
+        "words": [
+            "ur-kroftitser",
+            "feinherbes",
+            "pilsner",
+            "1584",
+            "seit"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate18_110.jpg",
+        "brand": "krombacher",
+        "words": [
+            "krombacher"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "star",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate18_111.jpg",
+        "words": [],
+        "colors": [
+            "white",
+            "blue"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "plate18_112.jpg",
+        "words": [],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "plate18_113.jpg",
+        "words": [
+            "tyskie",
+            "browary",
+            "ksiazece",
+            "a.d.",
+            "1629",
+            "registered",
+            "trade",
+            "mark"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": [
+            "crown",
+            "cross"
+        ]
+    },
+    {
+        "imageName": "plate18_114.jpg",
+        "brand": "federbrau",
+        "words": [
+            "federbrau"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "black"
+        ],
+        "figures": [
+            "feather"
+        ]
+    },
+    {
+        "imageName": "plate18_115.jpg",
+        "brand": "wickuler",
+        "words": [
+            "wickuler",
+            "pilsner"
+        ],
+        "colors": [
+            "white",
+            "green",
+            "red"
+        ],
+        "figures": [
+            "man",
+            "sword"
+        ]
+    },
+    {
+        "imageName": "plate18_116.jpg",
+        "brand": "weihenstephaner",
+        "words": [
+            "weihenstephaner",
+            "garantierte",
+            "reinheit"
+        ],
+        "colors": [
+            "white",
+            "golden",
+            "brown"
+        ],
+        "figures": [
+            "shield",
+            "lion",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate18_117.jpg",
+        "words": [
+            "unertl",
+            "der",
+            "weissbrau",
+            "aus",
+            "haag"
+        ],
+        "colors": [
+            "white",
+            "blue",
+            "red"
+        ],
+        "figures": [
+            "grain",
+            "tower"
+        ]
+    },
+    {
+        "imageName": "plate18_118.jpg",
+        "words": [
+            "bayerisches",
+            "bier",
+            "einzig",
+            "in",
+            "der",
+            "welt"
+        ],
+        "colors": [
+            "white",
+            "golden",
+            "blue"
+        ],
+        "figures": [
+            "lion"
+        ]
+    },
+    {
+        "imageName": "plate18_119.jpg",
+        "brand": "bavaria",
+        "words": [
+            "bavaria",
+            "twist",
+            "to",
+            "open",
+            "holland"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "green",
+            "orange",
+            "blue"
+        ],
+        "figures": [
+            "grain",
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "plate18_120.jpg",
+        "brand": "berliner kindl",
+        "words": [
+            "berliner",
+            "kindl",
+            "bock",
+            "hell"
+        ],
+        "colors": [
+            "white",
+            "golden",
+            "silver",
+            "black"
+        ],
+        "figures": [
+            "boy",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "plate18_121.jpg",
+        "brand": "berliner kindl",
+        "words": [
+            "berliner",
+            "kindl",
+            "jubilaums",
+            "pilsner",
+            "sammelaktion"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "orange",
+            "silver",
+            "black"
+        ],
+        "figures": [
+            "boy",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "plate18_122.jpg",
+        "brand": "stiegl",
+        "words": [
+            "stiegl",
+            "pils",
+            "salzburger"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "silver",
+            "black"
+        ],
+        "figures": [
+            "steps"
+        ]
+    },
+    {
+        "imageName": "plate18_123.jpg",
+        "words": [
+            "1629"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "crown",
+            "cross"
+        ]
+    },
+    {
+        "imageName": "plate18_124.jpg",
+        "words": [
+            "bohemia",
+            "regent"
+        ],
+        "colors": [
+            "white",
+            "green"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate18_125.jpg",
+        "brand": "peroni",
+        "words": [
+            "birra",
+            "peroni",
+            "1846"
+        ],
+        "colors": [
+            "white",
+            "silver",
+            "red",
+            "blue"
+        ],
+        "figures": [
+            "eagle",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "plate18_126.jpg",
+        "words": [
+            "seit",
+            "1460",
+            "schwerter",
+            "brauerei",
+            "meissen"
+        ],
+        "colors": [
+            "white",
+            "golden",
+            "blue"
+        ],
+        "figures": [
+            "crown",
+            "shield",
+            "sword"
+        ]
+    },
+    {
+        "imageName": "plate18_127.jpg",
+        "words": [
+            "hunter's",
+            "natural",
+            "cider"
+        ],
+        "colors": [
+            "white",
+            "green",
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "horse"
+        ]
+    },
+    {
+        "imageName": "plate18_128.jpg",
+        "brand": "schofferhofer",
+        "words": [
+            "schofferhofer",
+            "kristallweizenhttp://192.168.1.9:8080/img/plate18_129.b7baa0c3.jpg"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate18_129.jpg",
+        "brand": "schofferhofer",
+        "words": [
+            "schofferhofer",
+            "eis-kristall"
+        ],
+        "colors": [
+            "white",
+            "silver",
+            "black",
+            "blue"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate18_130.jpg",
+        "brand": "ichnusa",
+        "words": [
+            "ichnusa",
+            "bionda",
+            "sardegna"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "cross",
+            "head"
+        ]
+    },
+    {
+        "imageName": "plate18_131.jpg",
+        "brand": "bavaria",
+        "words": [
+            "bavaria",
+            "malt"
+        ],
+        "colors": [
+            "white",
+            "blue",
+            "red"
+        ],
+        "figures": [
+            "grain"
+        ]
+    },
+    {
+        "imageName": "plate18_132.jpg",
+        "brand": "spaten",
+        "words": [
+            "spaten",
+            "munchen",
+            "1397",
+            "seit"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "red"
+        ],
+        "figures": [
+            "shovel"
+        ]
+    },
+    {
+        "imageName": "plate18_133.jpg",
+        "words": [
+            "karksi"
+        ],
+        "colors": [
+            "white",
+            "black"
+        ],
+        "figures": [
+            "lion",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate18_134.jpg",
+        "brand": "zywiec",
+        "words": [
+            "zywiec",
+            "tm",
+            "1856"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "blue"
+        ],
+        "figures": [
+            "man",
+            "woman",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate18_135.jpg",
+        "words": [],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate18_136.jpg",
+        "words": [],
+        "colors": [
+            "white",
+            "yellow"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate18_137.jpg",
+        "words": [],
+        "colors": [
+            "white",
+            "green"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate18_138.jpg",
+        "brand": "erdinger",
+        "words": [
+            "erdinger",
+            "urweisse"
+        ],
+        "colors": [
+            "yellow",
+            "blue",
+            "golden"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate18_139.jpg",
+        "words": [],
+        "colors": [
+            "white",
+            "red"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate18_140.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate18_141.jpg",
+        "words": [
+            "ingar",
+            "ej",
+            "not",
+            "included"
+        ],
+        "colors": [
+            "white",
+            "black"
+        ],
+        "figures": [
+            "opener"
+        ]
+    },
+    {
+        "imageName": "plate18_142.jpg",
+        "brand": "freibergitch",
+        "words": [
+            "freibergitch",
+            "schwarzes"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "green",
+            "golden",
+            "red"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate18_143.jpg",
+        "brand": "",
+        "words": [
+            "boon",
+            "rawd",
+            "brewery",
+            "co",
+            "ltd"
+        ],
+        "colors": [
+            "gray",
+            "red"
+        ],
+        "figures": [
+            "dragon"
+        ]
+    },
+    {
+        "imageName": "plate18_144.jpg",
+        "brand": "freibergitch",
+        "words": [
+            "freibergitch",
+            "festbier"
+        ],
+        "colors": [
+            "white",
+            "green",
+            "golden",
+            "red"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate18_145.jpg",
+        "brand": "radeberger",
+        "words": [
+            "radeberger",
+            "pilsner"
+        ],
+        "colors": [
+            "golden",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate18_146.jpg",
+        "brand": "radeberger",
+        "words": [
+            "radeberger",
+            "pilsner"
+        ],
+        "colors": [
+            "golden",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate18_147.jpg",
+        "brand": "kingfisher",
+        "words": [
+            "kingfisher",
+            "premium"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "yellow"
+        ],
+        "figures": [
+            "bird"
+        ]
+    },
+    {
+        "imageName": "plate18_148.jpg",
+        "brand": "leo",
+        "words": [
+            "leo",
+            "smooth",
+            "great",
+            "taste"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "gray"
+        ],
+        "figures": []
+    }
+]
