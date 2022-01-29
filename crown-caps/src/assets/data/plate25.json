@@ -1,0 +1,775 @@
+[
+    {
+        "imageName": "plate25_100.jpg",
+        "brand": "lindemans",
+        "words": [
+            "lindemans",
+            "anno",
+            "1822"
+        ],
+        "colors": [
+            "golden",
+            "brown"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate25_101.jpg",
+        "words": [
+            "староградско",
+            "сг"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "crown",
+            "shield",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "plate25_102.jpg",
+        "brand": "eisenbahn",
+        "words": [
+            "eisenbahn",
+            "5181",
+            "bahia",
+            "cervejaria"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "gray"
+        ],
+        "figures": [
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "plate25_103.jpg",
+        "words": [
+            "bass"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "triangle"
+        ]
+    },
+    {
+        "imageName": "plate25_104.jpg",
+        "brand": "desperados",
+        "words": [
+            "desperados",
+            "tequila",
+            "flavored",
+            "beer"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate25_105.jpg",
+        "words": [
+            "cervejaria",
+            "ashby",
+            "desde",
+            "1993"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "ship"
+        ]
+    },
+    {
+        "imageName": "plate25_106.jpg",
+        "words": [],
+        "colors": [
+            "golden",
+            "red"
+        ],
+        "figures": [
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "plate25_107.jpg",
+        "brand": "bernard",
+        "words": [
+            "bernard",
+            "12",
+            "nepasterovano"
+        ],
+        "colors": [
+            "brown",
+            "golden",
+            "yellow"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate25_108.jpg",
+        "words": [
+            "old",
+            "bobby"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate25_109.jpg",
+        "words": [
+            "mohren",
+            "das",
+            "bier",
+            "vorarlberger"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate25_110.jpg",
+        "brand": "yebisu",
+        "words": [
+            "yebisu",
+            "premium",
+            "all",
+            "malt",
+            "beer"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate25_111.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "tree"
+        ]
+    },
+    {
+        "imageName": "plate25_112.jpg",
+        "words": [],
+        "colors": [
+            "green",
+            "golden"
+        ],
+        "figures": [
+            "tree"
+        ]
+    },
+    {
+        "imageName": "plate25_113.jpg",
+        "brand": "moretti",
+        "words": [
+            "birra",
+            "moretti",
+            "alla",
+            "toscana"
+        ],
+        "colors": [
+            "golden",
+            "brown"
+        ],
+        "figures": [
+            "hops"
+        ]
+    },
+    {
+        "imageName": "plate25_114.jpg",
+        "brand": "moretti",
+        "words": [
+            "birra",
+            "moretti",
+            "alla",
+            "siciliana"
+        ],
+        "colors": [
+            "golden",
+            "brown"
+        ],
+        "figures": [
+            "hops"
+        ]
+    },
+    {
+        "imageName": "plate25_115.jpg",
+        "brand": "moretti",
+        "words": [
+            "birra",
+            "moretti",
+            "alla",
+            "friulana"
+        ],
+        "colors": [
+            "golden",
+            "brown"
+        ],
+        "figures": [
+            "hops"
+        ]
+    },
+    {
+        "imageName": "plate25_116.jpg",
+        "brand": "ariana",
+        "words": [
+            "1",
+            "точка"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "white"
+        ],
+        "figures": [
+            "letter",
+            "ball"
+        ]
+    },
+    {
+        "imageName": "plate25_117.jpg",
+        "brand": "zagorka",
+        "words": [
+            "загорка",
+            "пиво"
+        ],
+        "colors": [
+            "golden",
+            "green",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate25_118.jpg",
+        "brand": "zhiguli",
+        "words": [
+            "жигули",
+            "пиво"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "shield",
+            "grain",
+            "bird"
+        ]
+    },
+    {
+        "imageName": "plate25_119.jpg",
+        "brand": "bernard",
+        "words": [
+            "bernard",
+            "10",
+            "nepasterovano"
+        ],
+        "colors": [
+            "gray",
+            "silver",
+            "yellow",
+            "red"
+        ],
+        "figures": [
+            "dog",
+            "shield",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate25_120.jpg",
+        "words": [],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "horse",
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate25_121.jpg",
+        "brand": "hubeco",
+        "words": [
+            "hanoi",
+            "beer",
+            "premium"
+        ],
+        "colors": [
+            "golden",
+            "red"
+        ],
+        "figures": [
+            "bear",
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate25_122.jpg",
+        "brand": "coedo",
+        "words": [
+            "coedo"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate25_123.jpg",
+        "brand": "moretti",
+        "words": [
+            "birra",
+            "moretti",
+            "ricetta",
+            "originale"
+        ],
+        "colors": [
+            "golden",
+            "red"
+        ],
+        "figures": [
+            "hops",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "plate25_124.jpg",
+        "brand": "kaltenberg",
+        "words": [
+            "kaltenberg"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "blue",
+            "yellow"
+        ],
+        "figures": [
+            "lion",
+            "shield",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate25_125.jpg",
+        "brand": "zagorka",
+        "words": [
+            "загорка",
+            "луксозно",
+            "пиво"
+        ],
+        "colors": [
+            "golden",
+            "red"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate25_126.jpg",
+        "brand": "plevensko",
+        "words": [
+            "плевенско",
+            "piwo",
+            "12",
+            "specialno"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate25_127.jpg",
+        "words": [],
+        "colors": [
+            "golden",
+            "white",
+            "red"
+        ],
+        "figures": [
+            "goat",
+            "grain",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate25_128.jpg",
+        "brand": "chiemseer",
+        "words": [
+            "chiemseer"
+        ],
+        "colors": [
+            "gold",
+            "blue"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate25_129.jpg",
+        "brand": "bergenbier",
+        "words": [
+            "bergenbier",
+            "ale"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "blue",
+            "white"
+        ],
+        "figures": [
+            "grain",
+            "hops",
+            "mountain",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate25_130.jpg",
+        "brand": "tongerlo",
+        "words": [
+            "tongerlo",
+            "abdijbier",
+            "biere",
+            "d'abbaye"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate25_131.jpg",
+        "brand": "bernard",
+        "words": [
+            "bernard",
+            "1597",
+            "bohemian",
+            "ale"
+        ],
+        "colors": [
+            "black",
+            "red",
+            "yellow",
+            "white"
+        ],
+        "figures": [
+            "dog",
+            "shield",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate25_132.jpg",
+        "brand": "fischer",
+        "words": [
+            "fischer",
+            "pilsner",
+            "beer"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "tower"
+        ]
+    },
+    {
+        "imageName": "plate25_133.jpg",
+        "words": [
+            "s"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "lion",
+            "grain",
+            "shield",
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate25_134.jpg",
+        "brand": "svetlo pivo",
+        "words": [
+            "светло",
+            "пиво",
+            "дсо",
+            "българско",
+            "10%"
+        ],
+        "colors": [
+            "golden",
+            "green"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate25_135.jpg",
+        "words": [
+            "17",
+            "99"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "crown",
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "plate25_136.jpg",
+        "brand": "amstel",
+        "words": [
+            "amstel",
+            "premium",
+            "pilsner"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "red",
+            "white"
+        ],
+        "figures": [
+            "grain"
+        ]
+    },
+    {
+        "imageName": "plate25_137.jpg",
+        "brand": "konrad",
+        "words": [
+            "k",
+            "konrad"
+        ],
+        "colors": [
+            "white",
+            "red"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate25_138.jpg",
+        "brand": "bernard",
+        "words": [
+            "bernard",
+            "original",
+            "1597"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "red"
+        ],
+        "figures": [
+            "dog",
+            "shield",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate25_139.jpg",
+        "brand": "konrad",
+        "words": [
+            "k",
+            "konrad"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "silver"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate25_140.jpg",
+        "brand": "konrad",
+        "words": [
+            "konrad",
+            "k"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "red"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate25_141.jpg",
+        "brand": "konrad",
+        "words": [
+            "k",
+            "konrad"
+        ],
+        "colors": [
+            "black",
+            "red",
+            "white"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate25_142.jpg",
+        "brand": "bernard",
+        "words": [
+            "bernard",
+            "12",
+            "nepasterovano"
+        ],
+        "colors": [
+            "gray",
+            "yellow",
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "dog",
+            "shield",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate25_143.jpg",
+        "words": [
+            "cervejaria",
+            "colorado",
+            "ribeiraopreto"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "bear"
+        ]
+    },
+    {
+        "imageName": "plate25_144.jpg",
+        "brand": "bernard",
+        "words": [
+            "bernard",
+            "12",
+            "nepasterovano"
+        ],
+        "colors": [
+            "brown",
+            "yellow",
+            "red"
+        ],
+        "figures": [
+            "dog",
+            "shield",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate25_145.jpg",
+        "words": [
+            "economize",
+            "energia",
+            "recicle",
+            "original",
+            "registro",
+            "mapa"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "penguin",
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate25_146.jpg",
+        "words": [
+            "original",
+            "q"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "penguin",
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate25_147.jpg",
+        "words": [
+            "1912"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "star",
+            "glass",
+            "jester"
+        ]
+    },
+    {
+        "imageName": "plate25_148.jpg",
+        "brand": "grimbergen",
+        "words": [
+            "grimbergen"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "bird"
+        ]
+    }
+]

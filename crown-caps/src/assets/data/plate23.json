@@ -1,0 +1,782 @@
+[
+    {
+        "imageName": "plate23_100.jpg",
+        "words": [
+            "saaz",
+            "damm"
+        ],
+        "colors": [
+            "white",
+            "blue",
+            "red"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate23_101.jpg",
+        "brand": "moretti",
+        "words": [
+            "birra",
+            "moretti",
+            "la",
+            "bianca",
+            "malti",
+            "chiari"
+        ],
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "figures": [
+            "grain"
+        ]
+    },
+    {
+        "imageName": "plate23_102.jpg",
+        "words": [
+            "sainte",
+            "cro",
+            "brasserie",
+            "independante"
+        ],
+        "colors": [
+            "white",
+            "black"
+        ],
+        "figures": [
+            "cross",
+            "shield",
+            "leaf"
+        ]
+    },
+    {
+        "imageName": "plate23_103.jpg",
+        "brand": "lomza",
+        "words": [
+            "lomza",
+            "browar",
+            "regionalny"
+        ],
+        "colors": [
+            "green",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate23_104.jpg",
+        "brand": "falkenfelser",
+        "words": [
+            "falkenfelser",
+            "premium"
+        ],
+        "colors": [
+            "white",
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "falcon",
+            "mountain"
+        ]
+    },
+    {
+        "imageName": "plate23_105.jpg",
+        "brand": "primator",
+        "words": [
+            "p"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "black"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate23_106.jpg",
+        "brand": "patrizier",
+        "words": [
+            "patrizier",
+            "brau"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "black"
+        ],
+        "figures": [
+            "eagle",
+            "shield",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "plate23_107.jpg",
+        "brand": "primator",
+        "words": [
+            "epa",
+            "primator",
+            "craft",
+            "brewery",
+            "czech",
+            "republic",
+            "1872"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "blue"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate23_108.jpg",
+        "words": [],
+        "colors": [
+            "red",
+            "white",
+            "yellow"
+        ],
+        "figures": [
+            "woman",
+            "hat"
+        ]
+    },
+    {
+        "imageName": "plate23_109.jpg",
+        "brand": "kulmbacher",
+        "words": [
+            "kulmbacher"
+        ],
+        "colors": [
+            "white",
+            "blue",
+            "golden"
+        ],
+        "figures": [
+            "lion",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate23_110.jpg",
+        "brand": "krusovice",
+        "words": [
+            "psenicne"
+        ],
+        "colors": [
+            "white",
+            "blue",
+            "red"
+        ],
+        "figures": [
+            "crown",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "plate23_111.jpg",
+        "words": [
+            "the",
+            "good",
+            "cider"
+        ],
+        "colors": [
+            "white",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate23_112.jpg",
+        "words": [
+            "bermas",
+            "suceava"
+        ],
+        "colors": [
+            "white",
+            "greed"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate23_113.jpg",
+        "brand": "habeco",
+        "words": [
+            "habeco",
+            "since",
+            "1890"
+        ],
+        "colors": [
+            "white",
+            "golden",
+            "red",
+            "yellow"
+        ],
+        "figures": [
+            "star",
+            "bear",
+            "shield",
+            "house"
+        ]
+    },
+    {
+        "imageName": "plate23_114.jpg",
+        "brand": "snuffle",
+        "words": [
+            "snuffle"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "silver",
+            "black"
+        ],
+        "figures": [
+            "dog"
+        ]
+    },
+    {
+        "imageName": "plate23_115.jpg",
+        "brand": "peroni",
+        "words": [
+            "birra",
+            "peroni",
+            "1846"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "golden",
+            "blue"
+        ],
+        "figures": [
+            "eagle",
+            "glass",
+            "shield",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "plate23_116.jpg",
+        "words": [
+            "samuel",
+            "adams",
+            "boston",
+            "lager"
+        ],
+        "colors": [
+            "white",
+            "blue",
+            "red"
+        ],
+        "figures": [
+            "star",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate23_117.jpg",
+        "words": [],
+        "colors": [
+            "white",
+            "gray"
+        ],
+        "figures": [
+            "town"
+        ]
+    },
+    {
+        "imageName": "plate23_118.jpg",
+        "brand": "prishtina",
+        "words": [
+            "birra",
+            "prishtina"
+        ],
+        "colors": [
+            "white",
+            "blue",
+            "golden"
+        ],
+        "figures": [
+            "star",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "plate23_119.jpg",
+        "brand": "shumensko",
+        "words": [
+            "шуменско",
+            "колекция",
+            "на",
+            "пивоварите"
+        ],
+        "colors": [
+            "white",
+            "gray"
+        ],
+        "figures": [
+            "lion"
+        ]
+    },
+    {
+        "imageName": "plate23_120.jpg",
+        "words": [
+            "guineu"
+        ],
+        "colors": [
+            "black",
+            "orange",
+            "white"
+        ],
+        "figures": [
+            "fox"
+        ]
+    },
+    {
+        "imageName": "plate23_121.jpg",
+        "words": [
+            "truc",
+            "bach"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "silver"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate23_122.jpg",
+        "words": [
+            "hedon"
+        ],
+        "colors": [
+            "black",
+            "orange",
+            "white"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "plate23_123.jpg",
+        "brand": "bakalar",
+        "words": [
+            "bakalar",
+            "dobre",
+            "pivo",
+            "pravo",
+            "milove",
+            "1454"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "red"
+        ],
+        "figures": [
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate23_124.jpg",
+        "brand": "flag",
+        "words": [
+            "flag",
+            "pils"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate23_125.jpg",
+        "words": [
+            "uiltje",
+            "haarlem",
+            "est",
+            "2012",
+            "brewing",
+            "company"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "bird"
+        ]
+    },
+    {
+        "imageName": "plate23_126.jpg",
+        "brand": "hoegaarden",
+        "words": [
+            "hoegaarden"
+        ],
+        "colors": [
+            "white",
+            "blue"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate23_127.jpg",
+        "brand": "winkler brau",
+        "words": [
+            "winkler",
+            "brau",
+            "seit",
+            "1628"
+        ],
+        "colors": [
+            "white",
+            "blue"
+        ],
+        "figures": [
+            "unicorn"
+        ]
+    },
+    {
+        "imageName": "plate23_128.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "hand"
+        ]
+    },
+    {
+        "imageName": "plate23_129.jpg",
+        "words": [],
+        "colors": [
+            "green",
+            "white"
+        ],
+        "figures": [
+            "cactus"
+        ]
+    },
+    {
+        "imageName": "plate23_130.jpg",
+        "words": [],
+        "colors": [
+            "white",
+            "golden",
+            "red"
+        ],
+        "figures": [
+            "deer",
+            "fence"
+        ]
+    },
+    {
+        "imageName": "plate23_131.jpg",
+        "brand": "primator",
+        "words": [
+            "w",
+            "primator",
+            "craft",
+            "brewery",
+            "czech",
+            "republic",
+            "1872"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "yellow"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate23_132.jpg",
+        "brand": "clausthaler",
+        "words": [
+            "clausthaler",
+            "non",
+            "alcoholic"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "red"
+        ],
+        "figures": [
+            "shield",
+            "hand",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "plate23_133.jpg",
+        "brand": "nektar",
+        "words": [
+            "nektar",
+            "original",
+            "lager",
+            "pivo",
+            "18",
+            "73"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "black"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate23_134.jpg",
+        "brand": "le coq",
+        "words": [
+            "le",
+            "coq"
+        ],
+        "colors": [
+            "white",
+            "silver"
+        ],
+        "figures": [
+            "rooster"
+        ]
+    },
+    {
+        "imageName": "plate23_135.jpg",
+        "words": [
+            "florida",
+            "beer",
+            "co"
+        ],
+        "colors": [
+            "white",
+            "blue"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate23_136.jpg",
+        "words": [],
+        "colors": [
+            "white",
+            "black"
+        ],
+        "figures": [
+            "man",
+            "hat"
+        ]
+    },
+    {
+        "imageName": "plate23_137.jpg",
+        "words": [
+            "corsendonk",
+            "agnus"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate23_138.jpg",
+        "brand": "nisos",
+        "words": [
+            "nisos",
+            "beer"
+        ],
+        "colors": [
+            "blue",
+            "golden",
+            "white"
+        ],
+        "figures": [
+            "sun"
+        ]
+    },
+    {
+        "imageName": "plate23_139.jpg",
+        "brand": "krombacher",
+        "words": [
+            "krombacher"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "golden",
+            "red"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate23_140.jpg",
+        "brand": "tempelier",
+        "words": [
+            "tempelier"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "silver"
+        ],
+        "figures": [
+            "cross",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate23_141.jpg",
+        "words": [
+            "ballast",
+            "point",
+            "dedicated",
+            "to",
+            "the",
+            "craft"
+        ],
+        "colors": [
+            "white",
+            "red"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "plate23_142.jpg",
+        "brand": "primator",
+        "words": [
+            "24",
+            "primator",
+            "craft",
+            "brewery",
+            "czech",
+            "republic",
+            "1872"
+        ],
+        "colors": [
+            "white",
+            "gray"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate23_143.jpg",
+        "brand": "primator",
+        "words": [
+            "13",
+            "primator",
+            "craft",
+            "brewery",
+            "czech",
+            "republic",
+            "1872"
+        ],
+        "colors": [
+            "orange",
+            "black",
+            "white"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate23_144.jpg",
+        "brand": "primator",
+        "words": [
+            "ipa",
+            "primator",
+            "craft",
+            "brewery",
+            "czech",
+            "republic",
+            "1872"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "blue"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate23_145.jpg",
+        "brand": "shumensko",
+        "words": [
+            "шуменско",
+            "колекция",
+            "на",
+            "пивоварите"
+        ],
+        "colors": [
+            "white",
+            "green"
+        ],
+        "figures": [
+            "lion"
+        ]
+    },
+    {
+        "imageName": "plate23_146.jpg",
+        "words": [],
+        "colors": [
+            "yellow",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "lion",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "plate23_147.jpg",
+        "words": [],
+        "colors": [
+            "white",
+            "brown"
+        ],
+        "figures": [
+            "compass"
+        ]
+    },
+    {
+        "imageName": "plate23_148.jpg",
+        "brand": "bitburger",
+        "words": [
+            "bitburger",
+            "alkoholfrei",
+            "0,0%"
+        ],
+        "colors": [
+            "red",
+            "golden",
+            "white"
+        ],
+        "figures": []
+    }
+]

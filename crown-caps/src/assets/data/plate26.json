@@ -1,0 +1,737 @@
+[
+    {
+        "imageName": "plate26_100.jpg",
+        "words": [
+            "august",
+            "damm",
+            "1876"
+        ],
+        "colors": [
+            "black",
+            "gray"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate26_101.jpg",
+        "brand": "estrella galicia",
+        "words": [
+            "1906",
+            "cerveceros",
+            "desde",
+            "hijos",
+            "de",
+            "rivera"
+        ],
+        "colors": [
+            "black",
+            "silver",
+            "red"
+        ],
+        "figures": [
+            "star",
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate26_102.jpg",
+        "brand": "estrella galicia",
+        "words": [
+            "estrella",
+            "galicia",
+            "1906",
+            "cerveceros",
+            "desde"
+        ],
+        "colors": [
+            "red",
+            "black",
+            "golden",
+            "white"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate26_103.jpg",
+        "brand": "estrella galicia",
+        "words": [
+            "estrella",
+            "galicia",
+            "1906",
+            "cerveceros",
+            "desde"
+        ],
+        "colors": [
+            "red",
+            "black",
+            "shite",
+            "golden"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate26_104.jpg",
+        "brand": "marstons",
+        "words": [
+            "marstons"
+        ],
+        "colors": [
+            "black",
+            "green"
+        ],
+        "figures": [
+            "circle"
+        ]
+    },
+    {
+        "imageName": "plate26_105.jpg",
+        "brand": "o'hara's",
+        "words": [
+            "carlow",
+            "brewing",
+            "company",
+            "o'hara's",
+            "irish",
+            "stout"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "plate26_106.jpg",
+        "brand": "marstons",
+        "words": [
+            "marstons"
+        ],
+        "colors": [
+            "black",
+            "red"
+        ],
+        "figures": [
+            "circle"
+        ]
+    },
+    {
+        "imageName": "plate26_107.jpg",
+        "brand": "ferdinand",
+        "words": [
+            "ferdinand",
+            "pivovar",
+            "skutecne",
+            "pivo",
+            "benesov",
+            "1897"
+        ],
+        "colors": [
+            "silver",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate26_108.jpg",
+        "brand": "peroni",
+        "words": [
+            "peroni",
+            "gran",
+            "riserva"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate26_109.jpg",
+        "brand": "goose island",
+        "words": [
+            "goose",
+            "island",
+            "beer",
+            "co"
+        ],
+        "colors": [
+            "black",
+            "shite",
+            "yellow"
+        ],
+        "figures": [
+            "goose"
+        ]
+    },
+    {
+        "imageName": "plate26_110.jpg",
+        "words": [
+            "founders",
+            "20",
+            "1997",
+            "2017",
+            "twenty",
+            "years",
+            "zero",
+            "regrets"
+        ],
+        "colors": [
+            "black",
+            "shite",
+            "orange",
+            "yellow"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate26_111.jpg",
+        "brand": "cerna hora",
+        "words": [
+            "cerna",
+            "hora"
+        ],
+        "colors": [
+            "black",
+            "yellow"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate26_112.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "leaf",
+            "arrows"
+        ]
+    },
+    {
+        "imageName": "plate26_113.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "green"
+        ],
+        "figures": [
+            "leaf"
+        ]
+    },
+    {
+        "imageName": "plate26_114.jpg",
+        "words": [
+            "edge",
+            "brewing",
+            "barcelona",
+            "b"
+        ],
+        "colors": [
+            "black",
+            "white",
+            "orange"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate26_115.jpg",
+        "brand": "verhaeghe",
+        "words": [
+            "verhaeghe"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "lion",
+            "shield",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate26_116.jpg",
+        "brand": "dorada",
+        "words": [
+            "dorada",
+            "especial"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "mountain"
+        ]
+    },
+    {
+        "imageName": "plate26_117.jpg",
+        "brand": "glarus",
+        "words": [
+            "glarus",
+            "signature"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "bird"
+        ]
+    },
+    {
+        "imageName": "plate26_118.jpg",
+        "brand": "yards",
+        "words": [
+            "yards",
+            "brewing",
+            "company",
+            "est",
+            "philadelphia's",
+            "own"
+        ],
+        "colors": [
+            "black",
+            "yellow"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate26_119.jpg",
+        "brand": "ferdinand",
+        "words": [
+            "ferdinand",
+            "pivovar",
+            "skutecne",
+            "pivo",
+            "benesov",
+            "1897"
+        ],
+        "colors": [
+            "black",
+            "silver"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate26_120.jpg",
+        "words": [
+            "arriaca",
+            "es",
+            "a"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "glass"
+        ]
+    },
+    {
+        "imageName": "plate26_121.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "silver"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "plate26_122.jpg",
+        "words": [],
+        "colors": [
+            "brutus",
+            "the",
+            "beer"
+        ],
+        "figures": [
+            "green",
+            "white",
+            "golden"
+        ]
+    },
+    {
+        "imageName": "plate26_123.jpg",
+        "words": [
+            "b"
+        ],
+        "colors": [
+            "black",
+            "silver"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate26_124.jpg",
+        "words": [
+            "seit",
+            "1542"
+        ],
+        "colors": [
+            "black",
+            "golden",
+            "red"
+        ],
+        "figures": [
+            "grain"
+        ]
+    },
+    {
+        "imageName": "plate26_125.jpg",
+        "brand": "braufactum",
+        "words": [
+            "braufactum",
+            "das",
+            "craft",
+            "bier",
+            "m"
+        ],
+        "colors": [
+            "black",
+            "silver"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate26_126.jpg",
+        "words": [
+            "brouwerij",
+            "de",
+            "molen"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "mill"
+        ]
+    },
+    {
+        "imageName": "plate26_127.jpg",
+        "brand": "dorada",
+        "words": [
+            "dorada",
+            "especial"
+        ],
+        "colors": [
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "mountain"
+        ]
+    },
+    {
+        "imageName": "plate26_128.jpg",
+        "brand": "titanic",
+        "words": [
+            "titanic",
+            "brewery"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "ship"
+        ]
+    },
+    {
+        "imageName": "plate26_129.jpg",
+        "brand": "klaster",
+        "words": [
+            "klaster",
+            "original"
+        ],
+        "colors": [
+            "black",
+            "white",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate26_130.jpg",
+        "words": [
+            "cerex",
+            "5"
+        ],
+        "colors": [
+            "black",
+            "silver"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate26_131.jpg",
+        "brand": "ferdinand",
+        "words": [
+            "ferdinand",
+            "pivovar",
+            "skutecne",
+            "pivo",
+            "benesov",
+            "1897"
+        ],
+        "colors": [
+            "green",
+            "silver"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate26_132.jpg",
+        "words": [
+            "tesco",
+            "finest"
+        ],
+        "colors": [
+            "black",
+            "silver"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate26_133.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "golden",
+            "red"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate26_134.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "gray"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "plate26_135.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "horse"
+        ]
+    },
+    {
+        "imageName": "plate26_136.jpg",
+        "brand": "pohjala",
+        "words": [
+            "pohjala"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate26_137.jpg",
+        "brand": "pohjala",
+        "words": [
+            "pohjala"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate26_138.jpg",
+        "brand": "dorada",
+        "words": [
+            "dorada",
+            "especial"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "mountain"
+        ]
+    },
+    {
+        "imageName": "plate26_139.jpg",
+        "brand": "pohjala",
+        "words": [
+            "pohjala"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate26_140.jpg",
+        "brand": "judas",
+        "words": [
+            "judas"
+        ],
+        "colors": [
+            "black",
+            "red"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate26_141.jpg",
+        "words": [],
+        "colors": [
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate26_142.jpg",
+        "brand": "ferdinand",
+        "words": [
+            "ferdinand",
+            "pivovar",
+            "skutecne",
+            "pivo",
+            "benesov",
+            "1897"
+        ],
+        "colors": [
+            "black",
+            "silver"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate26_143.jpg",
+        "brand": "o'hara's",
+        "words": [
+            "o'hara's",
+            "irish",
+            "red",
+            "carlow",
+            "brewing",
+            "company"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "plate26_144.jpg",
+        "brand": "ferdinand",
+        "words": [
+            "ferdinand",
+            "pivovar",
+            "skutecne",
+            "pivo",
+            "benesov",
+            "1897"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate26_145.jpg",
+        "brand": "dorada",
+        "words": [
+            "dorada"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": [
+            "mountain"
+        ]
+    },
+    {
+        "imageName": "plate26_146.jpg",
+        "brand": "dorada",
+        "words": [
+            "dorada",
+            "sin",
+            "gluten"
+        ],
+        "colors": [
+            "green",
+            "white"
+        ],
+        "figures": [
+            "mountain"
+        ]
+    },
+    {
+        "imageName": "plate26_147.jpg",
+        "brand": "breclav",
+        "words": [
+            "breclav",
+            "zamecky",
+            "pivovar",
+            "1522"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "house"
+        ]
+    },
+    {
+        "imageName": "plate26_148.jpg",
+        "brand": "breclav",
+        "words": [
+            "breclav",
+            "zamecky",
+            "pivovar",
+            "1522"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "house"
+        ]
+    }
+]

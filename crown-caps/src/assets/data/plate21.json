@@ -1,0 +1,776 @@
+[
+    {
+        "imageName": "plate21_100.jpg",
+        "brand": "",
+        "words": [
+            "real",
+            "ale",
+            "brewing",
+            "co"
+        ],
+        "colors": [
+            "silver",
+            "green",
+            "black"
+        ],
+        "figures": [
+            "hops"
+        ]
+    },
+    {
+        "imageName": "plate21_101.jpg",
+        "brand": "heineken",
+        "words": [
+            "heineken",
+            "quality"
+        ],
+        "colors": [
+            "silver",
+            "white",
+            "red",
+            "green"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate21_102.jpg",
+        "brand": "heineken",
+        "words": [
+            "heineken",
+            "quality"
+        ],
+        "colors": [
+            "silver"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate21_103.jpg",
+        "words": [
+            "b"
+        ],
+        "colors": [
+            "yellow",
+            "white",
+            "black"
+        ],
+        "figures": [
+            "letter",
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "plate21_104.jpg",
+        "words": [
+            "b"
+        ],
+        "colors": [
+            "red",
+            "black",
+            "white"
+        ],
+        "figures": [
+            "letter",
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "plate21_105.jpg",
+        "brand": "grimbergen",
+        "words": [
+            "grimbergen"
+        ],
+        "colors": [
+            "yellow",
+            "black"
+        ],
+        "figures": [
+            "bird"
+        ]
+    },
+    {
+        "imageName": "plate21_106.jpg",
+        "brand": "favorit",
+        "words": [
+            "favorit",
+            "pivo"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate21_107.jpg",
+        "brand": "arany aszok",
+        "words": [
+            "arany",
+            "aszok"
+        ],
+        "colors": [
+            "orange",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate21_108.jpg",
+        "brand": "shiner",
+        "words": [
+            "shiner",
+            "pale",
+            "ale",
+            "wild",
+            "hare"
+        ],
+        "colors": [
+            "red",
+            "black",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate21_109.jpg",
+        "brand": "hoegaarden",
+        "words": [],
+        "colors": [
+            "white",
+            "golden",
+            "blue"
+        ],
+        "figures": [
+            "hand",
+            "stick"
+        ]
+    },
+    {
+        "imageName": "plate21_110.jpg",
+        "brand": "meister brau",
+        "words": [
+            "meister",
+            "brau"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "chirch"
+        ]
+    },
+    {
+        "imageName": "plate21_111.jpg",
+        "brand": "bolyarka",
+        "words": [
+            "болярка",
+            "светло"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "black"
+        ],
+        "figures": [
+            "shield",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate21_112.jpg",
+        "brand": "maredsous",
+        "words": [
+            "maredsous",
+            "m"
+        ],
+        "colors": [
+            "golden",
+            "white"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate21_113.jpg",
+        "words": [],
+        "colors": [
+            "golden",
+            "red"
+        ],
+        "figures": [
+            "mill"
+        ]
+    },
+    {
+        "imageName": "plate21_114.jpg",
+        "brand": "rotlicht",
+        "words": [
+            "rotlicht",
+            "das",
+            "ist",
+            "die",
+            "kronung",
+            "offnen",
+            "gluck",
+            "haben",
+            "und",
+            "gewinnen"
+        ],
+        "colors": [
+            "red",
+            "black",
+            "white"
+        ],
+        "figures": [
+            "heart",
+            "anchor"
+        ]
+    },
+    {
+        "imageName": "plate21_115.jpg",
+        "brand": "jupiler",
+        "words": [
+            "sms",
+            "win",
+            "code",
+            "ci-dessous",
+            "hieronder",
+            "chaque",
+            "heure",
+            "elk",
+            "uur",
+            "gratis",
+            "online",
+            "jupiler",
+            "be",
+            "nl"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "black",
+            "yellow"
+        ],
+        "figures": [
+            "bull"
+        ]
+    },
+    {
+        "imageName": "plate21_116.jpg",
+        "words": [
+            "hugo",
+            "seit"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "black"
+        ],
+        "figures": [
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "plate21_117.jpg",
+        "words": [
+            "df"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "man",
+            "shield",
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate21_118.jpg",
+        "words": [
+            "piwo",
+            "beer",
+            "birra",
+            "cerveza",
+            "alus",
+            "biere",
+            "bere"
+        ],
+        "colors": [
+            "golden",
+            "red"
+        ],
+        "figures": [
+            "shield",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate21_119.jpg",
+        "brand": "karlovacko",
+        "words": [
+            "karlovacko",
+            "okreni",
+            "i",
+            "otvori"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "plate21_120.jpg",
+        "brand": "pan",
+        "words": [
+            "pan",
+            "n"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "red"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate21_121.jpg",
+        "brand": "maredsous",
+        "words": [
+            "maredsous",
+            "m"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate21_122.jpg",
+        "brand": "alhambra",
+        "words": [
+            "alhambra"
+        ],
+        "colors": [
+            "black",
+            "golden",
+            "red"
+        ],
+        "figures": [
+            "dragon"
+        ]
+    },
+    {
+        "imageName": "plate21_123.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "red"
+        ],
+        "figures": [
+            "dragon"
+        ]
+    },
+    {
+        "imageName": "plate21_124.jpg",
+        "brand": "jupiler",
+        "words": [],
+        "colors": [
+            "black",
+            "white",
+            "red"
+        ],
+        "figures": [
+            "bull"
+        ]
+    },
+    {
+        "imageName": "plate21_125.jpg",
+        "brand": "beck's",
+        "words": [
+            "beck's",
+            "pils",
+            "140",
+            "jahre",
+            "edition",
+            "reg",
+            "tm"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "red"
+        ],
+        "figures": [
+            "key",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate21_126.jpg",
+        "brand": "carlsberg",
+        "words": [
+            "carlsberg",
+            "elephant"
+        ],
+        "colors": [
+            "golden",
+            "green"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate21_127.jpg",
+        "words": [],
+        "colors": [
+            "white",
+            "red"
+        ],
+        "figures": [
+            "leaf"
+        ]
+    },
+    {
+        "imageName": "plate21_128.jpg",
+        "brand": "jelen",
+        "words": [
+            "jelen",
+            "fresh",
+            "limon"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "white"
+        ],
+        "figures": [
+            "deer"
+        ]
+    },
+    {
+        "imageName": "plate21_129.jpg",
+        "brand": "maredsous",
+        "words": [
+            "maredsous",
+            "m"
+        ],
+        "colors": [
+            "blue",
+            "golden"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate21_130.jpg",
+        "brand": "warsteiner",
+        "words": [
+            "aktionscode",
+            "auf",
+            "der",
+            "innenseite",
+            "warsteiner",
+            "eine",
+            "konigin",
+            "unter",
+            "den",
+            "bieren"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate21_131.jpg",
+        "brand": "karlovacko",
+        "words": [
+            "karlovacko",
+            "piso"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate21_132.jpg",
+        "brand": "guiness",
+        "words": [
+            "from",
+            "the",
+            "bottle",
+            "enjoy",
+            "straight"
+        ],
+        "colors": [
+            "black",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "bottle",
+            "harp"
+        ]
+    },
+    {
+        "imageName": "plate21_133.jpg",
+        "words": [
+            "robinsons",
+            "brewery",
+            "cheshire",
+            "established",
+            "1838"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "unicorn"
+        ]
+    },
+    {
+        "imageName": "plate21_134.jpg",
+        "brand": "chiemseer",
+        "words": [
+            "chiemseer"
+        ],
+        "colors": [
+            "golden",
+            "blue"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate21_135.jpg",
+        "brand": "krennenburg",
+        "words": [
+            "kronnenburg",
+            "1664"
+        ],
+        "colors": [
+            "golden",
+            "blue"
+        ],
+        "figures": [
+            "shield",
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate21_136.jpg",
+        "brand": "tucher",
+        "words": [
+            "tucherseit",
+            "1672"
+        ],
+        "colors": [
+            "golden",
+            "blue",
+            "white",
+            "red"
+        ],
+        "figures": [
+            "head",
+            "crown",
+            "coin"
+        ]
+    },
+    {
+        "imageName": "plate21_137.jpg",
+        "words": [
+            "rahr",
+            "sons",
+            "brewing",
+            "company",
+            "fort",
+            "worth",
+            "tx"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate21_138.jpg",
+        "brand": "paulaner",
+        "words": [
+            "paulaner",
+            "munchen"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "blue",
+            "golden"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate21_139.jpg",
+        "brand": "bishops finger",
+        "words": [
+            "bishops",
+            "finger"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate21_140.jpg",
+        "brand": "karlovacko",
+        "words": [
+            "karlovacko"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "hops",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "plate21_141.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate21_142.jpg",
+        "brand": "zagorka",
+        "words": [
+            "zagorka"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "yellow"
+        ],
+        "figures": [
+            "shield",
+            "lion"
+        ]
+    },
+    {
+        "imageName": "plate21_143.jpg",
+        "brand": "grimbergen",
+        "words": [
+            "grimbergen"
+        ],
+        "colors": [
+            "black",
+            "red"
+        ],
+        "figures": [
+            "bird"
+        ]
+    },
+    {
+        "imageName": "plate21_144.jpg",
+        "words": [
+            "open"
+        ],
+        "colors": [
+            "white",
+            "golden",
+            "red",
+            "black"
+        ],
+        "figures": [
+            "shield",
+            "arrow",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate21_145.jpg",
+        "brand": "lucky buddha",
+        "words": [
+            "lucky",
+            "buddha"
+        ],
+        "colors": [
+            "white",
+            "red"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate21_146.jpg",
+        "words": [],
+        "colors": [
+            "red",
+            "golden",
+            "white"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate21_147.jpg",
+        "words": [
+            "export"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate21_148.jpg",
+        "brand": "zaiecharsko",
+        "words": [
+            "зайечарско"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "golden"
+        ],
+        "figures": []
+    }
+]

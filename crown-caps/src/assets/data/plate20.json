@@ -1,0 +1,807 @@
+[
+    {
+        "imageName": "plate20_100.jpg",
+        "brand": "sol",
+        "words": [
+            "sol",
+            "cerveza"
+        ],
+        "colors": [
+            "golden",
+            "red",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate20_101.jpg",
+        "brand": "myanmar",
+        "words": [
+            "myanmar"
+        ],
+        "colors": [
+            "golden",
+            "red",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate20_102.jpg",
+        "brand": "gulpener",
+        "words": [
+            "gulpener",
+            "limburgs",
+            "bier",
+            "bierbrouwerij",
+            "gebrouwen",
+            "sinds",
+            "1825"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "green",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate20_103.jpg",
+        "words": [
+            "drink",
+            "of",
+            "england"
+        ],
+        "colors": [
+            "golden",
+            "yellow"
+        ],
+        "figures": [
+            "eagle",
+            "lion",
+            "shield",
+            "cross"
+        ]
+    },
+    {
+        "imageName": "plate20_104.jpg",
+        "words": [],
+        "colors": [
+            "red",
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "shield",
+            "cask",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate20_105.jpg",
+        "brand": "olvi",
+        "words": [
+            "olvi"
+        ],
+        "colors": [
+            "golden",
+            "red",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate20_106.jpg",
+        "brand": "lubser",
+        "words": [
+            "lubser",
+            "pils"
+        ],
+        "colors": [
+            "golden",
+            "green"
+        ],
+        "figures": [
+            "tower"
+        ]
+    },
+    {
+        "imageName": "plate20_107.jpg",
+        "words": [
+            "pilsner",
+            "dresdner"
+        ],
+        "colors": [
+            "golden",
+            "red",
+            "white",
+            "black"
+        ],
+        "figures": [
+            "man",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "plate20_108.jpg",
+        "brand": "cobra",
+        "words": [
+            "cobra"
+        ],
+        "colors": [
+            "golden",
+            "green",
+            "white",
+            "red"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate20_109.jpg",
+        "brand": "balkansko",
+        "words": [
+            "балканско"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate20_110.jpg",
+        "brand": "schultheiss",
+        "words": [
+            "schultheiss",
+            "1843",
+            "in",
+            "berlin",
+            "gebraut",
+            "seit"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "man",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "plate20_111.jpg",
+        "words": [
+            "17",
+            "99"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate20_112.jpg",
+        "brand": "mythos",
+        "words": [
+            "mythos"
+        ],
+        "colors": [
+            "green",
+            "orange",
+            "golden"
+        ],
+        "figures": [
+            "unicorn"
+        ]
+    },
+    {
+        "imageName": "plate20_113.jpg",
+        "words": [
+            "august",
+            "damm",
+            "1876"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate20_114.jpg",
+        "brand": "burgasko",
+        "words": [
+            "бургаско"
+        ],
+        "colors": [
+            "golden",
+            "red",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate20_115.jpg",
+        "words": [
+            "biere",
+            "aromatisse",
+            "flavoured",
+            "beer",
+            "cerveja",
+            "birra",
+            "cerveza"
+        ],
+        "colors": [
+            "golden",
+            "green",
+            "red"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate20_116.jpg",
+        "brand": "saku",
+        "words": [
+            "saku",
+            "s"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "blue"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate20_117.jpg",
+        "brand": "kilkenny",
+        "words": [
+            "kilkenny"
+        ],
+        "colors": [
+            "golden",
+            "green"
+        ],
+        "figures": [
+            "house"
+        ]
+    },
+    {
+        "imageName": "plate20_118.jpg",
+        "brand": "dreher",
+        "words": [
+            "dreher",
+            "birra",
+            "1773"
+        ],
+        "colors": [
+            "silver",
+            "red",
+            "orange",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate20_119.jpg",
+        "brand": "san miguel",
+        "words": [
+            "san",
+            "miguel",
+            "cerveca",
+            "san",
+            "miguel",
+            "premium",
+            "quality"
+        ],
+        "colors": [
+            "golden",
+            "yellow",
+            "white",
+            "red",
+            "green"
+        ],
+        "figures": [
+            "ship"
+        ]
+    },
+    {
+        "imageName": "plate20_120.jpg",
+        "brand": "marton's",
+        "words": [
+            "marton's",
+            "official",
+            "beer",
+            "of",
+            "england",
+            "ecb"
+        ],
+        "colors": [
+            "red",
+            "silver"
+        ],
+        "figures": [
+            "lion",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate20_121.jpg",
+        "brand": "marton's",
+        "words": [
+            "marton's",
+            "official",
+            "beer",
+            "of",
+            "england",
+            "ecb"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "lion",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate20_122.jpg",
+        "brand": "wernesgruner",
+        "words": [
+            "wernesgruner",
+            "pils",
+            "legende"
+        ],
+        "colors": [
+            "golden",
+            "red",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate20_123.jpg",
+        "brand": "zhiguli",
+        "words": [
+            "жигули",
+            "пиво"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "grain",
+            "hops",
+            "bird",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate20_124.jpg",
+        "brand": "desperados",
+        "words": [
+            "desperados",
+            "with",
+            "tequila",
+            "beer",
+            "flavoured"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "coin"
+        ]
+    },
+    {
+        "imageName": "plate20_125.jpg",
+        "brand": "vivaris",
+        "words": [
+            "vivaris",
+            "v",
+            "composicion",
+            "original",
+            "classica"
+        ],
+        "colors": [
+            "silver",
+            "black"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate20_126.jpg",
+        "brand": "hoegaarden",
+        "words": [
+            "hoegaarden"
+        ],
+        "colors": [
+            "silver",
+            "blue",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate20_127.jpg",
+        "words": [
+            "dresdner",
+            "felsenkeller",
+            "pilsner"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "dragon"
+        ]
+    },
+    {
+        "imageName": "plate20_128.jpg",
+        "brand": "ab",
+        "words": [
+            "ab",
+            "australia",
+            "europe",
+            "asia",
+            "america",
+            "africa"
+        ],
+        "colors": [
+            "red",
+            "silver"
+        ],
+        "figures": [
+            "letter",
+            "ellipse",
+            ""
+        ]
+    },
+    {
+        "imageName": "plate20_129.jpg",
+        "brand": "freiberger",
+        "words": [
+            "freiberger",
+            "pils"
+        ],
+        "colors": [
+            "green",
+            "golden",
+            "white"
+        ],
+        "figures": [
+            "man",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate20_130.jpg",
+        "brand": "sachsengold",
+        "words": [
+            "sachsengold",
+            "s"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "grain",
+            "hops"
+        ]
+    },
+    {
+        "imageName": "plate20_131.jpg",
+        "words": [
+            "shepherd",
+            "neame",
+            "since",
+            "1698"
+        ],
+        "colors": [
+            "golden",
+            "blue",
+            "black"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "plate20_132.jpg",
+        "brand": "berliner",
+        "words": [
+            "berliner",
+            "pilsner",
+            "unter",
+            "jedem",
+            "kronkorken"
+        ],
+        "colors": [
+            "golden",
+            "green",
+            "red"
+        ],
+        "figures": [
+            "bear",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "plate20_133.jpg",
+        "brand": "berliner",
+        "words": [
+            "berliner",
+            "pilsner"
+        ],
+        "colors": [
+            "golden",
+            "green",
+            "red"
+        ],
+        "figures": [
+            "bear",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "plate20_134.jpg",
+        "brand": "quilmes",
+        "words": [
+            "quilmes"
+        ],
+        "colors": [
+            "blue",
+            "black",
+            "silver"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate20_135.jpg",
+        "brand": "asmara",
+        "words": [
+            "asmara",
+            "eritrea",
+            "beer"
+        ],
+        "colors": [
+            "silver",
+            "pink",
+            "back"
+        ],
+        "figures": [
+            "antelope",
+            "triangle"
+        ]
+    },
+    {
+        "imageName": "plate20_136.jpg",
+        "brand": "sofiisko",
+        "words": [
+            "софийско",
+            "пиво",
+            "лукс"
+        ],
+        "colors": [
+            "red",
+            "silver"
+        ],
+        "figures": [
+            "lion"
+        ]
+    },
+    {
+        "imageName": "plate20_137.jpg",
+        "brand": "bernard",
+        "words": [],
+        "colors": [
+            "golden",
+            "white",
+            "silver",
+            "red"
+        ],
+        "figures": [
+            "dog",
+            "shield",
+            "sword"
+        ]
+    },
+    {
+        "imageName": "plate20_138.jpg",
+        "brand": "pilsner urquell",
+        "words": [
+            "pilsner",
+            "urquell"
+        ],
+        "colors": [
+            "white",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate20_139.jpg",
+        "words": [
+            "sabor",
+            "del",
+            "ano",
+            "2011",
+            "reconocido",
+            "probado",
+            "i",
+            "aprobado",
+            "por",
+            "los",
+            "consumadores"
+        ],
+        "colors": [
+            "silver",
+            "yellow",
+            "red",
+            "blue"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate20_140.jpg",
+        "words": [
+            "bled",
+            "bier",
+            "bier"
+        ],
+        "colors": [
+            "silver",
+            "black",
+            "orange"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate20_141.jpg",
+        "brand": "windhoek",
+        "words": [
+            "windhoek",
+            "light"
+        ],
+        "colors": [
+            "silver",
+            "blue",
+            "red"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate20_142.jpg",
+        "words": [
+            "urbock",
+            "dresdner"
+        ],
+        "colors": [
+            "red",
+            "brown",
+            "golden",
+            "white"
+        ],
+        "figures": [
+            "man",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "plate20_143.jpg",
+        "brand": "poretti",
+        "words": [
+            "birifcio",
+            "ngelo",
+            "poretti",
+            "dal",
+            "1877"
+        ],
+        "colors": [
+            "golden",
+            "blue"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate20_144.jpg",
+        "words": [
+            "dresdner",
+            "export"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "man",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "plate20_145.jpg",
+        "words": [
+            "export"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "bird"
+        ]
+    },
+    {
+        "imageName": "plate20_146.jpg",
+        "words": [
+            "courage"
+        ],
+        "colors": [
+            "orange",
+            "golden"
+        ],
+        "figures": [
+            "bird"
+        ]
+    },
+    {
+        "imageName": "plate20_147.jpg",
+        "brand": "berg konig",
+        "words": [
+            "berg",
+            "konig",
+            "twist",
+            "off",
+            "aufdrehen"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "black"
+        ],
+        "figures": [
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "plate20_148.jpg",
+        "brand": "salitos",
+        "words": [
+            "salitos",
+            "mojito",
+            "superior",
+            "flavour",
+            "of",
+            "mojito",
+            "reg",
+            "trade",
+            "mark"
+        ],
+        "colors": [
+            "green",
+            "golden"
+        ],
+        "figures": [
+            "square"
+        ]
+    }
+]

@@ -1,0 +1,740 @@
+[
+    {
+        "imageName": "plate19_100.jpg",
+        "brand": "honey dew",
+        "words": [
+            "honey",
+            "dew",
+            "organic"
+        ],
+        "colors": [
+            "orange",
+            "black",
+            "white"
+        ],
+        "figures": [
+            "bee"
+        ]
+    },
+    {
+        "imageName": "plate19_101.jpg",
+        "brand": "gulder",
+        "words": [
+            "gulder",
+            "the",
+            "ultimate",
+            "beer"
+        ],
+        "colors": [
+            "orange",
+            "red",
+            "black",
+            "white"
+        ],
+        "figures": [
+            "grain"
+        ]
+    },
+    {
+        "imageName": "plate19_102.jpg",
+        "brand": "gosser",
+        "words": [
+            "gosser",
+            "marzen"
+        ],
+        "colors": [
+            "green",
+            "white",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate19_103.jpg",
+        "words": [],
+        "colors": [
+            "green",
+            "golden",
+            "brown",
+            "white"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate19_104.jpg",
+        "brand": "hefetrub",
+        "words": [
+            "hefetrub",
+            "naturtrub",
+            "edelweiss",
+            "weisbier",
+            "obergarig"
+        ],
+        "colors": [
+            "white",
+            "greet",
+            "red",
+            "blue"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate19_105.jpg",
+        "brand": "",
+        "words": [
+            "master",
+            "brew",
+            "kentish",
+            "ale"
+        ],
+        "colors": [
+            "red",
+            "green",
+            "golden",
+            "white"
+        ],
+        "figures": [
+            "hops"
+        ]
+    },
+    {
+        "imageName": "plate19_106.jpg",
+        "words": [
+            "club",
+            "ghana"
+        ],
+        "colors": [
+            "green",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "leaf"
+        ]
+    },
+    {
+        "imageName": "plate19_107.jpg",
+        "words": [
+            "twist",
+            "lemon"
+        ],
+        "colors": [
+            "yellow",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate19_108.jpg",
+        "brand": "windhoek",
+        "words": [
+            "windhoek",
+            "lager"
+        ],
+        "colors": [
+            "green",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate19_109.jpg",
+        "brand": "schneider weisse",
+        "words": [
+            "schneider",
+            "weisse",
+            "leicht"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate19_110.jpg",
+        "brand": "bud",
+        "words": [
+            "bud"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate19_111.jpg",
+        "brand": "amstel",
+        "words": [
+            "amstel",
+            "beer",
+            "1870"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate19_112.jpg",
+        "brand": "zagorka",
+        "words": [
+            "zagorka"
+        ],
+        "colors": [
+            "pink",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate19_113.jpg",
+        "brand": "efes",
+        "words": [
+            "efes"
+        ],
+        "colors": [
+            "bue",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate19_114.jpg",
+        "brand": "saku",
+        "words": [
+            "saku",
+            "s"
+        ],
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate19_115.jpg",
+        "brand": "spitfire",
+        "words": [
+            "spitfire",
+            "premium",
+            "kentish",
+            "ale"
+        ],
+        "colors": [
+            "blue",
+            "red",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate19_116.jpg",
+        "brand": "newcastle",
+        "words": [],
+        "colors": [
+            "blue",
+            "yellow"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate19_117.jpg",
+        "brand": "moretti",
+        "words": [
+            "birra",
+            "moretti",
+            "dal",
+            "1859"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "grain",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate19_118.jpg",
+        "brand": "super bock",
+        "words": [
+            "super",
+            "bock"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate19_119.jpg",
+        "brand": "lech",
+        "words": [
+            "lech",
+            "premium",
+            "beer"
+        ],
+        "colors": [
+            "green",
+            "white",
+            "red"
+        ],
+        "figures": [
+            "goat"
+        ]
+    },
+    {
+        "imageName": "plate19_120.jpg",
+        "brand": "tsingtao",
+        "words": [
+            "tsingtao"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "grain",
+            "house"
+        ]
+    },
+    {
+        "imageName": "plate19_121.jpg",
+        "brand": "efes",
+        "words": [
+            "efes",
+            "dark",
+            "twist",
+            "off",
+            "cevir",
+            "ac"
+        ],
+        "colors": [
+            "red",
+            "golden",
+            "blue"
+        ],
+        "figures": [
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "plate19_122.jpg",
+        "brand": "viru",
+        "words": [
+            "viru",
+            "oled",
+            "see",
+            "mida",
+            "jood",
+            "premium",
+            "estonian"
+        ],
+        "colors": [
+            "blue",
+            "white",
+            "red"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate19_123.jpg",
+        "brand": "hobgoblin",
+        "words": [
+            "hobgoblin"
+        ],
+        "colors": [
+            "blue",
+            "yellow"
+        ],
+        "figures": [
+            "goblin"
+        ]
+    },
+    {
+        "imageName": "plate19_124.jpg",
+        "words": [
+            "sei",
+            "1645"
+        ],
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate19_125.jpg",
+        "brand": "reissdorf",
+        "words": [
+            "reissdorf",
+            "kolsch"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "plate19_126.jpg",
+        "brand": "schwechater",
+        "words": [
+            "schwechater",
+            "zwickl"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "lion"
+        ]
+    },
+    {
+        "imageName": "plate19_127.jpg",
+        "brand": "cardinal",
+        "words": [
+            "cardinal",
+            "lager",
+            "bier",
+            "biere",
+            "birra",
+            "beer",
+            "classique"
+        ],
+        "colors": [
+            "yellow",
+            "blue",
+            "white",
+            "red"
+        ],
+        "figures": [
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "plate19_128.jpg",
+        "brand": "schwechater",
+        "words": [
+            "schwechater",
+            "bier"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "lion"
+        ]
+    },
+    {
+        "imageName": "plate19_129.jpg",
+        "brand": "morland",
+        "words": [
+            "morland",
+            "est",
+            "1711"
+        ],
+        "colors": [
+            "red",
+            "yellow"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "plate19_130.jpg",
+        "words": [
+            "finest",
+            "lager",
+            "beer"
+        ],
+        "colors": [
+            "blue",
+            "golden"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate19_131.jpg",
+        "brand": "heineken",
+        "words": [
+            "heineken",
+            "quality"
+        ],
+        "colors": [
+            "green",
+            "white",
+            "red"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate19_132.jpg",
+        "brand": "deuchars",
+        "words": [
+            "deuchars",
+            "ipa"
+        ],
+        "colors": [
+            "blue",
+            "white",
+            "orange"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate19_133.jpg",
+        "brand": "wuhrer",
+        "words": [
+            "wuhrer",
+            "1829",
+            "w"
+        ],
+        "colors": [
+            "blue",
+            "silver"
+        ],
+        "figures": [
+            "lion",
+            "crown",
+            "letter"
+        ]
+    },
+    {
+        "imageName": "plate19_134.jpg",
+        "brand": "duff",
+        "words": [
+            "duff"
+        ],
+        "colors": [
+            "red",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate19_135.jpg",
+        "brand": "estrella damm",
+        "words": [
+            "estrella",
+            "damm",
+            "daura",
+            "premium",
+            "quality",
+            "lager",
+            "beer"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate19_136.jpg",
+        "brand": "krusovice",
+        "words": [
+            "krusovice",
+            "soutez",
+            "15",
+            "81"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate19_137.jpg",
+        "brand": "goldstar",
+        "words": [
+            "goldstar"
+        ],
+        "colors": [
+            "red",
+            "golden",
+            "white"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "plate19_138.jpg",
+        "brand": "tassoni",
+        "words": [
+            "tassoni",
+            "soda",
+            "cedrata",
+            "analcolica",
+            "bibita"
+        ],
+        "colors": [
+            "yellow",
+            "green"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate19_139.jpg",
+        "words": [],
+        "colors": [
+            "blue",
+            "golden"
+        ],
+        "figures": [
+            "ship"
+        ]
+    },
+    {
+        "imageName": "plate19_140.jpg",
+        "brand": "spitfire",
+        "words": [],
+        "colors": [
+            "blue",
+            "white",
+            "red"
+        ],
+        "figures": [
+            "circle"
+        ]
+    },
+    {
+        "imageName": "plate19_141.jpg",
+        "brand": "spitfire",
+        "words": [],
+        "colors": [
+            "blue",
+            "white",
+            "red"
+        ],
+        "figures": [
+            "circle"
+        ]
+    },
+    {
+        "imageName": "plate19_142.jpg",
+        "brand": "grimbergen",
+        "words": [
+            "grimbergen"
+        ],
+        "colors": [
+            "yellow",
+            "black"
+        ],
+        "figures": [
+            "eagle"
+        ]
+    },
+    {
+        "imageName": "plate19_143.jpg",
+        "words": [],
+        "colors": [
+            "green",
+            "silver"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "plate19_144.jpg",
+        "brand": "messina",
+        "words": [
+            "m"
+        ],
+        "colors": [
+            "blue",
+            "yellow"
+        ],
+        "figures": [
+            "letter",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "plate19_145.jpg",
+        "brand": "kozel",
+        "words": [
+            "kozel",
+            "velikopopovicky"
+        ],
+        "colors": [
+            "green",
+            "golden"
+        ],
+        "figures": [
+            "goad",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "plate19_146.jpg",
+        "brand": "alvaro",
+        "words": [
+            "alvaro"
+        ],
+        "colors": [
+            "green",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "plate19_147.jpg",
+        "brand": "bolyarka",
+        "words": [
+            "болярка",
+            "светло"
+        ],
+        "colors": [
+            "green",
+            "whte"
+        ],
+        "figures": [
+            "shield",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "plate19_148.jpg",
+        "brand": "carlsberg",
+        "words": [
+            "carlsberg"
+        ],
+        "colors": [
+            "green",
+            "white"
+        ],
+        "figures": [
+            "leaf"
+        ]
+    }
+]
