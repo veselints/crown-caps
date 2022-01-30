@@ -30,7 +30,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'AddPlate',
   props: {
     msg: String
   },
@@ -43,7 +43,7 @@ export default {
   },
 
   mounted() {
-    this.importAll(require.context('../assets/images/plate26/', true, /\.jpg$/));
+    this.importAll(require.context('../assets/images/small/', true, /\.jpg$/));
   },
 
   methods: {

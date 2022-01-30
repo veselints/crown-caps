@@ -1,0 +1,779 @@
+[
+    {
+        "imageName": "small_100.jpg",
+        "brand": "lasko",
+        "words": [
+            "lasko",
+            "zlatorog"
+        ],
+        "colors": [
+            "green",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "small_101.jpg",
+        "words": [
+            "farny",
+            "hofguts-",
+            "bier"
+        ],
+        "colors": [
+            "white",
+            "green",
+            "red",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "small_102.jpg",
+        "brand": "flying monkeys",
+        "words": [
+            "flying",
+            "monkeys",
+            "craft",
+            "brewery"
+        ],
+        "colors": [
+            "green",
+            "black"
+        ],
+        "figures": [
+            "monkey"
+        ]
+    },
+    {
+        "imageName": "small_103.jpg",
+        "brand": "hafferoder",
+        "words": [
+            "pils"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "bird"
+        ]
+    },
+    {
+        "imageName": "small_104.jpg",
+        "words": [
+            "vb"
+        ],
+        "colors": [
+            "green",
+            "red",
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "small_105.jpg",
+        "brand": "sagres",
+        "words": [
+            "liga",
+            "sagres",
+            "gana!"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "small_106.jpg",
+        "brand": "meckatzer",
+        "words": [
+            "meckatzer",
+            "seit",
+            "1853",
+            "in",
+            "familienbesutz"
+        ],
+        "colors": [
+            "golden",
+            "white"
+        ],
+        "figures": [
+            "ellipse"
+        ]
+    },
+    {
+        "imageName": "small_107.jpg",
+        "brand": "weltenburger",
+        "words": [
+            "weltenburger",
+            "seit",
+            "1050"
+        ],
+        "colors": [
+            "blue",
+            "white",
+            "red",
+            "silver"
+        ],
+        "figures": [
+            "cross"
+        ]
+    },
+    {
+        "imageName": "small_108.jpg",
+        "brand": "super bock",
+        "words": [
+            "super",
+            "bock"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "small_109.jpg",
+        "brand": "sagres",
+        "words": [
+            "sagres",
+            "cerveja"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "small_110.jpg",
+        "brand": "tagus",
+        "words": [
+            "tagus"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "small_111.jpg",
+        "brand": "rothaus",
+        "words": [
+            "rothaus"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "small_112.jpg",
+        "words": [
+            "htb",
+            "tegernseer",
+            "bier"
+        ],
+        "colors": [
+            "blue",
+            "silver"
+        ],
+        "figures": [
+            "crown",
+            "letters"
+        ]
+    },
+    {
+        "imageName": "small_113.jpg",
+        "brand": "hacker-pschorr",
+        "words": [
+            "hacker",
+            "pschorr",
+            "munchen"
+        ],
+        "colors": [
+            "white",
+            "golden",
+            "red",
+            "blue"
+        ],
+        "figures": [
+            "star",
+            "axe"
+        ]
+    },
+    {
+        "imageName": "small_114.jpg",
+        "brand": "grimbergen",
+        "words": [
+            "grimbergen",
+            "aboijbier",
+            "biere",
+            "d'abbaye"
+        ],
+        "colors": [
+            "yellow",
+            "black"
+        ],
+        "figures": [
+            "bird"
+        ]
+    },
+    {
+        "imageName": "small_115.jpg",
+        "brand": "konrad",
+        "words": [
+            "konrad",
+            "k"
+        ],
+        "colors": [
+            "blue",
+            "golden",
+            "white"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "small_116.jpg",
+        "brand": "kostriser",
+        "words": [
+            "kostriser",
+            "schwarzbrau"
+        ],
+        "colors": [
+            "red",
+            "black",
+            "white",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "small_117.jpg",
+        "brand": "super bock",
+        "words": [
+            "super",
+            "bock"
+        ],
+        "colors": [
+            "red",
+            "golden",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "small_118.jpg",
+        "words": [],
+        "colors": [
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "small_119.jpg",
+        "words": [
+            "open"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "black"
+        ],
+        "figures": [
+            "shield",
+            "crown",
+            "flower"
+        ]
+    },
+    {
+        "imageName": "small_120.jpg",
+        "brand": "andechs",
+        "words": [
+            "andechs",
+            "klosterbrauerei",
+            "seit",
+            "1455"
+        ],
+        "colors": [
+            "golden",
+            "blye"
+        ],
+        "figures": [
+            "shield",
+            "eagle",
+            "lion"
+        ]
+    },
+    {
+        "imageName": "small_121.jpg",
+        "brand": "bitburger",
+        "words": [
+            "radler",
+            "bitte",
+            "ein",
+            "bit"
+        ],
+        "colors": [
+            "yellow",
+            "white",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "small_122.jpg",
+        "brand": "postedel",
+        "words": [
+            "postedel",
+            "post",
+            "bier"
+        ],
+        "colors": [
+            "orange",
+            "yellow",
+            "blue",
+            "white"
+        ],
+        "figures": [
+            "grain",
+            "coin"
+        ]
+    },
+    {
+        "imageName": "small_123.jpg",
+        "brand": "sagres",
+        "words": [
+            "sagres",
+            "cerveja",
+            "preta"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "small_124.jpg",
+        "words": [
+            "drehen",
+            "devisser",
+            "svitare"
+        ],
+        "colors": [
+            "yellow",
+            "black"
+        ],
+        "figures": [
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "small_125.jpg",
+        "words": [
+            "st",
+            "bernardus",
+            "wit"
+        ],
+        "colors": [
+            "blue",
+            "silver",
+            "red"
+        ],
+        "figures": [
+            "star",
+            "cross"
+        ]
+    },
+    {
+        "imageName": "small_126.jpg",
+        "brand": "bitburger",
+        "words": [
+            "bitburger",
+            "premium",
+            "pils",
+            "bitte",
+            "ein",
+            "bit"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "small_127.jpg",
+        "brand": "kitzmann",
+        "words": [
+            "kitzmann",
+            "unsere",
+            "erlanger",
+            "bier",
+            "seit",
+            "1712"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "small_128.jpg",
+        "words": [],
+        "colors": [
+            "white",
+            "red"
+        ],
+        "figures": [
+            "cross",
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "small_129.jpg",
+        "brand": "oettinger",
+        "words": [
+            "oettinger",
+            "open",
+            "original"
+        ],
+        "colors": [
+            "golden",
+            "blue"
+        ],
+        "figures": [
+            "coin"
+        ]
+    },
+    {
+        "imageName": "small_130.jpg",
+        "words": [
+            "pivovar",
+            "visoky",
+            "chlumec"
+        ],
+        "colors": [
+            "brown",
+            "white",
+            "gray"
+        ],
+        "figures": [
+            "monastery"
+        ]
+    },
+    {
+        "imageName": "small_131.jpg",
+        "brand": "cardinal",
+        "words": [
+            "cardinal",
+            "lager",
+            "classique",
+            "biere",
+            "bier",
+            "birra",
+            "beer"
+        ],
+        "colors": [
+            "yellow",
+            "white",
+            "red",
+            "blue"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "small_132.jpg",
+        "brand": "",
+        "words": [
+            "bio"
+        ],
+        "colors": [
+            "white",
+            "green"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "small_133.jpg",
+        "words": [],
+        "colors": [
+            "white",
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "crown",
+            "star"
+        ]
+    },
+    {
+        "imageName": "small_134.jpg",
+        "words": [
+            "gtuttgarter",
+            "hofbrau",
+            "pilsner"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "black",
+            "silver"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "small_135.jpg",
+        "brand": "",
+        "words": [
+            "devisser",
+            "svitare",
+            "dreher"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "small_136.jpg",
+        "words": [
+            "aus",
+            "tradition",
+            "privat",
+            "1516",
+            "gebraut",
+            "nach",
+            "dem",
+            "reinheitsgebot"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "hops"
+        ]
+    },
+    {
+        "imageName": "small_137.jpg",
+        "words": [
+            "drehen",
+            "zum",
+            "offnen"
+        ],
+        "colors": [
+            "red",
+            "yellow"
+        ],
+        "figures": [
+            "man",
+            "sword"
+        ]
+    },
+    {
+        "imageName": "small_138.jpg",
+        "brand": "gutmann",
+        "words": [
+            "gutmann",
+            "gutes",
+            "bier"
+        ],
+        "colors": [
+            "white",
+            "blue",
+            "golden"
+        ],
+        "figures": [
+            "shield",
+            "star"
+        ]
+    },
+    {
+        "imageName": "small_139.jpg",
+        "brand": "kulmbacher",
+        "words": [
+            "kulmbacher",
+            "das",
+            "legendare"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "blue"
+        ],
+        "figures": [
+            "lion",
+            "shield",
+            "star"
+        ]
+    },
+    {
+        "imageName": "small_140.jpg",
+        "brand": "beck's",
+        "words": [
+            "beck's",
+            "gold",
+            "reg",
+            "tm"
+        ],
+        "colors": [
+            "back",
+            "golden",
+            "red"
+        ],
+        "figures": [
+            "key",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "small_141.jpg",
+        "brand": "beck's",
+        "words": [
+            "beck's",
+            "ice",
+            "reg",
+            "tm"
+        ],
+        "colors": [
+            "black",
+            "white",
+            "silver",
+            "red"
+        ],
+        "figures": [
+            "key",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "small_142.jpg",
+        "brand": "egger",
+        "words": [
+            "egger",
+            "bier",
+            "worb"
+        ],
+        "colors": [
+            "yellow",
+            "black",
+            "red"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "small_143.jpg",
+        "brand": "hurlimann",
+        "words": [
+            "hurlimann",
+            "lager"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": [
+            "star",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "small_144.jpg",
+        "brand": "bolyarka",
+        "words": [
+            "болярка",
+            "светло"
+        ],
+        "colors": [
+            "green",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "small_145.jpg",
+        "brand": "cristal",
+        "words": [
+            "cristal"
+        ],
+        "colors": [
+            "red",
+            "golden",
+            "white"
+        ],
+        "figures": [
+            "bird",
+            "square"
+        ]
+    },
+    {
+        "imageName": "small_146.jpg",
+        "brand": "union",
+        "words": [
+            "union",
+            "pivo",
+            "beer",
+            "bier",
+            "birra"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "small_147.jpg",
+        "words": [],
+        "colors": [
+            "golden",
+            "white",
+            "blue"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "small_148.jpg",
+        "words": [],
+        "colors": [
+            "golden",
+            "green",
+            "red",
+            "orange",
+            "white"
+        ],
+        "figures": [
+            "dwarf",
+            "cask"
+        ]
+    }
+]
