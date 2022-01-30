@@ -43,7 +43,7 @@ export default {
   },
 
   mounted() {
-    this.importAll(require.context('../assets/images/small/', true, /\.jpg$/));
+    //this.importAll(require.context('../assets/images/small/', true, /\.jpg$/));
   },
 
   methods: {

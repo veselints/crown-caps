@@ -2,19 +2,35 @@
     <div>
         <div>
             <label>Brand:</label>
-            <input v-model="brand"/>
+            <multiselect v-model="brand"
+                    placeholder="Search by brand"
+                    :options="brandsOptions" 
+                    :multiple="false" 
+                    :taggable="true"></multiselect>
         </div>
         <div>
             <label>Words:</label>
-            <input v-model="words"/>
+            <multiselect v-model="words"
+                    placeholder="Search by word"
+                    :options="wordsOptions" 
+                    :multiple="true" 
+                    :taggable="true"></multiselect>
         </div>
         <div>
             <label>Colors:</label>
-            <input v-model="colors"/>
+            <multiselect v-model="colors"
+                    placeholder="Search by color"
+                    :options="colorsOptions" 
+                    :multiple="true" 
+                    :taggable="true"></multiselect>
         </div>
         <div>
             <label>Figures:</label>
-            <input v-model="figures"/>
+            <multiselect v-model="figures"
+                    placeholder="Search by figure"
+                    :options="figuresOptions" 
+                    :multiple="true" 
+                    :taggable="true"></multiselect>
         </div>
         <div class="container">
             <div v-for="cap in result" :key="cap.imageName">
@@ -28,6 +44,8 @@
 </template>
 
 <script>
+    import Multiselect from 'vue-multiselect'
+
     import plate1 from './data/plate1.json'
     import plate2 from './data/plate2.json'
     import plate3 from './data/plate3.json'
@@ -62,22 +80,56 @@
         props: {
             msg: String
         },
+        components: {
+            Multiselect
+        },
         data() {
             return {
                 allCaps:[],
                 result: [],
                 brand: "",
-                words: "",
-                colors: "",
-                figures: ""
+                words: [],
+                colors: [],
+                figures: [],
+                brandsOptions: [],
+                wordsOptions: [],
+                colorsOptions: [],
+                figuresOptions: []
             }
         },
 
+        // ====================
+        // Implement also options sources upon other option change!!!!!!
+        // ====================
         mounted() {
             this.allCaps = plate1.concat(plate2, plate3, plate4, plate5, plate6, plate7, 
                 plate8, plate9, plate10, plate11, plate12, plate13, plate14, 
                 plate15, plate16, plate17, plate18, plate19, plate20, plate21, 
                 plate22, plate23, plate24, plate25, plate26, plate27, small);
+
+            this.allCaps.forEach(cap => {
+                if (cap.brand && this.brandsOptions.indexOf(cap.brand) === -1) {
+                    this.brandsOptions.push(cap.brand);
+                }
+
+                cap.words.forEach(word => {
+                    if (this.wordsOptions.indexOf(word) === -1) {
+                        this.wordsOptions.push(word);
+                    }
+                });
+
+                cap.colors.forEach(color => {
+                    if (this.colorsOptions.indexOf(color) === -1) {
+                        this.colorsOptions.push(color);
+                    }
+                });
+
+                cap.figures.forEach(figure => {
+                    if (this.figuresOptions.indexOf(figure) === -1) {
+                        this.figuresOptions.push(figure);
+                    }
+                });
+            });
         },
 
         methods: {
@@ -95,7 +147,7 @@
 
             filterBy(cap, field) {
                 let that = this,
-                    values = that[field] ? that[field].toLowerCase().split(" ") : [],
+                    values = that[field],
                     capValues = cap[field],
                     result = true;
 
@@ -117,13 +169,13 @@
             },
 
             filterChange(old, field) {
-                let val = this[field].toLowerCase(),
+                let val = this[field],
                     fields = ["words", "colors", "figures"];
 
                 fields.splice(fields.indexOf(field), 1);
 
-                if (!val) {
-                    if (!this.brand && !this.words && !this.colors && !this.figures) {
+                if (!val || val.length === 0) {
+                    if (!this.brand && this.words.length === 0 && this.colors.length === 0 && this.figures.length === 0) {
                             this.result = [];
                         } else {
                             this.result = this.allCaps.filter(this.filterByBrand)
@@ -131,16 +183,11 @@
                                 .filter(cap => this.filterBy(cap, fields[1]));
                         }
                 } else {
-                    if (!!old && val.indexOf(old) > -1) {
-                        //debugger // eslint-disable-line no-debugger
-                        this.result = this.result.filter(cap => this.filterBy(cap, field));
-                    } else {
-                        this.result = this.allCaps
-                            .filter(this.filterByBrand)
-                            .filter(cap => this.filterBy(cap, "words"))
-                            .filter(cap => this.filterBy(cap, "colors"))
-                            .filter(cap => this.filterBy(cap, "figures"));
-                    }
+                    this.result = this.allCaps
+                        .filter(this.filterByBrand)
+                        .filter(cap => this.filterBy(cap, "words"))
+                        .filter(cap => this.filterBy(cap, "colors"))
+                        .filter(cap => this.filterBy(cap, "figures"));
                 }
             }
         },
@@ -175,15 +222,15 @@
             },
 
             words(newVal, oldVal) {
-                this.filterChange(oldVal.toLowerCase(), "words");
+                this.filterChange(oldVal, "words");
             },
 
             colors(newVal, oldVal) {
-                this.filterChange(oldVal.toLowerCase(), "words");
+                this.filterChange(oldVal, "words");
             },
 
             figures(newVal, oldVal) {
-                this.filterChange(oldVal.toLowerCase(), "words");
+                this.filterChange(oldVal, "words");
             }
         }
     })
