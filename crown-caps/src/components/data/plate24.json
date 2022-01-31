@@ -255,7 +255,7 @@
             "golden"
         ],
         "figures": [
-            "dof"
+            "dog"
         ]
     },
     {
@@ -471,8 +471,7 @@
             "gunn",
             "beer",
             "oak",
-            "aged",
-            ""
+            "aged"
         ],
         "colors": [
             "golden",
@@ -676,13 +675,13 @@
         "brand": "bitburger",
         "words": [
             "bitburger",
-            "alkoholfrei"
+            "alkoholfrei",
+            "0,0%"
         ],
         "colors": [
             "brown",
             "white",
-            "golden",
-            "0,0%"
+            "golden"
         ],
         "figures": []
     },
@@ -736,7 +735,7 @@
             "griffon",
             "crown",
             "hops",
-            "hrain"
+            "grain"
         ]
     },
     {

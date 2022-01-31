@@ -74,7 +74,7 @@
         ],
         "colors": [
             "white",
-            "greet",
+            "green",
             "red",
             "blue"
         ],
@@ -199,7 +199,7 @@
             "efes"
         ],
         "colors": [
-            "bue",
+            "blue",
             "golden"
         ],
         "figures": []
@@ -691,7 +691,7 @@
             "golden"
         ],
         "figures": [
-            "goad",
+            "goat",
             "glass"
         ]
     },
@@ -716,7 +716,7 @@
         ],
         "colors": [
             "green",
-            "whte"
+            "white"
         ],
         "figures": [
             "shield",

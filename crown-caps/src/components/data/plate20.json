@@ -470,8 +470,7 @@
         ],
         "figures": [
             "letter",
-            "ellipse",
-            ""
+            "ellipse"
         ]
     },
     {
@@ -585,7 +584,7 @@
         "colors": [
             "silver",
             "pink",
-            "back"
+            "black"
         ],
         "figures": [
             "antelope",

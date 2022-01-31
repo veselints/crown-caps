@@ -68,7 +68,7 @@
         "colors": [
             "red",
             "black",
-            "shite",
+            "white",
             "golden"
         ],
         "figures": [
@@ -164,7 +164,7 @@
         ],
         "colors": [
             "black",
-            "shite",
+            "white",
             "yellow"
         ],
         "figures": [
@@ -185,7 +185,7 @@
         ],
         "colors": [
             "black",
-            "shite",
+            "white",
             "orange",
             "yellow"
         ],
@@ -213,7 +213,7 @@
         ],
         "figures": [
             "leaf",
-            "arrows"
+            "arrow"
         ]
     },
     {
@@ -352,17 +352,17 @@
     },
     {
         "imageName": "plate26_122.jpg",
-        "words": [],
-        "colors": [
+        "words": [
             "brutus",
             "the",
             "beer"
         ],
-        "figures": [
+        "colors": [
             "green",
             "white",
             "golden"
-        ]
+        ],
+        "figures": []
     },
     {
         "imageName": "plate26_123.jpg",

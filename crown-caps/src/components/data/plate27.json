@@ -182,7 +182,7 @@
         ],
         "colors": [
             "green",
-            "shite",
+            "white",
             "golden",
             "silver"
         ],
@@ -258,7 +258,7 @@
             "steiger"
         ],
         "colors": [
-            "greeen",
+            "green",
             "white"
         ],
         "figures": []
@@ -519,8 +519,7 @@
         "words": [],
         "colors": [
             "red",
-            "black",
-            ""
+            "black"
         ],
         "figures": [
             "dog"

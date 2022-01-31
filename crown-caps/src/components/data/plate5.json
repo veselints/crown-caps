@@ -299,12 +299,11 @@
        ],
        "colors":[
           "white",
-          "gray",
-          "eye",
-          "tie"
+          "gray"
        ],
        "figures":[
-          
+         "eye",
+         "tie"
        ]
     },
     {

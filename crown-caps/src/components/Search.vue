@@ -1,32 +1,36 @@
 <template>
     <div>
         <div>
-            <label>Brand:</label>
-            <multiselect v-model="brand"
+            <h2><label for="brand">Brand:</label></h2>
+            <multiselect id="brand"
+                    v-model="brand"
                     placeholder="Search by brand"
                     :options="brandsOptions" 
                     :multiple="false" 
                     :taggable="true"></multiselect>
         </div>
         <div>
-            <label>Words:</label>
-            <multiselect v-model="words"
+            <h2><label for="words">Words:</label></h2>
+            <multiselect id="words"
+                    v-model="words"
                     placeholder="Search by word"
                     :options="wordsOptions" 
                     :multiple="true" 
                     :taggable="true"></multiselect>
         </div>
         <div>
-            <label>Colors:</label>
-            <multiselect v-model="colors"
+            <h2><label for="colors">Colors:</label></h2>
+            <multiselect id="colors"
+                    v-model="colors"
                     placeholder="Search by color"
                     :options="colorsOptions" 
                     :multiple="true" 
                     :taggable="true"></multiselect>
         </div>
         <div>
-            <label>Figures:</label>
-            <multiselect v-model="figures"
+            <h2><label for="figures">Figures:</label></h2>
+            <multiselect id="figures"
+                    v-model="figures"
                     placeholder="Search by figure"
                     :options="figuresOptions" 
                     :multiple="true" 
@@ -130,6 +134,11 @@
                     }
                 });
             });
+
+            this.brandsOptions.sort((a, b) => a.localeCompare(b));
+            this.wordsOptions.sort((a, b) => a.localeCompare(b));
+            this.colorsOptions.sort((a, b) => a.localeCompare(b));
+            this.figuresOptions.sort((a, b) => a.localeCompare(b));
         },
 
         methods: {
@@ -142,7 +151,7 @@
                     return true;
                 }
 
-                return !!cap.brand && cap.brand.indexOf(this.brand) > -1;
+                return !!cap.brand && cap.brand === this.brand;
             },
 
             filterBy(cap, field) {
@@ -152,15 +161,15 @@
                     result = true;
 
                 values.forEach(val => {
-                    let currentResult = false;
+                    //let currentResult = false;
 
-                    capValues.forEach((v) => {
-                        if (v.indexOf(val) > -1) {
-                            currentResult = true;
-                        }
-                    });
+                    // capValues.forEach((v) => {
+                    //     if (v.indexOf(val) > -1) {
+                    //         currentResult = true;
+                    //     }
+                    // });
 
-                    if (!currentResult) {
+                    if (!capValues.includes(val)) {
                         result = false;
                     }
                 });
@@ -195,8 +204,8 @@
         watch: {
             brand(newVal, oldVal) {
                 let that = this,
-                    val = newVal.toLowerCase(),
-                    old = oldVal.toLowerCase();
+                    val = newVal ? newVal.toLowerCase() : "",
+                    old = oldVal ? oldVal.toLowerCase() : "";
 
                 if (!val) {
                     if (that.words.length === 0 &&

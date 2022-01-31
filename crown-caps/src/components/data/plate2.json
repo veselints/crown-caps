@@ -6,11 +6,11 @@
           "ambar"
        ],
        "colors":[
-          "gold",
+          "golden",
           "brown"
        ],
        "figures":[
-          "triagle"
+          "triangle"
        ]
     },
     {
@@ -389,10 +389,7 @@
           "red",
           "white"
        ],
-       "figures":[
-          "",
-          ""
-       ]
+       "figures":[]
     },
     {
        "imageName":"plate2_126.jpg",
@@ -655,8 +652,7 @@
           "black"
        ],
        "figures":[
-          "star",
-          ""
+          "star"
        ]
     },
     {

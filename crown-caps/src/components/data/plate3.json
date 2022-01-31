@@ -401,8 +401,7 @@
           "retornable",
           "onica",
           "desde",
-          "cerveza",
-          ""
+          "cerveza"
        ],
        "colors":[
           "red",
@@ -567,7 +566,7 @@
           "white"
        ],
        "figures":[
-          "triangles"
+          "triangle"
        ]
     },
     {
@@ -712,7 +711,7 @@
           
        ],
        "colors":[
-          "pick",
+          "pink",
           "white"
        ],
        "figures":[

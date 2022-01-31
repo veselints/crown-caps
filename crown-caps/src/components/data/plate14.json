@@ -173,7 +173,7 @@
           "white"
        ],
        "figures":[
-          "coins",
+          "coin",
           "tube"
        ]
     },
@@ -494,14 +494,14 @@
           "yellow"
        ],
        "figures":[
-          "squares"
+          "square"
        ]
     },
     {
        "imageName":"plate14_130.jpg",
-       "brand":"manabrea",
+       "brand":"menabrea",
        "words":[
-          "manabrea",
+          "menabrea",
           "1846",
           "biella",
           "italia"
