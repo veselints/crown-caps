@@ -1,5 +1,6 @@
 <template>
   <div>
+    test
     <input type="button" value="click" v-on:click="getData()"/>
     <div class="container">
       <div v-for="img in images" :key="img.name">
@@ -43,7 +44,7 @@ export default {
   },
 
   mounted() {
-    //this.importAll(require.context('../assets/images/small/', true, /\.jpg$/));
+    this.importAll(require.context('../assets/large/', true, /\.jpg$/));
   },
 
   methods: {

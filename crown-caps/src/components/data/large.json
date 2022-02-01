@@ -1,0 +1,2735 @@
+[
+    {
+        "imageName": "large_1000.jpg",
+        "brand": "svetlo pivo",
+        "words": [
+            "светло",
+            "пиво",
+            "10%"
+        ],
+        "colors": [
+            "green",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1001.jpg",
+        "brand": "shumensko",
+        "words": [
+            "шуменско"
+        ],
+        "colors": [
+            "silver",
+            "black"
+        ],
+        "figures": [
+            "lion",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "large_1002.jpg",
+        "brand": "ledenika",
+        "words": [
+            "леденика",
+            "светло",
+            "обикновено",
+            "пиво",
+            "л",
+            "м"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "large_1003.jpg",
+        "brand": "riedenburger",
+        "words": [
+            "riedenburger",
+            "brauhaus"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "red"
+        ],
+        "figures": [
+            "flower"
+        ]
+    },
+    {
+        "imageName": "large_1004.jpg",
+        "brand": "lapin kulta",
+        "words": [
+            "lapin",
+            "kulta",
+            "since",
+            "1873",
+            "5,2"
+        ],
+        "colors": [
+            "blue",
+            "white",
+            "red"
+        ],
+        "figures": [
+            "sun"
+        ]
+    },
+    {
+        "imageName": "large_1005.jpg",
+        "brand": "cab",
+        "words": [
+            "cab",
+            "lemon",
+            "beer",
+            "flavored",
+            "with",
+            ""
+        ],
+        "colors": [
+            "silver",
+            "black",
+            "green"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1006.jpg",
+        "brand": "eristoff",
+        "words": [
+            "eristoff",
+            "ice"
+        ],
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1007.jpg",
+        "brand": "marzen",
+        "words": [
+            "marzen"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "red"
+        ],
+        "figures": [
+            "shield",
+            "eagle"
+        ]
+    },
+    {
+        "imageName": "large_1008.jpg",
+        "brand": "bud",
+        "words": [
+            "bud",
+            "brewery",
+            "fresh",
+            "king",
+            "of",
+            "beers"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1009.jpg",
+        "words": [],
+        "colors": [
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1010.jpg",
+        "brand": "",
+        "words": [
+            "berg",
+            "konig"
+        ],
+        "colors": [
+            "golden",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1011.jpg",
+        "words": [
+            "mb"
+        ],
+        "colors": [
+            "golden",
+            "red",
+            "white"
+        ],
+        "figures": [
+            "letter",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "large_1012.jpg",
+        "brand": "alexander",
+        "words": [
+            "alexander"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "black"
+        ],
+        "figures": [
+            "flower"
+        ]
+    },
+    {
+        "imageName": "large_1013.jpg",
+        "brand": "pirinsko",
+        "words": [
+            "пиринско"
+        ],
+        "colors": [
+            "yellow",
+            "green"
+        ],
+        "figures": [
+            "horse"
+        ]
+    },
+    {
+        "imageName": "large_1014.jpg",
+        "brand": "erdinger",
+        "words": [
+            "erdinger",
+            "weissbrau"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "blue",
+            "red"
+        ],
+        "figures": [
+            "grain"
+        ]
+    },
+    {
+        "imageName": "large_1015.jpg",
+        "brand": "gambrinus",
+        "words": [
+            "zalozeno",
+            "v",
+            "plzni",
+            "roku",
+            "1896",
+            "g"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "large_1016.jpg",
+        "brand": "schlenkeria",
+        "words": [
+            "schlenkeria"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": [
+            "man",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "large_1017.jpg",
+        "brand": "timisoreana",
+        "words": [
+            "timisoreana"
+        ],
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1018.jpg",
+        "brand": "ozujsko",
+        "words": [
+            "ozujsko",
+            "pivo"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1019.jpg",
+        "brand": "zastro azzurro",
+        "words": [
+            "nastro",
+            "azzurro"
+        ],
+        "colors": [
+            "golden",
+            "blue",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1020.jpg",
+        "brand": "chimay",
+        "words": [
+            "chimay",
+            "trappist"
+        ],
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1021.jpg",
+        "brand": "splugen",
+        "words": [
+            "splugen"
+        ],
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "figures": [
+            "lion",
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "large_1022.jpg",
+        "brand": "hoegaarden",
+        "words": [],
+        "colors": [
+            "silver",
+            "blue",
+            "golden"
+        ],
+        "figures": [
+            "hand",
+            "stick"
+        ]
+    },
+    {
+        "imageName": "large_1023.jpg",
+        "brand": "saporo",
+        "words": [
+            "saporo"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "large_1025.jpg",
+        "brand": "bavaria",
+        "words": [
+            "bavaria",
+            "holland"
+        ],
+        "colors": [
+            "green",
+            "blue",
+            "orange",
+            "white"
+        ],
+        "figures": [
+            "arrow",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "large_1026.jpg",
+        "brand": "heineken",
+        "words": [
+            "heineken",
+            "pilsner"
+        ],
+        "colors": [
+            "green",
+            "white",
+            "red",
+            "orange"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "large_1027.jpg",
+        "words": [
+            "to",
+            "si",
+            "vypijes"
+        ],
+        "colors": [
+            "green",
+            "white"
+        ],
+        "figures": [
+            "hand"
+        ]
+    },
+    {
+        "imageName": "large_1028.jpg",
+        "brand": "Kostriser",
+        "words": [
+            "kostriser",
+            "schwarzbier"
+        ],
+        "colors": [
+            "black",
+            "golden",
+            "white",
+            "red"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1029.jpg",
+        "brand": "lasko",
+        "words": [
+            "lasko",
+            "pivo",
+            "1825",
+            "zlatorog"
+        ],
+        "colors": [
+            "green",
+            "white"
+        ],
+        "figures": [
+            "goat"
+        ]
+    },
+    {
+        "imageName": "large_1030.jpg",
+        "brand": "jever",
+        "words": [
+            "jever",
+            "pilsner"
+        ],
+        "colors": [
+            "green",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1031.jpg",
+        "brand": "beck's",
+        "words": [
+            "beck's",
+            "red",
+            "tm"
+        ],
+        "colors": [
+            "silver",
+            "black",
+            "red"
+        ],
+        "figures": [
+            "key",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1032.jpg",
+        "brand": "liulin",
+        "words": [
+            "люлин"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1033.jpg",
+        "words": [],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "grain"
+        ]
+    },
+    {
+        "imageName": "large_1034.jpg",
+        "words": [
+            "export",
+            "quality"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1035.jpg",
+        "words": [],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "large_1036.jpg",
+        "words": [
+            "a"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "large_1037.jpg",
+        "brand": "guinness",
+        "words": [
+            "guinness"
+        ],
+        "colors": [
+            "yellow",
+            "black"
+        ],
+        "figures": [
+            "harp"
+        ]
+    },
+    {
+        "imageName": "large_1038.jpg",
+        "words": [
+            "premium",
+            "quality"
+        ],
+        "colors": [
+            "golden",
+            "red"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1039.jpg",
+        "words": [
+            "tradizionale",
+            "birra",
+            "di",
+            "montagna",
+            "fabrica",
+            "italiana",
+            "della",
+            "rirra",
+            "pedavena"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "brown"
+        ],
+        "figures": [
+            "lion",
+            "town"
+        ]
+    },
+    {
+        "imageName": "large_1040.jpg",
+        "brand": "tuborg",
+        "words": [
+            "tuborg",
+            "original",
+            "quality",
+            "since",
+            "1880",
+            "premium",
+            "beer"
+        ],
+        "colors": [
+            "green",
+            "black",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1041.jpg",
+        "brand": "ariana",
+        "words": [
+            "ариана"
+        ],
+        "colors": [
+            "black",
+            "white",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1042.jpg",
+        "brand": "ariana",
+        "words": [
+            "ариана",
+            "тъмно"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "red"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1043.jpg",
+        "brand": "pirinsko",
+        "words": [
+            "пиринско",
+            "светло"
+        ],
+        "colors": [
+            "yellow",
+            "green"
+        ],
+        "figures": [
+            "horse",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1044.jpg",
+        "brand": "newcastle",
+        "words": [
+            "newcastle",
+            "brown",
+            "ale"
+        ],
+        "colors": [
+            "yellow",
+            "red",
+            "white",
+            "black",
+            "blue"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "large_1045.jpg",
+        "brand": "stiegl",
+        "words": [
+            "stiegl",
+            "bier",
+            "salzburger"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "black"
+        ],
+        "figures": [
+            "steps"
+        ]
+    },
+    {
+        "imageName": "large_1046.jpg",
+        "brand": "fruh",
+        "words": [
+            "fruh",
+            "kolsch"
+        ],
+        "colors": [
+            "red",
+            "golden",
+            "white"
+        ],
+        "figures": [
+            "crown"
+        ]
+    },
+    {
+        "imageName": "large_1047.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "hops"
+        ]
+    },
+    {
+        "imageName": "large_1048.jpg",
+        "brand": "bavaria",
+        "words": [
+            "bavaria",
+            "malt"
+        ],
+        "colors": [
+            "red",
+            "blue",
+            "white"
+        ],
+        "figures": [
+            "grain",
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "large_1049.jpg",
+        "words": [
+            "hand",
+            "made",
+            "the",
+            "slow",
+            "beer"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "large_1050.jpg",
+        "brand": "splugen",
+        "words": [
+            "splugen"
+        ],
+        "colors": [
+            "blue",
+            "white",
+            "yellow"
+        ],
+        "figures": [
+            "lion"
+        ]
+    },
+    {
+        "imageName": "large_1051.jpg",
+        "brand": "gosser",
+        "words": [
+            "gosser",
+            "bock"
+        ],
+        "colors": [
+            "green",
+            "white",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1052.jpg",
+        "brand": "urho",
+        "words": [
+            "urho",
+            "4,7"
+        ],
+        "colors": [
+            "black",
+            "golden",
+            "white"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "large_1053.jpg",
+        "brand": "meisels weisse",
+        "words": [
+            "meisels",
+            "weisse",
+            "original"
+        ],
+        "colors": [
+            "silver",
+            "blue"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "large_1054.jpg",
+        "brand": "frederik",
+        "words": [
+            "frederik"
+        ],
+        "colors": [
+            "green",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1055.jpg",
+        "brand": "heineken",
+        "words": [
+            "heineken",
+            "beer"
+        ],
+        "colors": [
+            "green",
+            "white"
+        ],
+        "figures": [
+            "star"
+        ]
+    },
+    {
+        "imageName": "large_1056.jpg",
+        "brand": "burgasko",
+        "words": [
+            "бургаско"
+        ],
+        "colors": [
+            "green",
+            "white",
+            "red"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1057.jpg",
+        "words": [],
+        "colors": [
+            "green",
+            "silver"
+        ],
+        "figures": [
+            "lion",
+            "cask"
+        ]
+    },
+    {
+        "imageName": "large_1058.jpg",
+        "words": [],
+        "colors": [
+            "silver"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1059.jpg",
+        "brand": "ledenika",
+        "words": [
+            "ledenika"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1060.jpg",
+        "brand": "cobra",
+        "words": [
+            "cobra"
+        ],
+        "colors": [
+            "golden",
+            "green",
+            "red"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1061.jpg",
+        "words": [
+            "privat",
+            "pils"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "brown"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1062.jpg",
+        "brand": "",
+        "words": [
+            "специално",
+            "пиво"
+        ],
+        "colors": [
+            "green",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1063.jpg",
+        "words": [
+            "оригинално",
+            "пиво"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1064.jpg",
+        "brand": "skol",
+        "words": [
+            "skol"
+        ],
+        "colors": [
+            "red",
+            "golden",
+            "white",
+            "black"
+        ],
+        "figures": [
+            "map"
+        ]
+    },
+    {
+        "imageName": "large_1065.jpg",
+        "brand": "astika",
+        "words": [
+            "astika"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "black"
+        ],
+        "figures": [
+            "crown"
+        ]
+    },
+    {
+        "imageName": "large_1066.jpg",
+        "brand": "lasko",
+        "words": [
+            "lasko",
+            "pivo",
+            "club",
+            "open",
+            "odvij"
+        ],
+        "colors": [
+            "black",
+            "white",
+            "green"
+        ],
+        "figures": [
+            "arrow",
+            "goat"
+        ]
+    },
+    {
+        "imageName": "large_1067.jpg",
+        "words": [
+            "les",
+            "brasseurs",
+            "de",
+            "gayant"
+        ],
+        "colors": [
+            "golden",
+            "white"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "large_1068.jpg",
+        "brand": "clausthaler",
+        "words": [
+            "clausthaler",
+            "marke"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "golden",
+            "brown"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1069.jpg",
+        "brand": "guinness",
+        "words": [
+            "guinness",
+            "trade",
+            "mark",
+            "extra",
+            "stout"
+        ],
+        "colors": [
+            "white",
+            "black"
+        ],
+        "figures": [
+            "harp"
+        ]
+    },
+    {
+        "imageName": "large_1070.jpg",
+        "words": [
+            "puls",
+            "h.f.",
+            "1846"
+        ],
+        "colors": [
+            "black",
+            "yellow"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1071.jpg",
+        "brand": "bavaria",
+        "words": [
+            "bavaria",
+            "holland"
+        ],
+        "colors": [
+            "orange",
+            "white",
+            "green",
+            "red",
+            "blue"
+        ],
+        "figures": [
+            "grain"
+        ]
+    },
+    {
+        "imageName": "large_1072.jpg",
+        "brand": "amstel",
+        "words": [
+            "amstel",
+            "bier",
+            "1870"
+        ],
+        "colors": [
+            "black",
+            "white",
+            "red",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1073.jpg",
+        "words": [],
+        "colors": [
+            "green",
+            "silver"
+        ],
+        "figures": [
+            "tree"
+        ]
+    },
+    {
+        "imageName": "large_1074.jpg",
+        "words": [
+            "специално",
+            "столично",
+            "пиво"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "glass"
+        ]
+    },
+    {
+        "imageName": "large_1075.jpg",
+        "brand": "gosser",
+        "words": [
+            "gosser"
+        ],
+        "colors": [
+            "golden",
+            "green",
+            "red",
+            "white"
+        ],
+        "figures": [
+            "lion",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "large_1076.jpg",
+        "brand": "amstel",
+        "words": [
+            "amstel",
+            "beer"
+        ],
+        "colors": [
+            "red",
+            "black",
+            "white"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1077.jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "white",
+            "red"
+        ],
+        "figures": [
+            "arrow",
+            "opener"
+        ]
+    },
+    {
+        "imageName": "large_1078.jpg",
+        "brand": "splugen",
+        "words": [
+            "splugen"
+        ],
+        "colors": [
+            "blue",
+            "white",
+            "yellow"
+        ],
+        "figures": [
+            "lion"
+        ]
+    },
+    {
+        "imageName": "large_1079.jpg",
+        "brand": "schneider weisse",
+        "words": [
+            "tap",
+            "7"
+        ],
+        "colors": [
+            "blue",
+            "white",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1080.jpg",
+        "brand": "bolyarka",
+        "words": [
+            "болярка"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1081.jpg",
+        "brand": "gilden",
+        "words": [
+            "gilden",
+            "kolsch",
+            "weiss"
+        ],
+        "colors": [
+            "green",
+            "white",
+            "red"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1082.jpg",
+        "brand": "ceres",
+        "words": [
+            "ceres",
+            "denmark"
+        ],
+        "colors": [
+            "green",
+            "white"
+        ],
+        "figures": [
+            "crown"
+        ]
+    },
+    {
+        "imageName": "large_1083.jpg",
+        "brand": "kamenitza",
+        "words": [
+            "kamenitza",
+            "1881"
+        ],
+        "colors": [
+            "green",
+            "white",
+            "black"
+        ],
+        "figures": [
+            "hops",
+            "lion"
+        ]
+    },
+    {
+        "imageName": "large_1084.jpg",
+        "brand": "guinness",
+        "words": [],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "harp"
+        ]
+    },
+    {
+        "imageName": "large_1085.jpg",
+        "brand": "mm",
+        "words": [
+            "mm",
+            "beer"
+        ],
+        "colors": [
+            "green",
+            "white",
+            "silver"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "large_1086.jpg",
+        "brand": "",
+        "words": [
+            "plzensky"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "gate"
+        ]
+    },
+    {
+        "imageName": "large_1087.jpg",
+        "brand": "presidendi",
+        "words": [
+            "presidendi",
+            "saku",
+            "olletehas",
+            "ekiprulla",
+            "1820"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "gray"
+        ],
+        "figures": [
+            "grain"
+        ]
+    },
+    {
+        "imageName": "large_1088.jpg",
+        "brand": "desperados",
+        "words": [
+            "desperados",
+            "beer",
+            "flavored",
+            "with",
+            "tequila"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "coin"
+        ]
+    },
+    {
+        "imageName": "large_1089.jpg",
+        "brand": "bitburger",
+        "words": [
+            "bitburger",
+            "drive",
+            "open",
+            "drehen",
+            "bitte",
+            "ein",
+            "bit"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "silver"
+        ],
+        "figures": [
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "large_1090.jpg",
+        "brand": "bitburger",
+        "words": [
+            "bitburger",
+            "premium",
+            "pils",
+            "open",
+            "drehen",
+            "bitte",
+            "ein",
+            "bit"
+        ],
+        "colors": [
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "large_1091.jpg",
+        "brand": "zagorka",
+        "words": [
+            "zagorka",
+            "gold"
+        ],
+        "colors": [
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "lion",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1092.jpg",
+        "brand": "jelen",
+        "words": [
+            "jelen",
+            "pivo",
+            "2007"
+        ],
+        "colors": [
+            "black",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "ball"
+        ]
+    },
+    {
+        "imageName": "large_1093.jpg",
+        "brand": "warsteiner",
+        "words": [
+            "warsteiner",
+            "eine",
+            "konigin",
+            "unter",
+            "den",
+            "bieren"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "black"
+        ],
+        "figures": [
+            "crown"
+        ]
+    },
+    {
+        "imageName": "large_1094.jpg",
+        "brand": "corona",
+        "words": [
+            "corona",
+            "extra"
+        ],
+        "colors": [
+            "white",
+            "blue",
+            "yellow"
+        ],
+        "figures": [
+            "crown"
+        ]
+    },
+    {
+        "imageName": "large_1095.jpg",
+        "brand": "holsten",
+        "words": [
+            "holsten",
+            "premium",
+            "brauerei",
+            "ag",
+            "hamburg",
+            "germany"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "horse",
+            "man",
+            "sword",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1096.jpg",
+        "brand": "radeberger",
+        "words": [
+            "radeberger"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "red"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1097.jpg",
+        "words": [
+            "alecos"
+        ],
+        "colors": [
+            "white",
+            "golden",
+            "red",
+            "black"
+        ],
+        "figures": [
+            "crown"
+        ]
+    },
+    {
+        "imageName": "large_1098.jpg",
+        "brand": "murphy's",
+        "words": [
+            "murphy's"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1099.jpg",
+        "words": [
+            "tripel",
+            "karmeliet",
+            "16",
+            "79"
+        ],
+        "colors": [
+            "white",
+            "black"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1100.jpg",
+        "brand": "bavaria",
+        "words": [
+            "bavaria",
+            "totodop",
+            "10"
+        ],
+        "colors": [
+            "orange",
+            "white",
+            "blue",
+            "yellow"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1102.jpg",
+        "brand": "beck's",
+        "words": [
+            "beck's",
+            "non",
+            "alcoholic",
+            "reg",
+            "tm"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "black",
+            "silver"
+        ],
+        "figures": [
+            "key",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1103.jpg",
+        "words": [
+            "murquer",
+            "marzen"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "black",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1104.jpg",
+        "brand": "zagorka",
+        "words": [
+            "zagorka",
+            "gold"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": [
+            "lion"
+        ]
+    },
+    {
+        "imageName": "large_1105.jpg",
+        "brand": "sion",
+        "words": [
+            "sion",
+            "kolsch"
+        ],
+        "colors": [
+            "blue",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "church"
+        ]
+    },
+    {
+        "imageName": "large_1106.jpg",
+        "brand": "ambrosius",
+        "words": [
+            "ambrosius"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1107.jpg",
+        "brand": "kamenitza",
+        "words": [
+            "kamenitza",
+            "1881"
+        ],
+        "colors": [
+            "blue",
+            "white",
+            "black"
+        ],
+        "figures": [
+            "hops"
+        ]
+    },
+    {
+        "imageName": "large_1108.jpg",
+        "brand": "gilden",
+        "words": [
+            "gilden",
+            "kolsch",
+            "pesch"
+        ],
+        "colors": [
+            "green",
+            "white",
+            "red"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1110.jpg",
+        "brand": "efes",
+        "words": [
+            "efes"
+        ],
+        "colors": [
+            "blue",
+            "white",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1111.jpg",
+        "words": [
+            "brinkhoff's",
+            "n1"
+        ],
+        "colors": [
+            "white",
+            "green",
+            "red"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "large_1112.jpg",
+        "brand": "lichter",
+        "words": [
+            "lichter",
+            "pilsner"
+        ],
+        "colors": [
+            "white",
+            "green",
+            "golden"
+        ],
+        "figures": [
+            "gate"
+        ]
+    },
+    {
+        "imageName": "large_1113.jpg",
+        "brand": "pirinsko",
+        "words": [],
+        "colors": [
+            "green",
+            "white"
+        ],
+        "figures": [
+            "horse",
+            "glass",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "large_1114.jpg",
+        "words": [
+            "r"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "star",
+            "letter"
+        ]
+    },
+    {
+        "imageName": "large_1115.jpg",
+        "brand": "verhaeghe",
+        "words": [
+            "verhaeghe"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "lion",
+            "shield",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "large_1116.jpg",
+        "words": [
+            "schloss",
+            "fels"
+        ],
+        "colors": [
+            "white",
+            "green"
+        ],
+        "figures": [
+            "monastery"
+        ]
+    },
+    {
+        "imageName": "large_1117.jpg",
+        "words": [
+            "les",
+            "brasseurs",
+            "de",
+            "gayant"
+        ],
+        "colors": [
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "large_1118.jpg",
+        "brand": "velikotarnovsko",
+        "words": [
+            "великотърновско",
+            "пиво",
+            "1892"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "shield",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "large_1119.jpg",
+        "words": [
+            "tradizionale",
+            "birra",
+            "di",
+            "montagna",
+            "fabrica",
+            "italiana",
+            "della",
+            "rirra",
+            "pedavena"
+        ],
+        "colors": [
+            "white",
+            "black"
+        ],
+        "figures": [
+            "lion",
+            "town"
+        ]
+    },
+    {
+        "imageName": "large_1120.jpg",
+        "brand": "kamenitza",
+        "words": [
+            "kamenitza",
+            "1881"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "yellow"
+        ],
+        "figures": [
+            "hops",
+            "lion"
+        ]
+    },
+    {
+        "imageName": "large_1121.jpg",
+        "brand": "stella artois",
+        "words": [
+            "stella",
+            "artois",
+            "anno",
+            "1366"
+        ],
+        "colors": [
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "coins",
+            "tube",
+            "star"
+        ]
+    },
+    {
+        "imageName": "large_1122.jpg",
+        "brand": "lapin kulta",
+        "words": [
+            "lapin",
+            "kulta",
+            "since",
+            "1873"
+        ],
+        "colors": [
+            "blue",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "compass"
+        ]
+    },
+    {
+        "imageName": "large_1123.jpg",
+        "brand": "freiburger",
+        "words": [
+            "freiburger",
+            "pilsner"
+        ],
+        "colors": [
+            "black",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "chirch"
+        ]
+    },
+    {
+        "imageName": "large_1124.jpg",
+        "words": [
+            "gold",
+            "premium",
+            "beer"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "red"
+        ],
+        "figures": [
+            "hops"
+        ]
+    },
+    {
+        "imageName": "large_1126.jpg",
+        "brand": "sofia",
+        "words": [
+            "sofia",
+            "brewery"
+        ],
+        "colors": [
+            "white",
+            "gray",
+            "red"
+        ],
+        "figures": [
+            "shield",
+            "lion"
+        ]
+    },
+    {
+        "imageName": "large_1127.jpg",
+        "brand": "zagorka",
+        "words": [
+            "zagorka"
+        ],
+        "colors": [
+            "red",
+            "white"
+        ],
+        "figures": [
+            "arrow"
+        ]
+    },
+    {
+        "imageName": "large_1128.jpg",
+        "words": [
+            "специално",
+            "пиво"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "glass"
+        ]
+    },
+    {
+        "imageName": "large_1129.jpg",
+        "brand": "pacifico",
+        "words": [
+            "pacifico",
+            "mazatlan",
+            "cerveceria",
+            "del",
+            "pacifico"
+        ],
+        "colors": [
+            "black",
+            "yellow"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1130.jpg",
+        "brand": "krombacher",
+        "words": [
+            "krombacher",
+            "weizen"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "orange",
+            "golden"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1131.jpg",
+        "brand": "beck's",
+        "words": [
+            "beck's",
+            "next",
+            "reg",
+            "tm"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "silver"
+        ],
+        "figures": [
+            "key",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1132.jpg",
+        "brand": "moretti",
+        "words": [
+            "zero",
+            "birra",
+            "moretti"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "gray"
+        ],
+        "figures": [
+            "grain"
+        ]
+    },
+    {
+        "imageName": "large_1133.jpg",
+        "brand": "bolyarka",
+        "words": [
+            "weiss",
+            "болярка"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1134.jpg",
+        "brand": "zgorka",
+        "words": [
+            "zagorka"
+        ],
+        "colors": [
+            "green",
+            "white",
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "lion",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "large_1135.jpg",
+        "brand": "gutmann",
+        "words": [
+            "gutmann",
+            "gutes",
+            "bier"
+        ],
+        "colors": [
+            "white",
+            "blue",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1136.jpg",
+        "words": [
+            "valentius",
+            "weisbier"
+        ],
+        "colors": [
+            "white",
+            "blue",
+            "golden"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "large_1137.jpg",
+        "brand": "lacplesis",
+        "words": [
+            "lacplesis"
+        ],
+        "colors": [
+            "white",
+            "green"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1138.jpg",
+        "brand": "zagorka",
+        "words": [
+            "загорка",
+            "специално",
+            "пиво",
+            "12%"
+        ],
+        "colors": [
+            "green",
+            "white"
+        ],
+        "figures": [
+            "lion"
+        ]
+    },
+    {
+        "imageName": "large_1139.jpg",
+        "brand": "kamenitza",
+        "words": [
+            "kamenitza",
+            "1881"
+        ],
+        "colors": [
+            "black",
+            "silver"
+        ],
+        "figures": [
+            "lion",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1140.jpg",
+        "brand": "astika",
+        "words": [
+            "astika"
+        ],
+        "colors": [
+            "black",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1141.jpg",
+        "words": [
+            "h",
+            "hertog",
+            "jan",
+            "bieren",
+            "grand",
+            "prestige"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "white"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "large_1142.jpg",
+        "brand": "ariana",
+        "words": [
+            "ариана"
+        ],
+        "colors": [
+            "white",
+            "green"
+        ],
+        "figures": [
+            "lion",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1143.jpg",
+        "brand": "schofferhofer",
+        "words": [
+            "schofferhofer",
+            "grapefrut",
+            "hefeweizen",
+            "mix"
+        ],
+        "colors": [
+            "orange",
+            "black",
+            "silver"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1144.jpg",
+        "brand": "dab",
+        "words": [
+            "dab"
+        ],
+        "colors": [
+            "white",
+            "golden",
+            "red",
+            "green"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "large_1145.jpg",
+        "brand": "primator",
+        "words": [
+            "primator"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "man",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "large_1146.jpg",
+        "brand": "zagorka",
+        "words": [
+            "загорка",
+            "10%"
+        ],
+        "colors": [
+            "white",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1148.jpg",
+        "words": [
+            "premium",
+            "",
+            "qualitat"
+        ],
+        "colors": [
+            "green",
+            "golden"
+        ],
+        "figures": [
+            "deer",
+            "star"
+        ]
+    },
+    {
+        "imageName": "large_1149.jpg",
+        "brand": "sofiisko",
+        "words": [
+            "софийско",
+            "пиво",
+            "специално"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "lion",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1150.jpg",
+        "brand": "kamenitza",
+        "words": [
+            "kamenitza",
+            "special"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1151.jpg",
+        "brand": "astika",
+        "words": [
+            "astika"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "white"
+        ],
+        "figures": [
+            "glass"
+        ]
+    },
+    {
+        "imageName": "large_1152.jpg",
+        "brand": "stella artois",
+        "words": [
+            "stella",
+            "artois",
+            "anno"
+        ],
+        "colors": [
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "coin",
+            "tube",
+            "star"
+        ]
+    },
+    {
+        "imageName": "large_1153.jpg",
+        "brand": "kamenitza",
+        "words": [
+            "kamenitza",
+            "1881"
+        ],
+        "colors": [
+            "golden",
+            "white",
+            "black"
+        ],
+        "figures": [
+            "hops",
+            "lion"
+        ]
+    },
+    {
+        "imageName": "large_1154.jpg",
+        "brand": "zagorka",
+        "words": [
+            "zagorka",
+            "special"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "lion",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1155.jpg",
+        "brand": "zagorka",
+        "words": [
+            "zagorka",
+            "gold"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "lion",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1156.jpg",
+        "brand": "ochakovo",
+        "words": [
+            "очаково",
+            "премиум"
+        ],
+        "colors": [
+            "black",
+            "golden",
+            "red"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1157.jpg",
+        "brand": "liulin",
+        "words": [
+            "специално",
+            "люлин",
+            "лв",
+            "0.60"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "large_1158.jpg",
+        "brand": "duvel",
+        "words": [
+            "duvel"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "shield",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "large_1159.jpg",
+        "brand": "grolsch",
+        "words": [
+            "grolsch",
+            "ambar",
+            "ale"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1161.jpg",
+        "brand": "beck's",
+        "words": [
+            "beck's",
+            "reg",
+            "tm"
+        ],
+        "colors": [
+            "white",
+            "silver",
+            "black",
+            "red"
+        ],
+        "figures": [
+            "key",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1162.jpg",
+        "brand": "staropramen",
+        "words": [
+            "staropramen",
+            "imported",
+            "s"
+        ],
+        "colors": [
+            "yellow",
+            "green",
+            "red"
+        ],
+        "figures": [
+            "letter"
+        ]
+    },
+    {
+        "imageName": "large_1163.jpg",
+        "brand": "hafferoder",
+        "words": [
+            "hafferoder",
+            "premium",
+            "pils"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "bird"
+        ]
+    },
+    {
+        "imageName": "large_1164.jpg",
+        "brand": "peroni",
+        "words": [
+            "birra",
+            "peroni",
+            "1846"
+        ],
+        "colors": [
+            "white",
+            "blue",
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "eagle",
+            "shield",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "large_1165.jpg",
+        "brand": "habermann",
+        "words": [
+            "habermann"
+        ],
+        "colors": [
+            "white",
+            "blue"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1166.jpg",
+        "brand": "zipfer",
+        "words": [
+            "zipfer",
+            "1858"
+        ],
+        "colors": [
+            "white",
+            "blue",
+            "silver"
+        ],
+        "figures": [
+            "arrow",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "large_1167.jpg",
+        "brand": "dom",
+        "words": [
+            "dom",
+            "kolsch"
+        ],
+        "colors": [
+            "white",
+            "golden",
+            "green",
+            "red"
+        ],
+        "figures": [
+            "church",
+            "coin"
+        ]
+    },
+    {
+        "imageName": "large_1168.jpg",
+        "brand": "zagorka",
+        "words": [
+            "zagorka",
+            "special"
+        ],
+        "colors": [
+            "green",
+            "white",
+            "red"
+        ],
+        "figures": [
+            "lion",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "large_1169.jpg",
+        "brand": "pleven",
+        "words": [
+            "pleven",
+            "classic"
+        ],
+        "colors": [
+            "green",
+            "black",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1170.jpg",
+        "brand": "budweiser",
+        "words": [
+            "budweiser",
+            "budvar"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": [
+            "castle"
+        ]
+    },
+    {
+        "imageName": "large_1171.jpg",
+        "brand": "stolichno",
+        "words": [
+            "stolichno",
+            "bock",
+            "beer"
+        ],
+        "colors": [
+            "white",
+            "golden",
+            "brown"
+        ],
+        "figures": [
+            "lion"
+        ]
+    },
+    {
+        "imageName": "large_1172.jpg",
+        "words": [
+            "mb",
+            "pils",
+            "twist",
+            "off"
+        ],
+        "colors": [
+            "green",
+            "silver"
+        ],
+        "figures": [
+            "arrow",
+            "letter"
+        ]
+    },
+    {
+        "imageName": "large_1173.jpg",
+        "brand": "kuppers",
+        "words": [
+            "kuppers",
+            "kolsch"
+        ],
+        "colors": [
+            "yellow",
+            "green",
+            "white",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "large_1174.jpg",
+        "brand": "almus",
+        "words": [
+            "almus",
+            "светло",
+            "1894"
+        ],
+        "colors": [
+            "white",
+            "green"
+        ],
+        "figures": [
+            "goat",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "large_1175.jpg",
+        "words": [],
+        "colors": [
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "lion",
+            "crown"
+        ]
+    },
+    {
+        "imageName": "large_1176.jpg",
+        "brand": "liulin",
+        "words": [
+            "пивоварна",
+            "люлин"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "hops",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "large_1177.jpg",
+        "brand": "pleven",
+        "words": [
+            "pleben",
+            "beer",
+            "pb"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "red"
+        ],
+        "figures": [
+            "shield",
+            "lion",
+            "letter"
+        ]
+    },
+    {
+        "imageName": "large_1178.jpg",
+        "words": [
+            "deutsches",
+            "bier",
+            "die",
+            "deutschen",
+            "brauer"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "cask",
+            "stick"
+        ]
+    },
+    {
+        "imageName": "large_1179.jpg",
+        "brand": "stella artois",
+        "words": [
+            "stella",
+            "artois",
+            "1366"
+        ],
+        "colors": [
+            "white",
+            "gray"
+        ],
+        "figures": [
+            "tube"
+        ]
+    },
+    {
+        "imageName": "large_1180.jpg",
+        "brand": "krombacher",
+        "words": [
+            "krombacher",
+            "pils"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "golden"
+        ],
+        "figures": []
+    }
+]

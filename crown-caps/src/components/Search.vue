@@ -4,37 +4,45 @@
             <h2><label for="brand">Brand:</label></h2>
             <multiselect id="brand"
                     v-model="brand"
-                    placeholder="Search by brand"
+                    placeholder="Type text to search by brand"
                     :options="brandsOptions" 
                     :multiple="false" 
-                    :taggable="true"></multiselect>
+                    :taggable="true"
+                    :internalSearch="false"
+                    @search-change="search($event, 'allBrands', 'brandsOptions')"></multiselect>
         </div>
         <div>
             <h2><label for="words">Words:</label></h2>
             <multiselect id="words"
                     v-model="words"
-                    placeholder="Search by word"
+                    placeholder="Type text to search by word"
                     :options="wordsOptions" 
                     :multiple="true" 
-                    :taggable="true"></multiselect>
+                    :taggable="true"
+                    :internalSearch="false"
+                    @search-change="search($event, 'allWords', 'wordsOptions')"></multiselect>
         </div>
         <div>
             <h2><label for="colors">Colors:</label></h2>
             <multiselect id="colors"
                     v-model="colors"
-                    placeholder="Search by color"
+                    placeholder="Type text to search by color"
                     :options="colorsOptions" 
                     :multiple="true" 
-                    :taggable="true"></multiselect>
+                    :taggable="true"
+                    :internalSearch="false"
+                    @search-change="search($event, 'allColors', 'colorsOptions')"></multiselect>
         </div>
         <div>
             <h2><label for="figures">Figures:</label></h2>
             <multiselect id="figures"
                     v-model="figures"
-                    placeholder="Search by figure"
+                    placeholder="Type text to search by figure"
                     :options="figuresOptions" 
                     :multiple="true" 
-                    :taggable="true"></multiselect>
+                    :taggable="true"
+                    :internalSearch="false"
+                    @search-change="search($event, 'allFigures', 'figuresOptions')"></multiselect>
         </div>
         <div class="container">
             <div v-for="cap in result" :key="cap.imageName">
@@ -78,6 +86,7 @@
     import plate26 from './data/plate26.json'
     import plate27 from './data/plate27.json'
     import small from './data/small.json'
+    import large from './data/large.json'
 
     export default({
         name: 'Serach',
@@ -95,6 +104,10 @@
                 words: [],
                 colors: [],
                 figures: [],
+                allBrands: [],
+                allWords: [],
+                allColors: [],
+                allFigures: [],
                 brandsOptions: [],
                 wordsOptions: [],
                 colorsOptions: [],
@@ -109,41 +122,49 @@
             this.allCaps = plate1.concat(plate2, plate3, plate4, plate5, plate6, plate7, 
                 plate8, plate9, plate10, plate11, plate12, plate13, plate14, 
                 plate15, plate16, plate17, plate18, plate19, plate20, plate21, 
-                plate22, plate23, plate24, plate25, plate26, plate27, small);
+                plate22, plate23, plate24, plate25, plate26, plate27, small, large);
 
             this.allCaps.forEach(cap => {
-                if (cap.brand && this.brandsOptions.indexOf(cap.brand) === -1) {
-                    this.brandsOptions.push(cap.brand);
+                if (cap.brand && this.allBrands.indexOf(cap.brand) === -1) {
+                    this.allBrands.push(cap.brand);
                 }
 
                 cap.words.forEach(word => {
-                    if (this.wordsOptions.indexOf(word) === -1) {
-                        this.wordsOptions.push(word);
+                    if (this.allWords.indexOf(word) === -1) {
+                        this.allWords.push(word);
                     }
                 });
 
                 cap.colors.forEach(color => {
-                    if (this.colorsOptions.indexOf(color) === -1) {
-                        this.colorsOptions.push(color);
+                    if (this.allColors.indexOf(color) === -1) {
+                        this.allColors.push(color);
                     }
                 });
 
                 cap.figures.forEach(figure => {
-                    if (this.figuresOptions.indexOf(figure) === -1) {
-                        this.figuresOptions.push(figure);
+                    if (this.allFigures.indexOf(figure) === -1) {
+                        this.allFigures.push(figure);
                     }
                 });
             });
 
-            this.brandsOptions.sort((a, b) => a.localeCompare(b));
-            this.wordsOptions.sort((a, b) => a.localeCompare(b));
-            this.colorsOptions.sort((a, b) => a.localeCompare(b));
-            this.figuresOptions.sort((a, b) => a.localeCompare(b));
+            this.allBrands.sort((a, b) => a.localeCompare(b));
+            this.allWords.sort((a, b) => a.localeCompare(b));
+            this.allColors.sort((a, b) => a.localeCompare(b));
+            this.allFigures.sort((a, b) => a.localeCompare(b));
         },
 
         methods: {
             getPath(imageName) {
                 return "./images/" + imageName.split("_")[0] + "/" + imageName;
+            },
+
+            search(query, source, destination) {
+                if (query && query.length !== 0) {
+                    this[destination] = this[source].filter(brand => brand.indexOf(query.toLowerCase()) === 0);
+                } else {
+                    this[destination] = this[source];
+                }
             },
 
             filterByBrand(cap) {
@@ -251,10 +272,13 @@
   flex-wrap: wrap;
 }
 
+.container > div {
+    width: 20%;
+}
+
 .container img {
-  height: 300px;
-  width: 300px;
-  padding: 10px;
+  width: 95%;
+  padding: 5% 5% 5% 0;
   display: block;
 }
 </style>
