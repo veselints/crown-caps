@@ -44,7 +44,7 @@ export default {
   },
 
   mounted() {
-    this.importAll(require.context('../assets/large/', true, /\.jpg$/));
+    //this.importAll(require.context('../assets/large/', true, /\.jpg$/));
   },
 
   methods: {
