@@ -33,7 +33,6 @@
 export default {
   name: 'AddPlate',
   props: {
-    msg: String
   },
   data() {
     return {

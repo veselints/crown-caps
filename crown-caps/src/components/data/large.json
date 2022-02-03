@@ -292,7 +292,7 @@
     },
     {
         "imageName": "large_1019.jpg",
-        "brand": "zastro azzurro",
+        "brand": "nastro azzurro",
         "words": [
             "nastro",
             "azzurro"
@@ -412,7 +412,7 @@
     },
     {
         "imageName": "large_1028.jpg",
-        "brand": "Kostriser",
+        "brand": "kostriser",
         "words": [
             "kostriser",
             "schwarzbier"
@@ -2011,7 +2011,7 @@
     },
     {
         "imageName": "large_1134.jpg",
-        "brand": "zgorka",
+        "brand": "zagorka",
         "words": [
             "zagorka"
         ],
@@ -2962,12 +2962,6 @@
         ]
     },
     {
-        "imageName": "large_1195.jpg",
-        "words": [],
-        "colors": [],
-        "figures": []
-    },
-    {
         "imageName": "large_1196.jpg",
         "brand": "grolsch",
         "words": [
@@ -2985,12 +2979,6 @@
             "shield",
             "hops"
         ]
-    },
-    {
-        "imageName": "large_1197.jpg",
-        "words": [],
-        "colors": [],
-        "figures": []
     },
     {
         "imageName": "large_1198.jpg",
@@ -3266,12 +3254,6 @@
         ]
     },
     {
-        "imageName": "large_1215.jpg",
-        "words": [],
-        "colors": [],
-        "figures": []
-    },
-    {
         "imageName": "large_1216.jpg",
         "words": [
             "twist",
@@ -3461,12 +3443,6 @@
             "white",
             "black"
         ],
-        "figures": []
-    },
-    {
-        "imageName": "large_1230.jpg",
-        "words": [],
-        "colors": [],
         "figures": []
     },
     {
@@ -3705,18 +3681,6 @@
             "red",
             "white"
         ],
-        "figures": []
-    },
-    {
-        "imageName": "large_1248.jpg",
-        "words": [],
-        "colors": [],
-        "figures": []
-    },
-    {
-        "imageName": "large_1249.jpg",
-        "words": [],
-        "colors": [],
         "figures": []
     },
     {
@@ -4735,12 +4699,6 @@
         ]
     },
     {
-        "imageName": "large_1313.jpg",
-        "words": [],
-        "colors": [],
-        "figures": []
-    },
-    {
         "imageName": "large_1314.jpg",
         "words": [
             "hertog",
@@ -4881,12 +4839,6 @@
             "red",
             "golden"
         ],
-        "figures": []
-    },
-    {
-        "imageName": "large_1323.jpg",
-        "words": [],
-        "colors": [],
         "figures": []
     },
     {

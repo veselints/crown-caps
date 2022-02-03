@@ -9,10 +9,13 @@
 
     import AddPlate from './components/AddPlate.vue'
     import Serach from "./components/Search.vue";
+    import Match from "./components/Match.vue";
+
 
     const routes = [
         { path: '/search', component: Serach },
         { path: '/addplate', component: AddPlate },
+        { path: '/match', component: Match },
         { path: '/', component: Serach }
     ];
 

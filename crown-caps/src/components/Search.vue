@@ -91,7 +91,6 @@
     export default({
         name: 'Serach',
         props: {
-            msg: String
         },
         components: {
             Multiselect
