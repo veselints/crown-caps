@@ -271,13 +271,45 @@
   flex-wrap: wrap;
 }
 
-.container > div {
-    width: 20%;
-}
-
 .container img {
   width: 95%;
   padding: 5% 5% 5% 0;
   display: block;
 }
+
+/* @media only screen and (max-width: 575px) {
+    .container > div {
+        width: 100%;
+    }
+} */
+
+@media only screen and (min-width: 1201px) {
+    .container > div {
+        width: 20%;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .container > div {
+        width: 25%;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .container > div {
+        width: 33%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .container > div {
+        width: 50%;
+    }
+}
+
+
+
+
+
+
 </style>

@@ -23,3 +23,8 @@ pnpm-debug.log*
 *.sw?
 
 package-lock.json
+
+# Firebase Hosting
+.firebaserc
+firebase-debug.log
+.firebase/
