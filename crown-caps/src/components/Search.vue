@@ -85,8 +85,12 @@
     import plate25 from './data/plate25.json'
     import plate26 from './data/plate26.json'
     import plate27 from './data/plate27.json'
+    import plate28 from './data/plate28.json'
+    import plate29 from './data/plate29.json'
+    import plate30 from './data/plate30.json'
     import small from './data/small.json'
     import large from './data/large.json'
+    import noplate from './data/noplate.json'
 
     export default({
         name: 'Serach',
@@ -121,30 +125,37 @@
             this.allCaps = plate1.concat(plate2, plate3, plate4, plate5, plate6, plate7, 
                 plate8, plate9, plate10, plate11, plate12, plate13, plate14, 
                 plate15, plate16, plate17, plate18, plate19, plate20, plate21, 
-                plate22, plate23, plate24, plate25, plate26, plate27, small, large);
+                plate22, plate23, plate24, plate25, plate26, plate27, plate28, plate29, plate30,
+                small, large, noplate);
 
             this.allCaps.forEach(cap => {
                 if (cap.brand && this.allBrands.indexOf(cap.brand) === -1) {
                     this.allBrands.push(cap.brand);
                 }
 
-                cap.words.forEach(word => {
-                    if (this.allWords.indexOf(word) === -1) {
-                        this.allWords.push(word);
-                    }
-                });
+                if (cap.words) {
+                    cap.words.forEach(word => {
+                        if (this.allWords.indexOf(word) === -1) {
+                            this.allWords.push(word);
+                        }
+                    });
+                }
 
-                cap.colors.forEach(color => {
-                    if (this.allColors.indexOf(color) === -1) {
-                        this.allColors.push(color);
-                    }
-                });
+                if (cap.colors) {
+                    cap.colors.forEach(color => {
+                        if (this.allColors.indexOf(color) === -1) {
+                            this.allColors.push(color);
+                        }
+                    });
+                }
 
-                cap.figures.forEach(figure => {
-                    if (this.allFigures.indexOf(figure) === -1) {
-                        this.allFigures.push(figure);
-                    }
-                });
+                if (cap.figures) {
+                    cap.figures.forEach(figure => {
+                        if (this.allFigures.indexOf(figure) === -1) {
+                            this.allFigures.push(figure);
+                        }
+                    });
+                }
             });
 
             this.allBrands.sort((a, b) => a.localeCompare(b));
@@ -177,7 +188,7 @@
             filterBy(cap, field) {
                 let that = this,
                     values = that[field],
-                    capValues = cap[field],
+                    capValues = cap[field] || [],
                     result = true;
 
                 values.forEach(val => {
