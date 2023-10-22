@@ -1,6 +1,6 @@
 [
     {
-        "imageName": "plate27_100.jpg",
+        "imageName": "H1/plate27_100.jpg",
         "brand": "chang",
         "words": [
             "product",
@@ -18,7 +18,7 @@
         ]
     },
     {
-        "imageName": "plate27_101.jpg",
+        "imageName": "H1/plate27_101.jpg",
         "brand": "staroburno",
         "words": [
             "staroburno"
@@ -35,7 +35,7 @@
         ]
     },
     {
-        "imageName": "plate27_102.jpg",
+        "imageName": "H1/plate27_102.jpg",
         "words": [
             "sweden",
             "oppigards",
@@ -50,7 +50,7 @@
         ]
     },
     {
-        "imageName": "plate27_103.jpg",
+        "imageName": "H1/plate27_103.jpg",
         "words": [
             "lagunitas",
             "brewing",
@@ -65,7 +65,7 @@
         ]
     },
     {
-        "imageName": "plate27_104.jpg",
+        "imageName": "H1/plate27_104.jpg",
         "words": [
             "lagunitas",
             "brewing",
@@ -80,7 +80,7 @@
         ]
     },
     {
-        "imageName": "plate27_105.jpg",
+        "imageName": "H1/plate27_105.jpg",
         "brand": "bud",
         "words": [],
         "colors": [
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "imageName": "plate27_106.jpg",
+        "imageName": "H1/plate27_106.jpg",
         "words": [
             "lagunitas",
             "brewing",
@@ -107,7 +107,7 @@
         ]
     },
     {
-        "imageName": "plate27_107.jpg",
+        "imageName": "H1/plate27_107.jpg",
         "brand": "pirinsko",
         "words": [
             "младо",
@@ -120,7 +120,7 @@
         "figures": []
     },
     {
-        "imageName": "plate27_108.jpg",
+        "imageName": "H1/plate27_108.jpg",
         "brand": "kozel",
         "words": [
             "kozel",
@@ -136,7 +136,7 @@
         ]
     },
     {
-        "imageName": "plate27_109.jpg",
+        "imageName": "H1/plate27_109.jpg",
         "brand": "sierra nevada",
         "words": [
             "sierra",
@@ -155,7 +155,7 @@
         "figures": []
     },
     {
-        "imageName": "plate27_110.jpg",
+        "imageName": "H1/plate27_110.jpg",
         "brand": "sierra nevada",
         "words": [
             "sierra",
@@ -174,7 +174,7 @@
         "figures": []
     },
     {
-        "imageName": "plate27_111.jpg",
+        "imageName": "H1/plate27_111.jpg",
         "brand": "o'doul's",
         "words": [
             "premium",
@@ -189,7 +189,7 @@
         "figures": []
     },
     {
-        "imageName": "plate27_112.jpg",
+        "imageName": "H1/plate27_112.jpg",
         "brand": "kazbegi",
         "words": [
             "quality",
@@ -205,7 +205,7 @@
         ]
     },
     {
-        "imageName": "plate27_113.jpg",
+        "imageName": "H1/plate27_113.jpg",
         "brand": "kazbegi",
         "words": [
             "tradition",
@@ -222,7 +222,7 @@
         ]
     },
     {
-        "imageName": "plate27_114.jpg",
+        "imageName": "H1/plate27_114.jpg",
         "brand": "litovel",
         "words": [
             "litovel"
@@ -238,7 +238,7 @@
         ]
     },
     {
-        "imageName": "plate27_115.jpg",
+        "imageName": "H1/plate27_115.jpg",
         "brand": "merak",
         "words": [
             "мерак"
@@ -252,7 +252,7 @@
         "figures": []
     },
     {
-        "imageName": "plate27_116.jpg",
+        "imageName": "H1/plate27_116.jpg",
         "brand": "steiger",
         "words": [
             "steiger"
@@ -264,7 +264,7 @@
         "figures": []
     },
     {
-        "imageName": "plate27_117.jpg",
+        "imageName": "H1/plate27_117.jpg",
         "brand": "alhambra",
         "words": [
             "alhambra",
@@ -279,7 +279,7 @@
         ]
     },
     {
-        "imageName": "plate27_118.jpg",
+        "imageName": "H1/plate27_118.jpg",
         "brand": "alhambra",
         "words": [
             "alhambra",
@@ -295,7 +295,7 @@
         ]
     },
     {
-        "imageName": "plate27_119.jpg",
+        "imageName": "H1/plate27_119.jpg",
         "brand": "hebertus",
         "words": [
             "hubertus",
@@ -313,7 +313,7 @@
         ]
     },
     {
-        "imageName": "plate27_120.jpg",
+        "imageName": "H1/plate27_120.jpg",
         "words": [],
         "colors": [
             "green"
@@ -321,7 +321,7 @@
         "figures": []
     },
     {
-        "imageName": "plate27_121.jpg",
+        "imageName": "H1/plate27_121.jpg",
         "brand": "san miguel",
         "words": [
             "san",
@@ -340,7 +340,7 @@
         ]
     },
     {
-        "imageName": "plate27_122.jpg",
+        "imageName": "H1/plate27_122.jpg",
         "brand": "san miguel",
         "words": [
             "san",
@@ -356,7 +356,7 @@
         "figures": []
     },
     {
-        "imageName": "plate27_123.jpg",
+        "imageName": "H1/plate27_123.jpg",
         "brand": "miller",
         "words": [
             "miller",
@@ -371,7 +371,7 @@
         "figures": []
     },
     {
-        "imageName": "plate27_124.jpg",
+        "imageName": "H1/plate27_124.jpg",
         "words": [
             "use",
             "opener",
@@ -388,7 +388,7 @@
         ]
     },
     {
-        "imageName": "plate27_125.jpg",
+        "imageName": "H1/plate27_125.jpg",
         "words": [
             "czech",
             "beer",
@@ -401,7 +401,7 @@
         "figures": []
     },
     {
-        "imageName": "plate27_126.jpg",
+        "imageName": "H1/plate27_126.jpg",
         "words": [
             "st",
             "bernardus",
@@ -419,7 +419,7 @@
         ]
     },
     {
-        "imageName": "plate27_127.jpg",
+        "imageName": "H1/plate27_127.jpg",
         "words": [
             "abro",
             "7.3"
@@ -434,7 +434,7 @@
         ]
     },
     {
-        "imageName": "plate27_128.jpg",
+        "imageName": "H1/plate27_128.jpg",
         "words": [
             "excelent",
             "extra",
@@ -452,7 +452,7 @@
         ]
     },
     {
-        "imageName": "plate27_129.jpg",
+        "imageName": "H1/plate27_129.jpg",
         "brand": "radegast",
         "words": [
             "radegast",
@@ -468,7 +468,7 @@
         ]
     },
     {
-        "imageName": "plate27_130.jpg",
+        "imageName": "H1/plate27_130.jpg",
         "brand": "radegast",
         "words": [
             "radegast",
@@ -485,7 +485,7 @@
         ]
     },
     {
-        "imageName": "plate27_131.jpg",
+        "imageName": "H1/plate27_131.jpg",
         "brand": "hubertus",
         "words": [
             "hubertus",
@@ -502,7 +502,7 @@
         ]
     },
     {
-        "imageName": "plate27_132.jpg",
+        "imageName": "H1/plate27_132.jpg",
         "words": [
             "t"
         ],
@@ -515,7 +515,7 @@
         ]
     },
     {
-        "imageName": "plate27_133.jpg",
+        "imageName": "H1/plate27_133.jpg",
         "words": [],
         "colors": [
             "red",
@@ -526,7 +526,7 @@
         ]
     },
     {
-        "imageName": "plate27_134.jpg",
+        "imageName": "H1/plate27_134.jpg",
         "brand": "rychtar",
         "words": [
             "rychtar"
@@ -539,7 +539,7 @@
         "figures": []
     },
     {
-        "imageName": "plate27_135.jpg",
+        "imageName": "H1/plate27_135.jpg",
         "brand": "platan",
         "words": [
             "platan"
@@ -553,7 +553,7 @@
         ]
     },
     {
-        "imageName": "plate27_136.jpg",
+        "imageName": "H1/plate27_136.jpg",
         "brand": "branik",
         "words": [
             "branik"
@@ -568,7 +568,7 @@
         ]
     },
     {
-        "imageName": "plate27_137.jpg",
+        "imageName": "H1/plate27_137.jpg",
         "brand": "branik",
         "words": [
             "branik"
@@ -583,7 +583,7 @@
         ]
     },
     {
-        "imageName": "plate27_138.jpg",
+        "imageName": "H1/plate27_138.jpg",
         "brand": "belikin",
         "words": [
             "belikin",
@@ -598,7 +598,7 @@
         ]
     },
     {
-        "imageName": "plate27_139.jpg",
+        "imageName": "H1/plate27_139.jpg",
         "words": [
             "b",
             "tm"
@@ -612,7 +612,7 @@
         ]
     },
     {
-        "imageName": "plate27_140.jpg",
+        "imageName": "H1/plate27_140.jpg",
         "brand": "berliner",
         "words": [],
         "colors": [
@@ -625,7 +625,7 @@
         ]
     },
     {
-        "imageName": "plate27_141.jpg",
+        "imageName": "H1/plate27_141.jpg",
         "brand": "cruzcampo",
         "words": [
             "cruzcampo",
@@ -646,7 +646,7 @@
         ]
     },
     {
-        "imageName": "plate27_142.jpg",
+        "imageName": "H1/plate27_142.jpg",
         "words": [
             "1",
             "na",
@@ -661,7 +661,7 @@
         ]
     },
     {
-        "imageName": "plate27_143.jpg",
+        "imageName": "H1/plate27_143.jpg",
         "brand": "bud",
         "words": [],
         "colors": [
@@ -674,7 +674,7 @@
         ]
     },
     {
-        "imageName": "plate27_144.jpg",
+        "imageName": "H1/plate27_144.jpg",
         "brand": "reina",
         "words": [
             "reina"
@@ -688,7 +688,7 @@
         ]
     },
     {
-        "imageName": "plate27_145.jpg",
+        "imageName": "H1/plate27_145.jpg",
         "brand": "hafferoder",
         "words": [
             "hafferoder",
@@ -706,7 +706,7 @@
         ]
     },
     {
-        "imageName": "plate27_146.jpg",
+        "imageName": "H1/plate27_146.jpg",
         "brand": "hafferoder",
         "words": [
             "hafferoder",
@@ -723,7 +723,7 @@
         ]
     },
     {
-        "imageName": "plate27_147.jpg",
+        "imageName": "H1/plate27_147.jpg",
         "brand": "cruzcampo",
         "words": [
             "cruzcampo",
@@ -737,7 +737,7 @@
         "figures": []
     },
     {
-        "imageName": "plate27_148.jpg",
+        "imageName": "H1/plate27_148.jpg",
         "brand": "bud",
         "words": [
             "bud"

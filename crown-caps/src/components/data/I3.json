@@ -1,6 +1,6 @@
 [
     {
-        "imageName": "plate29_01.jpg",
+        "imageName": "I3/plate29_01.jpg",
         "brand": "schneider weisse",
         "words": [
             "schneider",
@@ -17,7 +17,7 @@
         ]
     },
     {
-        "imageName": "plate29_02.jpg",
+        "imageName": "I3/plate29_02.jpg",
         "brand": "schneider weisse",
         "words": [
             "schneider",
@@ -32,7 +32,7 @@
         ]
     },
     {
-        "imageName": "plate29_03.jpg",
+        "imageName": "I3/plate29_03.jpg",
         "brand": "schneider weisse",
         "words": [
             "schneider",
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "imageName": "plate29_04.jpg",
+        "imageName": "I3/plate29_04.jpg",
         "brand": "schneider weisse",
         "words": [
             "schneider",
@@ -64,7 +64,7 @@
         ]
     },
     {
-        "imageName": "plate29_05.jpg",
+        "imageName": "I3/plate29_05.jpg",
         "brand": "schneider weisse",
         "words": [
             "schneider",
@@ -80,7 +80,7 @@
         ]
     },
     {
-        "imageName": "plate29_06.jpg",
+        "imageName": "I3/plate29_06.jpg",
         "brand": "schneider weisse",
         "words": [
             "schneider",
@@ -97,7 +97,7 @@
         ]
     },
     {
-        "imageName": "plate29_07.jpg",
+        "imageName": "I3/plate29_07.jpg",
         "brand": "schneider weisse",
         "words": [
             "schneider",
@@ -113,7 +113,7 @@
         ]
     },
     {
-        "imageName": "plate29_08.jpg",
+        "imageName": "I3/plate29_08.jpg",
         "brand": "kasteel",
         "words": [
             "kasteel",
@@ -130,7 +130,7 @@
         ]
     },
     {
-        "imageName": "plate29_09.jpg",
+        "imageName": "I3/plate29_09.jpg",
         "brand": "trutnovska",
         "words": [
             "trutnovska",
@@ -150,7 +150,7 @@
         ]
     },
     {
-        "imageName": "plate29_10.jpg",
+        "imageName": "I3/plate29_10.jpg",
         "words": [
             "бро"
         ],
@@ -161,7 +161,7 @@
         ]
     },
     {
-        "imageName": "plate29_11.jpg",
+        "imageName": "I3/plate29_11.jpg",
         "colors": [
             "white",
             "gray",
@@ -173,7 +173,7 @@
         ]
     },
     {
-        "imageName": "plate29_12.jpg",
+        "imageName": "I3/plate29_12.jpg",
         "brand": "hobgoblin",
         "words": [
             "ho"
@@ -187,7 +187,7 @@
         ]
     },
     {
-        "imageName": "plate29_13.jpg",
+        "imageName": "I3/plate29_13.jpg",
         "brand": "moretti",
         "words": [
             "birra",
@@ -202,7 +202,7 @@
         ]
     },
     {
-        "imageName": "plate29_14.jpg",
+        "imageName": "I3/plate29_14.jpg",
         "brand": "moretti",
         "words": [
             "birra",
@@ -221,7 +221,7 @@
         ]
     },
     {
-        "imageName": "plate29_15.jpg",
+        "imageName": "I3/plate29_15.jpg",
         "brand": "dreher",
         "words": [
             "dreher",
@@ -238,7 +238,7 @@
         ]
     },
     {
-        "imageName": "plate29_16.jpg",
+        "imageName": "I3/plate29_16.jpg",
         "brand": "urthel",
         "words": [
             "urthel",
@@ -252,7 +252,7 @@
         ]
     },
     {
-        "imageName": "plate29_17.jpg",
+        "imageName": "I3/plate29_17.jpg",
         "brand": "amstel",
         "words": [
             "amstel",
@@ -266,7 +266,7 @@
         ]
     },
     {
-        "imageName": "plate29_18.jpg",
+        "imageName": "I3/plate29_18.jpg",
         "brand": "amstel",
         "words": [
             "amstel",
@@ -280,7 +280,7 @@
         ]
     },
     {
-        "imageName": "plate29_19.jpg",
+        "imageName": "I3/plate29_19.jpg",
         "brand": "amstel",
         "words": [
             "amstel",
@@ -293,7 +293,7 @@
         ]
     },
     {
-        "imageName": "plate29_20.jpg",
+        "imageName": "I3/plate29_20.jpg",
         "brand": "pils hellas",
         "words": [
             "pils",
@@ -307,7 +307,7 @@
         ]
     },
     {
-        "imageName": "plate29_21.jpg",
+        "imageName": "I3/plate29_21.jpg",
         "brand": "fix",
         "words": [
             "fix",
@@ -323,7 +323,7 @@
         ]
     },
     {
-        "imageName": "plate29_22.jpg",
+        "imageName": "I3/plate29_22.jpg",
         "brand": "alfa",
         "words": [
             "alfa",
@@ -340,7 +340,7 @@
         ]
     },
     {
-        "imageName": "plate29_23.jpg",
+        "imageName": "I3/plate29_23.jpg",
         "brand": "alfa",
         "words": [
             "a",
@@ -358,7 +358,7 @@
         ]
     },
     {
-        "imageName": "plate29_24.jpg",
+        "imageName": "I3/plate29_24.jpg",
         "brand": "vergina",
         "words": [
             "vergina",
@@ -373,7 +373,7 @@
         ]
     },
     {
-        "imageName": "plate29_25.jpg",
+        "imageName": "I3/plate29_25.jpg",
         "brand": "vergina",
         "words": [
             "vergina",
@@ -392,7 +392,7 @@
         ]
     },
     {
-        "imageName": "plate29_26.jpg",
+        "imageName": "I3/plate29_26.jpg",
         "brand": "vergina",
         "words": [
             "vergina"
@@ -407,7 +407,7 @@
         ]
     },
     {
-        "imageName": "plate29_27.jpg",
+        "imageName": "I3/plate29_27.jpg",
         "brand": "eza",
         "words": [
             "eza"
@@ -418,7 +418,7 @@
         ]
     },
     {
-        "imageName": "plate29_28.jpg",
+        "imageName": "I3/plate29_28.jpg",
         "brand": "eza",
         "words": [
             "eza"
@@ -429,7 +429,7 @@
         ]
     },
     {
-        "imageName": "plate29_29.jpg",
+        "imageName": "I3/plate29_29.jpg",
         "brand": "chimay",
         "words": [
             "chimay"
@@ -443,14 +443,14 @@
         ]
     },
     {
-        "imageName": "plate29_30.jpg",
+        "imageName": "I3/plate29_30.jpg",
         "colors": [
             "white",
             "golden"
         ]
     },
     {
-        "imageName": "plate29_31.jpg",
+        "imageName": "I3/plate29_31.jpg",
         "brand": "primator",
         "words": [
             "primator",
@@ -470,7 +470,7 @@
         ]
     },
     {
-        "imageName": "plate29_32.jpg",
+        "imageName": "I3/plate29_32.jpg",
         "brand": "primator",
         "words": [
             "primator",
@@ -489,7 +489,7 @@
         ]
     },
     {
-        "imageName": "plate29_33.jpg",
+        "imageName": "I3/plate29_33.jpg",
         "brand": "primator",
         "words": [
             "primator",
@@ -509,7 +509,7 @@
         ]
     },
     {
-        "imageName": "plate29_34.jpg",
+        "imageName": "I3/plate29_34.jpg",
         "brand": "corona",
         "words": [
             "corona",
@@ -524,7 +524,7 @@
         ]
     },
     {
-        "imageName": "plate29_35.jpg",
+        "imageName": "I3/plate29_35.jpg",
         "brand": "corona",
         "words": [
             "corona",
@@ -539,7 +539,7 @@
         ]
     },
     {
-        "imageName": "plate29_36.jpg",
+        "imageName": "I3/plate29_36.jpg",
         "colors": [
             "white",
             "golden"
@@ -549,7 +549,7 @@
         ]
     },
     {
-        "imageName": "plate29_37.jpg",
+        "imageName": "I3/plate29_37.jpg",
         "brand": "troilo",
         "words": [
             "troilo"
@@ -563,7 +563,7 @@
         ]
     },
     {
-        "imageName": "plate29_38.jpg",
+        "imageName": "I3/plate29_38.jpg",
         "brand": "odyssey",
         "words": [
             "odyssey"
@@ -577,7 +577,7 @@
         ]
     },
     {
-        "imageName": "plate29_39.jpg",
+        "imageName": "I3/plate29_39.jpg",
         "brand": "odyssey",
         "words": [
             "odyssey"
@@ -592,7 +592,7 @@
         ]
     },
     {
-        "imageName": "plate29_40.jpg",
+        "imageName": "I3/plate29_40.jpg",
         "brand": "odyssey",
         "words": [
             "odyssey"
@@ -607,7 +607,7 @@
         ]
     },
     {
-        "imageName": "plate29_41.jpg",
+        "imageName": "I3/plate29_41.jpg",
         "colors": [
             "black",
             "red"
@@ -618,7 +618,7 @@
         ]
     },
     {
-        "imageName": "plate29_42.jpg",
+        "imageName": "I3/plate29_42.jpg",
         "words": [
             "z"
         ],
@@ -631,7 +631,7 @@
         ]
     },
     {
-        "imageName": "plate29_43.jpg",
+        "imageName": "I3/plate29_43.jpg",
         "brand": "birra lucana",
         "words": [
             "birra",
@@ -643,7 +643,7 @@
         ]
     },
     {
-        "imageName": "plate29_44.jpg",
+        "imageName": "I3/plate29_44.jpg",
         "brand": "nastro azzurro",
         "words": [
             "nastro",
@@ -655,7 +655,7 @@
         ]
     },
     {
-        "imageName": "plate29_45.jpg",
+        "imageName": "I3/plate29_45.jpg",
         "brand": "peroni",
         "words": [
             "peroni",
@@ -672,7 +672,7 @@
         ]
     },
     {
-        "imageName": "plate29_46.jpg",
+        "imageName": "I3/plate29_46.jpg",
         "brand": "peroni",
         "words": [
             "peroni",
@@ -684,7 +684,7 @@
         ]
     },
     {
-        "imageName": "plate29_47.jpg",
+        "imageName": "I3/plate29_47.jpg",
         "brand": "peroni",
         "words": [
             "peroni"
@@ -695,7 +695,7 @@
         ]
     },
     {
-        "imageName": "plate29_48.jpg",
+        "imageName": "I3/plate29_48.jpg",
         "brand": "peroni",
         "words": [
             "peroni",
@@ -708,7 +708,7 @@
         ]
     },
     {
-        "imageName": "plate29_49.jpg",
+        "imageName": "I3/plate29_49.jpg",
         "colors": [
             "black",
             "golden"

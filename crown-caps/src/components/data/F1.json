@@ -1,6 +1,6 @@
 [
     {
-        "imageName": "plate25_100.jpg",
+        "imageName": "F1/plate25_100.jpg",
         "brand": "lindemans",
         "words": [
             "lindemans",
@@ -14,7 +14,7 @@
         "figures": []
     },
     {
-        "imageName": "plate25_101.jpg",
+        "imageName": "F1/plate25_101.jpg",
         "words": [
             "староградско",
             "сг"
@@ -30,7 +30,7 @@
         ]
     },
     {
-        "imageName": "plate25_102.jpg",
+        "imageName": "F1/plate25_102.jpg",
         "brand": "eisenbahn",
         "words": [
             "eisenbahn",
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "imageName": "plate25_103.jpg",
+        "imageName": "F1/plate25_103.jpg",
         "words": [
             "bass"
         ],
@@ -61,7 +61,7 @@
         ]
     },
     {
-        "imageName": "plate25_104.jpg",
+        "imageName": "F1/plate25_104.jpg",
         "brand": "desperados",
         "words": [
             "desperados",
@@ -76,7 +76,7 @@
         "figures": []
     },
     {
-        "imageName": "plate25_105.jpg",
+        "imageName": "F1/plate25_105.jpg",
         "words": [
             "cervejaria",
             "ashby",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "imageName": "plate25_106.jpg",
+        "imageName": "F1/plate25_106.jpg",
         "words": [],
         "colors": [
             "golden",
@@ -103,7 +103,7 @@
         ]
     },
     {
-        "imageName": "plate25_107.jpg",
+        "imageName": "F1/plate25_107.jpg",
         "brand": "bernard",
         "words": [
             "bernard",
@@ -118,7 +118,7 @@
         "figures": []
     },
     {
-        "imageName": "plate25_108.jpg",
+        "imageName": "F1/plate25_108.jpg",
         "words": [
             "old",
             "bobby"
@@ -131,7 +131,7 @@
         "figures": []
     },
     {
-        "imageName": "plate25_109.jpg",
+        "imageName": "F1/plate25_109.jpg",
         "words": [
             "mohren",
             "das",
@@ -147,7 +147,7 @@
         ]
     },
     {
-        "imageName": "plate25_110.jpg",
+        "imageName": "F1/plate25_110.jpg",
         "brand": "yebisu",
         "words": [
             "yebisu",
@@ -164,7 +164,7 @@
         "figures": []
     },
     {
-        "imageName": "plate25_111.jpg",
+        "imageName": "F1/plate25_111.jpg",
         "words": [],
         "colors": [
             "black",
@@ -175,7 +175,7 @@
         ]
     },
     {
-        "imageName": "plate25_112.jpg",
+        "imageName": "F1/plate25_112.jpg",
         "words": [],
         "colors": [
             "green",
@@ -186,7 +186,7 @@
         ]
     },
     {
-        "imageName": "plate25_113.jpg",
+        "imageName": "F1/plate25_113.jpg",
         "brand": "moretti",
         "words": [
             "birra",
@@ -203,7 +203,7 @@
         ]
     },
     {
-        "imageName": "plate25_114.jpg",
+        "imageName": "F1/plate25_114.jpg",
         "brand": "moretti",
         "words": [
             "birra",
@@ -220,7 +220,7 @@
         ]
     },
     {
-        "imageName": "plate25_115.jpg",
+        "imageName": "F1/plate25_115.jpg",
         "brand": "moretti",
         "words": [
             "birra",
@@ -237,7 +237,7 @@
         ]
     },
     {
-        "imageName": "plate25_116.jpg",
+        "imageName": "F1/plate25_116.jpg",
         "brand": "ariana",
         "words": [
             "1",
@@ -254,7 +254,7 @@
         ]
     },
     {
-        "imageName": "plate25_117.jpg",
+        "imageName": "F1/plate25_117.jpg",
         "brand": "zagorka",
         "words": [
             "загорка",
@@ -268,7 +268,7 @@
         "figures": []
     },
     {
-        "imageName": "plate25_118.jpg",
+        "imageName": "F1/plate25_118.jpg",
         "brand": "zhiguli",
         "words": [
             "жигули",
@@ -285,7 +285,7 @@
         ]
     },
     {
-        "imageName": "plate25_119.jpg",
+        "imageName": "F1/plate25_119.jpg",
         "brand": "bernard",
         "words": [
             "bernard",
@@ -305,7 +305,7 @@
         ]
     },
     {
-        "imageName": "plate25_120.jpg",
+        "imageName": "F1/plate25_120.jpg",
         "words": [],
         "colors": [
             "golden",
@@ -317,7 +317,7 @@
         ]
     },
     {
-        "imageName": "plate25_121.jpg",
+        "imageName": "F1/plate25_121.jpg",
         "brand": "habeco",
         "words": [
             "hanoi",
@@ -334,7 +334,7 @@
         ]
     },
     {
-        "imageName": "plate25_122.jpg",
+        "imageName": "F1/plate25_122.jpg",
         "brand": "coedo",
         "words": [
             "coedo"
@@ -346,7 +346,7 @@
         "figures": []
     },
     {
-        "imageName": "plate25_123.jpg",
+        "imageName": "F1/plate25_123.jpg",
         "brand": "moretti",
         "words": [
             "birra",
@@ -364,7 +364,7 @@
         ]
     },
     {
-        "imageName": "plate25_124.jpg",
+        "imageName": "F1/plate25_124.jpg",
         "brand": "kaltenberg",
         "words": [
             "kaltenberg"
@@ -382,7 +382,7 @@
         ]
     },
     {
-        "imageName": "plate25_125.jpg",
+        "imageName": "F1/plate25_125.jpg",
         "brand": "zagorka",
         "words": [
             "загорка",
@@ -396,7 +396,7 @@
         "figures": []
     },
     {
-        "imageName": "plate25_126.jpg",
+        "imageName": "F1/plate25_126.jpg",
         "brand": "plevensko",
         "words": [
             "плевенско",
@@ -411,7 +411,7 @@
         "figures": []
     },
     {
-        "imageName": "plate25_127.jpg",
+        "imageName": "F1/plate25_127.jpg",
         "words": [],
         "colors": [
             "golden",
@@ -425,7 +425,7 @@
         ]
     },
     {
-        "imageName": "plate25_128.jpg",
+        "imageName": "F1/plate25_128.jpg",
         "brand": "chiemseer",
         "words": [
             "chiemseer"
@@ -437,7 +437,7 @@
         "figures": []
     },
     {
-        "imageName": "plate25_129.jpg",
+        "imageName": "F1/plate25_129.jpg",
         "brand": "bergenbier",
         "words": [
             "bergenbier",
@@ -457,7 +457,7 @@
         ]
     },
     {
-        "imageName": "plate25_130.jpg",
+        "imageName": "F1/plate25_130.jpg",
         "brand": "tongerlo",
         "words": [
             "tongerlo",
@@ -472,7 +472,7 @@
         "figures": []
     },
     {
-        "imageName": "plate25_131.jpg",
+        "imageName": "F1/plate25_131.jpg",
         "brand": "bernard",
         "words": [
             "bernard",
@@ -493,7 +493,7 @@
         ]
     },
     {
-        "imageName": "plate25_132.jpg",
+        "imageName": "F1/plate25_132.jpg",
         "brand": "fischer",
         "words": [
             "fischer",
@@ -509,7 +509,7 @@
         ]
     },
     {
-        "imageName": "plate25_133.jpg",
+        "imageName": "F1/plate25_133.jpg",
         "words": [
             "s"
         ],
@@ -525,7 +525,7 @@
         ]
     },
     {
-        "imageName": "plate25_134.jpg",
+        "imageName": "F1/plate25_134.jpg",
         "brand": "svetlo pivo",
         "words": [
             "светло",
@@ -541,7 +541,7 @@
         "figures": []
     },
     {
-        "imageName": "plate25_135.jpg",
+        "imageName": "F1/plate25_135.jpg",
         "words": [
             "17",
             "99"
@@ -556,7 +556,7 @@
         ]
     },
     {
-        "imageName": "plate25_136.jpg",
+        "imageName": "F1/plate25_136.jpg",
         "brand": "amstel",
         "words": [
             "amstel",
@@ -574,7 +574,7 @@
         ]
     },
     {
-        "imageName": "plate25_137.jpg",
+        "imageName": "F1/plate25_137.jpg",
         "brand": "konrad",
         "words": [
             "k",
@@ -589,7 +589,7 @@
         ]
     },
     {
-        "imageName": "plate25_138.jpg",
+        "imageName": "F1/plate25_138.jpg",
         "brand": "bernard",
         "words": [
             "bernard",
@@ -608,7 +608,7 @@
         ]
     },
     {
-        "imageName": "plate25_139.jpg",
+        "imageName": "F1/plate25_139.jpg",
         "brand": "konrad",
         "words": [
             "k",
@@ -624,7 +624,7 @@
         ]
     },
     {
-        "imageName": "plate25_140.jpg",
+        "imageName": "F1/plate25_140.jpg",
         "brand": "konrad",
         "words": [
             "konrad",
@@ -640,7 +640,7 @@
         ]
     },
     {
-        "imageName": "plate25_141.jpg",
+        "imageName": "F1/plate25_141.jpg",
         "brand": "konrad",
         "words": [
             "k",
@@ -656,7 +656,7 @@
         ]
     },
     {
-        "imageName": "plate25_142.jpg",
+        "imageName": "F1/plate25_142.jpg",
         "brand": "bernard",
         "words": [
             "bernard",
@@ -676,7 +676,7 @@
         ]
     },
     {
-        "imageName": "plate25_143.jpg",
+        "imageName": "F1/plate25_143.jpg",
         "words": [
             "cervejaria",
             "colorado",
@@ -691,7 +691,7 @@
         ]
     },
     {
-        "imageName": "plate25_144.jpg",
+        "imageName": "F1/plate25_144.jpg",
         "brand": "bernard",
         "words": [
             "bernard",
@@ -710,7 +710,7 @@
         ]
     },
     {
-        "imageName": "plate25_145.jpg",
+        "imageName": "F1/plate25_145.jpg",
         "words": [
             "economize",
             "energia",
@@ -729,7 +729,7 @@
         ]
     },
     {
-        "imageName": "plate25_146.jpg",
+        "imageName": "F1/plate25_146.jpg",
         "words": [
             "original",
             "q"
@@ -744,7 +744,7 @@
         ]
     },
     {
-        "imageName": "plate25_147.jpg",
+        "imageName": "F1/plate25_147.jpg",
         "words": [
             "1912"
         ],
@@ -759,7 +759,7 @@
         ]
     },
     {
-        "imageName": "plate25_148.jpg",
+        "imageName": "F1/plate25_148.jpg",
         "brand": "grimbergen",
         "words": [
             "grimbergen"

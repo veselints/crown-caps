@@ -1,6 +1,6 @@
 [
     {
-        "imageName": "plate20_100.jpg",
+        "imageName": "B2/plate20_100.jpg",
         "brand": "sol",
         "words": [
             "sol",
@@ -14,7 +14,7 @@
         "figures": []
     },
     {
-        "imageName": "plate20_101.jpg",
+        "imageName": "B2/plate20_101.jpg",
         "brand": "myanmar",
         "words": [
             "myanmar"
@@ -27,7 +27,7 @@
         "figures": []
     },
     {
-        "imageName": "plate20_102.jpg",
+        "imageName": "B2/plate20_102.jpg",
         "brand": "gulpener",
         "words": [
             "gulpener",
@@ -47,7 +47,7 @@
         "figures": []
     },
     {
-        "imageName": "plate20_103.jpg",
+        "imageName": "B2/plate20_103.jpg",
         "words": [
             "drink",
             "of",
@@ -65,7 +65,7 @@
         ]
     },
     {
-        "imageName": "plate20_104.jpg",
+        "imageName": "B2/plate20_104.jpg",
         "words": [],
         "colors": [
             "red",
@@ -79,7 +79,7 @@
         ]
     },
     {
-        "imageName": "plate20_105.jpg",
+        "imageName": "B2/plate20_105.jpg",
         "brand": "olvi",
         "words": [
             "olvi"
@@ -92,7 +92,7 @@
         "figures": []
     },
     {
-        "imageName": "plate20_106.jpg",
+        "imageName": "B2/plate20_106.jpg",
         "brand": "lubser",
         "words": [
             "lubser",
@@ -107,7 +107,7 @@
         ]
     },
     {
-        "imageName": "plate20_107.jpg",
+        "imageName": "B2/plate20_107.jpg",
         "words": [
             "pilsner",
             "dresdner"
@@ -124,7 +124,7 @@
         ]
     },
     {
-        "imageName": "plate20_108.jpg",
+        "imageName": "B2/plate20_108.jpg",
         "brand": "cobra",
         "words": [
             "cobra"
@@ -138,7 +138,7 @@
         "figures": []
     },
     {
-        "imageName": "plate20_109.jpg",
+        "imageName": "B2/plate20_109.jpg",
         "brand": "balkansko",
         "words": [
             "балканско"
@@ -150,7 +150,7 @@
         "figures": []
     },
     {
-        "imageName": "plate20_110.jpg",
+        "imageName": "B2/plate20_110.jpg",
         "brand": "schultheiss",
         "words": [
             "schultheiss",
@@ -170,7 +170,7 @@
         ]
     },
     {
-        "imageName": "plate20_111.jpg",
+        "imageName": "B2/plate20_111.jpg",
         "words": [
             "17",
             "99"
@@ -184,7 +184,7 @@
         ]
     },
     {
-        "imageName": "plate20_112.jpg",
+        "imageName": "B2/plate20_112.jpg",
         "brand": "mythos",
         "words": [
             "mythos"
@@ -199,7 +199,7 @@
         ]
     },
     {
-        "imageName": "plate20_113.jpg",
+        "imageName": "B2/plate20_113.jpg",
         "words": [
             "august",
             "damm",
@@ -214,7 +214,7 @@
         ]
     },
     {
-        "imageName": "plate20_114.jpg",
+        "imageName": "B2/plate20_114.jpg",
         "brand": "burgasko",
         "words": [
             "бургаско"
@@ -227,7 +227,7 @@
         "figures": []
     },
     {
-        "imageName": "plate20_115.jpg",
+        "imageName": "B2/plate20_115.jpg",
         "words": [
             "biere",
             "aromatisse",
@@ -247,7 +247,7 @@
         ]
     },
     {
-        "imageName": "plate20_116.jpg",
+        "imageName": "B2/plate20_116.jpg",
         "brand": "saku",
         "words": [
             "saku",
@@ -263,7 +263,7 @@
         ]
     },
     {
-        "imageName": "plate20_117.jpg",
+        "imageName": "B2/plate20_117.jpg",
         "brand": "kilkenny",
         "words": [
             "kilkenny"
@@ -277,7 +277,7 @@
         ]
     },
     {
-        "imageName": "plate20_118.jpg",
+        "imageName": "B2/plate20_118.jpg",
         "brand": "dreher",
         "words": [
             "dreher",
@@ -293,7 +293,7 @@
         "figures": []
     },
     {
-        "imageName": "plate20_119.jpg",
+        "imageName": "B2/plate20_119.jpg",
         "brand": "san miguel",
         "words": [
             "san",
@@ -316,7 +316,7 @@
         ]
     },
     {
-        "imageName": "plate20_120.jpg",
+        "imageName": "B2/plate20_120.jpg",
         "brand": "marton's",
         "words": [
             "marton's",
@@ -336,7 +336,7 @@
         ]
     },
     {
-        "imageName": "plate20_121.jpg",
+        "imageName": "B2/plate20_121.jpg",
         "brand": "marton's",
         "words": [
             "marton's",
@@ -356,7 +356,7 @@
         ]
     },
     {
-        "imageName": "plate20_122.jpg",
+        "imageName": "B2/plate20_122.jpg",
         "brand": "wernesgruner",
         "words": [
             "wernesgruner",
@@ -371,7 +371,7 @@
         "figures": []
     },
     {
-        "imageName": "plate20_123.jpg",
+        "imageName": "B2/plate20_123.jpg",
         "brand": "zhiguli",
         "words": [
             "жигули",
@@ -389,7 +389,7 @@
         ]
     },
     {
-        "imageName": "plate20_124.jpg",
+        "imageName": "B2/plate20_124.jpg",
         "brand": "desperados",
         "words": [
             "desperados",
@@ -408,7 +408,7 @@
         ]
     },
     {
-        "imageName": "plate20_125.jpg",
+        "imageName": "B2/plate20_125.jpg",
         "brand": "vivaris",
         "words": [
             "vivaris",
@@ -426,7 +426,7 @@
         ]
     },
     {
-        "imageName": "plate20_126.jpg",
+        "imageName": "B2/plate20_126.jpg",
         "brand": "hoegaarden",
         "words": [
             "hoegaarden"
@@ -439,7 +439,7 @@
         "figures": []
     },
     {
-        "imageName": "plate20_127.jpg",
+        "imageName": "B2/plate20_127.jpg",
         "words": [
             "dresdner",
             "felsenkeller",
@@ -454,7 +454,7 @@
         ]
     },
     {
-        "imageName": "plate20_128.jpg",
+        "imageName": "B2/plate20_128.jpg",
         "brand": "ab",
         "words": [
             "ab",
@@ -474,7 +474,7 @@
         ]
     },
     {
-        "imageName": "plate20_129.jpg",
+        "imageName": "B2/plate20_129.jpg",
         "brand": "freiberger",
         "words": [
             "freiberger",
@@ -491,7 +491,7 @@
         ]
     },
     {
-        "imageName": "plate20_130.jpg",
+        "imageName": "B2/plate20_130.jpg",
         "brand": "sachsengold",
         "words": [
             "sachsengold",
@@ -507,7 +507,7 @@
         ]
     },
     {
-        "imageName": "plate20_131.jpg",
+        "imageName": "B2/plate20_131.jpg",
         "words": [
             "shepherd",
             "neame",
@@ -524,7 +524,7 @@
         ]
     },
     {
-        "imageName": "plate20_132.jpg",
+        "imageName": "B2/plate20_132.jpg",
         "brand": "berliner",
         "words": [
             "berliner",
@@ -544,7 +544,7 @@
         ]
     },
     {
-        "imageName": "plate20_133.jpg",
+        "imageName": "B2/plate20_133.jpg",
         "brand": "berliner",
         "words": [
             "berliner",
@@ -561,7 +561,7 @@
         ]
     },
     {
-        "imageName": "plate20_134.jpg",
+        "imageName": "B2/plate20_134.jpg",
         "brand": "quilmes",
         "words": [
             "quilmes"
@@ -574,7 +574,7 @@
         "figures": []
     },
     {
-        "imageName": "plate20_135.jpg",
+        "imageName": "B2/plate20_135.jpg",
         "brand": "asmara",
         "words": [
             "asmara",
@@ -592,7 +592,7 @@
         ]
     },
     {
-        "imageName": "plate20_136.jpg",
+        "imageName": "B2/plate20_136.jpg",
         "brand": "sofiisko",
         "words": [
             "софийско",
@@ -608,7 +608,7 @@
         ]
     },
     {
-        "imageName": "plate20_137.jpg",
+        "imageName": "B2/plate20_137.jpg",
         "brand": "bernard",
         "words": [],
         "colors": [
@@ -624,7 +624,7 @@
         ]
     },
     {
-        "imageName": "plate20_138.jpg",
+        "imageName": "B2/plate20_138.jpg",
         "brand": "pilsner urquell",
         "words": [
             "pilsner",
@@ -637,7 +637,7 @@
         "figures": []
     },
     {
-        "imageName": "plate20_139.jpg",
+        "imageName": "B2/plate20_139.jpg",
         "words": [
             "sabor",
             "del",
@@ -660,7 +660,7 @@
         "figures": []
     },
     {
-        "imageName": "plate20_140.jpg",
+        "imageName": "B2/plate20_140.jpg",
         "words": [
             "bled",
             "bier",
@@ -674,7 +674,7 @@
         "figures": []
     },
     {
-        "imageName": "plate20_141.jpg",
+        "imageName": "B2/plate20_141.jpg",
         "brand": "windhoek",
         "words": [
             "windhoek",
@@ -688,7 +688,7 @@
         "figures": []
     },
     {
-        "imageName": "plate20_142.jpg",
+        "imageName": "B2/plate20_142.jpg",
         "words": [
             "urbock",
             "dresdner"
@@ -705,7 +705,7 @@
         ]
     },
     {
-        "imageName": "plate20_143.jpg",
+        "imageName": "B2/plate20_143.jpg",
         "brand": "poretti",
         "words": [
             "birifcio",
@@ -721,7 +721,7 @@
         "figures": []
     },
     {
-        "imageName": "plate20_144.jpg",
+        "imageName": "B2/plate20_144.jpg",
         "words": [
             "dresdner",
             "export"
@@ -737,7 +737,7 @@
         ]
     },
     {
-        "imageName": "plate20_145.jpg",
+        "imageName": "B2/plate20_145.jpg",
         "words": [
             "export"
         ],
@@ -750,7 +750,7 @@
         ]
     },
     {
-        "imageName": "plate20_146.jpg",
+        "imageName": "B2/plate20_146.jpg",
         "words": [
             "courage"
         ],
@@ -763,7 +763,7 @@
         ]
     },
     {
-        "imageName": "plate20_147.jpg",
+        "imageName": "B2/plate20_147.jpg",
         "brand": "berg konig",
         "words": [
             "berg",
@@ -782,7 +782,7 @@
         ]
     },
     {
-        "imageName": "plate20_148.jpg",
+        "imageName": "B2/plate20_148.jpg",
         "brand": "salitos",
         "words": [
             "salitos",

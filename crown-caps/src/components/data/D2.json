@@ -1,6 +1,6 @@
 [
     {
-        "imageName": "plate15_100.jpg",
+        "imageName": "D2/plate15_100.jpg",
         "brand": "miller",
         "words": [
             "miller",
@@ -18,7 +18,7 @@
         ]
     },
     {
-        "imageName": "plate15_101.jpg",
+        "imageName": "D2/plate15_101.jpg",
         "words": [],
         "colors": [
             "black",
@@ -29,7 +29,7 @@
         ]
     },
     {
-        "imageName": "plate15_102.jpg",
+        "imageName": "D2/plate15_102.jpg",
         "words": [],
         "colors": [
             "black",
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "imageName": "plate15_103.jpg",
+        "imageName": "D2/plate15_103.jpg",
         "brand": "manila",
         "words": [
             "manila"
@@ -52,7 +52,7 @@
         "figures": []
     },
     {
-        "imageName": "plate15_104.jpg",
+        "imageName": "D2/plate15_104.jpg",
         "words": [
             "in",
             "hops",
@@ -68,7 +68,7 @@
         ]
     },
     {
-        "imageName": "plate15_105.jpg",
+        "imageName": "D2/plate15_105.jpg",
         "brand": "krusovice",
         "words": [
             "cerne"
@@ -82,7 +82,7 @@
         ]
     },
     {
-        "imageName": "plate15_106.jpg",
+        "imageName": "D2/plate15_106.jpg",
         "words": [
             "in",
             "hops",
@@ -98,7 +98,7 @@
         ]
     },
     {
-        "imageName": "plate15_107.jpg",
+        "imageName": "D2/plate15_107.jpg",
         "words": [
             "r.i.p."
         ],
@@ -111,7 +111,7 @@
         ]
     },
     {
-        "imageName": "plate15_108.jpg",
+        "imageName": "D2/plate15_108.jpg",
         "brand": "kalnapilis",
         "words": [
             "kalnapilis"
@@ -128,7 +128,7 @@
         ]
     },
     {
-        "imageName": "plate15_109.jpg",
+        "imageName": "D2/plate15_109.jpg",
         "brand": "badger",
         "words": [
             "badger",
@@ -146,7 +146,7 @@
         ]
     },
     {
-        "imageName": "plate15_110.jpg",
+        "imageName": "D2/plate15_110.jpg",
         "words": [
             "s"
         ],
@@ -160,7 +160,7 @@
         ]
     },
     {
-        "imageName": "plate15_111.jpg",
+        "imageName": "D2/plate15_111.jpg",
         "brand": "warsteiner",
         "words": [
             "warsteiner",
@@ -179,7 +179,7 @@
         ]
     },
     {
-        "imageName": "plate15_112.jpg",
+        "imageName": "D2/plate15_112.jpg",
         "words": [
             "oakhamales.com"
         ],
@@ -193,7 +193,7 @@
         ]
     },
     {
-        "imageName": "plate15_113.jpg",
+        "imageName": "D2/plate15_113.jpg",
         "words": [],
         "colors": [
             "black",
@@ -204,7 +204,7 @@
         ]
     },
     {
-        "imageName": "plate15_114.jpg",
+        "imageName": "D2/plate15_114.jpg",
         "words": [
             "ny"
         ],
@@ -217,7 +217,7 @@
         ]
     },
     {
-        "imageName": "plate15_115.jpg",
+        "imageName": "D2/plate15_115.jpg",
         "brand": "bernard",
         "words": [
             "bernard",
@@ -235,7 +235,7 @@
         ]
     },
     {
-        "imageName": "plate15_116.jpg",
+        "imageName": "D2/plate15_116.jpg",
         "brand": "krombacher",
         "words": [
             "krombacher",
@@ -252,7 +252,7 @@
         ]
     },
     {
-        "imageName": "plate15_117.jpg",
+        "imageName": "D2/plate15_117.jpg",
         "words": [],
         "colors": [
             "black",
@@ -263,7 +263,7 @@
         ]
     },
     {
-        "imageName": "plate15_118.jpg",
+        "imageName": "D2/plate15_118.jpg",
         "words": [],
         "colors": [
             "black",
@@ -274,7 +274,7 @@
         ]
     },
     {
-        "imageName": "plate15_119.jpg",
+        "imageName": "D2/plate15_119.jpg",
         "words": [
             "true",
             "independent",
@@ -289,7 +289,7 @@
         ]
     },
     {
-        "imageName": "plate15_120.jpg",
+        "imageName": "D2/plate15_120.jpg",
         "brand": "saporo",
         "words": [
             "saporo"
@@ -304,7 +304,7 @@
         ]
     },
     {
-        "imageName": "plate15_121.jpg",
+        "imageName": "D2/plate15_121.jpg",
         "words": [
             "ninkasi",
             "brewing",
@@ -320,7 +320,7 @@
         ]
     },
     {
-        "imageName": "plate15_122.jpg",
+        "imageName": "D2/plate15_122.jpg",
         "words": [],
         "colors": [
             "black",
@@ -331,7 +331,7 @@
         ]
     },
     {
-        "imageName": "plate15_123.jpg",
+        "imageName": "D2/plate15_123.jpg",
         "words": [
             "o"
         ],
@@ -344,7 +344,7 @@
         ]
     },
     {
-        "imageName": "plate15_124.jpg",
+        "imageName": "D2/plate15_124.jpg",
         "words": [
             "trade",
             "mark",
@@ -361,7 +361,7 @@
         ]
     },
     {
-        "imageName": "plate15_125.jpg",
+        "imageName": "D2/plate15_125.jpg",
         "brand": "pelforth",
         "words": [
             "pelforth",
@@ -380,7 +380,7 @@
         ]
     },
     {
-        "imageName": "plate15_126.jpg",
+        "imageName": "D2/plate15_126.jpg",
         "brand": "belgoo",
         "words": [
             "belgoo",
@@ -396,7 +396,7 @@
         ]
     },
     {
-        "imageName": "plate15_127.jpg",
+        "imageName": "D2/plate15_127.jpg",
         "words": [
             "indipendente",
             "elav",
@@ -411,7 +411,7 @@
         ]
     },
     {
-        "imageName": "plate15_128.jpg",
+        "imageName": "D2/plate15_128.jpg",
         "words": [
             "08"
         ],
@@ -424,7 +424,7 @@
         ]
     },
     {
-        "imageName": "plate15_129.jpg",
+        "imageName": "D2/plate15_129.jpg",
         "words": [],
         "colors": [
             "black",
@@ -435,7 +435,7 @@
         ]
     },
     {
-        "imageName": "plate15_130.jpg",
+        "imageName": "D2/plate15_130.jpg",
         "words": [
             "u"
         ],
@@ -448,7 +448,7 @@
         ]
     },
     {
-        "imageName": "plate15_131.jpg",
+        "imageName": "D2/plate15_131.jpg",
         "words": [],
         "colors": [
             "black",
@@ -459,7 +459,7 @@
         ]
     },
     {
-        "imageName": "plate15_132.jpg",
+        "imageName": "D2/plate15_132.jpg",
         "words": [
             "m",
             "premium",
@@ -474,7 +474,7 @@
         ]
     },
     {
-        "imageName": "plate15_133.jpg",
+        "imageName": "D2/plate15_133.jpg",
         "words": [
             "m",
             "premium",
@@ -489,7 +489,7 @@
         ]
     },
     {
-        "imageName": "plate15_134.jpg",
+        "imageName": "D2/plate15_134.jpg",
         "brand": "carling",
         "words": [
             "carling",
@@ -507,7 +507,7 @@
         ]
     },
     {
-        "imageName": "plate15_135.jpg",
+        "imageName": "D2/plate15_135.jpg",
         "words": [
             "twist",
             "off"
@@ -521,7 +521,7 @@
         ]
     },
     {
-        "imageName": "plate15_136.jpg",
+        "imageName": "D2/plate15_136.jpg",
         "words": [
             "twist",
             "off"
@@ -535,7 +535,7 @@
         ]
     },
     {
-        "imageName": "plate15_137.jpg",
+        "imageName": "D2/plate15_137.jpg",
         "brand": "kozel",
         "words": [
             "kezel",
@@ -552,7 +552,7 @@
         ]
     },
     {
-        "imageName": "plate15_138.jpg",
+        "imageName": "D2/plate15_138.jpg",
         "words": [
             "docteur",
             "gab's",
@@ -567,7 +567,7 @@
         ]
     },
     {
-        "imageName": "plate15_139.jpg",
+        "imageName": "D2/plate15_139.jpg",
         "brand": "warsteiner",
         "words": [
             "warsteiner",
@@ -581,7 +581,7 @@
         "figures": []
     },
     {
-        "imageName": "plate15_140.jpg",
+        "imageName": "D2/plate15_140.jpg",
         "words": [],
         "colors": [
             "black",
@@ -592,7 +592,7 @@
         ]
     },
     {
-        "imageName": "plate15_141.jpg",
+        "imageName": "D2/plate15_141.jpg",
         "brand": "franziskaner",
         "words": [
             "franziskaner",
@@ -609,7 +609,7 @@
         ]
     },
     {
-        "imageName": "plate15_142.jpg",
+        "imageName": "D2/plate15_142.jpg",
         "words": [],
         "colors": [
             "black",
@@ -620,7 +620,7 @@
         ]
     },
     {
-        "imageName": "plate15_143.jpg",
+        "imageName": "D2/plate15_143.jpg",
         "brand": "marstons",
         "words": [
             "marstons"
@@ -636,7 +636,7 @@
         ]
     },
     {
-        "imageName": "plate15_144.jpg",
+        "imageName": "D2/plate15_144.jpg",
         "words": [
             "piensa",
             "global",
@@ -650,7 +650,7 @@
         "figures": []
     },
     {
-        "imageName": "plate15_145.jpg",
+        "imageName": "D2/plate15_145.jpg",
         "brand": "bakunin",
         "words": [
             "бакунин",
@@ -669,7 +669,7 @@
         ]
     },
     {
-        "imageName": "plate15_146.jpg",
+        "imageName": "D2/plate15_146.jpg",
         "words": [
             "b"
         ],
@@ -682,7 +682,7 @@
         ]
     },
     {
-        "imageName": "plate15_147.jpg",
+        "imageName": "D2/plate15_147.jpg",
         "brand": "angkor",
         "words": [
             "angkor",
@@ -698,7 +698,7 @@
         ]
     },
     {
-        "imageName": "plate15_148.jpg",
+        "imageName": "D2/plate15_148.jpg",
         "brand": "lakeland",
         "words": [
             "lakeland",

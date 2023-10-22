@@ -18,35 +18,39 @@
 </template>
 
 <script>
-    import plate1 from './data/plate1.json'
-    import plate2 from './data/plate2.json'
-    import plate3 from './data/plate3.json'
-    import plate4 from './data/plate4.json'
-    import plate5 from './data/plate5.json'
-    import plate6 from './data/plate6.json'
-    import plate7 from './data/plate7.json'
-    import plate8 from './data/plate8.json'
-    import plate9 from './data/plate9.json'
-    import plate10 from './data/plate10.json'
-    import plate11 from './data/plate11.json'
-    import plate12 from './data/plate12.json'
-    import plate13 from './data/plate13.json'
-    import plate14 from './data/plate14.json'
-    import plate15 from './data/plate15.json'
-    import plate16 from './data/plate16.json'
-    import plate17 from './data/plate17.json'
-    import plate18 from './data/plate18.json'
-    import plate19 from './data/plate19.json'
-    import plate20 from './data/plate20.json'
-    import plate21 from './data/plate21.json'
-    import plate22 from './data/plate22.json'
-    import plate23 from './data/plate23.json'
-    import plate24 from './data/plate24.json'
-    import plate25 from './data/plate25.json'
-    import plate26 from './data/plate26.json'
-    import plate27 from './data/plate27.json'
+    import B1 from './data/B1.json'
+    import B2 from './data/B2.json'
+    import B3 from './data/B3.json'
+    import B4 from './data/B4.json'
+    import C1 from './data/C1.json'
+    import C2 from './data/C2.json'
+    import C3 from './data/C3.json'
+    import D1 from './data/D1.json'
+    import D2 from './data/D2.json'
+    import D3 from './data/D3.json'
+    import D4 from './data/D4.json'
+    import E1 from './data/E1.json'
+    import E2 from './data/E2.json'
+    import E3 from './data/E3.json'
+    import F1 from './data/F1.json'
+    import F2 from './data/F2.json'
+    import F3 from './data/F3.json'
+    import F4 from './data/F4.json'
+    import G1 from './data/G1.json'
+    import G2 from './data/G2.json'
+    import G3 from './data/G3.json'
+    import H1 from './data/H1.json'
+    import H2 from './data/H2.json'
+    import H3 from './data/H3.json'
+    import I1 from './data/I1.json'
+    import I2 from './data/I2.json'
+    import I3 from './data/I3.json'
+    import J1 from './data/J1.json'
+    import J2 from './data/J2.json'
+    import J3 from './data/J3.json'
     import small from './data/small.json'
     import large from './data/large.json'
+    import noplate from './data/noplate.json'
 
     export default({
         name: 'Match',
@@ -66,10 +70,16 @@
         // Implement also options sources upon other option change!!!!!!
         // ====================
         mounted() {
-            this.allCaps = plate1.concat(plate2, plate3, plate4, plate5, plate6, plate7, 
-                plate8, plate9, plate10, plate11, plate12, plate13, plate14, 
-                plate15, plate16, plate17, plate18, plate19, plate20, plate21, 
-                plate22, plate23, plate24, plate25, plate26, plate27, small, large);
+            this.allCaps = B1.concat(B2, B3, B4,
+                C1, C2, C3,
+                D1, D2, D3, D4,
+                E1, E2, E3,
+                F1, F2, F3, F4,
+                G1, G2, G3,
+                H1, H2, H3,
+                I1, I2, I3,
+                J1, J2, J3,
+                small, large, noplate);
 
             let length = this.allCaps.length,
                 i;
@@ -83,7 +93,7 @@
 
         methods: {
             getPath(imageName) {
-                return "./images/" + imageName.split("_")[0] + "/" + imageName;
+                return "./images/" + imageName;
             },
 
             removePair(index) {

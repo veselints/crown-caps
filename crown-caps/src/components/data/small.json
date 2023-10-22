@@ -1,6 +1,6 @@
 [
     {
-        "imageName": "small_100.jpg",
+        "imageName": "small/small_100.jpg",
         "brand": "lasko",
         "words": [
             "lasko",
@@ -13,7 +13,7 @@
         "figures": []
     },
     {
-        "imageName": "small_101.jpg",
+        "imageName": "small/small_101.jpg",
         "words": [
             "farny",
             "hofguts-",
@@ -28,7 +28,7 @@
         "figures": []
     },
     {
-        "imageName": "small_102.jpg",
+        "imageName": "small/small_102.jpg",
         "brand": "flying monkeys",
         "words": [
             "flying",
@@ -45,7 +45,7 @@
         ]
     },
     {
-        "imageName": "small_103.jpg",
+        "imageName": "small/small_103.jpg",
         "brand": "hafferoder",
         "words": [
             "pils"
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "imageName": "small_104.jpg",
+        "imageName": "small/small_104.jpg",
         "words": [
             "vb"
         ],
@@ -75,7 +75,7 @@
         ]
     },
     {
-        "imageName": "small_105.jpg",
+        "imageName": "small/small_105.jpg",
         "brand": "sagres",
         "words": [
             "liga",
@@ -91,7 +91,7 @@
         ]
     },
     {
-        "imageName": "small_106.jpg",
+        "imageName": "small/small_106.jpg",
         "brand": "meckatzer",
         "words": [
             "meckatzer",
@@ -109,7 +109,7 @@
         ]
     },
     {
-        "imageName": "small_107.jpg",
+        "imageName": "small/small_107.jpg",
         "brand": "weltenburger",
         "words": [
             "weltenburger",
@@ -127,7 +127,7 @@
         ]
     },
     {
-        "imageName": "small_108.jpg",
+        "imageName": "small/small_108.jpg",
         "brand": "super bock",
         "words": [
             "super",
@@ -140,7 +140,7 @@
         "figures": []
     },
     {
-        "imageName": "small_109.jpg",
+        "imageName": "small/small_109.jpg",
         "brand": "sagres",
         "words": [
             "sagres",
@@ -155,7 +155,7 @@
         ]
     },
     {
-        "imageName": "small_110.jpg",
+        "imageName": "small/small_110.jpg",
         "brand": "tagus",
         "words": [
             "tagus"
@@ -167,7 +167,7 @@
         "figures": []
     },
     {
-        "imageName": "small_111.jpg",
+        "imageName": "small/small_111.jpg",
         "brand": "rothaus",
         "words": [
             "rothaus"
@@ -181,7 +181,7 @@
         ]
     },
     {
-        "imageName": "small_112.jpg",
+        "imageName": "small/small_112.jpg",
         "words": [
             "htb",
             "tegernseer",
@@ -197,7 +197,7 @@
         ]
     },
     {
-        "imageName": "small_113.jpg",
+        "imageName": "small/small_113.jpg",
         "brand": "hacker-pschorr",
         "words": [
             "hacker",
@@ -216,7 +216,7 @@
         ]
     },
     {
-        "imageName": "small_114.jpg",
+        "imageName": "small/small_114.jpg",
         "brand": "grimbergen",
         "words": [
             "grimbergen",
@@ -233,7 +233,7 @@
         ]
     },
     {
-        "imageName": "small_115.jpg",
+        "imageName": "small/small_115.jpg",
         "brand": "konrad",
         "words": [
             "konrad",
@@ -249,7 +249,7 @@
         ]
     },
     {
-        "imageName": "small_116.jpg",
+        "imageName": "small/small_116.jpg",
         "brand": "kostriser",
         "words": [
             "kostriser",
@@ -264,7 +264,7 @@
         "figures": []
     },
     {
-        "imageName": "small_117.jpg",
+        "imageName": "small/small_117.jpg",
         "brand": "super bock",
         "words": [
             "super",
@@ -278,7 +278,7 @@
         "figures": []
     },
     {
-        "imageName": "small_118.jpg",
+        "imageName": "small/small_118.jpg",
         "words": [],
         "colors": [
             "black"
@@ -286,7 +286,7 @@
         "figures": []
     },
     {
-        "imageName": "small_119.jpg",
+        "imageName": "small/small_119.jpg",
         "words": [
             "open"
         ],
@@ -302,7 +302,7 @@
         ]
     },
     {
-        "imageName": "small_120.jpg",
+        "imageName": "small/small_120.jpg",
         "brand": "andechs",
         "words": [
             "andechs",
@@ -321,7 +321,7 @@
         ]
     },
     {
-        "imageName": "small_121.jpg",
+        "imageName": "small/small_121.jpg",
         "brand": "bitburger",
         "words": [
             "radler",
@@ -337,7 +337,7 @@
         "figures": []
     },
     {
-        "imageName": "small_122.jpg",
+        "imageName": "small/small_122.jpg",
         "brand": "postedel",
         "words": [
             "postedel",
@@ -356,7 +356,7 @@
         ]
     },
     {
-        "imageName": "small_123.jpg",
+        "imageName": "small/small_123.jpg",
         "brand": "sagres",
         "words": [
             "sagres",
@@ -372,7 +372,7 @@
         ]
     },
     {
-        "imageName": "small_124.jpg",
+        "imageName": "small/small_124.jpg",
         "words": [
             "drehen",
             "devisser",
@@ -387,7 +387,7 @@
         ]
     },
     {
-        "imageName": "small_125.jpg",
+        "imageName": "small/small_125.jpg",
         "words": [
             "st",
             "bernardus",
@@ -404,7 +404,7 @@
         ]
     },
     {
-        "imageName": "small_126.jpg",
+        "imageName": "small/small_126.jpg",
         "brand": "bitburger",
         "words": [
             "bitburger",
@@ -422,7 +422,7 @@
         "figures": []
     },
     {
-        "imageName": "small_127.jpg",
+        "imageName": "small/small_127.jpg",
         "brand": "kitzmann",
         "words": [
             "kitzmann",
@@ -441,7 +441,7 @@
         ]
     },
     {
-        "imageName": "small_128.jpg",
+        "imageName": "small/small_128.jpg",
         "words": [],
         "colors": [
             "white",
@@ -453,7 +453,7 @@
         ]
     },
     {
-        "imageName": "small_129.jpg",
+        "imageName": "small/small_129.jpg",
         "brand": "oettinger",
         "words": [
             "oettinger",
@@ -469,7 +469,7 @@
         ]
     },
     {
-        "imageName": "small_130.jpg",
+        "imageName": "small/small_130.jpg",
         "words": [
             "pivovar",
             "visoky",
@@ -485,7 +485,7 @@
         ]
     },
     {
-        "imageName": "small_131.jpg",
+        "imageName": "small/small_131.jpg",
         "brand": "cardinal",
         "words": [
             "cardinal",
@@ -505,7 +505,7 @@
         "figures": []
     },
     {
-        "imageName": "small_132.jpg",
+        "imageName": "small/small_132.jpg",
         "brand": "",
         "words": [
             "bio"
@@ -519,7 +519,7 @@
         ]
     },
     {
-        "imageName": "small_133.jpg",
+        "imageName": "small/small_133.jpg",
         "words": [],
         "colors": [
             "white",
@@ -532,7 +532,7 @@
         ]
     },
     {
-        "imageName": "small_134.jpg",
+        "imageName": "small/small_134.jpg",
         "words": [
             "gtuttgarter",
             "hofbrau",
@@ -547,7 +547,7 @@
         "figures": []
     },
     {
-        "imageName": "small_135.jpg",
+        "imageName": "small/small_135.jpg",
         "brand": "",
         "words": [
             "devisser",
@@ -563,7 +563,7 @@
         ]
     },
     {
-        "imageName": "small_136.jpg",
+        "imageName": "small/small_136.jpg",
         "words": [
             "aus",
             "tradition",
@@ -583,7 +583,7 @@
         ]
     },
     {
-        "imageName": "small_137.jpg",
+        "imageName": "small/small_137.jpg",
         "words": [
             "drehen",
             "zum",
@@ -599,7 +599,7 @@
         ]
     },
     {
-        "imageName": "small_138.jpg",
+        "imageName": "small/small_138.jpg",
         "brand": "gutmann",
         "words": [
             "gutmann",
@@ -617,7 +617,7 @@
         ]
     },
     {
-        "imageName": "small_139.jpg",
+        "imageName": "small/small_139.jpg",
         "brand": "kulmbacher",
         "words": [
             "kulmbacher",
@@ -636,7 +636,7 @@
         ]
     },
     {
-        "imageName": "small_140.jpg",
+        "imageName": "small/small_140.jpg",
         "brand": "beck's",
         "words": [
             "beck's",
@@ -655,7 +655,7 @@
         ]
     },
     {
-        "imageName": "small_141.jpg",
+        "imageName": "small/small_141.jpg",
         "brand": "beck's",
         "words": [
             "beck's",
@@ -675,7 +675,7 @@
         ]
     },
     {
-        "imageName": "small_142.jpg",
+        "imageName": "small/small_142.jpg",
         "brand": "egger",
         "words": [
             "egger",
@@ -690,7 +690,7 @@
         "figures": []
     },
     {
-        "imageName": "small_143.jpg",
+        "imageName": "small/small_143.jpg",
         "brand": "hurlimann",
         "words": [
             "hurlimann",
@@ -706,7 +706,7 @@
         ]
     },
     {
-        "imageName": "small_144.jpg",
+        "imageName": "small/small_144.jpg",
         "brand": "bolyarka",
         "words": [
             "болярка",
@@ -719,7 +719,7 @@
         "figures": []
     },
     {
-        "imageName": "small_145.jpg",
+        "imageName": "small/small_145.jpg",
         "brand": "cristal",
         "words": [
             "cristal"
@@ -735,7 +735,7 @@
         ]
     },
     {
-        "imageName": "small_146.jpg",
+        "imageName": "small/small_146.jpg",
         "brand": "union",
         "words": [
             "union",
@@ -752,7 +752,7 @@
         "figures": []
     },
     {
-        "imageName": "small_147.jpg",
+        "imageName": "small/small_147.jpg",
         "words": [],
         "colors": [
             "golden",
@@ -762,7 +762,7 @@
         "figures": []
     },
     {
-        "imageName": "small_148.jpg",
+        "imageName": "small/small_148.jpg",
         "words": [],
         "colors": [
             "golden",

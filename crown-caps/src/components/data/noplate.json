@@ -1,6 +1,6 @@
 [
     {
-        "imageName": "noplate_01.jpg",
+        "imageName": "noplate/noplate_01.jpg",
         "brand": "devils peak",
         "words": [
             "devils",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "imageName": "noplate_02.jpg",
+        "imageName": "noplate/noplate_02.jpg",
         "words": [],
         "colors": [
             "golden",
@@ -35,7 +35,7 @@
         ]
     },
     {
-        "imageName": "noplate_03.jpg",
+        "imageName": "noplate/noplate_03.jpg",
         "words": [
             "abk",
             "1308",
@@ -56,7 +56,7 @@
         ]
     },
     {
-        "imageName": "noplate_08.jpg",
+        "imageName": "noplate/noplate_08.jpg",
         "brand": "primator",
         "words": [
             "primator",
@@ -78,7 +78,7 @@
         ]
     },
     {
-        "imageName": "noplate_09.jpg",
+        "imageName": "noplate/noplate_09.jpg",
         "brand": "duvel",
         "words": [
             "d",
@@ -96,7 +96,7 @@
         ]
     },
     {
-        "imageName": "noplate_10.jpg",
+        "imageName": "noplate/noplate_10.jpg",
         "brand": "river",
         "words": [
             "river",
@@ -112,7 +112,7 @@
         ]
     },
     {
-        "imageName": "noplate_11.jpg",
+        "imageName": "noplate/noplate_11.jpg",
         "words": [
             "be",
             "you",
@@ -129,7 +129,7 @@
         ]
     },
     {
-        "imageName": "noplate_12.jpg",
+        "imageName": "noplate/noplate_12.jpg",
         "brand": "two chefs brewing",
         "words": [
             "two",
@@ -143,7 +143,7 @@
         "figures": []
     },
     {
-        "imageName": "noplate_13.jpg",
+        "imageName": "noplate/noplate_13.jpg",
         "brand": "weihenstephaner",
         "words": [
             "weihenstephaner",
@@ -161,7 +161,7 @@
         ]
     },
     {
-        "imageName": "noplate_14.jpg",
+        "imageName": "noplate/noplate_14.jpg",
         "brand": "branik",
         "words": [
             "branik"
@@ -176,7 +176,7 @@
         ]
     },
     {
-        "imageName": "noplate_15.jpg",
+        "imageName": "noplate/noplate_15.jpg",
         "words": [],
         "colors": [
             "black",
@@ -187,7 +187,7 @@
         ]
     },
     {
-        "imageName": "noplate_16.jpg",
+        "imageName": "noplate/noplate_16.jpg",
         "brand": "cheetah",
         "words": [
             "cheetah"
@@ -202,7 +202,7 @@
         ]
     },
     {
-        "imageName": "noplate_17.jpg",
+        "imageName": "noplate/noplate_17.jpg",
         "words": [
             "riegele",
             "biermanufaktur"
@@ -216,7 +216,7 @@
         ]
     },
     {
-        "imageName": "noplate_18.jpg",
+        "imageName": "noplate/noplate_18.jpg",
         "words": [
             "s",
             "bayerische",
@@ -234,7 +234,7 @@
         ]
     },
     {
-        "imageName": "noplate_19.jpg",
+        "imageName": "noplate/noplate_19.jpg",
         "words": [
             "brasserie",
             "des",
@@ -251,7 +251,7 @@
         ]
     },
     {
-        "imageName": "noplate_20.jpg",
+        "imageName": "noplate/noplate_20.jpg",
         "words": [],
         "colors": [
             "green"
@@ -259,7 +259,7 @@
         "figures": []
     },
     {
-        "imageName": "noplate_21.jpg",
+        "imageName": "noplate/noplate_21.jpg",
         "brand": "pirinsko",
         "words": [
             "пиринско"
@@ -273,7 +273,7 @@
         ]
     },
     {
-        "imageName": "noplate_22.jpg",
+        "imageName": "noplate/noplate_22.jpg",
         "brand": "rohozec",
         "words": [
             "rohozec",
@@ -292,7 +292,7 @@
         ]
     },
     {
-        "imageName": "noplate_23.jpg",
+        "imageName": "noplate/noplate_23.jpg",
         "brand": "budweiser",
         "words": [],
         "colors": [
@@ -306,7 +306,7 @@
         ]
     },
     {
-        "imageName": "noplate_24.jpg",
+        "imageName": "noplate/noplate_24.jpg",
         "brand": "shumensko",
         "words": [
             "суменско",
@@ -322,7 +322,7 @@
         ]
     },
     {
-        "imageName": "noplate_25.jpg",
+        "imageName": "noplate/noplate_25.jpg",
         "brand": "tucher",
         "words": [
             "freiherrich",
@@ -341,7 +341,7 @@
         ]
     },
     {
-        "imageName": "noplate_26.jpg",
+        "imageName": "noplate/noplate_26.jpg",
         "words": [
             "744"
         ],
@@ -355,7 +355,7 @@
         ]
     },
     {
-        "imageName": "noplate_27.jpg",
+        "imageName": "noplate/noplate_27.jpg",
         "brand": "heineken",
         "words": [
             "heineken",
@@ -371,7 +371,7 @@
         ]
     },
     {
-        "imageName": "noplate_28.jpg",
+        "imageName": "noplate/noplate_28.jpg",
         "brand": "cimes",
         "words": [
             "cimes",
@@ -385,7 +385,7 @@
         "figures": []
     },
     {
-        "imageName": "noplate_29.jpg",
+        "imageName": "noplate/noplate_29.jpg",
         "brand": "skol",
         "words": [
             "skol",
@@ -400,7 +400,7 @@
         ]
     },
     {
-        "imageName": "noplate_30.jpg",
+        "imageName": "noplate/noplate_30.jpg",
         "brand": "sierra nevada",
         "words": [
             "sierra",
@@ -419,7 +419,7 @@
         "figures": []
     },
     {
-        "imageName": "noplate_31.jpg",
+        "imageName": "noplate/noplate_31.jpg",
         "brand": "alhambra",
         "words": [
             "alhambra",
@@ -437,7 +437,7 @@
         ]
     },
     {
-        "imageName": "noplate_32.jpg",
+        "imageName": "noplate/noplate_32.jpg",
         "brand": "franziskaner",
         "words": [
             "franziskaner",
@@ -454,7 +454,7 @@
         ]
     },
     {
-        "imageName": "noplate_33.jpg",
+        "imageName": "noplate/noplate_33.jpg",
         "brand": "",
         "words": [
             "sensation",
@@ -469,7 +469,7 @@
         ]
     },
     {
-        "imageName": "noplate_34.jpg",
+        "imageName": "noplate/noplate_34.jpg",
         "brand": "desperados",
         "words": [
             "tequila",
@@ -484,7 +484,7 @@
         ]
     },
     {
-        "imageName": "noplate_35.jpg",
+        "imageName": "noplate/noplate_35.jpg",
         "brand": "cruz campo",
         "words": [],
         "colors": [
@@ -498,7 +498,7 @@
         ]
     },
     {
-        "imageName": "noplate_36.jpg",
+        "imageName": "noplate/noplate_36.jpg",
         "brand": "mahou",
         "words": [
             "m",
@@ -513,7 +513,7 @@
         ]
     },
     {
-        "imageName": "noplate_37.jpg",
+        "imageName": "noplate/noplate_37.jpg",
         "brand": "guinness",
         "words": [
             "guinness"
@@ -528,7 +528,7 @@
         ]
     },
     {
-        "imageName": "noplate_38.jpg",
+        "imageName": "noplate/noplate_38.jpg",
         "words": [],
         "colors": [
             "green",
@@ -539,7 +539,7 @@
         ]
     },
     {
-        "imageName": "noplate_39.jpg",
+        "imageName": "noplate/noplate_39.jpg",
         "brand": "amstel",
         "words": [
             "amstel",
@@ -552,7 +552,7 @@
         "figures": []
     },
     {
-        "imageName": "noplate_40.jpg",
+        "imageName": "noplate/noplate_40.jpg",
         "words": [
             "8419",
             "9669"
@@ -567,7 +567,7 @@
         ]
     },
     {
-        "imageName": "noplate_41.jpg",
+        "imageName": "noplate/noplate_41.jpg",
         "brand": "estrella galicia",
         "words": [
             "1906",
@@ -582,7 +582,7 @@
         "figures": []
     },
     {
-        "imageName": "noplate_42.jpg",
+        "imageName": "noplate/noplate_42.jpg",
         "brand": "rosita",
         "words": [
             "rosita"
@@ -596,7 +596,7 @@
         ]
     },
     {
-        "imageName": "noplate_43.jpg",
+        "imageName": "noplate/noplate_43.jpg",
         "brand": "san miguel",
         "words": [
             "san",
@@ -610,7 +610,7 @@
         "figures": []
     },
     {
-        "imageName": "noplate_44.jpg",
+        "imageName": "noplate/noplate_44.jpg",
         "words": [
             "ramblers"
         ],
@@ -625,7 +625,7 @@
         ]
     },
     {
-        "imageName": "noplate_45.jpg",
+        "imageName": "noplate/noplate_45.jpg",
         "words": [
             "13"
         ],
@@ -639,7 +639,7 @@
         ]
     },
     {
-        "imageName": "noplate_46.jpg",
+        "imageName": "noplate/noplate_46.jpg",
         "words": [],
         "colors": [
             "black",
@@ -652,7 +652,7 @@
         ]
     },
     {
-        "imageName": "noplate_47.jpg",
+        "imageName": "noplate/noplate_47.jpg",
         "brand": "ambar",
         "words": [
             "ambar",
@@ -667,7 +667,7 @@
         "figures": []
     },
     {
-        "imageName": "noplate_48.jpg",
+        "imageName": "noplate/noplate_48.jpg",
         "words": [
             "l",
             "s"
@@ -681,7 +681,7 @@
         ]
     },
     {
-        "imageName": "noplate_49.jpg",
+        "imageName": "noplate/noplate_49.jpg",
         "brand": "ambar",
         "words": [
             "1900",
@@ -696,7 +696,7 @@
         "figures": []
     },
     {
-        "imageName": "noplate_50.jpg",
+        "imageName": "noplate/noplate_50.jpg",
         "words": [
             "amor"
         ],
@@ -710,7 +710,7 @@
         ]
     },
     {
-        "imageName": "noplate_51.jpg",
+        "imageName": "noplate/noplate_51.jpg",
         "brand": "alhambra",
         "words": [
             "alhambra",
@@ -729,7 +729,7 @@
         ]
     },
     {
-        "imageName": "noplate_52.jpg",
+        "imageName": "noplate/noplate_52.jpg",
         "words": [],
         "colors": [
             "black",
@@ -742,7 +742,7 @@
         ]
     },
     {
-        "imageName": "noplate_53.jpg",
+        "imageName": "noplate/noplate_53.jpg",
         "words": [],
         "colors": [
             "red",
@@ -755,7 +755,7 @@
         ]
     },
     {
-        "imageName": "noplate_54.jpg",
+        "imageName": "noplate/noplate_54.jpg",
         "brand": "voll damm",
         "words": [
             "voll",
@@ -776,7 +776,7 @@
         "figures": []
     },
     {
-        "imageName": "noplate_55.jpg",
+        "imageName": "noplate/noplate_55.jpg",
         "brand": "xx",
         "words": [
             "xx"
@@ -791,7 +791,7 @@
         ]
     },
     {
-        "imageName": "noplate_56.jpg",
+        "imageName": "noplate/noplate_56.jpg",
         "brand": "desperados",
         "words": [
             "tequila",
@@ -805,7 +805,7 @@
         ]
     },
     {
-        "imageName": "noplate_57.jpg",
+        "imageName": "noplate/noplate_57.jpg",
         "brand": "super bock",
         "words": [
             "super",
@@ -818,7 +818,7 @@
         "figures": []
     },
     {
-        "imageName": "noplate_58.jpg",
+        "imageName": "noplate/noplate_58.jpg",
         "brand": "alhambra",
         "words": [],
         "colors": [
@@ -830,7 +830,7 @@
         ]
     },
     {
-        "imageName": "noplate_59.jpg",
+        "imageName": "noplate/noplate_59.jpg",
         "brand": "mahou",
         "words": [
             "m"
@@ -847,7 +847,7 @@
         ]
     },
     {
-        "imageName": "noplate_60.jpg",
+        "imageName": "noplate/noplate_60.jpg",
         "brand": "rosita",
         "words": [
             "rosita"
@@ -861,7 +861,7 @@
         ]
     },
     {
-        "imageName": "noplate_61.jpg",
+        "imageName": "noplate/noplate_61.jpg",
         "words": [],
         "colors": [
             "white",
@@ -875,7 +875,7 @@
         ]
     },
     {
-        "imageName": "noplate_62.jpg",
+        "imageName": "noplate/noplate_62.jpg",
         "brand": "gastro",
         "words": [
             "gastro"
@@ -889,7 +889,7 @@
         ]
     },
     {
-        "imageName": "noplate_63.jpg",
+        "imageName": "noplate/noplate_63.jpg",
         "brand": "amstel",
         "words": [
             "amstel",

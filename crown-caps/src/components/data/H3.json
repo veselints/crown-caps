@@ -1,6 +1,6 @@
 [
     {
-       "imageName":"plate2_100.jpg",
+       "imageName":"H3/plate2_100.jpg",
        "brand":"ambar",
        "words":[
           "ambar"
@@ -14,7 +14,7 @@
        ]
     },
     {
-       "imageName":"plate2_101.jpg",
+       "imageName":"H3/plate2_101.jpg",
        "brand":"quilmes",
        "words":[
           "quilmes",
@@ -31,7 +31,7 @@
        ]
     },
     {
-       "imageName":"plate2_102.jpg",
+       "imageName":"H3/plate2_102.jpg",
        "brand":"cruzcampo",
        "words":[
           "cruzcampo",
@@ -48,7 +48,7 @@
        ]
     },
     {
-       "imageName":"plate2_103.jpg",
+       "imageName":"H3/plate2_103.jpg",
        "words":[
           "cerveza",
           "de",
@@ -66,7 +66,7 @@
        ]
     },
     {
-       "imageName":"plate2_104.jpg",
+       "imageName":"H3/plate2_104.jpg",
        "words":[
           "complot",
           "ipa",
@@ -82,7 +82,7 @@
        ]
     },
     {
-       "imageName":"plate2_105.jpg",
+       "imageName":"H3/plate2_105.jpg",
        "words":[
           "goose",
           "ipa",
@@ -99,7 +99,7 @@
        ]
     },
     {
-       "imageName":"plate2_106.jpg",
+       "imageName":"H3/plate2_106.jpg",
        "brand":"alhambra",
        "words":[
           
@@ -113,7 +113,7 @@
        ]
     },
     {
-       "imageName":"plate2_107.jpg",
+       "imageName":"H3/plate2_107.jpg",
        "brand":"alhambra",
        "words":[
           
@@ -127,7 +127,7 @@
        ]
     },
     {
-       "imageName":"plate2_108.jpg",
+       "imageName":"H3/plate2_108.jpg",
        "brand":"alhambra",
        "words":[
           
@@ -141,7 +141,7 @@
        ]
     },
     {
-       "imageName":"plate2_109.jpg",
+       "imageName":"H3/plate2_109.jpg",
        "brand":"messina",
        "words":[
           "messina",
@@ -156,7 +156,7 @@
        ]
     },
     {
-       "imageName":"plate2_110.jpg",
+       "imageName":"H3/plate2_110.jpg",
        "brand":"mahou",
        "words":[
           "mahou",
@@ -171,7 +171,7 @@
        ]
     },
     {
-       "imageName":"plate2_111.jpg",
+       "imageName":"H3/plate2_111.jpg",
        "brand":"messina",
        "words":[
           "messina",
@@ -185,7 +185,7 @@
        ]
     },
     {
-       "imageName":"plate2_112.jpg",
+       "imageName":"H3/plate2_112.jpg",
        "words":[
           "tostada",
           "turia",
@@ -202,7 +202,7 @@
        ]
     },
     {
-       "imageName":"plate2_113.jpg",
+       "imageName":"H3/plate2_113.jpg",
        "words":[
           "tyris",
           "craft",
@@ -218,7 +218,7 @@
        ]
     },
     {
-       "imageName":"plate2_114.jpg",
+       "imageName":"H3/plate2_114.jpg",
        "words":[
           "reserva"
        ],
@@ -231,7 +231,7 @@
        ]
     },
     {
-       "imageName":"plate2_115.jpg",
+       "imageName":"H3/plate2_115.jpg",
        "words":[
           
        ],
@@ -245,7 +245,7 @@
        ]
     },
     {
-       "imageName":"plate2_116.jpg",
+       "imageName":"H3/plate2_116.jpg",
        "words":[
           
        ],
@@ -258,7 +258,7 @@
        ]
     },
     {
-       "imageName":"plate2_117.jpg",
+       "imageName":"H3/plate2_117.jpg",
        "words":[
           
        ],
@@ -271,7 +271,7 @@
        ]
     },
     {
-       "imageName":"plate2_118.jpg",
+       "imageName":"H3/plate2_118.jpg",
        "words":[
           "brasserie",
           "castelain",
@@ -286,7 +286,7 @@
        ]
     },
     {
-       "imageName":"plate2_119.jpg",
+       "imageName":"H3/plate2_119.jpg",
        "brand":"asahi",
        "words":[
           "asahi"
@@ -300,7 +300,7 @@
        ]
     },
     {
-       "imageName":"plate2_120.jpg",
+       "imageName":"H3/plate2_120.jpg",
        "brand":"victoria",
        "words":[
           "victoria",
@@ -320,7 +320,7 @@
        ]
     },
     {
-       "imageName":"plate2_121.jpg",
+       "imageName":"H3/plate2_121.jpg",
        "brand":"mahou",
        "words":[
           "maestra",
@@ -336,7 +336,7 @@
        ]
     },
     {
-       "imageName":"plate2_122.jpg",
+       "imageName":"H3/plate2_122.jpg",
        "brand":"sagres",
        "words":[
           
@@ -350,7 +350,7 @@
        ]
     },
     {
-       "imageName":"plate2_123.jpg",
+       "imageName":"H3/plate2_123.jpg",
        "brand":"amstel",
        "words":[
           "amstel",
@@ -366,7 +366,7 @@
        ]
     },
     {
-       "imageName":"plate2_124.jpg",
+       "imageName":"H3/plate2_124.jpg",
        "words":[
           
        ],
@@ -379,7 +379,7 @@
        ]
     },
     {
-       "imageName":"plate2_125.jpg",
+       "imageName":"H3/plate2_125.jpg",
        "brand":"super bock",
        "words":[
           "super",
@@ -392,7 +392,7 @@
        "figures":[]
     },
     {
-       "imageName":"plate2_126.jpg",
+       "imageName":"H3/plate2_126.jpg",
        "brand":"cruzcampo",
        "words":[
           "cruzcampo",
@@ -409,7 +409,7 @@
        ]
     },
     {
-       "imageName":"plate2_127.jpg",
+       "imageName":"H3/plate2_127.jpg",
        "words":[
           
        ],
@@ -423,7 +423,7 @@
        ]
     },
     {
-       "imageName":"plate2_128.jpg",
+       "imageName":"H3/plate2_128.jpg",
        "words":[
           
        ],
@@ -436,7 +436,7 @@
        ]
     },
     {
-       "imageName":"plate2_129.jpg",
+       "imageName":"H3/plate2_129.jpg",
        "brand":"sharps",
        "words":[
           "sharps",
@@ -452,7 +452,7 @@
        ]
     },
     {
-       "imageName":"plate2_130.jpg",
+       "imageName":"H3/plate2_130.jpg",
        "brand":"sharps",
        "words":[
           "sharps",
@@ -468,7 +468,7 @@
        ]
     },
     {
-       "imageName":"plate2_131.jpg",
+       "imageName":"H3/plate2_131.jpg",
        "brand":"cobra",
        "words":[
           "cobra"
@@ -484,7 +484,7 @@
        ]
     },
     {
-       "imageName":"plate2_132.jpg",
+       "imageName":"H3/plate2_132.jpg",
        "brand":"mahou",
        "words":[
           "maestra",
@@ -500,7 +500,7 @@
        ]
     },
     {
-       "imageName":"plate2_133.jpg",
+       "imageName":"H3/plate2_133.jpg",
        "brand":"casablanca",
        "words":[
           "casablanca",
@@ -517,7 +517,7 @@
        ]
     },
     {
-       "imageName":"plate2_134.jpg",
+       "imageName":"H3/plate2_134.jpg",
        "brand":"stork",
        "words":[
           "stork"
@@ -531,7 +531,7 @@
        ]
     },
     {
-       "imageName":"plate2_135.jpg",
+       "imageName":"H3/plate2_135.jpg",
        "words":[
           "tostada"
        ],
@@ -544,7 +544,7 @@
        ]
     },
     {
-       "imageName":"plate2_136.jpg",
+       "imageName":"H3/plate2_136.jpg",
        "words":[
           
        ],
@@ -557,7 +557,7 @@
        ]
     },
     {
-       "imageName":"plate2_137.jpg",
+       "imageName":"H3/plate2_137.jpg",
        "brand":"cruzcampo",
        "words":[
           "cruzcampo",
@@ -574,7 +574,7 @@
        ]
     },
     {
-       "imageName":"plate2_138.jpg",
+       "imageName":"H3/plate2_138.jpg",
        "brand":"cruzcampo",
        "words":[
           "cruzcampo",
@@ -591,7 +591,7 @@
        ]
     },
     {
-       "imageName":"plate2_139.jpg",
+       "imageName":"H3/plate2_139.jpg",
        "brand":"cruzcampo",
        "words":[
           "cruzcampo",
@@ -607,7 +607,7 @@
        ]
     },
     {
-       "imageName":"plate2_140.jpg",
+       "imageName":"H3/plate2_140.jpg",
        "brand":"cruz del zur",
        "words":[
           "cruz",
@@ -623,7 +623,7 @@
        ]
     },
     {
-       "imageName":"plate2_141.jpg",
+       "imageName":"H3/plate2_141.jpg",
        "brand":"mahou",
        "words":[
           "mahou",
@@ -639,7 +639,7 @@
        ]
     },
     {
-       "imageName":"plate2_142.jpg",
+       "imageName":"H3/plate2_142.jpg",
        "brand":"mahou",
        "words":[
           "mahou",
@@ -656,7 +656,7 @@
        ]
     },
     {
-       "imageName":"plate2_143.jpg",
+       "imageName":"H3/plate2_143.jpg",
        "words":[
           "doble",
           "malta"
@@ -670,7 +670,7 @@
        ]
     },
     {
-       "imageName":"plate2_144.jpg",
+       "imageName":"H3/plate2_144.jpg",
        "words":[
           "semedorato",
           "beer"
@@ -686,7 +686,7 @@
        ]
     },
     {
-       "imageName":"plate2_145.jpg",
+       "imageName":"H3/plate2_145.jpg",
        "brand":"ambar",
        "words":[
           "ambar"
@@ -700,7 +700,7 @@
        ]
     },
     {
-       "imageName":"plate2_146.jpg",
+       "imageName":"H3/plate2_146.jpg",
        "brand":"ambar",
        "words":[
           "ambar"
@@ -714,7 +714,7 @@
        ]
     },
     {
-       "imageName":"plate2_147.jpg",
+       "imageName":"H3/plate2_147.jpg",
        "brand":"cruzcampo",
        "words":[
           "cruzcampo",
@@ -731,7 +731,7 @@
        ]
     },
     {
-       "imageName":"plate2_148.jpg",
+       "imageName":"H3/plate2_148.jpg",
        "brand":"cruzcampo",
        "words":[
           "cruzcampo",

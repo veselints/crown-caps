@@ -1,6 +1,6 @@
 [
     {
-        "imageName": "plate18_100.jpg",
+        "imageName": "B4/plate18_100.jpg",
         "words": [
             "2011",
             "ppc/cpil"
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "imageName": "plate18_101.jpg",
+        "imageName": "B4/plate18_101.jpg",
         "words": [
             "zwei",
             "meister"
@@ -32,7 +32,7 @@
         ]
     },
     {
-        "imageName": "plate18_102.jpg",
+        "imageName": "B4/plate18_102.jpg",
         "brand": "kilkenny",
         "words": [
             "kilkenny"
@@ -47,7 +47,7 @@
         ]
     },
     {
-        "imageName": "plate18_103.jpg",
+        "imageName": "B4/plate18_103.jpg",
         "words": [],
         "colors": [
             "white",
@@ -61,7 +61,7 @@
         ]
     },
     {
-        "imageName": "plate18_104.jpg",
+        "imageName": "B4/plate18_104.jpg",
         "brand": "zillertal",
         "words": [
             "zillertal",
@@ -77,7 +77,7 @@
         ]
     },
     {
-        "imageName": "plate18_105.jpg",
+        "imageName": "B4/plate18_105.jpg",
         "brand": "astika",
         "words": [],
         "colors": [
@@ -89,7 +89,7 @@
         ]
     },
     {
-        "imageName": "plate18_106.jpg",
+        "imageName": "B4/plate18_106.jpg",
         "brand": "zillertal",
         "words": [
             "zillertal",
@@ -106,7 +106,7 @@
         ]
     },
     {
-        "imageName": "plate18_107.jpg",
+        "imageName": "B4/plate18_107.jpg",
         "brand": "freibergitch",
         "words": [
             "freibergitch",
@@ -123,7 +123,7 @@
         ]
     },
     {
-        "imageName": "plate18_108.jpg",
+        "imageName": "B4/plate18_108.jpg",
         "brand": "ichnusa",
         "words": [
             "ichnusa",
@@ -143,7 +143,7 @@
         ]
     },
     {
-        "imageName": "plate18_109.jpg",
+        "imageName": "B4/plate18_109.jpg",
         "words": [
             "ur-kroftitser",
             "feinherbes",
@@ -161,7 +161,7 @@
         ]
     },
     {
-        "imageName": "plate18_110.jpg",
+        "imageName": "B4/plate18_110.jpg",
         "brand": "krombacher",
         "words": [
             "krombacher"
@@ -177,7 +177,7 @@
         ]
     },
     {
-        "imageName": "plate18_111.jpg",
+        "imageName": "B4/plate18_111.jpg",
         "words": [],
         "colors": [
             "white",
@@ -188,7 +188,7 @@
         ]
     },
     {
-        "imageName": "plate18_112.jpg",
+        "imageName": "B4/plate18_112.jpg",
         "words": [],
         "colors": [
             "red",
@@ -199,7 +199,7 @@
         ]
     },
     {
-        "imageName": "plate18_113.jpg",
+        "imageName": "B4/plate18_113.jpg",
         "words": [
             "tyskie",
             "browary",
@@ -220,7 +220,7 @@
         ]
     },
     {
-        "imageName": "plate18_114.jpg",
+        "imageName": "B4/plate18_114.jpg",
         "brand": "federbrau",
         "words": [
             "federbrau"
@@ -235,7 +235,7 @@
         ]
     },
     {
-        "imageName": "plate18_115.jpg",
+        "imageName": "B4/plate18_115.jpg",
         "brand": "wickuler",
         "words": [
             "wickuler",
@@ -252,7 +252,7 @@
         ]
     },
     {
-        "imageName": "plate18_116.jpg",
+        "imageName": "B4/plate18_116.jpg",
         "brand": "weihenstephaner",
         "words": [
             "weihenstephaner",
@@ -271,7 +271,7 @@
         ]
     },
     {
-        "imageName": "plate18_117.jpg",
+        "imageName": "B4/plate18_117.jpg",
         "words": [
             "unertl",
             "der",
@@ -290,7 +290,7 @@
         ]
     },
     {
-        "imageName": "plate18_118.jpg",
+        "imageName": "B4/plate18_118.jpg",
         "words": [
             "bayerisches",
             "bier",
@@ -309,7 +309,7 @@
         ]
     },
     {
-        "imageName": "plate18_119.jpg",
+        "imageName": "B4/plate18_119.jpg",
         "brand": "bavaria",
         "words": [
             "bavaria",
@@ -331,7 +331,7 @@
         ]
     },
     {
-        "imageName": "plate18_120.jpg",
+        "imageName": "B4/plate18_120.jpg",
         "brand": "berliner kindl",
         "words": [
             "berliner",
@@ -351,7 +351,7 @@
         ]
     },
     {
-        "imageName": "plate18_121.jpg",
+        "imageName": "B4/plate18_121.jpg",
         "brand": "berliner kindl",
         "words": [
             "berliner",
@@ -373,7 +373,7 @@
         ]
     },
     {
-        "imageName": "plate18_122.jpg",
+        "imageName": "B4/plate18_122.jpg",
         "brand": "stiegl",
         "words": [
             "stiegl",
@@ -391,7 +391,7 @@
         ]
     },
     {
-        "imageName": "plate18_123.jpg",
+        "imageName": "B4/plate18_123.jpg",
         "words": [
             "1629"
         ],
@@ -406,7 +406,7 @@
         ]
     },
     {
-        "imageName": "plate18_124.jpg",
+        "imageName": "B4/plate18_124.jpg",
         "words": [
             "bohemia",
             "regent"
@@ -418,7 +418,7 @@
         "figures": []
     },
     {
-        "imageName": "plate18_125.jpg",
+        "imageName": "B4/plate18_125.jpg",
         "brand": "peroni",
         "words": [
             "birra",
@@ -437,7 +437,7 @@
         ]
     },
     {
-        "imageName": "plate18_126.jpg",
+        "imageName": "B4/plate18_126.jpg",
         "words": [
             "seit",
             "1460",
@@ -457,7 +457,7 @@
         ]
     },
     {
-        "imageName": "plate18_127.jpg",
+        "imageName": "B4/plate18_127.jpg",
         "words": [
             "hunter's",
             "natural",
@@ -474,7 +474,7 @@
         ]
     },
     {
-        "imageName": "plate18_128.jpg",
+        "imageName": "B4/plate18_128.jpg",
         "brand": "schofferhofer",
         "words": [
             "schofferhofer",
@@ -490,7 +490,7 @@
         ]
     },
     {
-        "imageName": "plate18_129.jpg",
+        "imageName": "B4/plate18_129.jpg",
         "brand": "schofferhofer",
         "words": [
             "schofferhofer",
@@ -505,7 +505,7 @@
         "figures": []
     },
     {
-        "imageName": "plate18_130.jpg",
+        "imageName": "B4/plate18_130.jpg",
         "brand": "ichnusa",
         "words": [
             "ichnusa",
@@ -524,7 +524,7 @@
         ]
     },
     {
-        "imageName": "plate18_131.jpg",
+        "imageName": "B4/plate18_131.jpg",
         "brand": "bavaria",
         "words": [
             "bavaria",
@@ -540,7 +540,7 @@
         ]
     },
     {
-        "imageName": "plate18_132.jpg",
+        "imageName": "B4/plate18_132.jpg",
         "brand": "spaten",
         "words": [
             "spaten",
@@ -558,7 +558,7 @@
         ]
     },
     {
-        "imageName": "plate18_133.jpg",
+        "imageName": "B4/plate18_133.jpg",
         "words": [
             "karksi"
         ],
@@ -572,7 +572,7 @@
         ]
     },
     {
-        "imageName": "plate18_134.jpg",
+        "imageName": "B4/plate18_134.jpg",
         "brand": "zywiec",
         "words": [
             "zywiec",
@@ -591,7 +591,7 @@
         ]
     },
     {
-        "imageName": "plate18_135.jpg",
+        "imageName": "B4/plate18_135.jpg",
         "words": [],
         "colors": [
             "red",
@@ -602,7 +602,7 @@
         ]
     },
     {
-        "imageName": "plate18_136.jpg",
+        "imageName": "B4/plate18_136.jpg",
         "words": [],
         "colors": [
             "white",
@@ -613,7 +613,7 @@
         ]
     },
     {
-        "imageName": "plate18_137.jpg",
+        "imageName": "B4/plate18_137.jpg",
         "words": [],
         "colors": [
             "white",
@@ -624,7 +624,7 @@
         ]
     },
     {
-        "imageName": "plate18_138.jpg",
+        "imageName": "B4/plate18_138.jpg",
         "brand": "erdinger",
         "words": [
             "erdinger",
@@ -640,7 +640,7 @@
         ]
     },
     {
-        "imageName": "plate18_139.jpg",
+        "imageName": "B4/plate18_139.jpg",
         "words": [],
         "colors": [
             "white",
@@ -651,7 +651,7 @@
         ]
     },
     {
-        "imageName": "plate18_140.jpg",
+        "imageName": "B4/plate18_140.jpg",
         "words": [],
         "colors": [
             "black",
@@ -662,7 +662,7 @@
         ]
     },
     {
-        "imageName": "plate18_141.jpg",
+        "imageName": "B4/plate18_141.jpg",
         "words": [
             "ingar",
             "ej",
@@ -678,7 +678,7 @@
         ]
     },
     {
-        "imageName": "plate18_142.jpg",
+        "imageName": "B4/plate18_142.jpg",
         "brand": "freibergitch",
         "words": [
             "freibergitch",
@@ -696,7 +696,7 @@
         ]
     },
     {
-        "imageName": "plate18_143.jpg",
+        "imageName": "B4/plate18_143.jpg",
         "brand": "",
         "words": [
             "boon",
@@ -714,7 +714,7 @@
         ]
     },
     {
-        "imageName": "plate18_144.jpg",
+        "imageName": "B4/plate18_144.jpg",
         "brand": "freibergitch",
         "words": [
             "freibergitch",
@@ -731,7 +731,7 @@
         ]
     },
     {
-        "imageName": "plate18_145.jpg",
+        "imageName": "B4/plate18_145.jpg",
         "brand": "radeberger",
         "words": [
             "radeberger",
@@ -744,7 +744,7 @@
         "figures": []
     },
     {
-        "imageName": "plate18_146.jpg",
+        "imageName": "B4/plate18_146.jpg",
         "brand": "radeberger",
         "words": [
             "radeberger",
@@ -757,7 +757,7 @@
         "figures": []
     },
     {
-        "imageName": "plate18_147.jpg",
+        "imageName": "B4/plate18_147.jpg",
         "brand": "kingfisher",
         "words": [
             "kingfisher",
@@ -773,7 +773,7 @@
         ]
     },
     {
-        "imageName": "plate18_148.jpg",
+        "imageName": "B4/plate18_148.jpg",
         "brand": "leo",
         "words": [
             "leo",

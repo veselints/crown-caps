@@ -1,6 +1,6 @@
 [
     {
-        "imageName": "plate22_100.jpg",
+        "imageName": "C1/plate22_100.jpg",
         "brand": "imperator",
         "words": [
             "imperator",
@@ -15,7 +15,7 @@
         "figures": []
     },
     {
-        "imageName": "plate22_101.jpg",
+        "imageName": "C1/plate22_101.jpg",
         "brand": "grimbergen",
         "words": [
             "grimbergen",
@@ -30,7 +30,7 @@
         ]
     },
     {
-        "imageName": "plate22_102.jpg",
+        "imageName": "C1/plate22_102.jpg",
         "brand": "hoegaarden",
         "words": [
             "hoegarden",
@@ -47,7 +47,7 @@
         ]
     },
     {
-        "imageName": "plate22_103.jpg",
+        "imageName": "C1/plate22_103.jpg",
         "words": [
             "kona",
             "brewing",
@@ -62,7 +62,7 @@
         ]
     },
     {
-        "imageName": "plate22_104.jpg",
+        "imageName": "C1/plate22_104.jpg",
         "brand": "singha",
         "words": [
             "singha",
@@ -80,7 +80,7 @@
         ]
     },
     {
-        "imageName": "plate22_105.jpg",
+        "imageName": "C1/plate22_105.jpg",
         "words": [],
         "colors": [
             "black"
@@ -88,7 +88,7 @@
         "figures": []
     },
     {
-        "imageName": "plate22_106.jpg",
+        "imageName": "C1/plate22_106.jpg",
         "words": [
             "super",
             "8"
@@ -102,7 +102,7 @@
         ]
     },
     {
-        "imageName": "plate22_107.jpg",
+        "imageName": "C1/plate22_107.jpg",
         "brand": "wolfshoher",
         "words": [
             "wolfshoher",
@@ -118,7 +118,7 @@
         ]
     },
     {
-        "imageName": "plate22_108.jpg",
+        "imageName": "C1/plate22_108.jpg",
         "brand": "fix",
         "words": [
             "fix"
@@ -131,7 +131,7 @@
         "figures": []
     },
     {
-        "imageName": "plate22_109.jpg",
+        "imageName": "C1/plate22_109.jpg",
         "brand": "efes",
         "words": [
             "efes"
@@ -143,7 +143,7 @@
         "figures": []
     },
     {
-        "imageName": "plate22_110.jpg",
+        "imageName": "C1/plate22_110.jpg",
         "brand": "maisel's weisse",
         "words": [
             "maisel's",
@@ -163,7 +163,7 @@
         ]
     },
     {
-        "imageName": "plate22_111.jpg",
+        "imageName": "C1/plate22_111.jpg",
         "brand": "bud",
         "words": [
             "bud",
@@ -176,7 +176,7 @@
         "figures": []
     },
     {
-        "imageName": "plate22_112.jpg",
+        "imageName": "C1/plate22_112.jpg",
         "brand": "timisoreana",
         "words": [
             "timisoreana"
@@ -188,7 +188,7 @@
         "figures": []
     },
     {
-        "imageName": "plate22_113.jpg",
+        "imageName": "C1/plate22_113.jpg",
         "words": [
             "trade",
             "mark",
@@ -205,7 +205,7 @@
         ]
     },
     {
-        "imageName": "plate22_114.jpg",
+        "imageName": "C1/plate22_114.jpg",
         "brand": "alhambra",
         "words": [],
         "colors": [
@@ -215,7 +215,7 @@
         "figures": []
     },
     {
-        "imageName": "plate22_115.jpg",
+        "imageName": "C1/plate22_115.jpg",
         "words": [
             "ginga",
             "kogen",
@@ -231,7 +231,7 @@
         ]
     },
     {
-        "imageName": "plate22_116.jpg",
+        "imageName": "C1/plate22_116.jpg",
         "words": [
             "sands",
             "light"
@@ -244,7 +244,7 @@
         "figures": []
     },
     {
-        "imageName": "plate22_117.jpg",
+        "imageName": "C1/plate22_117.jpg",
         "words": [
             "m",
             "n"
@@ -259,7 +259,7 @@
         ]
     },
     {
-        "imageName": "plate22_118.jpg",
+        "imageName": "C1/plate22_118.jpg",
         "brand": "britos",
         "words": [
             "b"
@@ -273,7 +273,7 @@
         ]
     },
     {
-        "imageName": "plate22_119.jpg",
+        "imageName": "C1/plate22_119.jpg",
         "words": [
             "trappist",
             "westvleteren",
@@ -292,7 +292,7 @@
         ]
     },
     {
-        "imageName": "plate22_120.jpg",
+        "imageName": "C1/plate22_120.jpg",
         "brand": "barbar",
         "words": [
             "barbar"
@@ -307,7 +307,7 @@
         ]
     },
     {
-        "imageName": "plate22_121.jpg",
+        "imageName": "C1/plate22_121.jpg",
         "words": [],
         "colors": [
             "red"
@@ -317,7 +317,7 @@
         ]
     },
     {
-        "imageName": "plate22_122.jpg",
+        "imageName": "C1/plate22_122.jpg",
         "words": [
             "brasserie",
             "de",
@@ -334,7 +334,7 @@
         ]
     },
     {
-        "imageName": "plate22_123.jpg",
+        "imageName": "C1/plate22_123.jpg",
         "brand": "hansa",
         "words": [
             "hansa",
@@ -350,7 +350,7 @@
         ]
     },
     {
-        "imageName": "plate22_124.jpg",
+        "imageName": "C1/plate22_124.jpg",
         "words": [
             "s"
         ],
@@ -364,7 +364,7 @@
         ]
     },
     {
-        "imageName": "plate22_125.jpg",
+        "imageName": "C1/plate22_125.jpg",
         "words": [],
         "colors": [
             "red",
@@ -376,7 +376,7 @@
         ]
     },
     {
-        "imageName": "plate22_126.jpg",
+        "imageName": "C1/plate22_126.jpg",
         "brand": "kamenitza",
         "words": [
             "каменица",
@@ -393,7 +393,7 @@
         ]
     },
     {
-        "imageName": "plate22_127.jpg",
+        "imageName": "C1/plate22_127.jpg",
         "brand": "holba",
         "words": [
             "holba"
@@ -408,7 +408,7 @@
         ]
     },
     {
-        "imageName": "plate22_128.jpg",
+        "imageName": "C1/plate22_128.jpg",
         "words": [
             "agua"
         ],
@@ -423,7 +423,7 @@
         ]
     },
     {
-        "imageName": "plate22_129.jpg",
+        "imageName": "C1/plate22_129.jpg",
         "brand": "",
         "words": [
             "lupulo"
@@ -438,7 +438,7 @@
         ]
     },
     {
-        "imageName": "plate22_130.jpg",
+        "imageName": "C1/plate22_130.jpg",
         "words": [
             "finest",
             "tafel",
@@ -454,7 +454,7 @@
         ]
     },
     {
-        "imageName": "plate22_131.jpg",
+        "imageName": "C1/plate22_131.jpg",
         "brand": "saigon",
         "words": [
             "saigon",
@@ -474,7 +474,7 @@
         ]
     },
     {
-        "imageName": "plate22_132.jpg",
+        "imageName": "C1/plate22_132.jpg",
         "words": [
             "st",
             "feuillien",
@@ -489,7 +489,7 @@
         ]
     },
     {
-        "imageName": "plate22_133.jpg",
+        "imageName": "C1/plate22_133.jpg",
         "brand": "raffo",
         "words": [
             "raffo",
@@ -505,7 +505,7 @@
         ]
     },
     {
-        "imageName": "plate22_134.jpg",
+        "imageName": "C1/plate22_134.jpg",
         "words": [],
         "colors": [
             "red"
@@ -513,7 +513,7 @@
         "figures": []
     },
     {
-        "imageName": "plate22_135.jpg",
+        "imageName": "C1/plate22_135.jpg",
         "words": [
             "gb"
         ],
@@ -526,7 +526,7 @@
         ]
     },
     {
-        "imageName": "plate22_136.jpg",
+        "imageName": "C1/plate22_136.jpg",
         "brand": "breznak",
         "words": [
             "breznak",
@@ -545,7 +545,7 @@
         ]
     },
     {
-        "imageName": "plate22_137.jpg",
+        "imageName": "C1/plate22_137.jpg",
         "brand": "lbc",
         "words": [
             "lbc"
@@ -560,7 +560,7 @@
         ]
     },
     {
-        "imageName": "plate22_138.jpg",
+        "imageName": "C1/plate22_138.jpg",
         "brand": "maisel",
         "words": [
             "maisel",
@@ -574,7 +574,7 @@
         ]
     },
     {
-        "imageName": "plate22_139.jpg",
+        "imageName": "C1/plate22_139.jpg",
         "brand": "waterloo",
         "words": [
             "waterloo",
@@ -586,7 +586,7 @@
         "figures": []
     },
     {
-        "imageName": "plate22_140.jpg",
+        "imageName": "C1/plate22_140.jpg",
         "brand": "glarus",
         "words": [
             "glarus",
@@ -601,7 +601,7 @@
         ]
     },
     {
-        "imageName": "plate22_141.jpg",
+        "imageName": "C1/plate22_141.jpg",
         "brand": "angkor",
         "words": [
             "angkor"
@@ -616,7 +616,7 @@
         ]
     },
     {
-        "imageName": "plate22_142.jpg",
+        "imageName": "C1/plate22_142.jpg",
         "brand": "kamenitza",
         "words": [
             "каменица",
@@ -632,7 +632,7 @@
         ]
     },
     {
-        "imageName": "plate22_143.jpg",
+        "imageName": "C1/plate22_143.jpg",
         "brand": "klaster",
         "words": [
             "klaster",
@@ -645,7 +645,7 @@
         "figures": []
     },
     {
-        "imageName": "plate22_144.jpg",
+        "imageName": "C1/plate22_144.jpg",
         "words": [
             "original",
             "czech",
@@ -658,7 +658,7 @@
         "figures": []
     },
     {
-        "imageName": "plate22_145.jpg",
+        "imageName": "C1/plate22_145.jpg",
         "words": [
             "pale",
             "ale",
@@ -673,7 +673,7 @@
         ]
     },
     {
-        "imageName": "plate22_146.jpg",
+        "imageName": "C1/plate22_146.jpg",
         "words": [],
         "colors": [
             "green",
@@ -684,7 +684,7 @@
         ]
     },
     {
-        "imageName": "plate22_147.jpg",
+        "imageName": "C1/plate22_147.jpg",
         "words": [
             "super",
             "8"
@@ -698,7 +698,7 @@
         ]
     },
     {
-        "imageName": "plate22_148.jpg",
+        "imageName": "C1/plate22_148.jpg",
         "words": [
             "seit",
             "25",

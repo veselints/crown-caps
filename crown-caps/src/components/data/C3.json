@@ -1,6 +1,6 @@
 [
     {
-        "imageName": "plate16_100.jpg",
+        "imageName": "C3/plate16_100.jpg",
         "brand": "kobanyai",
         "words": [
             "kobanyai",
@@ -18,7 +18,7 @@
         ]
     },
     {
-        "imageName": "plate16_101.jpg",
+        "imageName": "C3/plate16_101.jpg",
         "words": [
             "1516",
             "cerveza",
@@ -33,7 +33,7 @@
         "figures": []
     },
     {
-        "imageName": "plate16_102.jpg",
+        "imageName": "C3/plate16_102.jpg",
         "brand": "kaltenberg",
         "words": [
             "kaltenberg",
@@ -51,7 +51,7 @@
         ]
     },
     {
-        "imageName": "plate16_103.jpg",
+        "imageName": "C3/plate16_103.jpg",
         "brand": "cobra",
         "words": [
             "cobra"
@@ -64,7 +64,7 @@
         "figures": []
     },
     {
-        "imageName": "plate16_104.jpg",
+        "imageName": "C3/plate16_104.jpg",
         "brand": "jever",
         "words": [
             "jever",
@@ -77,7 +77,7 @@
         "figures": []
     },
     {
-        "imageName": "plate16_105.jpg",
+        "imageName": "C3/plate16_105.jpg",
         "words": [
             "podroze",
             "kormorana"
@@ -94,7 +94,7 @@
         ]
     },
     {
-        "imageName": "plate16_106.jpg",
+        "imageName": "C3/plate16_106.jpg",
         "words": [
             "het",
             "anker"
@@ -109,7 +109,7 @@
         ]
     },
     {
-        "imageName": "plate16_107.jpg",
+        "imageName": "C3/plate16_107.jpg",
         "words": [],
         "colors": [
             "golden",
@@ -122,7 +122,7 @@
         ]
     },
     {
-        "imageName": "plate16_108.jpg",
+        "imageName": "C3/plate16_108.jpg",
         "words": [],
         "colors": [
             "black",
@@ -133,7 +133,7 @@
         ]
     },
     {
-        "imageName": "plate16_109.jpg",
+        "imageName": "C3/plate16_109.jpg",
         "words": [
             "maestria",
             "cervecera"
@@ -147,7 +147,7 @@
         ]
     },
     {
-        "imageName": "plate16_110.jpg",
+        "imageName": "C3/plate16_110.jpg",
         "brand": "castle",
         "words": [
             "castle",
@@ -163,7 +163,7 @@
         ]
     },
     {
-        "imageName": "plate16_111.jpg",
+        "imageName": "C3/plate16_111.jpg",
         "words": [
             "abc",
             "extra",
@@ -180,7 +180,7 @@
         ]
     },
     {
-        "imageName": "plate16_112.jpg",
+        "imageName": "C3/plate16_112.jpg",
         "brand": "o'hara's",
         "words": [
             "o'hara's",
@@ -197,7 +197,7 @@
         ]
     },
     {
-        "imageName": "plate16_113.jpg",
+        "imageName": "C3/plate16_113.jpg",
         "brand": "camba",
         "words": [
             "camba",
@@ -213,7 +213,7 @@
         ]
     },
     {
-        "imageName": "plate16_114.jpg",
+        "imageName": "C3/plate16_114.jpg",
         "words": [
             "махнатий",
             "шмел"
@@ -225,7 +225,7 @@
         "figures": []
     },
     {
-        "imageName": "plate16_115.jpg",
+        "imageName": "C3/plate16_115.jpg",
         "brand": "mahou",
         "words": [
             "mac-mahou",
@@ -248,7 +248,7 @@
         ]
     },
     {
-        "imageName": "plate16_116.jpg",
+        "imageName": "C3/plate16_116.jpg",
         "words": [
             "w"
         ],
@@ -261,7 +261,7 @@
         ]
     },
     {
-        "imageName": "plate16_117.jpg",
+        "imageName": "C3/plate16_117.jpg",
         "words": [
             "siris",
             "microbrewery"
@@ -275,7 +275,7 @@
         ]
     },
     {
-        "imageName": "plate16_118.jpg",
+        "imageName": "C3/plate16_118.jpg",
         "words": [
             "kloud"
         ],
@@ -290,7 +290,7 @@
         ]
     },
     {
-        "imageName": "plate16_119.jpg",
+        "imageName": "C3/plate16_119.jpg",
         "brand": "jelen",
         "words": [
             "jelen",
@@ -307,7 +307,7 @@
         "figures": []
     },
     {
-        "imageName": "plate16_120.jpg",
+        "imageName": "C3/plate16_120.jpg",
         "brand": "franziskaner",
         "words": [
             "franziskaner",
@@ -325,7 +325,7 @@
         ]
     },
     {
-        "imageName": "plate16_121.jpg",
+        "imageName": "C3/plate16_121.jpg",
         "brand": "o'hara's",
         "words": [
             "o'hara's",
@@ -342,7 +342,7 @@
         ]
     },
     {
-        "imageName": "plate16_122.jpg",
+        "imageName": "C3/plate16_122.jpg",
         "words": [
             "cervesa",
             "artesanal",
@@ -360,7 +360,7 @@
         ]
     },
     {
-        "imageName": "plate16_123.jpg",
+        "imageName": "C3/plate16_123.jpg",
         "brand": "mcgargles",
         "words": [
             "mcgargles",
@@ -376,7 +376,7 @@
         "figures": []
     },
     {
-        "imageName": "plate16_124.jpg",
+        "imageName": "C3/plate16_124.jpg",
         "brand": "stolichno",
         "words": [
             "s",
@@ -393,7 +393,7 @@
         ]
     },
     {
-        "imageName": "plate16_125.jpg",
+        "imageName": "C3/plate16_125.jpg",
         "words": [],
         "colors": [
             "golden",
@@ -405,7 +405,7 @@
         ]
     },
     {
-        "imageName": "plate16_126.jpg",
+        "imageName": "C3/plate16_126.jpg",
         "brand": "krug-brau",
         "words": [
             "krug-brau",
@@ -420,7 +420,7 @@
         ]
     },
     {
-        "imageName": "plate16_127.jpg",
+        "imageName": "C3/plate16_127.jpg",
         "brand": "krusovice",
         "words": [
             "lezak"
@@ -435,7 +435,7 @@
         ]
     },
     {
-        "imageName": "plate16_128.jpg",
+        "imageName": "C3/plate16_128.jpg",
         "brand": "nymburk",
         "words": [
             "nymburk"
@@ -454,7 +454,7 @@
         ]
     },
     {
-        "imageName": "plate16_129.jpg",
+        "imageName": "C3/plate16_129.jpg",
         "words": [
             "bohemia",
             "king",
@@ -469,7 +469,7 @@
         ]
     },
     {
-        "imageName": "plate16_130.jpg",
+        "imageName": "C3/plate16_130.jpg",
         "words": [
             "brauerei",
             "simon",
@@ -485,7 +485,7 @@
         "figures": []
     },
     {
-        "imageName": "plate16_131.jpg",
+        "imageName": "C3/plate16_131.jpg",
         "brand": "los coast",
         "words": [
             "lost",
@@ -502,7 +502,7 @@
         ]
     },
     {
-        "imageName": "plate16_132.jpg",
+        "imageName": "C3/plate16_132.jpg",
         "brand": "ariana",
         "words": [
             "ариана"
@@ -514,7 +514,7 @@
         "figures": []
     },
     {
-        "imageName": "plate16_133.jpg",
+        "imageName": "C3/plate16_133.jpg",
         "brand": "pilsplus",
         "words": [
             "pilsplus",
@@ -528,7 +528,7 @@
         "figures": []
     },
     {
-        "imageName": "plate16_134.jpg",
+        "imageName": "C3/plate16_134.jpg",
         "brand": "svijany",
         "words": [
             "svijany",
@@ -547,7 +547,7 @@
         ]
     },
     {
-        "imageName": "plate16_135.jpg",
+        "imageName": "C3/plate16_135.jpg",
         "words": [
             "twist",
             "to",
@@ -563,7 +563,7 @@
         ]
     },
     {
-        "imageName": "plate16_136.jpg",
+        "imageName": "C3/plate16_136.jpg",
         "words": [],
         "colors": [
             "golden",
@@ -575,7 +575,7 @@
         ]
     },
     {
-        "imageName": "plate16_137.jpg",
+        "imageName": "C3/plate16_137.jpg",
         "words": [],
         "colors": [
             "golden",
@@ -586,7 +586,7 @@
         ]
     },
     {
-        "imageName": "plate16_138.jpg",
+        "imageName": "C3/plate16_138.jpg",
         "words": [
             "wellpark",
             "brewery",
@@ -603,7 +603,7 @@
         ]
     },
     {
-        "imageName": "plate16_139.jpg",
+        "imageName": "C3/plate16_139.jpg",
         "words": [
             "de",
             "parel",
@@ -619,7 +619,7 @@
         ]
     },
     {
-        "imageName": "plate16_140.jpg",
+        "imageName": "C3/plate16_140.jpg",
         "words": [
             "benediktinerabtei",
             "plankstetten"
@@ -633,7 +633,7 @@
         ]
     },
     {
-        "imageName": "plate16_141.jpg",
+        "imageName": "C3/plate16_141.jpg",
         "words": [
             "selecta",
             "cerveza",
@@ -648,7 +648,7 @@
         "figures": []
     },
     {
-        "imageName": "plate16_142.jpg",
+        "imageName": "C3/plate16_142.jpg",
         "brand": "clausthaler",
         "words": [
             "clausthaler",
@@ -664,7 +664,7 @@
         ]
     },
     {
-        "imageName": "plate16_143.jpg",
+        "imageName": "C3/plate16_143.jpg",
         "words": [
             "limited",
             "edition",
@@ -683,7 +683,7 @@
         "figures": []
     },
     {
-        "imageName": "plate16_144.jpg",
+        "imageName": "C3/plate16_144.jpg",
         "brand": "moretti",
         "words": [
             "birra",
@@ -702,7 +702,7 @@
         ]
     },
     {
-        "imageName": "plate16_145.jpg",
+        "imageName": "C3/plate16_145.jpg",
         "brand": "jelen",
         "words": [
             "jelen",
@@ -716,7 +716,7 @@
         "figures": []
     },
     {
-        "imageName": "plate16_146.jpg",
+        "imageName": "C3/plate16_146.jpg",
         "words": [],
         "colors": [
             "black",
@@ -727,7 +727,7 @@
         ]
     },
     {
-        "imageName": "plate16_147.jpg",
+        "imageName": "C3/plate16_147.jpg",
         "words": [
             "the",
             "craft",
@@ -743,7 +743,7 @@
         ]
     },
     {
-        "imageName": "plate16_148.jpg",
+        "imageName": "C3/plate16_148.jpg",
         "words": [
             "world",
             "beer",

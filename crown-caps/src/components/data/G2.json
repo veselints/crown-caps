@@ -1,6 +1,6 @@
 [
     {
-        "imageName": "plate7_100.jpg",
+        "imageName": "G2/plate7_100.jpg",
         "words": [
             "g"
         ],
@@ -15,7 +15,7 @@
         ]
     },
     {
-        "imageName": "plate7_101.jpg",
+        "imageName": "G2/plate7_101.jpg",
         "words": [],
         "colors": [
             "blue",
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "imageName": "plate7_102.jpg",
+        "imageName": "G2/plate7_102.jpg",
         "words": [
             "n"
         ],
@@ -41,7 +41,7 @@
         ]
     },
     {
-        "imageName": "plate7_103.jpg",
+        "imageName": "G2/plate7_103.jpg",
         "words": [
             "r"
         ],
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "imageName": "plate7_104.jpg",
+        "imageName": "G2/plate7_104.jpg",
         "words": [
             "lupulus"
         ],
@@ -68,7 +68,7 @@
         ]
     },
     {
-        "imageName": "plate7_105.jpg",
+        "imageName": "G2/plate7_105.jpg",
         "words": [
             "lagunitas",
             "company",
@@ -83,7 +83,7 @@
         ]
     },
     {
-        "imageName": "plate7_106.jpg",
+        "imageName": "G2/plate7_106.jpg",
         "words": [],
         "colors": [
             "black",
@@ -94,7 +94,7 @@
         ]
     },
     {
-        "imageName": "plate7_107.jpg",
+        "imageName": "G2/plate7_107.jpg",
         "words": [
             "cinema",
             "brewers"
@@ -107,7 +107,7 @@
         "figures": []
     },
     {
-        "imageName": "plate7_108.jpg",
+        "imageName": "G2/plate7_108.jpg",
         "words": [
             "aura"
         ],
@@ -118,7 +118,7 @@
         "figures": []
     },
     {
-        "imageName": "plate7_109.jpg",
+        "imageName": "G2/plate7_109.jpg",
         "brand": "fix",
         "words": [
             "fix",
@@ -131,7 +131,7 @@
         "figures": []
     },
     {
-        "imageName": "plate7_110.jpg",
+        "imageName": "G2/plate7_110.jpg",
         "words": [
             "db"
         ],
@@ -144,7 +144,7 @@
         ]
     },
     {
-        "imageName": "plate7_111.jpg",
+        "imageName": "G2/plate7_111.jpg",
         "words": [],
         "colors": [
             "black",
@@ -155,7 +155,7 @@
         ]
     },
     {
-        "imageName": "plate7_112.jpg",
+        "imageName": "G2/plate7_112.jpg",
         "brand": "metalhead",
         "words": [
             "metalhead",
@@ -170,7 +170,7 @@
         ]
     },
     {
-        "imageName": "plate7_113.jpg",
+        "imageName": "G2/plate7_113.jpg",
         "words": [],
         "colors": [
             "black",
@@ -182,7 +182,7 @@
         ]
     },
     {
-        "imageName": "plate7_114.jpg",
+        "imageName": "G2/plate7_114.jpg",
         "words": [],
         "colors": [
             "black",
@@ -193,7 +193,7 @@
         ]
     },
     {
-        "imageName": "plate7_115.jpg",
+        "imageName": "G2/plate7_115.jpg",
         "words": [
             "omer"
         ],
@@ -207,7 +207,7 @@
         ]
     },
     {
-        "imageName": "plate7_116.jpg",
+        "imageName": "G2/plate7_116.jpg",
         "words": [
             "cerne"
         ],
@@ -220,7 +220,7 @@
         ]
     },
     {
-        "imageName": "plate7_117.jpg",
+        "imageName": "G2/plate7_117.jpg",
         "brand": "guinness",
         "words": [
             "guinness",
@@ -243,7 +243,7 @@
         ]
     },
     {
-        "imageName": "plate7_118.jpg",
+        "imageName": "G2/plate7_118.jpg",
         "brand": "guinness",
         "words": [
             "use",
@@ -263,7 +263,7 @@
         ]
     },
     {
-        "imageName": "plate7_119.jpg",
+        "imageName": "G2/plate7_119.jpg",
         "words": [
             "kwaremont"
         ],
@@ -275,7 +275,7 @@
         "figures": []
     },
     {
-        "imageName": "plate7_120.jpg",
+        "imageName": "G2/plate7_120.jpg",
         "brand": "ararat",
         "words": [
             "ararat",
@@ -292,7 +292,7 @@
         ]
     },
     {
-        "imageName": "plate7_121.jpg",
+        "imageName": "G2/plate7_121.jpg",
         "words": [
             "flying",
             "monkeys",
@@ -313,7 +313,7 @@
         ]
     },
     {
-        "imageName": "plate7_122.jpg",
+        "imageName": "G2/plate7_122.jpg",
         "brand": "miller",
         "words": [
             "miller",
@@ -332,7 +332,7 @@
         ]
     },
     {
-        "imageName": "plate7_123.jpg",
+        "imageName": "G2/plate7_123.jpg",
         "words": [
             "schoppe",
             "brau",
@@ -350,7 +350,7 @@
         ]
     },
     {
-        "imageName": "plate7_124.jpg",
+        "imageName": "G2/plate7_124.jpg",
         "words": [
             "rogue",
             "dedicated",
@@ -372,7 +372,7 @@
         ]
     },
     {
-        "imageName": "plate7_125.jpg",
+        "imageName": "G2/plate7_125.jpg",
         "brand": "gulden draak",
         "words": [
             "gulden",
@@ -389,7 +389,7 @@
         ]
     },
     {
-        "imageName": "plate7_126.jpg",
+        "imageName": "G2/plate7_126.jpg",
         "brand": "gulden draak",
         "words": [
             "gulden",
@@ -408,7 +408,7 @@
         ]
     },
     {
-        "imageName": "plate7_127.jpg",
+        "imageName": "G2/plate7_127.jpg",
         "words": [
             "griffin",
             "brewery"
@@ -422,7 +422,7 @@
         ]
     },
     {
-        "imageName": "plate7_128.jpg",
+        "imageName": "G2/plate7_128.jpg",
         "words": [
             "svyturys",
             "1784"
@@ -441,7 +441,7 @@
         ]
     },
     {
-        "imageName": "plate7_129.jpg",
+        "imageName": "G2/plate7_129.jpg",
         "words": [
             "orval",
             "trappist",
@@ -457,7 +457,7 @@
         ]
     },
     {
-        "imageName": "plate7_130.jpg",
+        "imageName": "G2/plate7_130.jpg",
         "words": [
             "speciale",
             "belge",
@@ -472,7 +472,7 @@
         "figures": []
     },
     {
-        "imageName": "plate7_131.jpg",
+        "imageName": "G2/plate7_131.jpg",
         "words": [
             "browar",
             "stu",
@@ -490,7 +490,7 @@
         ]
     },
     {
-        "imageName": "plate7_132.jpg",
+        "imageName": "G2/plate7_132.jpg",
         "brand": "",
         "words": [],
         "colors": [
@@ -502,7 +502,7 @@
         ]
     },
     {
-        "imageName": "plate7_133.jpg",
+        "imageName": "G2/plate7_133.jpg",
         "brand": "red erik",
         "words": [
             "red",
@@ -517,7 +517,7 @@
         ]
     },
     {
-        "imageName": "plate7_134.jpg",
+        "imageName": "G2/plate7_134.jpg",
         "brand": "perla",
         "words": [
             "perla",
@@ -534,7 +534,7 @@
         ]
     },
     {
-        "imageName": "plate7_135.jpg",
+        "imageName": "G2/plate7_135.jpg",
         "brand": "perla",
         "words": [
             "perla",
@@ -551,7 +551,7 @@
         ]
     },
     {
-        "imageName": "plate7_136.jpg",
+        "imageName": "G2/plate7_136.jpg",
         "brand": "perla",
         "words": [
             "perla",
@@ -568,7 +568,7 @@
         ]
     },
     {
-        "imageName": "plate7_137.jpg",
+        "imageName": "G2/plate7_137.jpg",
         "words": [
             "steenhuffel",
             "anno",
@@ -584,7 +584,7 @@
         ]
     },
     {
-        "imageName": "plate7_138.jpg",
+        "imageName": "G2/plate7_138.jpg",
         "words": [
             "passion",
             "innovation",
@@ -599,7 +599,7 @@
         ]
     },
     {
-        "imageName": "plate7_139.jpg",
+        "imageName": "G2/plate7_139.jpg",
         "words": [
             "van",
             "hunsebrouck",
@@ -613,7 +613,7 @@
         ]
     },
     {
-        "imageName": "plate7_140.jpg",
+        "imageName": "G2/plate7_140.jpg",
         "words": [
             "boulevard",
             "brewing",
@@ -630,7 +630,7 @@
         "figures": []
     },
     {
-        "imageName": "plate7_141.jpg",
+        "imageName": "G2/plate7_141.jpg",
         "words": [],
         "colors": [
             "brown",
@@ -641,7 +641,7 @@
         ]
     },
     {
-        "imageName": "plate7_142.jpg",
+        "imageName": "G2/plate7_142.jpg",
         "brand": "ceres",
         "words": [],
         "colors": [
@@ -654,7 +654,7 @@
         ]
     },
     {
-        "imageName": "plate7_143.jpg",
+        "imageName": "G2/plate7_143.jpg",
         "words": [],
         "colors": [
             "white",
@@ -665,7 +665,7 @@
         ]
     },
     {
-        "imageName": "plate7_144.jpg",
+        "imageName": "G2/plate7_144.jpg",
         "brand": "kabinet",
         "words": [
             "kabinet",
@@ -678,7 +678,7 @@
         "figures": []
     },
     {
-        "imageName": "plate7_145.jpg",
+        "imageName": "G2/plate7_145.jpg",
         "words": [
             "kormoran"
         ],
@@ -691,7 +691,7 @@
         ]
     },
     {
-        "imageName": "plate7_146.jpg",
+        "imageName": "G2/plate7_146.jpg",
         "words": [
             "dubuisson",
             "anno",
@@ -706,7 +706,7 @@
         "figures": []
     },
     {
-        "imageName": "plate7_147.jpg",
+        "imageName": "G2/plate7_147.jpg",
         "brand": "lowlander",
         "words": [
             "lowlander",
@@ -721,7 +721,7 @@
         "figures": []
     },
     {
-        "imageName": "plate7_148.jpg",
+        "imageName": "G2/plate7_148.jpg",
         "brand": "serengeti",
         "words": [
             "serengeti"

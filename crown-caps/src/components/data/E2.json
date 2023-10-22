@@ -1,6 +1,6 @@
 [
     {
-        "imageName": "plate12_100.jpg",
+        "imageName": "E2/plate12_100.jpg",
         "brand": "london pride",
         "words": [
             "london",
@@ -15,7 +15,7 @@
         ]
     },
     {
-        "imageName": "plate12_101.jpg",
+        "imageName": "E2/plate12_101.jpg",
         "brand": "lucky buddha",
         "words": [
             "lucky",
@@ -30,7 +30,7 @@
         ]
     },
     {
-        "imageName": "plate12_102.jpg",
+        "imageName": "E2/plate12_102.jpg",
         "brand": "liefmans",
         "words": [
             "liefmans",
@@ -44,7 +44,7 @@
         "figures": []
     },
     {
-        "imageName": "plate12_103.jpg",
+        "imageName": "E2/plate12_103.jpg",
         "brand": "super bock",
         "words": [
             "super",
@@ -58,7 +58,7 @@
         "figures": []
     },
     {
-        "imageName": "plate12_104.jpg",
+        "imageName": "E2/plate12_104.jpg",
         "brand": "san miguel philippines",
         "words": [
             "sam",
@@ -78,7 +78,7 @@
         ]
     },
     {
-        "imageName": "plate12_105.jpg",
+        "imageName": "E2/plate12_105.jpg",
         "brand": "baltika",
         "words": [
             "балтика",
@@ -96,7 +96,7 @@
         ]
     },
     {
-        "imageName": "plate12_106.jpg",
+        "imageName": "E2/plate12_106.jpg",
         "brand": "bergenbier",
         "words": [
             "bergenbier",
@@ -115,7 +115,7 @@
         ]
     },
     {
-        "imageName": "plate12_107.jpg",
+        "imageName": "E2/plate12_107.jpg",
         "brand": "baltika",
         "words": [
             "балтика",
@@ -133,7 +133,7 @@
         ]
     },
     {
-        "imageName": "plate12_108.jpg",
+        "imageName": "E2/plate12_108.jpg",
         "words": [],
         "colors": [
             "brown",
@@ -145,7 +145,7 @@
         ]
     },
     {
-        "imageName": "plate12_109.jpg",
+        "imageName": "E2/plate12_109.jpg",
         "words": [
             "uhersky",
             "brod"
@@ -157,7 +157,7 @@
         "figures": []
     },
     {
-        "imageName": "plate12_110.jpg",
+        "imageName": "E2/plate12_110.jpg",
         "words": [
             "kuqalashe"
         ],
@@ -170,7 +170,7 @@
         ]
     },
     {
-        "imageName": "plate12_111.jpg",
+        "imageName": "E2/plate12_111.jpg",
         "words": [
             "r"
         ],
@@ -183,7 +183,7 @@
         ]
     },
     {
-        "imageName": "plate12_112.jpg",
+        "imageName": "E2/plate12_112.jpg",
         "brand": "brahma",
         "words": [
             "brahma",
@@ -199,7 +199,7 @@
         ]
     },
     {
-        "imageName": "plate12_113.jpg",
+        "imageName": "E2/plate12_113.jpg",
         "brand": "moretti",
         "words": [
             "birra",
@@ -218,7 +218,7 @@
         ]
     },
     {
-        "imageName": "plate12_114.jpg",
+        "imageName": "E2/plate12_114.jpg",
         "brand": "moretti",
         "words": [
             "birra",
@@ -238,7 +238,7 @@
         ]
     },
     {
-        "imageName": "plate12_115.jpg",
+        "imageName": "E2/plate12_115.jpg",
         "words": [],
         "colors": [
             "red",
@@ -251,7 +251,7 @@
         ]
     },
     {
-        "imageName": "plate12_116.jpg",
+        "imageName": "E2/plate12_116.jpg",
         "brand": "hetanker",
         "words": [
             "hetanker"
@@ -266,7 +266,7 @@
         ]
     },
     {
-        "imageName": "plate12_117.jpg",
+        "imageName": "E2/plate12_117.jpg",
         "brand": "shumensko",
         "words": [
             "шуменско"
@@ -280,7 +280,7 @@
         ]
     },
     {
-        "imageName": "plate12_118.jpg",
+        "imageName": "E2/plate12_118.jpg",
         "words": [
             "daura",
             "damm",
@@ -293,7 +293,7 @@
         "figures": []
     },
     {
-        "imageName": "plate12_119.jpg",
+        "imageName": "E2/plate12_119.jpg",
         "brand": "baltika",
         "words": [
             "балтика",
@@ -311,7 +311,7 @@
         ]
     },
     {
-        "imageName": "plate12_120.jpg",
+        "imageName": "E2/plate12_120.jpg",
         "words": [
             "biere",
             "des",
@@ -329,7 +329,7 @@
         ]
     },
     {
-        "imageName": "plate12_121.jpg",
+        "imageName": "E2/plate12_121.jpg",
         "brand": "glarus",
         "words": [
             "glarus",
@@ -346,7 +346,7 @@
         ]
     },
     {
-        "imageName": "plate12_122.jpg",
+        "imageName": "E2/plate12_122.jpg",
         "brand": "gambrinus",
         "words": [
             "gambrinus",
@@ -365,7 +365,7 @@
         ]
     },
     {
-        "imageName": "plate12_123.jpg",
+        "imageName": "E2/plate12_123.jpg",
         "brand": "gambrinus",
         "words": [
             "gambrinus",
@@ -384,7 +384,7 @@
         ]
     },
     {
-        "imageName": "plate12_124.jpg",
+        "imageName": "E2/plate12_124.jpg",
         "brand": "uhersky brod",
         "words": [
             "uhersky",
@@ -399,7 +399,7 @@
         "figures": []
     },
     {
-        "imageName": "plate12_125.jpg",
+        "imageName": "E2/plate12_125.jpg",
         "words": [
             "yuste"
         ],
@@ -410,7 +410,7 @@
         "figures": []
     },
     {
-        "imageName": "plate12_126.jpg",
+        "imageName": "E2/plate12_126.jpg",
         "brand": "kamenitza",
         "words": [
             "kamenitza",
@@ -427,7 +427,7 @@
         ]
     },
     {
-        "imageName": "plate12_127.jpg",
+        "imageName": "E2/plate12_127.jpg",
         "brand": "chimay",
         "words": [
             "chimay",
@@ -440,7 +440,7 @@
         "figures": []
     },
     {
-        "imageName": "plate12_128.jpg",
+        "imageName": "E2/plate12_128.jpg",
         "brand": "dreher",
         "words": [
             "dreher"
@@ -453,7 +453,7 @@
         "figures": []
     },
     {
-        "imageName": "plate12_129.jpg",
+        "imageName": "E2/plate12_129.jpg",
         "brand": "ichnusa",
         "words": [],
         "colors": [
@@ -467,7 +467,7 @@
         ]
     },
     {
-        "imageName": "plate12_130.jpg",
+        "imageName": "E2/plate12_130.jpg",
         "brand": "ichnusa",
         "words": [],
         "colors": [
@@ -481,7 +481,7 @@
         ]
     },
     {
-        "imageName": "plate12_131.jpg",
+        "imageName": "E2/plate12_131.jpg",
         "brand": "baltika",
         "words": [
             "балтика",
@@ -498,7 +498,7 @@
         ]
     },
     {
-        "imageName": "plate12_132.jpg",
+        "imageName": "E2/plate12_132.jpg",
         "brand": "ichnusa",
         "words": [
             "ichnusa",
@@ -518,7 +518,7 @@
         ]
     },
     {
-        "imageName": "plate12_133.jpg",
+        "imageName": "E2/plate12_133.jpg",
         "brand": "uhersky brod",
         "words": [
             "uhersky",
@@ -537,7 +537,7 @@
         ]
     },
     {
-        "imageName": "plate12_134.jpg",
+        "imageName": "E2/plate12_134.jpg",
         "words": [
             "st",
             "bernardus",
@@ -554,7 +554,7 @@
         ]
     },
     {
-        "imageName": "plate12_135.jpg",
+        "imageName": "E2/plate12_135.jpg",
         "words": [
             "st",
             "bernardus",
@@ -571,7 +571,7 @@
         ]
     },
     {
-        "imageName": "plate12_136.jpg",
+        "imageName": "E2/plate12_136.jpg",
         "words": [
             "st",
             "bernardus",
@@ -588,7 +588,7 @@
         ]
     },
     {
-        "imageName": "plate12_137.jpg",
+        "imageName": "E2/plate12_137.jpg",
         "brand": "schlenkeria",
         "words": [
             "schlenkeria"
@@ -603,7 +603,7 @@
         ]
     },
     {
-        "imageName": "plate12_138.jpg",
+        "imageName": "E2/plate12_138.jpg",
         "words": [],
         "colors": [
             "red",
@@ -616,7 +616,7 @@
         ]
     },
     {
-        "imageName": "plate12_139.jpg",
+        "imageName": "E2/plate12_139.jpg",
         "brand": "schlenkeria",
         "words": [
             "schlenkeria"
@@ -632,7 +632,7 @@
         ]
     },
     {
-        "imageName": "plate12_140.jpg",
+        "imageName": "E2/plate12_140.jpg",
         "brand": "tucher",
         "words": [
             "tucher",
@@ -651,7 +651,7 @@
         ]
     },
     {
-        "imageName": "plate12_141.jpg",
+        "imageName": "E2/plate12_141.jpg",
         "brand": "tucher",
         "words": [
             "tucher",
@@ -673,7 +673,7 @@
         ]
     },
     {
-        "imageName": "plate12_142.jpg",
+        "imageName": "E2/plate12_142.jpg",
         "words": [],
         "colors": [
             "red"
@@ -681,7 +681,7 @@
         "figures": []
     },
     {
-        "imageName": "plate12_143.jpg",
+        "imageName": "E2/plate12_143.jpg",
         "brand": "baltika",
         "words": [
             "балтика",
@@ -699,7 +699,7 @@
         ]
     },
     {
-        "imageName": "plate12_144.jpg",
+        "imageName": "E2/plate12_144.jpg",
         "words": [],
         "colors": [
             "red",
@@ -711,7 +711,7 @@
         ]
     },
     {
-        "imageName": "plate12_145.jpg",
+        "imageName": "E2/plate12_145.jpg",
         "words": [
             "333",
             "premium"
@@ -725,7 +725,7 @@
         ]
     },
     {
-        "imageName": "plate12_146.jpg",
+        "imageName": "E2/plate12_146.jpg",
         "brand": "ursus",
         "words": [
             "ursus",
@@ -739,7 +739,7 @@
         "figures": []
     },
     {
-        "imageName": "plate12_147.jpg",
+        "imageName": "E2/plate12_147.jpg",
         "brand": "ursus",
         "words": [
             "ursus",
@@ -753,7 +753,7 @@
         "figures": []
     },
     {
-        "imageName": "plate12_148.jpg",
+        "imageName": "E2/plate12_148.jpg",
         "brand": "benediktiner",
         "words": [
             "benediktiner"
