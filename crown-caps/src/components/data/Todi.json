@@ -1,0 +1,707 @@
+[
+    {
+        "imageName": "Todi (1).jpg",
+        "brand": "meckatzer",
+        "words": [
+            "meckatzer",
+            "original",
+            "hell"
+        ],
+        "colors": [
+            "white",
+            "golden",
+            "blue"
+        ],
+        "figures": [
+            "hops",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "Todi (10).jpg",
+        "brand": "flotzinger",
+        "words": [
+            "flotzinger",
+            "brau",
+            "rosenheim",
+            "15",
+            "43"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "golden"
+        ],
+        "figures": [
+            "hops"
+        ]
+    },
+    {
+        "imageName": "Todi (11).jpg",
+        "words": [
+            "trappist",
+            "westmalle",
+            "tripel"
+        ],
+        "colors": [
+            "white",
+            "red"
+        ],
+        "figures": [
+            "letters"
+        ]
+    },
+    {
+        "imageName": "Todi (12).jpg",
+        "brand": "moretti",
+        "words": [
+            "birra",
+            "moretti",
+            "limone",
+            "2",
+            "vol"
+        ],
+        "colors": [
+            "white",
+            "green"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "Todi (13).jpg",
+        "words": [
+            "hamburg"
+        ],
+        "colors": [
+            "silver",
+            "yellow"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "Todi (14).jpg",
+        "words": [
+            "naturell"
+        ],
+        "colors": [
+            "pink",
+            "white",
+            "silver"
+        ],
+        "figures": [
+            "woman"
+        ]
+    },
+    {
+        "imageName": "Todi (15).jpg",
+        "words": [
+            "laut"
+        ],
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "Todi (16).jpg",
+        "words": [
+            "kehrwieder",
+            "kreativbrauerei"
+        ],
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "figures": [
+            "lighthouse"
+        ]
+    },
+    {
+        "imageName": "Todi (17).jpg",
+        "words": [],
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "figures": [
+            "bear"
+        ]
+    },
+    {
+        "imageName": "Todi (18).jpg",
+        "brand": "berliner berg",
+        "words": [
+            "berliner",
+            "berg",
+            "brauerei"
+        ],
+        "colors": [
+            "blue",
+            "white"
+        ],
+        "figures": [
+            "abstract",
+            "circle"
+        ]
+    },
+    {
+        "imageName": "Todi (19).jpg",
+        "brand": "berliner berg",
+        "words": [
+            "berliner",
+            "berg",
+            "brauerei"
+        ],
+        "colors": [
+            "white",
+            "green"
+        ],
+        "figures": [
+            "abstract",
+            "circle"
+        ]
+    },
+    {
+        "imageName": "Todi (2).jpg",
+        "brand": "meckatzera",
+        "words": [
+            "meckatzera",
+            "seit",
+            "1853",
+            "in",
+            "familienbesitz"
+        ],
+        "colors": [
+            "white",
+            "golden"
+        ],
+        "figures": [
+            "lion",
+            "schield"
+        ]
+    },
+    {
+        "imageName": "Todi (20).jpg",
+        "words": [
+            "hamburg"
+        ],
+        "colors": [
+            "green",
+            "white",
+            ""
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "Todi (21).jpg",
+        "brand": "sierra nevada",
+        "words": [
+            "sierra",
+            "nevada",
+            "fresh",
+            "lean",
+            "cap",
+            "use",
+            "bottle",
+            "opener"
+        ],
+        "colors": [
+            "orange",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "Todi (22).jpg",
+        "words": [
+            "vita",
+            "malz"
+        ],
+        "colors": [
+            "yellow",
+            "blue",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "Todi (23).jpg",
+        "words": [
+            "maisel",
+            "friends"
+        ],
+        "colors": [
+            "yellow",
+            "black",
+            ""
+        ],
+        "figures": [
+            "star",
+            "letter"
+        ]
+    },
+    {
+        "imageName": "Todi (24).jpg",
+        "brand": "berliner",
+        "words": [
+            "radler",
+            "naturtrub"
+        ],
+        "colors": [
+            "yellow",
+            "gray",
+            "red"
+        ],
+        "figures": [
+            "bear",
+            "glass"
+        ]
+    },
+    {
+        "imageName": "Todi (25).jpg",
+        "words": [],
+        "colors": [
+            "red",
+            "golden",
+            "black"
+        ],
+        "figures": [
+            "bear"
+        ]
+    },
+    {
+        "imageName": "Todi (26).jpg",
+        "brand": "hafferoder",
+        "words": [
+            "hafferoder",
+            "granat",
+            "furstenbrau"
+        ],
+        "colors": [
+            "red",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "Todi (27).jpg",
+        "words": [
+            "hamburg"
+        ],
+        "colors": [
+            "pink",
+            "white"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "Todi (28).jpg",
+        "words": [
+            "porter",
+            "schwarzes"
+        ],
+        "colors": [
+            "red",
+            "white",
+            "black"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "Todi (29).jpg",
+        "words": [],
+        "colors": [
+            "green",
+            "white"
+        ],
+        "figures": [
+            "man"
+        ]
+    },
+    {
+        "imageName": "Todi (3).jpg",
+        "words": [
+            "harle"
+        ],
+        "colors": [
+            "golden",
+            "black",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "Todi (30).jpg",
+        "words": [
+            "brauerei",
+            "pils",
+            "lubz"
+        ],
+        "colors": [
+            "green",
+            "white",
+            "golden"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "Todi (31).jpg",
+        "words": [
+            "seit",
+            "2009"
+        ],
+        "colors": [
+            "gray",
+            "yellow",
+            "white"
+        ],
+        "figures": [
+            "woman"
+        ]
+    },
+    {
+        "imageName": "Todi (32).jpg",
+        "words": [
+            "seit",
+            "2009"
+        ],
+        "colors": [
+            "gray",
+            "red",
+            "white"
+        ],
+        "figures": [
+            "woman"
+        ]
+    },
+    {
+        "imageName": "Todi (33).jpg",
+        "words": [
+            "lemke",
+            "berlin",
+            "20",
+            "jahre",
+            "est",
+            "99",
+            "handwerksbrauerei"
+        ],
+        "colors": [
+            "gray",
+            "white"
+        ],
+        "figures": [
+            "bird"
+        ]
+    },
+    {
+        "imageName": "Todi (34).jpg",
+        "words": [
+            "unabhangige",
+            "craft",
+            "brauerei",
+            "lemke",
+            "berlin",
+            "est",
+            "99",
+            "lb"
+        ],
+        "colors": [
+            "gray",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "Todi (35).jpg",
+        "words": [],
+        "colors": [
+            "red",
+            "black",
+            "white"
+        ],
+        "figures": [
+            "girl"
+        ]
+    },
+    {
+        "imageName": "Todi (36).jpg",
+        "brand": "schoppe brau",
+        "words": [
+            "schoppe",
+            "brau",
+            "berlin",
+            "s"
+        ],
+        "colors": [
+            "black",
+            "yellow",
+            "red",
+            "white"
+        ],
+        "figures": [
+            "hops",
+            "grain"
+        ]
+    },
+    {
+        "imageName": "Todi (37).jpg",
+        "brand": "brewdog",
+        "words": [],
+        "colors": [
+            "gray",
+            "white"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    },
+    {
+        "imageName": "Todi (38).jpg",
+        "words": [
+            "buddelship",
+            "hamburg"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "ship",
+            "bird"
+        ]
+    },
+    {
+        "imageName": "Todi (39).jpg",
+        "words": [
+            "heiden",
+            "peters"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "Todi (40).jpg",
+        "words": [
+            "onkel",
+            "bier"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "star",
+            "grain",
+            "line"
+        ]
+    },
+    {
+        "imageName": "Todi (41).jpg",
+        "words": [
+            "kriek",
+            "boon"
+        ],
+        "colors": [
+            "red",
+            "golden",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "Todi (42).jpg",
+        "words": [
+            "dupont",
+            "tourpes"
+        ],
+        "colors": [
+            "black",
+            "red"
+        ],
+        "figures": [
+            "hops",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "Todi (43).jpg",
+        "words": [
+            "brlo"
+        ],
+        "colors": [
+            "white",
+            "gray"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "Todi (44).jpg",
+        "words": [
+            "brlo"
+        ],
+        "colors": [
+            "black",
+            "blue"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "Todi (45).jpg",
+        "words": [
+            "brlo"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "Todi (46).jpg",
+        "words": [
+            "yum"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "Todi (47).jpg",
+        "words": [
+            "lowlander",
+            "botanicals",
+            "brewed",
+            "with"
+        ],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "cross",
+            "circle"
+        ]
+    },
+    {
+        "imageName": "Todi (48).jpg",
+        "words": [
+            "sankt",
+            "jaro",
+            "schwrzbier"
+        ],
+        "colors": [
+            "white",
+            "black",
+            "golden",
+            "red"
+        ],
+        "figures": [
+            "lion",
+            "crown",
+            "shield"
+        ]
+    },
+    {
+        "imageName": "Todi (49).jpg",
+        "words": [
+            "turn"
+        ],
+        "colors": [
+            "blue",
+            "yellow"
+        ],
+        "figures": [
+            "leaf"
+        ]
+    },
+    {
+        "imageName": "Todi (5).jpg",
+        "words": [
+            "riegele",
+            "schones",
+            "leben",
+            "hier"
+        ],
+        "colors": [
+            "white",
+            "blue",
+            "golden"
+        ],
+        "figures": [
+            "horse"
+        ]
+    },
+    {
+        "imageName": "Todi (6).jpg",
+        "words": [
+            "1628"
+        ],
+        "colors": [
+            "white",
+            "red",
+            "black",
+            "yelow"
+        ],
+        "figures": [
+            "sheep"
+        ]
+    },
+    {
+        "imageName": "Todi (7).jpg",
+        "words": [
+            "mindestens",
+            "haltbar",
+            "bis",
+            "siehe",
+            "flaschenhals",
+            "pilsner",
+            "als",
+            "4,8",
+            "vol",
+            "o33",
+            "4220",
+            "2295"
+        ],
+        "colors": [
+            "black",
+            "silver"
+        ],
+        "figures": [
+            "barcode"
+        ]
+    },
+    {
+        "imageName": "Todi (8).jpg",
+        "words": [
+            "leise"
+        ],
+        "colors": [
+            "white",
+            "blue"
+        ],
+        "figures": []
+    },
+    {
+        "imageName": "Todi (9).jpg",
+        "words": [],
+        "colors": [
+            "black",
+            "white"
+        ],
+        "figures": [
+            "abstract"
+        ]
+    }
+]

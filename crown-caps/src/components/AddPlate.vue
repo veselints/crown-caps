@@ -43,7 +43,7 @@ export default {
   },
 
   mounted() {
-    //this.importAll(require.context('../../public/images/noplate/', true, /\.jpg$/));
+    this.importAll(require.context('../../public/images/Espagna/', true, /\.jpg$/));
   },
 
   methods: {
@@ -63,13 +63,12 @@ export default {
         });
       });
 
-      console.log(result);
+      console.log(JSON.stringify(result));
     }
   }
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .container {
   display: flex;
