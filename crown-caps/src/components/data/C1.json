@@ -1,717 +1,323 @@
 [
-    {
-        "imageName": "C1/plate22_100.jpg",
-        "brand": "imperator",
-        "words": [
-            "imperator",
-            "1340",
-            "oudste",
-            "special"
-        ],
-        "colors": [
-            "blue",
-            "white"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C1/plate22_101.jpg",
-        "brand": "grimbergen",
-        "words": [
-            "grimbergen",
-            "1128"
-        ],
-        "colors": [
-            "blue",
-            "brown"
-        ],
-        "figures": [
-            "bird"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_102.jpg",
-        "brand": "hoegaarden",
-        "words": [
-            "hoegarden",
-            "rosee"
-        ],
-        "colors": [
-            "blue",
-            "white",
-            "pink"
-        ],
-        "figures": [
-            "hand",
-            "stick"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_103.jpg",
-        "words": [
-            "kona",
-            "brewing",
-            "co"
-        ],
-        "colors": [
-            "blue",
-            "white"
-        ],
-        "figures": [
-            "lizard"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_104.jpg",
-        "brand": "singha",
-        "words": [
-            "singha",
-            "light",
-            "beer",
-            "licht"
-        ],
-        "colors": [
-            "blue",
-            "white",
-            "yellow"
-        ],
-        "figures": [
-            "dragon"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_105.jpg",
-        "words": [],
-        "colors": [
-            "black"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C1/plate22_106.jpg",
-        "words": [
-            "super",
-            "8"
-        ],
-        "colors": [
-            "blue",
-            "white"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_107.jpg",
-        "brand": "wolfshoher",
-        "words": [
-            "wolfshoher",
-            "seit",
-            "1872"
-        ],
-        "colors": [
-            "green",
-            "white"
-        ],
-        "figures": [
-            "wolf"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_108.jpg",
-        "brand": "fix",
-        "words": [
-            "fix"
-        ],
-        "colors": [
-            "blue",
-            "white",
-            "silver"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C1/plate22_109.jpg",
-        "brand": "efes",
-        "words": [
-            "efes"
-        ],
-        "colors": [
-            "blue",
-            "gray"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C1/plate22_110.jpg",
-        "brand": "maisel's weisse",
-        "words": [
-            "maisel's",
-            "weisse",
-            "original"
-        ],
-        "colors": [
-            "blue",
-            "white",
-            "red",
-            "green"
-        ],
-        "figures": [
-            "grain",
-            "hops",
-            "star"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_111.jpg",
-        "brand": "bud",
-        "words": [
-            "bud",
-            "light"
-        ],
-        "colors": [
-            "blue",
-            "white"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C1/plate22_112.jpg",
-        "brand": "timisoreana",
-        "words": [
-            "timisoreana"
-        ],
-        "colors": [
-            "blue",
-            "white"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C1/plate22_113.jpg",
-        "words": [
-            "trade",
-            "mark",
-            "use",
-            "opener"
-        ],
-        "colors": [
-            "purple",
-            "golden"
-        ],
-        "figures": [
-            "anchor",
-            "rope"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_114.jpg",
-        "brand": "alhambra",
-        "words": [],
-        "colors": [
-            "blue",
-            "golden"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C1/plate22_115.jpg",
-        "words": [
-            "ginga",
-            "kogen",
-            "beer"
-        ],
-        "colors": [
-            "blue",
-            "golden"
-        ],
-        "figures": [
-            "deer",
-            "star"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_116.jpg",
-        "words": [
-            "sands",
-            "light"
-        ],
-        "colors": [
-            "green",
-            "white",
-            "red"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C1/plate22_117.jpg",
-        "words": [
-            "m",
-            "n"
-        ],
-        "colors": [
-            "red",
-            "white",
-            "blue"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_118.jpg",
-        "brand": "britos",
-        "words": [
-            "b"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_119.jpg",
-        "words": [
-            "trappist",
-            "westvleteren",
-            "bier",
-            "blond",
-            "alc",
-            "vol"
-        ],
-        "colors": [
-            "green",
-            "silver"
-        ],
-        "figures": [
-            "shield",
-            "tree"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_120.jpg",
-        "brand": "barbar",
-        "words": [
-            "barbar"
-        ],
-        "colors": [
-            "red",
-            "yellow"
-        ],
-        "figures": [
-            "woman",
-            "shield"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_121.jpg",
-        "words": [],
-        "colors": [
-            "red"
-        ],
-        "figures": [
-            "abstract"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_122.jpg",
-        "words": [
-            "brasserie",
-            "de",
-            "la",
-            "senne",
-            "brussels"
-        ],
-        "colors": [
-            "brown",
-            "white"
-        ],
-        "figures": [
-            "town"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_123.jpg",
-        "brand": "hansa",
-        "words": [
-            "hansa",
-            "pilsner"
-        ],
-        "colors": [
-            "brown",
-            "yellow",
-            "white"
-        ],
-        "figures": [
-            "hops"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_124.jpg",
-        "words": [
-            "s"
-        ],
-        "colors": [
-            "red",
-            "golden",
-            "white"
-        ],
-        "figures": [
-            "tower"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_125.jpg",
-        "words": [],
-        "colors": [
-            "red",
-            "orange"
-        ],
-        "figures": [
-            "tree",
-            "abstract"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_126.jpg",
-        "brand": "kamenitza",
-        "words": [
-            "каменица",
-            "1881"
-        ],
-        "colors": [
-            "red",
-            "white",
-            "black"
-        ],
-        "figures": [
-            "shield",
-            "lion"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_127.jpg",
-        "brand": "holba",
-        "words": [
-            "holba"
-        ],
-        "colors": [
-            "green",
-            "white"
-        ],
-        "figures": [
-            "sun",
-            "mountain"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_128.jpg",
-        "words": [
-            "agua"
-        ],
-        "colors": [
-            "red",
-            "black",
-            "golden"
-        ],
-        "figures": [
-            "drop",
-            "star"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_129.jpg",
-        "brand": "",
-        "words": [
-            "lupulo"
-        ],
-        "colors": [
-            "red",
-            "black",
-            "golden"
-        ],
-        "figures": [
-            "hops"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_130.jpg",
-        "words": [
-            "finest",
-            "tafel",
-            "lager"
-        ],
-        "colors": [
-            "red",
-            "golden",
-            "white"
-        ],
-        "figures": [
-            "grain"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_131.jpg",
-        "brand": "saigon",
-        "words": [
-            "saigon",
-            "premium",
-            "quality",
-            "special",
-            "lager",
-            "beer"
-        ],
-        "colors": [
-            "green",
-            "white",
-            "golden"
-        ],
-        "figures": [
-            "grain"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_132.jpg",
-        "words": [
-            "st",
-            "feuillien",
-            "brune"
-        ],
-        "colors": [
-            "red",
-            "yellow"
-        ],
-        "figures": [
-            "shield"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_133.jpg",
-        "brand": "raffo",
-        "words": [
-            "raffo",
-            "1919"
-        ],
-        "colors": [
-            "red",
-            "silver"
-        ],
-        "figures": [
-            "man",
-            "dolphin"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_134.jpg",
-        "words": [],
-        "colors": [
-            "red"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C1/plate22_135.jpg",
-        "words": [
-            "gb"
-        ],
-        "colors": [
-            "red",
-            "yellow"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_136.jpg",
-        "brand": "breznak",
-        "words": [
-            "breznak",
-            "velke",
-            "brezno",
-            "zalozeno",
-            "1753"
-        ],
-        "colors": [
-            "red",
-            "yellow"
-        ],
-        "figures": [
-            "man",
-            "glass"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_137.jpg",
-        "brand": "lbc",
-        "words": [
-            "lbc"
-        ],
-        "colors": [
-            "red",
-            "orange",
-            "white"
-        ],
-        "figures": [
-            "tiger"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_138.jpg",
-        "brand": "maisel",
-        "words": [
-            "maisel",
-            "friends"
-        ],
-        "colors": [
-            "green"
-        ],
-        "figures": [
-            "star"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_139.jpg",
-        "brand": "waterloo",
-        "words": [
-            "waterloo",
-            "1815"
-        ],
-        "colors": [
-            "red"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C1/plate22_140.jpg",
-        "brand": "glarus",
-        "words": [
-            "glarus",
-            "signature"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ],
-        "figures": [
-            "bird"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_141.jpg",
-        "brand": "angkor",
-        "words": [
-            "angkor"
-        ],
-        "colors": [
-            "red",
-            "golden",
-            "white"
-        ],
-        "figures": [
-            "temple"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_142.jpg",
-        "brand": "kamenitza",
-        "words": [
-            "каменица",
-            "1881"
-        ],
-        "colors": [
-            "green",
-            "white"
-        ],
-        "figures": [
-            "shield",
-            "lion"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_143.jpg",
-        "brand": "klaster",
-        "words": [
-            "klaster",
-            "original"
-        ],
-        "colors": [
-            "green",
-            "white"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C1/plate22_144.jpg",
-        "words": [
-            "original",
-            "czech",
-            "beer"
-        ],
-        "colors": [
-            "green",
-            "yellow"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C1/plate22_145.jpg",
-        "words": [
-            "pale",
-            "ale",
-            "biere",
-            "artisanale"
-        ],
-        "colors": [
-            "green"
-        ],
-        "figures": [
-            "hops"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_146.jpg",
-        "words": [],
-        "colors": [
-            "green",
-            "white"
-        ],
-        "figures": [
-            "abstract"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_147.jpg",
-        "words": [
-            "super",
-            "8"
-        ],
-        "colors": [
-            "green",
-            "white"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "C1/plate22_148.jpg",
-        "words": [
-            "seit",
-            "25",
-            "jahren",
-            "100",
-            "bio",
-            "total"
-        ],
-        "colors": [
-            "green",
-            "white",
-            "silver"
-        ],
-        "figures": []
-    }
+  {
+    "imageName": "C1/plate22_100.jpg",
+    "brand": "imperator",
+    "words": ["imperator", "1340", "oudste", "special"],
+    "colors": ["blue", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "C1/plate22_101.jpg",
+    "brand": "grimbergen",
+    "words": ["grimbergen", "1128"],
+    "colors": ["blue", "brown"],
+    "figures": ["bird"]
+  },
+  {
+    "imageName": "C1/plate22_102.jpg",
+    "brand": "hoegaarden",
+    "words": ["hoegarden", "rosee"],
+    "colors": ["blue", "white", "pink"],
+    "figures": ["hand", "stick"]
+  },
+  {
+    "imageName": "C1/plate22_103.jpg",
+    "words": ["kona", "brewing", "co"],
+    "colors": ["blue", "white"],
+    "figures": ["lizard"]
+  },
+  {
+    "imageName": "C1/plate22_104.jpg",
+    "brand": "singha",
+    "words": ["singha", "light", "beer", "licht"],
+    "colors": ["blue", "white", "yellow"],
+    "figures": ["dragon"]
+  },
+  {
+    "imageName": "C1/plate22_105.jpg",
+    "words": [],
+    "colors": ["black"],
+    "figures": []
+  },
+  {
+    "imageName": "C1/plate22_106.jpg",
+    "words": ["super", "8"],
+    "colors": ["blue", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "C1/plate22_107.jpg",
+    "brand": "wolfshoher",
+    "words": ["wolfshoher", "seit", "1872"],
+    "colors": ["green", "white"],
+    "figures": ["wolf"]
+  },
+  {
+    "imageName": "C1/plate22_108.jpg",
+    "brand": "fix",
+    "words": ["fix"],
+    "colors": ["blue", "white", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "C1/plate22_109.jpg",
+    "brand": "efes",
+    "words": ["efes"],
+    "colors": ["blue", "gray"],
+    "figures": []
+  },
+  {
+    "imageName": "C1/plate22_110.jpg",
+    "brand": "maisel's weisse",
+    "words": ["maisel's", "weisse", "original"],
+    "colors": ["blue", "white", "red", "green"],
+    "figures": ["grain", "hops", "star"]
+  },
+  {
+    "imageName": "C1/plate22_111.jpg",
+    "brand": "bud",
+    "words": ["bud", "light"],
+    "colors": ["blue", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "C1/plate22_112.jpg",
+    "brand": "timisoreana",
+    "words": ["timisoreana"],
+    "colors": ["blue", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "C1/plate22_113.jpg",
+    "words": ["trade", "mark", "use", "opener"],
+    "colors": ["purple", "golden"],
+    "figures": ["anchor", "rope"]
+  },
+  {
+    "imageName": "C1/plate22_114.jpg",
+    "brand": "alhambra",
+    "words": [],
+    "colors": ["blue", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "C1/plate22_115.jpg",
+    "words": ["ginga", "kogen", "beer"],
+    "colors": ["blue", "golden"],
+    "figures": ["deer", "star"]
+  },
+  {
+    "imageName": "C1/plate22_116.jpg",
+    "words": ["sands", "light"],
+    "colors": ["green", "white", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "C1/plate22_117.jpg",
+    "words": ["m", "n"],
+    "colors": ["red", "white", "blue"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "C1/plate22_118.jpg",
+    "brand": "britos",
+    "words": ["b"],
+    "colors": ["red", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "C1/plate22_119.jpg",
+    "words": ["trappist", "westvleteren", "bier", "blond", "alc", "vol"],
+    "colors": ["green", "silver"],
+    "figures": ["shield", "tree"]
+  },
+  {
+    "imageName": "C1/plate22_120.jpg",
+    "brand": "barbar",
+    "words": ["barbar"],
+    "colors": ["red", "yellow"],
+    "figures": ["woman", "shield"]
+  },
+  {
+    "imageName": "C1/plate22_121.jpg",
+    "words": [],
+    "colors": ["red"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "C1/plate22_122.jpg",
+    "words": ["brasserie", "de", "la", "senne", "brussels"],
+    "colors": ["brown", "white"],
+    "figures": ["town"]
+  },
+  {
+    "imageName": "C1/plate22_123.jpg",
+    "brand": "hansa",
+    "words": ["hansa", "pilsner"],
+    "colors": ["brown", "yellow", "white"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "C1/plate22_124.jpg",
+    "words": ["s"],
+    "colors": ["red", "golden", "white"],
+    "figures": ["tower"]
+  },
+  {
+    "imageName": "C1/plate22_125.jpg",
+    "words": [],
+    "colors": ["red", "orange"],
+    "figures": ["tree", "abstract"]
+  },
+  {
+    "imageName": "C1/plate22_126.jpg",
+    "brand": "kamanitza",
+    "words": ["каменица", "1881"],
+    "colors": ["red", "white", "black"],
+    "figures": ["shield", "lion"]
+  },
+  {
+    "imageName": "C1/plate22_127.jpg",
+    "brand": "holba",
+    "words": ["holba"],
+    "colors": ["green", "white"],
+    "figures": ["sun", "mountain"]
+  },
+  {
+    "imageName": "C1/plate22_128.jpg",
+    "words": ["agua"],
+    "colors": ["red", "black", "golden"],
+    "figures": ["drop", "star"]
+  },
+  {
+    "imageName": "C1/plate22_129.jpg",
+    "brand": "",
+    "words": ["lupulo"],
+    "colors": ["red", "black", "golden"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "C1/plate22_130.jpg",
+    "words": ["finest", "tafel", "lager"],
+    "colors": ["red", "golden", "white"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "C1/plate22_131.jpg",
+    "brand": "saigon",
+    "words": ["saigon", "premium", "quality", "special", "lager", "beer"],
+    "colors": ["green", "white", "golden"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "C1/plate22_132.jpg",
+    "words": ["st", "feuillien", "brune"],
+    "colors": ["red", "yellow"],
+    "figures": ["shield"]
+  },
+  {
+    "imageName": "C1/plate22_133.jpg",
+    "brand": "raffo",
+    "words": ["raffo", "1919"],
+    "colors": ["red", "silver"],
+    "figures": ["man", "dolphin"]
+  },
+  {
+    "imageName": "C1/plate22_134.jpg",
+    "words": [],
+    "colors": ["red"],
+    "figures": []
+  },
+  {
+    "imageName": "C1/plate22_135.jpg",
+    "words": ["gb"],
+    "colors": ["red", "yellow"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "C1/plate22_136.jpg",
+    "brand": "breznak",
+    "words": ["breznak", "velke", "brezno", "zalozeno", "1753"],
+    "colors": ["red", "yellow"],
+    "figures": ["man", "glass"]
+  },
+  {
+    "imageName": "C1/plate22_137.jpg",
+    "brand": "lbc",
+    "words": ["lbc"],
+    "colors": ["red", "orange", "white"],
+    "figures": ["tiger"]
+  },
+  {
+    "imageName": "C1/plate22_138.jpg",
+    "brand": "maisel",
+    "words": ["maisel", "friends"],
+    "colors": ["green"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "C1/plate22_139.jpg",
+    "brand": "waterloo",
+    "words": ["waterloo", "1815"],
+    "colors": ["red"],
+    "figures": []
+  },
+  {
+    "imageName": "C1/plate22_140.jpg",
+    "brand": "glarus",
+    "words": ["glarus", "signature"],
+    "colors": ["red", "white"],
+    "figures": ["bird"]
+  },
+  {
+    "imageName": "C1/plate22_141.jpg",
+    "brand": "angkor",
+    "words": ["angkor"],
+    "colors": ["red", "golden", "white"],
+    "figures": ["temple"]
+  },
+  {
+    "imageName": "C1/plate22_142.jpg",
+    "brand": "kamanitza",
+    "words": ["каменица", "1881"],
+    "colors": ["green", "white"],
+    "figures": ["shield", "lion"]
+  },
+  {
+    "imageName": "C1/plate22_143.jpg",
+    "brand": "klaster",
+    "words": ["klaster", "original"],
+    "colors": ["green", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "C1/plate22_144.jpg",
+    "words": ["original", "czech", "beer"],
+    "colors": ["green", "yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "C1/plate22_145.jpg",
+    "words": ["pale", "ale", "biere", "artisanale"],
+    "colors": ["green"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "C1/plate22_146.jpg",
+    "words": [],
+    "colors": ["green", "white"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "C1/plate22_147.jpg",
+    "words": ["super", "8"],
+    "colors": ["green", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "C1/plate22_148.jpg",
+    "words": ["seit", "25", "jahren", "100", "bio", "total"],
+    "colors": ["green", "white", "silver"],
+    "figures": []
+  }
 ]

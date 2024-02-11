@@ -1,776 +1,325 @@
 [
-    {
-       "imageName":"I1/plate5_100.jpg",
-       "words":[
-          "camden",
-          "town",
-          "brewery"
-       ],
-       "colors":[
-          "black",
-          "white",
-          "red"
-       ],
-       "figures":[
-          "castle"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_101.jpg",
-       "words":[
-          "devissez",
-          "twist",
-          "to",
-          "open"
-       ],
-       "colors":[
-          "black",
-          "red",
-          "white"
-       ],
-       "figures":[
-          "arrow"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_102.jpg",
-       "words":[
-          "33",
-          "export"
-       ],
-       "colors":[
-          "red",
-          "white"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_103.jpg",
-       "brand":"zadazeni",
-       "words":[
-          "zadazeni"
-       ],
-       "colors":[
-          "white",
-          "red"
-       ],
-       "figures":[
-          "eagle",
-          "crown"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_104.jpg",
-       "words":[
-          "strakonicky",
-          "dudak"
-       ],
-       "colors":[
-          "white",
-          "green"
-       ],
-       "figures":[
-          "man",
-          "pipe"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_105.jpg",
-       "words":[
-          "celia"
-       ],
-       "colors":[
-          "white",
-          "black"
-       ],
-       "figures":[
-          "triangle"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_106.jpg",
-       "words":[
-          "strakonicky",
-          "dudak"
-       ],
-       "colors":[
-          "white",
-          "red"
-       ],
-       "figures":[
-          "man",
-          "pipe"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_107.jpg",
-       "words":[
-          "la",
-          "cibele"
-       ],
-       "colors":[
-          "white",
-          "blue"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I1/plate5_108.jpg",
-       "brand":"kamenitza",
-       "words":[
-          "каменица",
-          "135г"
-       ],
-       "colors":[
-          "white",
-          "brown"
-       ],
-       "figures":[
-          "castle"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_109.jpg",
-       "words":[
-          "mestansky",
-          "pivovar",
-          "12%",
-          "policka"
-       ],
-       "colors":[
-          "red",
-          "white"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_110.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "white",
-          "red",
-          "golden"
-       ],
-       "figures":[
-          "grain"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_111.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "red",
-          "white",
-          "yellow"
-       ],
-       "figures":[
-          "horse",
-          "shield"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_112.jpg",
-       "words":[
-          "steffl",
-          "bier"
-       ],
-       "colors":[
-          "red",
-          "white"
-       ],
-       "figures":[
-          "eagle"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_113.jpg",
-       "brand":"staropramen",
-       "words":[
-          "staropramen",
-          "nefiltrovany"
-       ],
-       "colors":[
-          "yellow",
-          "green"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I1/plate5_114.jpg",
-       "brand":"stella artois",
-       "words":[
-          "stella",
-          "artois",
-          "belgium"
-       ],
-       "colors":[
-          "white",
-          "red",
-          "black"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I1/plate5_115.jpg",
-       "brand":"kingfisher",
-       "words":[
-          "kingfisher",
-          "premium",
-          "bombay",
-          "breweries",
-          "taloja",
-          "maharashtra"
-       ],
-       "colors":[
-          "white",
-          "red"
-       ],
-       "figures":[
-          "bird"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_116.jpg",
-       "brand":"victoria",
-       "words":[
-          "victoria",
-          "cervezeria",
-          "modelo",
-          "cerveza"
-       ],
-       "colors":[
-          "white",
-          "black",
-          "yellow"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I1/plate5_117.jpg",
-       "words":[
-          "brew",
-          "wild"
-       ],
-       "colors":[
-          "white",
-          "black"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I1/plate5_118.jpg",
-       "words":[
-          "la",
-          "bella",
-          "lola"
-       ],
-       "colors":[
-          "gray",
-          "golden"
-       ],
-       "figures":[
-          "anchor"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_119.jpg",
-       "words":[
-          "brewfist",
-          "italian",
-          "ales"
-       ],
-       "colors":[
-          "white",
-          "gray"
-       ],
-       "figures":[
-         "eye",
-         "tie"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_120.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "white",
-          "black"
-       ],
-       "figures":[
-          "glass"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_121.jpg",
-       "words":[
-          "barcelona",
-          "beer",
-          "company"
-       ],
-       "colors":[
-          "black",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I1/plate5_122.jpg",
-       "brand":"kamenitza",
-       "words":[
-          "каменица"
-       ],
-       "colors":[
-          "white",
-          "red",
-          "black"
-       ],
-       "figures":[
-          "castle"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_123.jpg",
-       "brand":"duvel",
-       "words":[
-          "duvel",
-          "tripel",
-          "hop"
-       ],
-       "colors":[
-          "white",
-          "red",
-          "green"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I1/plate5_124.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "white",
-          "black"
-       ],
-       "figures":[
-          "glass"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_125.jpg",
-       "words":[
-          "be",
-          "cerdo",
-          "my",
-          "friend"
-       ],
-       "colors":[
-          "pink",
-          "white",
-          "black"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I1/plate5_126.jpg",
-       "brand":"veltins",
-       "words":[
-          "veltins",
-          "pilsener"
-       ],
-       "colors":[
-          "white",
-          "green",
-          "red"
-       ],
-       "figures":[
-          "crown"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_127.jpg",
-       "words":[
-          "brouwerij",
-          "de",
-          "dochter",
-          "van",
-          "de",
-          "korenaar"
-       ],
-       "colors":[
-          "white",
-          "brown"
-       ],
-       "figures":[
-          "grain"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_128.jpg",
-       "brand":"staropramen",
-       "words":[
-          "s",
-          "a",
-          "p",
-          "1869"
-       ],
-       "colors":[
-          "red",
-          "golden"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_129.jpg",
-       "brand":"staropramen",
-       "words":[
-          "staropramen",
-          "lezak"
-       ],
-       "colors":[
-          "golden",
-          "white",
-          "green"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I1/plate5_130.jpg",
-       "brand":"staropramen",
-       "words":[
-          "s",
-          "a",
-          "p",
-          "1869"
-       ],
-       "colors":[
-          "green",
-          "golden"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_131.jpg",
-       "words":[
-          "novopacke",
-          "pivo",
-          "1872"
-       ],
-       "colors":[
-          "white",
-          "black"
-       ],
-       "figures":[
-          "cask"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_132.jpg",
-       "words":[
-          "open"
-       ],
-       "colors":[
-          "white",
-          "red",
-          "golden"
-       ],
-       "figures":[
-          "lion",
-          "shield",
-          "crown",
-          "arrow"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_133.jpg",
-       "brand":"lasko",
-       "words":[
-          "lasko",
-          "psenicno",
-          "pivo"
-       ],
-       "colors":[
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I1/plate5_134.jpg",
-       "brand":"kirin ichiban",
-       "words":[
-          "kirin"
-       ],
-       "colors":[
-          "white",
-          "golden"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I1/plate5_135.jpg",
-       "brand":"kirin ichiban",
-       "words":[
-          "kirin",
-          "ichiban"
-       ],
-       "colors":[
-          "white",
-          "golden"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I1/plate5_136.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "white",
-          "black",
-          "orange",
-          "yellow"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I1/plate5_137.jpg",
-       "brand":"staropramen",
-       "words":[
-          "staropramen",
-          "granat"
-       ],
-       "colors":[
-          "red",
-          "white",
-          "golden"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I1/plate5_138.jpg",
-       "words":[
-          "lighthouse",
-          "lager"
-       ],
-       "colors":[
-          "white",
-          "green"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I1/plate5_139.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "white",
-          "golden",
-          "blue"
-       ],
-       "figures":[
-          "eagle",
-          "crown",
-          "shield"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_140.jpg",
-       "brand":"staropramen",
-       "words":[
-          "s",
-          "p",
-          "a",
-          "1860"
-       ],
-       "colors":[
-          "yellow",
-          "green"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_141.jpg",
-       "brand":"bitburger",
-       "words":[
-          "bitburger",
-          "premium",
-          "pils",
-          "bitte",
-          "ein",
-          "bit"
-       ],
-       "colors":[
-          "white",
-          "golden"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I1/plate5_142.jpg",
-       "brand":"grolsch",
-       "words":[
-          "grolsch",
-          "premium",
-          "lager",
-          "since",
-          "1615"
-       ],
-       "colors":[
-          "white",
-          "green",
-          "red"
-       ],
-       "figures":[
-          "bottle",
-          "hops"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_143.jpg",
-       "words":[
-          "sedmy",
-          "schod"
-       ],
-       "colors":[
-          "white",
-          "black"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I1/plate5_144.jpg",
-       "brand":"almus",
-       "words":[
-          "almus",
-          "lager"
-       ],
-       "colors":[
-          "white",
-          "green",
-          "golden",
-          "red"
-       ],
-       "figures":[
-          "shield"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_145.jpg",
-       "words":[
-          "hostan",
-          "nase",
-          "pivko"
-       ],
-       "colors":[
-          "white",
-          "red",
-          "yellow"
-       ],
-       "figures":[
-          "man"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_146.jpg",
-       "brand":"grolsch",
-       "words":[
-          "grolsch",
-          "premium",
-          "lager",
-          "1615",
-          "since"
-       ],
-       "colors":[
-          "white",
-          "green",
-          "red"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I1/plate5_147.jpg",
-       "brand":"staropramen",
-       "words":[
-          "staropramen",
-          "est",
-          "in",
-          "prague"
-       ],
-       "colors":[
-          "green",
-          "yellow",
-          "red"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"I1/plate5_148.jpg",
-       "words":[
-          "brewfist",
-          "italian",
-          "ales"
-       ],
-       "colors":[
-          "white",
-          "red"
-       ],
-       "figures":[
-          "fist",
-          "star"
-       ]
-    }
- ]
+  {
+    "imageName": "I1/plate5_100.jpg",
+    "words": ["camden", "town", "brewery"],
+    "colors": ["black", "white", "red"],
+    "figures": ["castle"]
+  },
+  {
+    "imageName": "I1/plate5_101.jpg",
+    "words": ["devissez", "twist", "to", "open"],
+    "colors": ["black", "red", "white"],
+    "figures": ["arrow"]
+  },
+  {
+    "imageName": "I1/plate5_102.jpg",
+    "words": ["33", "export"],
+    "colors": ["red", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "I1/plate5_103.jpg",
+    "brand": "zadazeni",
+    "words": ["zadazeni"],
+    "colors": ["white", "red"],
+    "figures": ["eagle", "crown"]
+  },
+  {
+    "imageName": "I1/plate5_104.jpg",
+    "words": ["strakonicky", "dudak"],
+    "colors": ["white", "green"],
+    "figures": ["man", "pipe"]
+  },
+  {
+    "imageName": "I1/plate5_105.jpg",
+    "words": ["celia"],
+    "colors": ["white", "black"],
+    "figures": ["triangle"]
+  },
+  {
+    "imageName": "I1/plate5_106.jpg",
+    "words": ["strakonicky", "dudak"],
+    "colors": ["white", "red"],
+    "figures": ["man", "pipe"]
+  },
+  {
+    "imageName": "I1/plate5_107.jpg",
+    "words": ["la", "cibele"],
+    "colors": ["white", "blue"],
+    "figures": []
+  },
+  {
+    "imageName": "I1/plate5_108.jpg",
+    "brand": "kamanitza",
+    "words": ["каменица", "135г"],
+    "colors": ["white", "brown"],
+    "figures": ["castle"]
+  },
+  {
+    "imageName": "I1/plate5_109.jpg",
+    "words": ["mestansky", "pivovar", "12%", "policka"],
+    "colors": ["red", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "I1/plate5_110.jpg",
+    "words": [],
+    "colors": ["white", "red", "golden"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "I1/plate5_111.jpg",
+    "words": [],
+    "colors": ["red", "white", "yellow"],
+    "figures": ["horse", "shield"]
+  },
+  {
+    "imageName": "I1/plate5_112.jpg",
+    "words": ["steffl", "bier"],
+    "colors": ["red", "white"],
+    "figures": ["eagle"]
+  },
+  {
+    "imageName": "I1/plate5_113.jpg",
+    "brand": "staropraman",
+    "words": ["staropraman", "nefiltrovany"],
+    "colors": ["yellow", "green"],
+    "figures": []
+  },
+  {
+    "imageName": "I1/plate5_114.jpg",
+    "brand": "stella artois",
+    "words": ["stella", "artois", "belgium"],
+    "colors": ["white", "red", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "I1/plate5_115.jpg",
+    "brand": "kingfisher",
+    "words": [
+      "kingfisher",
+      "premium",
+      "bombay",
+      "breweries",
+      "taloja",
+      "maharashtra"
+    ],
+    "colors": ["white", "red"],
+    "figures": ["bird"]
+  },
+  {
+    "imageName": "I1/plate5_116.jpg",
+    "brand": "victoria",
+    "words": ["victoria", "cervezeria", "modelo", "cerveza"],
+    "colors": ["white", "black", "yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "I1/plate5_117.jpg",
+    "words": ["brew", "wild"],
+    "colors": ["white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "I1/plate5_118.jpg",
+    "words": ["la", "bella", "lola"],
+    "colors": ["gray", "golden"],
+    "figures": ["anchor"]
+  },
+  {
+    "imageName": "I1/plate5_119.jpg",
+    "words": ["brewfist", "italian", "ales"],
+    "colors": ["white", "gray"],
+    "figures": ["eye", "tie"]
+  },
+  {
+    "imageName": "I1/plate5_120.jpg",
+    "words": [],
+    "colors": ["white", "black"],
+    "figures": ["glass"]
+  },
+  {
+    "imageName": "I1/plate5_121.jpg",
+    "words": ["barcelona", "beer", "company"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "I1/plate5_122.jpg",
+    "brand": "kamanitza",
+    "words": ["каменица"],
+    "colors": ["white", "red", "black"],
+    "figures": ["castle"]
+  },
+  {
+    "imageName": "I1/plate5_123.jpg",
+    "brand": "duvel",
+    "words": ["duvel", "tripel", "hop"],
+    "colors": ["white", "red", "green"],
+    "figures": []
+  },
+  {
+    "imageName": "I1/plate5_124.jpg",
+    "words": [],
+    "colors": ["white", "black"],
+    "figures": ["glass"]
+  },
+  {
+    "imageName": "I1/plate5_125.jpg",
+    "words": ["be", "cerdo", "my", "friend"],
+    "colors": ["pink", "white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "I1/plate5_126.jpg",
+    "brand": "veltins",
+    "words": ["veltins", "pilsener"],
+    "colors": ["white", "green", "red"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "I1/plate5_127.jpg",
+    "words": ["brouwerij", "de", "dochter", "van", "de", "korenaar"],
+    "colors": ["white", "brown"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "I1/plate5_128.jpg",
+    "brand": "staropraman",
+    "words": ["s", "a", "p", "1869"],
+    "colors": ["red", "golden"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "I1/plate5_129.jpg",
+    "brand": "staropraman",
+    "words": ["staropraman", "lezak"],
+    "colors": ["golden", "white", "green"],
+    "figures": []
+  },
+  {
+    "imageName": "I1/plate5_130.jpg",
+    "brand": "staropraman",
+    "words": ["s", "a", "p", "1869"],
+    "colors": ["green", "golden"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "I1/plate5_131.jpg",
+    "words": ["novopacke", "pivo", "1872"],
+    "colors": ["white", "black"],
+    "figures": ["cask"]
+  },
+  {
+    "imageName": "I1/plate5_132.jpg",
+    "words": ["open"],
+    "colors": ["white", "red", "golden"],
+    "figures": ["lion", "shield", "crown", "arrow"]
+  },
+  {
+    "imageName": "I1/plate5_133.jpg",
+    "brand": "lasko",
+    "words": ["lasko", "psenicno", "pivo"],
+    "colors": ["white"],
+    "figures": []
+  },
+  {
+    "imageName": "I1/plate5_134.jpg",
+    "brand": "kirin",
+    "words": ["kirin"],
+    "colors": ["white", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "I1/plate5_135.jpg",
+    "brand": "kirin",
+    "words": ["kirin", "ichiban"],
+    "colors": ["white", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "I1/plate5_136.jpg",
+    "words": [],
+    "colors": ["white", "black", "orange", "yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "I1/plate5_137.jpg",
+    "brand": "staropraman",
+    "words": ["staropraman", "granat"],
+    "colors": ["red", "white", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "I1/plate5_138.jpg",
+    "words": ["lighthouse", "lager"],
+    "colors": ["white", "green"],
+    "figures": []
+  },
+  {
+    "imageName": "I1/plate5_139.jpg",
+    "words": [],
+    "colors": ["white", "golden", "blue"],
+    "figures": ["eagle", "crown", "shield"]
+  },
+  {
+    "imageName": "I1/plate5_140.jpg",
+    "brand": "staropraman",
+    "words": ["s", "p", "a", "1860"],
+    "colors": ["yellow", "green"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "I1/plate5_141.jpg",
+    "brand": "bitburger",
+    "words": ["bitburger", "premium", "pils", "bitte", "ein", "bit"],
+    "colors": ["white", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "I1/plate5_142.jpg",
+    "brand": "grolsch",
+    "words": ["grolsch", "premium", "lager", "since", "1615"],
+    "colors": ["white", "green", "red"],
+    "figures": ["bottle", "hops"]
+  },
+  {
+    "imageName": "I1/plate5_143.jpg",
+    "words": ["sedmy", "schod"],
+    "colors": ["white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "I1/plate5_144.jpg",
+    "brand": "almus",
+    "words": ["almus", "lager"],
+    "colors": ["white", "green", "golden", "red"],
+    "figures": ["shield"]
+  },
+  {
+    "imageName": "I1/plate5_145.jpg",
+    "words": ["hostan", "nase", "pivko"],
+    "colors": ["white", "red", "yellow"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "I1/plate5_146.jpg",
+    "brand": "grolsch",
+    "words": ["grolsch", "premium", "lager", "1615", "since"],
+    "colors": ["white", "green", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "I1/plate5_147.jpg",
+    "brand": "staropraman",
+    "words": ["staropraman", "est", "in", "prague"],
+    "colors": ["green", "yellow", "red"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "I1/plate5_148.jpg",
+    "words": ["brewfist", "italian", "ales"],
+    "colors": ["white", "red"],
+    "figures": ["fist", "star"]
+  }
+]

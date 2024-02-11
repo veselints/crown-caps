@@ -1,707 +1,325 @@
 [
-    {
-        "imageName": "J1/plate28_01.jpg",
-        "brand": "lomza",
-        "words": [
-            "lomza"
-        ],
-        "colors": [
-            "white",
-            "red"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_02.jpg",
-        "words": [
-            "бр",
-            "прошекови",
-            "гб",
-            "софия"
-        ],
-        "colors": [
-            "ред",
-            "вхите"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_03.jpg",
-        "brand": "grolsch",
-        "words": [
-            "grolsch"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_04.jpg",
-        "brand": "martins",
-        "words": [
-            "martins",
-            "pale",
-            "ale",
-            "trade",
-            "mark"
-        ],
-        "colors": [
-            "white",
-            "red",
-            "black"
-        ],
-        "figures": [
-            "ship"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_05.jpg",
-        "words": [
-            "москва"
-        ],
-        "colors": [
-            "red",
-            "golden"
-        ],
-        "figures": [
-            "letter",
-            "grain",
-            "triangle"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_06.jpg",
-        "brand": "pirinsko",
-        "words": [
-            "099",
-            "лв",
-            "препоръчителна",
-            "цена"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_07.jpg",
-        "brand": "pirinsko",
-        "words": [
-            "пиринско"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ],
-        "figures": [
-            "hourse"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_08.jpg",
-        "brand": "clausthaler",
-        "words": [
-            "clausthaler",
-            "non-alcoholic"
-        ],
-        "colors": [
-            "red",
-            "white",
-            "black"
-        ],
-        "figures": [
-            "grain",
-            "shield"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_09.jpg",
-        "brand": "radeberger",
-        "words": [
-            "radeberger",
-            "pilsner"
-        ],
-        "colors": [
-            "white",
-            "golden"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_10.jpg",
-        "words": [
-            "g",
-            "s"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ],
-        "figures": [
-            "grain",
-            "letter"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_11.jpg",
-        "colors": [
-            "red",
-            "black",
-            "white"
-        ],
-        "figures": [
-            "owl"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_12.jpg",
-        "brand": "kingfisher",
-        "words": [
-            "kingfisher"
-        ],
-        "colors": [
-            "red",
-            "golden"
-        ],
-        "figures": [
-            "kingfisher"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_13.jpg",
-        "brand": "estrella damm",
-        "words": [
-            "estrella",
-            "damm",
-            "1876",
-            "original"
-        ],
-        "colors": [
-            "red",
-            "white",
-            "golden"
-        ],
-        "figures": [
-            "star"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_14.jpg",
-        "words": [
-            "b"
-        ],
-        "colors": [
-            "red",
-            "golden"
-        ],
-        "figures": [
-            "letter",
-            "shield",
-            "arrow",
-            "leaf"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_15.jpg",
-        "brand": "le coq",
-        "words": [
-            "le",
-            "cow",
-            "ready",
-            "mix",
-            "drink"
-        ],
-        "colors": [
-            "white",
-            "silver"
-        ],
-        "figures": [
-            "rooster"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_16.jpg",
-        "brand": "schnieder weisse",
-        "words": [
-            "schneider",
-            "weisse",
-            "mein",
-            "original",
-            "7"
-        ],
-        "colors": [
-            "white",
-            "yellow",
-            "blue"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_17.jpg",
-        "colors": [
-            "white",
-            "pink"
-        ],
-        "figures": [
-            "bone"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_18.jpg",
-        "brand": "kwak",
-        "words": [
-            "kwak",
-            "pauwel"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_19.jpg",
-        "brand": "sol",
-        "words": [
-            "sol"
-        ],
-        "colors": [
-            "red",
-            "golden",
-            "white"
-        ],
-        "figures": [
-            "sun"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_20.jpg",
-        "brand": "schlenkeria",
-        "words": [
-            "schlenkeria"
-        ],
-        "colors": [
-            "red",
-            "golden"
-        ],
-        "figures": [
-            "man",
-            "glass"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_21.jpg",
-        "colors": [
-            "red",
-            "white",
-            "blue"
-        ],
-        "figures": [
-            "eye"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_22.jpg",
-        "brand": "rothaus",
-        "words": [
-            "rothaus"
-        ],
-        "colors": [
-            "orange",
-            "golden"
-        ],
-        "figures": [
-            "shield",
-            "griffin"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_23.jpg",
-        "colors": [
-            "white",
-            "orange"
-        ],
-        "figures": [
-            "glass",
-            "face"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_24.jpg",
-        "brand": "ariana",
-        "words": [
-            "ариана"
-        ],
-        "colors": [
-            "white",
-            "yellow",
-            "golden"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_25.jpg",
-        "colors": [
-            "yellow",
-            "black"
-        ],
-        "figures": [
-            "duck"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_26.jpg",
-        "words": [
-            "the",
-            "piggy",
-            "brewing",
-            "company"
-        ],
-        "colors": [
-            "yellow",
-            "black"
-        ],
-        "figures": [
-            "pig"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_27.jpg",
-        "brand": "svijany",
-        "words": [
-            "svijani",
-            "tradicni",
-            "pivo",
-            "bez",
-            "pasterizace"
-        ],
-        "colors": [
-            "red",
-            "golden"
-        ],
-        "figures": [
-            "shield"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_28.jpg",
-        "brand": "hubertus",
-        "words": [
-            "hubertus",
-            "pivovar",
-            "kacov",
-            "1457"
-        ],
-        "colors": [
-            "red",
-            "brown",
-            "white"
-        ],
-        "figures": [
-            "crown"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_29.jpg",
-        "brand": "giesinger",
-        "words": [
-            "giesinger",
-            "brau",
-            "munchen"
-        ],
-        "colors": [
-            "orange",
-            "green"
-        ],
-        "figures": [
-            "chirch",
-            "hops"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_30.jpg",
-        "words": [
-            "the",
-            "brothers",
-            "brewing",
-            "company",
-            "warrenville",
-            "il"
-        ],
-        "colors": [
-            "orange",
-            "yellow",
-            "black"
-        ],
-        "figures": [
-            "abstract"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_31.jpg",
-        "brand": "schofferhofer",
-        "words": [
-            "schofferhofer",
-            "weizen",
-            "natur",
-            "trub"
-        ],
-        "colors": [
-            "orange",
-            "golden",
-            "black",
-            "white"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_32.jpg",
-        "brand": "schofferhofer",
-        "words": [
-            "schofferhofer",
-            "hefeweizen",
-            "dunkel"
-        ],
-        "colors": [
-            "golden",
-            "black",
-            "white"
-        ],
-        "figures": [
-            "shield"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_33.jpg",
-        "brand": "cohones",
-        "words": [
-            "co",
-            "ho",
-            "nes"
-        ],
-        "colors": [
-            "black",
-            "white"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_34.jpg",
-        "brand": "byal shtark",
-        "words": [
-            "бял",
-            "щърк",
-            "white",
-            "stork",
-            "beer",
-            "co"
-        ],
-        "colors": [
-            "black",
-            "white"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_35.jpg",
-        "words": [
-            "sb",
-            "serious",
-            "beer",
-            "for",
-            "not",
-            "so",
-            "people"
-        ],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_36.jpg",
-        "colors": [
-            "white",
-            "silver"
-        ],
-        "figures": [
-            "bee"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_37.jpg",
-        "brand": "rebel",
-        "words": [
-            "rebel"
-        ],
-        "colors": [
-            "white",
-            "silver"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_38.jpg",
-        "colors": [
-            "black",
-            "silver"
-        ],
-        "figures": [
-            "wolf"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_39.jpg",
-        "colors": [
-            "white",
-            "black"
-        ],
-        "figures": [
-            "sun"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_40.jpg",
-        "words": [
-            "freigeist",
-            "bierkultur"
-        ],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": [
-            "glass",
-            "goast"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_41.jpg",
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": [
-            "hops",
-            "abstract"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_42.jpg",
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": [
-            "agel"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_43.jpg",
-        "words": [
-            "trade",
-            "mark",
-            "use",
-            "opener"
-        ],
-        "colors": [
-            "silver",
-            "gray"
-        ],
-        "figures": [
-            "anchor",
-            "rope"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_44.jpg",
-        "brand": "pinta",
-        "words": [
-            "pinta"
-        ],
-        "colors": [
-            "black",
-            "silver"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_45.jpg",
-        "brand": "sierra nevada",
-        "words": [
-            "sierra",
-            "nevada",
-            "fresh",
-            "seal",
-            "cap",
-            "use",
-            "bottle",
-            "opener"
-        ],
-        "colors": [
-            "black",
-            "silver"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_46.jpg",
-        "brand": "sierra nevada",
-        "words": [
-            "sierra",
-            "nevada",
-            "fresh",
-            "seal",
-            "cap",
-            "use",
-            "bottle",
-            "opener"
-        ],
-        "colors": [
-            "black",
-            "silver"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_47.jpg",
-        "brand": "salto",
-        "words": [
-            "salto",
-            "beograd"
-        ],
-        "colors": [
-            "black",
-            "white"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_48.jpg",
-        "brand": "bfour",
-        "words": [
-            "bfour",
-            "beer",
-            "birrificio",
-            "italiano",
-            "quelita",
-            "artigianale"
-        ],
-        "colors": [
-            "black",
-            "white",
-            "red"
-        ]
-    },
-    {
-        "imageName": "J1/plate28_49.jpg",
-        "brand": "albrecht",
-        "words": [
-            "albrecht",
-            "authentic",
-            "czech",
-            "craft",
-            "beer"
-        ],
-        "colors": [
-            "black",
-            "white"
-        ]
-    }
+  {
+    "imageName": "J1/plate28_01.jpg",
+    "brand": "lomza",
+    "words": ["lomza"],
+    "colors": ["white", "red"]
+  },
+  {
+    "imageName": "J1/plate28_02.jpg",
+    "words": ["бр", "прошекови", "гб", "софия"],
+    "colors": ["red", "white"]
+  },
+  {
+    "imageName": "J1/plate28_03.jpg",
+    "brand": "grolsch",
+    "words": ["grolsch"],
+    "colors": ["red", "white"]
+  },
+  {
+    "imageName": "J1/plate28_04.jpg",
+    "brand": "martin's",
+    "words": ["martin's", "pale", "ale", "trade", "mark"],
+    "colors": ["white", "red", "black"],
+    "figures": ["ship"]
+  },
+  {
+    "imageName": "J1/plate28_05.jpg",
+    "words": ["москва"],
+    "colors": ["red", "golden"],
+    "figures": ["letter", "grain", "triangle"]
+  },
+  {
+    "imageName": "J1/plate28_06.jpg",
+    "brand": "pirinsko",
+    "words": ["099", "лв", "препоръчителна", "цена"],
+    "colors": ["red", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J1/plate28_07.jpg",
+    "brand": "pirinsko",
+    "words": ["пиринско"],
+    "colors": ["red", "white"],
+    "figures": ["horse"]
+  },
+  {
+    "imageName": "J1/plate28_08.jpg",
+    "brand": "clausthaler",
+    "words": ["clausthaler", "non-alcoholic"],
+    "colors": ["red", "white", "black"],
+    "figures": ["grain", "shield"]
+  },
+  {
+    "imageName": "J1/plate28_09.jpg",
+    "brand": "radeberger",
+    "words": ["radeberger", "pilsner"],
+    "colors": ["white", "golden"]
+  },
+  {
+    "imageName": "J1/plate28_10.jpg",
+    "words": ["g", "s"],
+    "colors": ["red", "white"],
+    "figures": ["grain", "letter"]
+  },
+  {
+    "imageName": "J1/plate28_11.jpg",
+    "colors": ["red", "black", "white"],
+    "figures": ["owl"]
+  },
+  {
+    "imageName": "J1/plate28_12.jpg",
+    "brand": "kingfisher",
+    "words": ["kingfisher"],
+    "colors": ["red", "golden"],
+    "figures": ["kingfisher"]
+  },
+  {
+    "imageName": "J1/plate28_13.jpg",
+    "brand": "estrella damm",
+    "words": ["estrella", "damm", "1876", "original"],
+    "colors": ["red", "white", "golden"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "J1/plate28_14.jpg",
+    "words": ["b"],
+    "colors": ["red", "golden"],
+    "figures": ["letter", "shield", "arrow", "leaf"]
+  },
+  {
+    "imageName": "J1/plate28_15.jpg",
+    "brand": "le coq",
+    "words": ["le", "cow", "ready", "mix", "drink"],
+    "colors": ["white", "silver"],
+    "figures": ["rooster"]
+  },
+  {
+    "imageName": "J1/plate28_16.jpg",
+    "brand": "schneider weisse",
+    "words": ["schneider", "weisse", "mein", "original", "7"],
+    "colors": ["white", "yellow", "blue"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J1/plate28_17.jpg",
+    "colors": ["white", "pink"],
+    "figures": ["bone"]
+  },
+  {
+    "imageName": "J1/plate28_18.jpg",
+    "brand": "kwak",
+    "words": ["kwak", "pauwel"],
+    "colors": ["red", "white"]
+  },
+  {
+    "imageName": "J1/plate28_19.jpg",
+    "brand": "sol",
+    "words": ["sol"],
+    "colors": ["red", "golden", "white"],
+    "figures": ["sun"]
+  },
+  {
+    "imageName": "J1/plate28_20.jpg",
+    "brand": "schlenkeria",
+    "words": ["schlenkeria"],
+    "colors": ["red", "golden"],
+    "figures": ["man", "glass"]
+  },
+  {
+    "imageName": "J1/plate28_21.jpg",
+    "colors": ["red", "white", "blue"],
+    "figures": ["eye"]
+  },
+  {
+    "imageName": "J1/plate28_22.jpg",
+    "brand": "rothaus",
+    "words": ["rothaus"],
+    "colors": ["orange", "golden"],
+    "figures": ["shield", "griffon"]
+  },
+  {
+    "imageName": "J1/plate28_23.jpg",
+    "colors": ["white", "orange"],
+    "figures": ["glass", "face"]
+  },
+  {
+    "imageName": "J1/plate28_24.jpg",
+    "brand": "ariana",
+    "words": ["ариана"],
+    "colors": ["white", "yellow", "golden"]
+  },
+  {
+    "imageName": "J1/plate28_25.jpg",
+    "colors": ["yellow", "black"],
+    "figures": ["duck"]
+  },
+  {
+    "imageName": "J1/plate28_26.jpg",
+    "words": ["the", "piggy", "brewing", "company"],
+    "colors": ["yellow", "black"],
+    "figures": ["pig"]
+  },
+  {
+    "imageName": "J1/plate28_27.jpg",
+    "brand": "svijany",
+    "words": ["svijani", "tradicni", "pivo", "bez", "pasterizace"],
+    "colors": ["red", "golden"],
+    "figures": ["shield"]
+  },
+  {
+    "imageName": "J1/plate28_28.jpg",
+    "brand": "hubertus",
+    "words": ["hubertus", "pivovar", "kacov", "1457"],
+    "colors": ["red", "brown", "white"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "J1/plate28_29.jpg",
+    "brand": "giesinger",
+    "words": ["giesinger", "brau", "munchen"],
+    "colors": ["orange", "green"],
+    "figures": ["chirch", "hops"]
+  },
+  {
+    "imageName": "J1/plate28_30.jpg",
+    "words": ["the", "brothers", "brewing", "company", "warrenville", "il"],
+    "colors": ["orange", "yellow", "black"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "J1/plate28_31.jpg",
+    "brand": "schofferhofer",
+    "words": ["schofferhofer", "weizen", "natur", "trub"],
+    "colors": ["orange", "golden", "black", "white"]
+  },
+  {
+    "imageName": "J1/plate28_32.jpg",
+    "brand": "schofferhofer",
+    "words": ["schofferhofer", "hefeweizen", "dunkel"],
+    "colors": ["golden", "black", "white"],
+    "figures": ["shield"]
+  },
+  {
+    "imageName": "J1/plate28_33.jpg",
+    "brand": "cohones",
+    "words": ["co", "ho", "nes"],
+    "colors": ["black", "white"]
+  },
+  {
+    "imageName": "J1/plate28_34.jpg",
+    "brand": "byal shtark",
+    "words": ["бял", "щърк", "white", "stork", "beer", "co"],
+    "colors": ["black", "white"]
+  },
+  {
+    "imageName": "J1/plate28_35.jpg",
+    "words": ["sb", "serious", "beer", "for", "not", "so", "people"],
+    "colors": ["black", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J1/plate28_36.jpg",
+    "colors": ["white", "silver"],
+    "figures": ["bee"]
+  },
+  {
+    "imageName": "J1/plate28_37.jpg",
+    "brand": "rebel",
+    "words": ["rebel"],
+    "colors": ["white", "silver"]
+  },
+  {
+    "imageName": "J1/plate28_38.jpg",
+    "colors": ["black", "silver"],
+    "figures": ["wolf"]
+  },
+  {
+    "imageName": "J1/plate28_39.jpg",
+    "colors": ["white", "black"],
+    "figures": ["sun"]
+  },
+  {
+    "imageName": "J1/plate28_40.jpg",
+    "words": ["freigeist", "bierkultur"],
+    "colors": ["black", "white"],
+    "figures": ["glass", "ghost"]
+  },
+  {
+    "imageName": "J1/plate28_41.jpg",
+    "colors": ["black", "white"],
+    "figures": ["hops", "abstract"]
+  },
+  {
+    "imageName": "J1/plate28_42.jpg",
+    "colors": ["black", "white"],
+    "figures": ["agel"]
+  },
+  {
+    "imageName": "J1/plate28_43.jpg",
+    "words": ["trade", "mark", "use", "opener"],
+    "colors": ["silver", "gray"],
+    "figures": ["anchor", "rope"]
+  },
+  {
+    "imageName": "J1/plate28_44.jpg",
+    "brand": "pinta",
+    "words": ["pinta"],
+    "colors": ["black", "silver"]
+  },
+  {
+    "imageName": "J1/plate28_45.jpg",
+    "brand": "sierra nevada",
+    "words": [
+      "sierra",
+      "nevada",
+      "fresh",
+      "seal",
+      "cap",
+      "use",
+      "bottle",
+      "opener"
+    ],
+    "colors": ["black", "silver"]
+  },
+  {
+    "imageName": "J1/plate28_46.jpg",
+    "brand": "sierra nevada",
+    "words": [
+      "sierra",
+      "nevada",
+      "fresh",
+      "seal",
+      "cap",
+      "use",
+      "bottle",
+      "opener"
+    ],
+    "colors": ["black", "silver"]
+  },
+  {
+    "imageName": "J1/plate28_47.jpg",
+    "brand": "salto",
+    "words": ["salto", "beograd"],
+    "colors": ["black", "white"]
+  },
+  {
+    "imageName": "J1/plate28_48.jpg",
+    "brand": "bfour",
+    "words": [
+      "bfour",
+      "beer",
+      "birrificio",
+      "italiano",
+      "quelita",
+      "artigianale"
+    ],
+    "colors": ["black", "white", "red"]
+  },
+  {
+    "imageName": "J1/plate28_49.jpg",
+    "brand": "albrecht",
+    "words": ["albrecht", "authentic", "czech", "craft", "beer"],
+    "colors": ["black", "white"]
+  }
 ]

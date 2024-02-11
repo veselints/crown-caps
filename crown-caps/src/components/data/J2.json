@@ -1,785 +1,337 @@
 [
-    {
-       "imageName":"J2/plate1_100.jpg",
-       "brand":"tusker",
-       "words":[
-          "tusker"
-       ],
-       "colors":[
-          "white",
-          "yellow",
-          "black"
-       ],
-       "figures":[
-          "elephant"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_101.jpg",
-       "brand":"kasteel",
-       "words":[
-          "cuvee",
-          "du",
-          "chateau",
-          "kasteel"
-       ],
-       "colors":[
-          "gray",
-          "white",
-          "orange"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"J2/plate1_102.jpg",
-       "words":[
-          "braumanufaktur",
-          "stortebeker"
-       ],
-       "colors":[
-          "orange",
-          "white"
-       ],
-       "figures":[
-          "ship"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_103.jpg",
-       "words":[
-          "easy",
-          "jack",
-          "ipa"
-       ],
-       "colors":[
-          "orange",
-          "green"
-       ],
-       "figures":[
-          "hops"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_104.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "orange",
-          "white"
-       ],
-       "figures":[
-          "grain"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_105.jpg",
-       "brand":"berliner kindl",
-       "words":[
-          "berliner",
-          "kindl",
-          "radler",
-          "naturtrub"
-       ],
-       "colors":[
-          "yellow",
-          "silver"
-       ],
-       "figures":[
-          "boy",
-          "glass"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_106.jpg",
-       "brand":"stolichno",
-       "words":[
-          "stolichno",
-          "pale",
-          "bock"
-       ],
-       "colors":[
-          "orange",
-          "white",
-          "black"
-       ],
-       "figures":[
-          "lion"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_107.jpg",
-       "words":[
-          "chili",
-          "bear"
-       ],
-       "colors":[
-          "yellow",
-          "red",
-          "green"
-       ],
-       "figures":[
-          "chili"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_108.jpg",
-       "brand":"mashsee",
-       "words":[
-          "mashsee",
-          "est",
-          "2014",
-          "brauerei",
-          "hannover"
-       ],
-       "colors":[
-          "orange",
-          "black"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"J2/plate1_109.jpg",
-       "brand":"tioga-sequoia",
-       "words":[
-          "tioga-sequoia",
-          "brewing",
-          "company"
-       ],
-       "colors":[
-          "green",
-          "yellow",
-          "golden"
-       ],
-       "figures":[
-          "bottle"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_110.jpg",
-       "brand":"jagerhof",
-       "words":[
-          "jagerhof"
-       ],
-       "colors":[
-          "blue",
-          "white",
-          "black"
-       ],
-       "figures":[
-          "horns"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_111.jpg",
-       "brand":"pirinsko",
-       "words":[
-          "пиринско"
-       ],
-       "colors":[
-          "yellow",
-          "green"
-       ],
-       "figures":[
-          "horse"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_112.jpg",
-       "brand":"mashsee",
-       "words":[
-          "mashsee",
-          "brauerei",
-          "hannover",
-          "est",
-          "2014"
-       ],
-       "colors":[
-          "yellow",
-          "black"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"J2/plate1_113.jpg",
-       "words":[
-          "peach",
-          "peche",
-          "perzink"
-       ],
-       "colors":[
-          "white",
-          "orange"
-       ],
-       "figures":[
-          "peach"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_114.jpg",
-       "brand":"westmalle",
-       "words":[
-          "trappist",
-          "westmalle",
-          "tripel"
-       ],
-       "colors":[
-          "yellow",
-          "red",
-          "white",
-          "black"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"J2/plate1_115.jpg",
-       "brand":"berliner kindl",
-       "words":[
-          "berliner",
-          "kindl",
-          "jubilaums",
-          "pilsener"
-       ],
-       "colors":[
-          "silver",
-          "brown"
-       ],
-       "figures":[
-          "glass",
-          "boy"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_116.jpg",
-       "brand":"tropical",
-       "words":[
-          "cerveza",
-          "tropical"
-       ],
-       "colors":[
-          "yellow",
-          "green"
-       ],
-       "figures":[
-          "dog"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_117.jpg",
-       "brand":"",
-       "words":[
-          "prinz",
-          "brau"
-       ],
-       "colors":[
-          "white",
-          "yellow",
-          "orange",
-          "blue"
-       ],
-       "figures":[
-          "lion"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_118.jpg",
-       "words":[
-          "ambar",
-          "pale",
-          "ale",
-          "1900",
-          "zaragozana"
-       ],
-       "colors":[
-          "red",
-          "orange",
-          "white",
-          "gray"
-       ],
-       "figures":[
-          "hops"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_119.jpg",
-       "brand":"schofferhofer",
-       "words":[
-          "schofferhofer",
-          "hefeweizen",
-          "alkoholfrei"
-       ],
-       "colors":[
-          "black",
-          "silver",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"J2/plate1_120.jpg",
-       "brand":"varna",
-       "words":[
-          "varna"
-       ],
-       "colors":[
-          "white",
-          "blue"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"J2/plate1_121.jpg",
-       "brand":"breznak",
-       "words":[
-          "breznak"
-       ],
-       "colors":[
-          "yellow",
-          "red"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"J2/plate1_122.jpg",
-       "words":[
-          "gordon",
-          "finest",
-          "gold"
-       ],
-       "colors":[
-          "yellow",
-          "red",
-          "black",
-          "white"
-       ],
-       "figures":[
-          "plant"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_123.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "white",
-          "green"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_124.jpg",
-       "brand":"jagerhof",
-       "words":[
-          "jagerhoh"
-       ],
-       "colors":[
-          "yellow",
-          "black",
-          "white"
-       ],
-       "figures":[
-          "horns"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_125.jpg",
-       "words":[
-          "belgique",
-          "florentee",
-          "l'abbate"
-       ],
-       "colors":[
-          "yellow",
-          "white"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_126.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "white",
-          "yellow",
-          "red"
-       ],
-       "figures":[
-          "tree"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_127.jpg",
-       "brand":"breznak",
-       "words":[
-          "breznak",
-          "1753"
-       ],
-       "colors":[
-          "yellow",
-          "red",
-          "white"
-       ],
-       "figures":[
-          "man"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_128.jpg",
-       "brand":"pirinsko",
-       "words":[
-          "пиринско"
-       ],
-       "colors":[
-          "white",
-          "green"
-       ],
-       "figures":[
-          "horse"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_129.jpg",
-       "brand":"tropical",
-       "words":[
-          "cerveza",
-          "tropical"
-       ],
-       "colors":[
-          "green",
-          "silver"
-       ],
-       "figures":[
-          "dog"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_130.jpg",
-       "words":[
-          "strela",
-          "cabo",
-          "verde"
-       ],
-       "colors":[
-          "orange",
-          "red",
-          "white"
-       ],
-       "figures":[
-          "star"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_131.jpg",
-       "words":[
-          "independent",
-          "employee-owned"
-       ],
-       "colors":[
-          "yellow",
-          "white"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_132.jpg",
-       "brand":"morland",
-       "words":[
-          "morland",
-          "est",
-          "1711"
-       ],
-       "colors":[
-          "yellow",
-          "golden"
-       ],
-       "figures":[
-          "man"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_133.jpg",
-       "brand":"bolyarka",
-       "words":[
-          "болярка"
-       ],
-       "colors":[
-          "yellow",
-          "white",
-          "black"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"J2/plate1_134.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "red",
-          "white"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_135.jpg",
-       "words":[
-          "eu",
-          "sunt",
-          "12"
-       ],
-       "colors":[
-          "yellow",
-          "black",
-          "blue",
-          "red"
-       ],
-       "figures":[
-          "number"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_136.jpg",
-       "brand":"zlatopramen",
-       "words":[
-          "zlatopramen",
-          "11"
-       ],
-       "colors":[
-          "yellow",
-          "white",
-          "golden",
-          "black",
-          "red"
-       ],
-       "figures":[
-          "sun",
-          "hops"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_137.jpg",
-       "brand":"zlatopramen",
-       "words":[
-          "zlatopramen",
-          "svetly"
-       ],
-       "colors":[
-          "yellow",
-          "white",
-          "golden",
-          "black",
-          "red"
-       ],
-       "figures":[
-          "sun",
-          "hops"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_138.jpg",
-       "words":[
-          "pacifico",
-          "mazatlan",
-          "cerveceria",
-          "del",
-          "pacifico",
-          "s.s",
-          "de",
-          "c.v."
-       ],
-       "colors":[
-          "yellow",
-          "black"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"J2/plate1_139.jpg",
-       "brand":"brasserie d'achouffe",
-       "words":[
-          "brasserie",
-          "d'achouffe",
-          "belgium"
-       ],
-       "colors":[
-          "yellow",
-          "red",
-          "blue"
-       ],
-       "figures":[
-          "dwarf"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_140.jpg",
-       "brand":"krombacher",
-       "words":[
-          "krombacher",
-          "radler"
-       ],
-       "colors":[
-          "yellow",
-          "white",
-          "black"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"J2/plate1_141.jpg",
-       "brand":"cardinal",
-       "words":[
-          "cardinal",
-          "blonde"
-       ],
-       "colors":[
-          "yellow",
-          "golden",
-          "black",
-          "white"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_142.jpg",
-       "words":[
-          "special",
-          "beer"
-       ],
-       "colors":[
-          "yellow",
-          "red"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"J2/plate1_143.jpg",
-       "brand":"tropical",
-       "words":[
-          "cerveceria",
-          "tropical"
-       ],
-       "colors":[
-          "red",
-          "silver"
-       ],
-       "figures":[
-          "dog"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_144.jpg",
-       "brand":"heney dew",
-       "words":[
-          "honey",
-          "dew"
-       ],
-       "colors":[
-          "yellow",
-          "white",
-          "blue"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"J2/plate1_145.jpg",
-       "words":[
-          "solar",
-          "powered",
-          "brewery"
-       ],
-       "colors":[
-          "yellow",
-          "orange",
-          "blue"
-       ],
-       "figures":[
-          "sun"
-       ]
-    },
-    {
-       "imageName":"J2/plate1_146.jpg",
-       "brand":"kasteel",
-       "words":[
-          "kasteel",
-          "rouge"
-       ],
-       "colors":[
-          "red",
-          "orange",
-          "black",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"J2/plate1_147.jpg",
-       "brand":"schofferhofer",
-       "words":[
-          "schofferhofer",
-          "hefeweizen"
-       ],
-       "colors":[
-          "orange",
-          "black",
-          "golden"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"J2/plate1_148.jpg",
-       "brand":"brasserie d'achouffe",
-       "words":[
-          "brasserie",
-          "d'achouffe",
-          "belgium"
-       ],
-       "colors":[
-          "orange",
-          "red",
-          "blue"
-       ],
-       "figures":[
-          "dwarf"
-       ]
-    }
- ]
+  {
+    "imageName": "J2/plate1_100.jpg",
+    "brand": "tusker",
+    "words": ["tusker"],
+    "colors": ["white", "yellow", "black"],
+    "figures": ["elephant"]
+  },
+  {
+    "imageName": "J2/plate1_101.jpg",
+    "brand": "kasteel",
+    "words": ["cuvee", "du", "chateau", "kasteel"],
+    "colors": ["gray", "white", "orange"],
+    "figures": []
+  },
+  {
+    "imageName": "J2/plate1_102.jpg",
+    "words": ["braumanufaktur", "stortebeker"],
+    "colors": ["orange", "white"],
+    "figures": ["ship"]
+  },
+  {
+    "imageName": "J2/plate1_103.jpg",
+    "words": ["easy", "jack", "ipa"],
+    "colors": ["orange", "green"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "J2/plate1_104.jpg",
+    "words": [],
+    "colors": ["orange", "white"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "J2/plate1_105.jpg",
+    "brand": "berliner kindl",
+    "words": ["berliner", "kindl", "radler", "naturtrub"],
+    "colors": ["yellow", "silver"],
+    "figures": ["boy", "glass"]
+  },
+  {
+    "imageName": "J2/plate1_106.jpg",
+    "brand": "stolichno",
+    "words": ["stolichno", "pale", "bock"],
+    "colors": ["orange", "white", "black"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "J2/plate1_107.jpg",
+    "words": ["chili", "bear"],
+    "colors": ["yellow", "red", "green"],
+    "figures": ["chili"]
+  },
+  {
+    "imageName": "J2/plate1_108.jpg",
+    "brand": "mashsee",
+    "words": ["mashsee", "est", "2014", "brauerei", "hannover"],
+    "colors": ["orange", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "J2/plate1_109.jpg",
+    "brand": "tioga-sequoia",
+    "words": ["tioga-sequoia", "brewing", "company"],
+    "colors": ["green", "yellow", "golden"],
+    "figures": ["bottle"]
+  },
+  {
+    "imageName": "J2/plate1_110.jpg",
+    "brand": "jagerhof",
+    "words": ["jagerhof"],
+    "colors": ["blue", "white", "black"],
+    "figures": ["horns"]
+  },
+  {
+    "imageName": "J2/plate1_111.jpg",
+    "brand": "pirinsko",
+    "words": ["пиринско"],
+    "colors": ["yellow", "green"],
+    "figures": ["horse"]
+  },
+  {
+    "imageName": "J2/plate1_112.jpg",
+    "brand": "mashsee",
+    "words": ["mashsee", "brauerei", "hannover", "est", "2014"],
+    "colors": ["yellow", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "J2/plate1_113.jpg",
+    "words": ["peach", "peche", "perzink"],
+    "colors": ["white", "orange"],
+    "figures": ["peach"]
+  },
+  {
+    "imageName": "J2/plate1_114.jpg",
+    "brand": "westmalle",
+    "words": ["trappist", "westmalle", "tripel"],
+    "colors": ["yellow", "red", "white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "J2/plate1_115.jpg",
+    "brand": "berliner kindl",
+    "words": ["berliner", "kindl", "jubilaums", "pilsener"],
+    "colors": ["silver", "brown"],
+    "figures": ["glass", "boy"]
+  },
+  {
+    "imageName": "J2/plate1_116.jpg",
+    "brand": "tropical",
+    "words": ["cerveza", "tropical"],
+    "colors": ["yellow", "green"],
+    "figures": ["dog"]
+  },
+  {
+    "imageName": "J2/plate1_117.jpg",
+    "brand": "",
+    "words": ["prinz", "brau"],
+    "colors": ["white", "yellow", "orange", "blue"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "J2/plate1_118.jpg",
+    "words": ["ambar", "pale", "ale", "1900", "zaragozana"],
+    "colors": ["red", "orange", "white", "gray"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "J2/plate1_119.jpg",
+    "brand": "schofferhofer",
+    "words": ["schofferhofer", "hefeweizen", "alkoholfrei"],
+    "colors": ["black", "silver", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "J2/plate1_120.jpg",
+    "brand": "varna",
+    "words": ["varna"],
+    "colors": ["white", "blue"],
+    "figures": []
+  },
+  {
+    "imageName": "J2/plate1_121.jpg",
+    "brand": "breznak",
+    "words": ["breznak"],
+    "colors": ["yellow", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "J2/plate1_122.jpg",
+    "words": ["gordon", "finest", "gold"],
+    "colors": ["yellow", "red", "black", "white"],
+    "figures": ["plant"]
+  },
+  {
+    "imageName": "J2/plate1_123.jpg",
+    "words": [],
+    "colors": ["white", "green"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J2/plate1_124.jpg",
+    "brand": "jagerhof",
+    "words": ["jagerhoh"],
+    "colors": ["yellow", "black", "white"],
+    "figures": ["horns"]
+  },
+  {
+    "imageName": "J2/plate1_125.jpg",
+    "words": ["belgique", "florentee", "l'abbate"],
+    "colors": ["yellow", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J2/plate1_126.jpg",
+    "words": [],
+    "colors": ["white", "yellow", "red"],
+    "figures": ["tree"]
+  },
+  {
+    "imageName": "J2/plate1_127.jpg",
+    "brand": "breznak",
+    "words": ["breznak", "1753"],
+    "colors": ["yellow", "red", "white"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "J2/plate1_128.jpg",
+    "brand": "pirinsko",
+    "words": ["пиринско"],
+    "colors": ["white", "green"],
+    "figures": ["horse"]
+  },
+  {
+    "imageName": "J2/plate1_129.jpg",
+    "brand": "tropical",
+    "words": ["cerveza", "tropical"],
+    "colors": ["green", "silver"],
+    "figures": ["dog"]
+  },
+  {
+    "imageName": "J2/plate1_130.jpg",
+    "words": ["strela", "cabo", "verde"],
+    "colors": ["orange", "red", "white"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "J2/plate1_131.jpg",
+    "words": ["independent", "employee-owned"],
+    "colors": ["yellow", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J2/plate1_132.jpg",
+    "brand": "morland",
+    "words": ["morland", "est", "1711"],
+    "colors": ["yellow", "golden"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "J2/plate1_133.jpg",
+    "brand": "bolyarka",
+    "words": ["болярка"],
+    "colors": ["yellow", "white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "J2/plate1_134.jpg",
+    "words": [],
+    "colors": ["red", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J2/plate1_135.jpg",
+    "words": ["eu", "sunt", "12"],
+    "colors": ["yellow", "black", "blue", "red"],
+    "figures": ["number"]
+  },
+  {
+    "imageName": "J2/plate1_136.jpg",
+    "brand": "zlatopraman",
+    "words": ["zlatopraman", "11"],
+    "colors": ["yellow", "white", "golden", "black", "red"],
+    "figures": ["sun", "hops"]
+  },
+  {
+    "imageName": "J2/plate1_137.jpg",
+    "brand": "zlatopraman",
+    "words": ["zlatopraman", "svetly"],
+    "colors": ["yellow", "white", "golden", "black", "red"],
+    "figures": ["sun", "hops"]
+  },
+  {
+    "imageName": "J2/plate1_138.jpg",
+    "words": [
+      "pacifico",
+      "mazatlan",
+      "cerveceria",
+      "del",
+      "pacifico",
+      "s.s",
+      "de",
+      "c.v."
+    ],
+    "colors": ["yellow", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "J2/plate1_139.jpg",
+    "brand": "brasserie d'achouffe",
+    "words": ["brasserie", "d'achouffe", "belgium"],
+    "colors": ["yellow", "red", "blue"],
+    "figures": ["dwarf"]
+  },
+  {
+    "imageName": "J2/plate1_140.jpg",
+    "brand": "krombacher",
+    "words": ["krombacher", "radler"],
+    "colors": ["yellow", "white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "J2/plate1_141.jpg",
+    "brand": "cardinal",
+    "words": ["cardinal", "blonde"],
+    "colors": ["yellow", "golden", "black", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J2/plate1_142.jpg",
+    "words": ["special", "beer"],
+    "colors": ["yellow", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "J2/plate1_143.jpg",
+    "brand": "tropical",
+    "words": ["cerveceria", "tropical"],
+    "colors": ["red", "silver"],
+    "figures": ["dog"]
+  },
+  {
+    "imageName": "J2/plate1_144.jpg",
+    "brand": "heney dew",
+    "words": ["honey", "dew"],
+    "colors": ["yellow", "white", "blue"],
+    "figures": []
+  },
+  {
+    "imageName": "J2/plate1_145.jpg",
+    "words": ["solar", "powered", "brewery"],
+    "colors": ["yellow", "orange", "blue"],
+    "figures": ["sun"]
+  },
+  {
+    "imageName": "J2/plate1_146.jpg",
+    "brand": "kasteel",
+    "words": ["kasteel", "rouge"],
+    "colors": ["red", "orange", "black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "J2/plate1_147.jpg",
+    "brand": "schofferhofer",
+    "words": ["schofferhofer", "hefeweizen"],
+    "colors": ["orange", "black", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "J2/plate1_148.jpg",
+    "brand": "brasserie d'achouffe",
+    "words": ["brasserie", "d'achouffe", "belgium"],
+    "colors": ["orange", "red", "blue"],
+    "figures": ["dwarf"]
+  }
+]

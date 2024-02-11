@@ -1,824 +1,375 @@
 [
-    {
-       "imageName":"D3/plate14_100.jpg",
-       "words":[
-          "hpkin"
-       ],
-       "colors":[
-          "red",
-          "black",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"D3/plate14_101.jpg",
-       "words":[
-          "lefebvre",
-          "anno",
-          "1876",
-          "quenast"
-       ],
-       "colors":[
-          "red",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"D3/plate14_102.jpg",
-       "brand":"krusovice",
-       "words":[
-          "12"
-       ],
-       "colors":[
-          "white",
-          "black",
-          "red"
-       ],
-       "figures":[
-          "crown",
-          "letter"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_103.jpg",
-       "brand":"krusovice",
-       "words":[
-          "10"
-       ],
-       "colors":[
-          "red",
-          "white"
-       ],
-       "figures":[
-          "crown",
-          "letter"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_104.jpg",
-       "words":[
-          "foot",
-          "tread"
-       ],
-       "colors":[
-          "red",
-          "yellow"
-       ],
-       "figures":[
-          "tread"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_105.jpg",
-       "brand":"maisel",
-       "words":[
-          "maisel",
-          "friends"
-       ],
-       "colors":[
-          "red",
-          "black"
-       ],
-       "figures":[
-          "star"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_106.jpg",
-       "words":[
-          "alaskan",
-          "brewing",
-          "company",
-          "made",
-          "in",
-          "alaska"
-       ],
-       "colors":[
-          "red",
-          "black"
-       ],
-       "figures":[
-          "bear"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_107.jpg",
-       "words":[
-          "designed",
-          "built",
-          "in",
-          "the",
-          "scottish",
-          "borders",
-          "est",
-          "2010"
-       ],
-       "colors":[
-          "yellow",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"D3/plate14_108.jpg",
-       "words":[
-          "code",
-          "ci-dessous",
-          "hieronden"
-       ],
-       "colors":[
-          "red",
-          "white",
-          "black"
-       ],
-       "figures":[
-          "bull"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_109.jpg",
-       "words":[
-          "brasserie",
-          "du",
-          "mont",
-          "blanc"
-       ],
-       "colors":[
-          "white",
-          "red"
-       ],
-       "figures":[
-          "hops"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_110.jpg",
-       "brand":"stella artois",
-       "words":[
-          "stella",
-          "artois",
-          "anno",
-          "1366"
-       ],
-       "colors":[
-          "red",
-          "white"
-       ],
-       "figures":[
-          "coin",
-          "tube"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_111.jpg",
-       "brand":"zlaty bazant",
-       "words":[
-          "zlaty",
-          "bazant",
-          "zavod",
-          "hurbanovo"
-       ],
-       "colors":[
-          "white",
-          "blue",
-          "red",
-          "golden"
-       ],
-       "figures":[
-          "pheasant"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_112.jpg",
-       "brand":"gutmann",
-       "words":[
-          "gutmann",
-          "gutes",
-          "bier"
-       ],
-       "colors":[
-          "red",
-          "white",
-          "golden"
-       ],
-       "figures":[
-          "shield"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_113.jpg",
-       "brand":"staropramen",
-       "words":[
-          "s",
-          "a",
-          "p",
-          "1869"
-       ],
-       "colors":[
-          "red",
-          "golden"
-       ],
-       "figures":[
-          "hops",
-          "grain"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_114.jpg",
-       "words":[
-          "b"
-       ],
-       "colors":[
-          "red",
-          "golden"
-       ],
-       "figures":[
-          "shield",
-          "letter"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_115.jpg",
-       "words":[
-          "strecks",
-          "brauhaus",
-          "300",
-          "bayreuth"
-       ],
-       "colors":[
-          "red",
-          "golden"
-       ],
-       "figures":[
-          "grain"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_116.jpg",
-       "brand":"moretti",
-       "words":[
-          "birra",
-          "moretti",
-          "la",
-          "bianca"
-       ],
-       "colors":[
-          "blue",
-          "white"
-       ],
-       "figures":[
-          "grain"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_117.jpg",
-       "words":[
-          "hand",
-          "brewing",
-          "company",
-          "colorado",
-          "left",
-          "longmont"
-       ],
-       "colors":[
-          "red",
-          "white",
-          "black"
-       ],
-       "figures":[
-          "hand"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_118.jpg",
-       "words":[
-          "super",
-          "8"
-       ],
-       "colors":[
-          "red",
-          "white"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_119.jpg",
-       "words":[
-          "designed",
-          "built",
-          "in",
-          "the",
-          "scottish",
-          "borders",
-          "est",
-          "2010"
-       ],
-       "colors":[
-          "orange",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"D3/plate14_120.jpg",
-       "brand":"karlovacko",
-       "words":[
-          "karlovacko",
-          "lager"
-       ],
-       "colors":[
-          "red",
-          "white"
-       ],
-       "figures":[
-          "shield"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_121.jpg",
-       "brand":"gambrinus",
-       "words":[
-          "gambrinus",
-          "10",
-          "original"
-       ],
-       "colors":[
-          "red",
-          "white",
-          "silver"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_122.jpg",
-       "words":[
-          "wild",
-          "jo",
-          "de",
-          "koninck",
-          "bieren"
-       ],
-       "colors":[
-          "red",
-          "white",
-          "blue",
-          "golden"
-       ],
-       "figures":[
-          "pigeon"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_123.jpg",
-       "brand":"tsingtao",
-       "words":[
-          "tsingtao"
-       ],
-       "colors":[
-          "red",
-          "white"
-       ],
-       "figures":[
-          "house"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_124.jpg",
-       "words":[
-          "s",
-          "stl",
-          "as"
-       ],
-       "colors":[
-          "red",
-          "white"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_125.jpg",
-       "brand":"bintang",
-       "words":[
-          "nintang",
-          "pilsener",
-          "bir-beer"
-       ],
-       "colors":[
-          "red",
-          "white",
-          "black"
-       ],
-       "figures":[
-          "star"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_126.jpg",
-       "brand":"leo",
-       "words":[
-          "loe"
-       ],
-       "colors":[
-          "red",
-          "white",
-          "gray",
-          "black"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"D3/plate14_127.jpg",
-       "brand":"moretti",
-       "words":[
-          "birra",
-          "moretti",
-          "alla",
-          "piemontese"
-       ],
-       "colors":[
-          "golden",
-          "red"
-       ],
-       "figures":[
-          "hops"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_128.jpg",
-       "brand":"leo",
-       "words":[
-          "leo",
-          "lager",
-          "beer",
-          "product",
-          "of",
-          "thailand"
-       ],
-       "colors":[
-          "red",
-          "white",
-          "gray",
-          "silver"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"D3/plate14_129.jpg",
-       "brand":"saison",
-       "words":[
-          "saison",
-          "1858"
-       ],
-       "colors":[
-          "red",
-          "yellow"
-       ],
-       "figures":[
-          "square"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_130.jpg",
-       "brand":"menabrea",
-       "words":[
-          "menabrea",
-          "1846",
-          "biella",
-          "italia"
-       ],
-       "colors":[
-          "red",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"D3/plate14_131.jpg",
-       "words":[
-          "designed",
-          "built",
-          "in",
-          "the",
-          "scottish",
-          "borders",
-          "est",
-          "2010"
-       ],
-       "colors":[
-          "red",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"D3/plate14_132.jpg",
-       "brand":"berliner kindl",
-       "words":[
-          "berliner",
-          "kindl",
-          "weisse",
-          "himbeere"
-       ],
-       "colors":[
-          "red",
-          "orange",
-          "white",
-          "silver"
-       ],
-       "figures":[
-          "boy",
-          "glass"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_133.jpg",
-       "brand":"pilsner urquell",
-       "words":[
-          "p",
-          "18",
-          "42"
-       ],
-       "colors":[
-          "red",
-          "green",
-          "golden",
-          "white",
-          "black"
-       ],
-       "figures":[
-          "gate",
-          "cask"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_134.jpg",
-       "brand":"",
-       "words":[
-          "petra",
-          "bock"
-       ],
-       "colors":[
-          "white",
-          "red",
-          "golden"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"D3/plate14_135.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "red",
-          "golden"
-       ],
-       "figures":[
-          "hops"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_136.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "red",
-          "black",
-          "golden"
-       ],
-       "figures":[
-          "gate",
-          "arrow",
-          "grain"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_137.jpg",
-       "words":[
-          "z",
-          "1801"
-       ],
-       "colors":[
-          "red",
-          "black",
-          "golden"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_138.jpg",
-       "brand":"moretti",
-       "words":[
-          "birra",
-          "moretti",
-          "1859",
-          "premium",
-          "laget"
-       ],
-       "colors":[
-          "red",
-          "golden"
-       ],
-       "figures":[
-          "hops",
-          "grain"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_139.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "red",
-          "white",
-          "golden"
-       ],
-       "figures":[
-          "angel"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_140.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "brown",
-          "green",
-          "red",
-          "white"
-       ],
-       "figures":[
-          "jester"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_141.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "silver",
-          "green",
-          "red",
-          "white"
-       ],
-       "figures":[
-          "jester"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_142.jpg",
-       "words":[
-          "designed",
-          "built",
-          "in",
-          "the",
-          "scottish",
-          "borders",
-          "est",
-          "2010"
-       ],
-       "colors":[
-          "black",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"D3/plate14_143.jpg",
-       "words":[
-          "designed",
-          "built",
-          "in",
-          "the",
-          "scottish",
-          "borders",
-          "est",
-          "2010"
-       ],
-       "colors":[
-          "black",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"D3/plate14_144.jpg",
-       "words":[
-          "designed",
-          "built",
-          "in",
-          "the",
-          "scottish",
-          "borders",
-          "est",
-          "2010"
-       ],
-       "colors":[
-          "green",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"D3/plate14_145.jpg",
-       "brand":"moretti",
-       "words":[
-          "birra",
-          "moretti",
-          "la",
-          "rossa"
-       ],
-       "colors":[
-          "red",
-          "silver"
-       ],
-       "figures":[
-          "grain"
-       ]
-    },
-    {
-       "imageName":"D3/plate14_146.jpg",
-       "brand":"kasteel",
-       "words":[
-          "kasteel",
-          "rouge"
-       ],
-       "colors":[
-          "red",
-          "white",
-          "black",
-          "yellow"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"D3/plate14_147.jpg",
-       "brand":"ichnusa",
-       "words":[
-          "ichnusa"
-       ],
-       "colors":[
-          "red",
-          "black"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"D3/plate14_148.jpg",
-       "brand":"ichnusa",
-       "words":[
-          "ichnusa",
-          "non",
-          "filtrata"
-       ],
-       "colors":[
-          "red",
-          "black"
-       ],
-       "figures":[
-          
-       ]
-    }
- ]
+  {
+    "imageName": "D3/plate14_100.jpg",
+    "words": ["hpkin"],
+    "colors": ["red", "black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "D3/plate14_101.jpg",
+    "words": ["lefebvre", "anno", "1876", "quenast"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "D3/plate14_102.jpg",
+    "brand": "krusovice",
+    "words": ["12"],
+    "colors": ["white", "black", "red"],
+    "figures": ["crown", "letter"]
+  },
+  {
+    "imageName": "D3/plate14_103.jpg",
+    "brand": "krusovice",
+    "words": ["10"],
+    "colors": ["red", "white"],
+    "figures": ["crown", "letter"]
+  },
+  {
+    "imageName": "D3/plate14_104.jpg",
+    "words": ["foot", "tread"],
+    "colors": ["red", "yellow"],
+    "figures": ["tread"]
+  },
+  {
+    "imageName": "D3/plate14_105.jpg",
+    "brand": "maisel",
+    "words": ["maisel", "friends"],
+    "colors": ["red", "black"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "D3/plate14_106.jpg",
+    "words": ["alaskan", "brewing", "company", "made", "in", "alaska"],
+    "colors": ["red", "black"],
+    "figures": ["bear"]
+  },
+  {
+    "imageName": "D3/plate14_107.jpg",
+    "words": [
+      "designed",
+      "built",
+      "in",
+      "the",
+      "scottish",
+      "borders",
+      "est",
+      "2010"
+    ],
+    "colors": ["yellow", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "D3/plate14_108.jpg",
+    "words": ["code", "ci-dessous", "hieronden"],
+    "colors": ["red", "white", "black"],
+    "figures": ["bull"]
+  },
+  {
+    "imageName": "D3/plate14_109.jpg",
+    "words": ["brasserie", "du", "mont", "blanc"],
+    "colors": ["white", "red"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "D3/plate14_110.jpg",
+    "brand": "stella artois",
+    "words": ["stella", "artois", "anno", "1366"],
+    "colors": ["red", "white"],
+    "figures": ["coin", "tube"]
+  },
+  {
+    "imageName": "D3/plate14_111.jpg",
+    "brand": "zlaty bazant",
+    "words": ["zlaty", "bazant", "zavod", "hurbanovo"],
+    "colors": ["white", "blue", "red", "golden"],
+    "figures": ["pheasant"]
+  },
+  {
+    "imageName": "D3/plate14_112.jpg",
+    "brand": "gutmann",
+    "words": ["gutmann", "gutes", "bier"],
+    "colors": ["red", "white", "golden"],
+    "figures": ["shield"]
+  },
+  {
+    "imageName": "D3/plate14_113.jpg",
+    "brand": "staropraman",
+    "words": ["s", "a", "p", "1869"],
+    "colors": ["red", "golden"],
+    "figures": ["hops", "grain"]
+  },
+  {
+    "imageName": "D3/plate14_114.jpg",
+    "words": ["b"],
+    "colors": ["red", "golden"],
+    "figures": ["shield", "letter"]
+  },
+  {
+    "imageName": "D3/plate14_115.jpg",
+    "words": ["strecks", "brauhaus", "300", "bayreuth"],
+    "colors": ["red", "golden"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "D3/plate14_116.jpg",
+    "brand": "moretti",
+    "words": ["birra", "moretti", "la", "bianca"],
+    "colors": ["blue", "white"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "D3/plate14_117.jpg",
+    "words": ["hand", "brewing", "company", "colorado", "left", "longmont"],
+    "colors": ["red", "white", "black"],
+    "figures": ["hand"]
+  },
+  {
+    "imageName": "D3/plate14_118.jpg",
+    "words": ["super", "8"],
+    "colors": ["red", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "D3/plate14_119.jpg",
+    "words": [
+      "designed",
+      "built",
+      "in",
+      "the",
+      "scottish",
+      "borders",
+      "est",
+      "2010"
+    ],
+    "colors": ["orange", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "D3/plate14_120.jpg",
+    "brand": "karlovacko",
+    "words": ["karlovacko", "lager"],
+    "colors": ["red", "white"],
+    "figures": ["shield"]
+  },
+  {
+    "imageName": "D3/plate14_121.jpg",
+    "brand": "gambrinus",
+    "words": ["gambrinus", "10", "original"],
+    "colors": ["red", "white", "silver"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "D3/plate14_122.jpg",
+    "words": ["wild", "jo", "de", "koninck", "bieren"],
+    "colors": ["red", "white", "blue", "golden"],
+    "figures": ["pigeon"]
+  },
+  {
+    "imageName": "D3/plate14_123.jpg",
+    "brand": "tsingtao",
+    "words": ["tsingtao"],
+    "colors": ["red", "white"],
+    "figures": ["house"]
+  },
+  {
+    "imageName": "D3/plate14_124.jpg",
+    "words": ["s", "stl", "as"],
+    "colors": ["red", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "D3/plate14_125.jpg",
+    "brand": "bintang",
+    "words": ["nintang", "pilsener", "bir-beer"],
+    "colors": ["red", "white", "black"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "D3/plate14_126.jpg",
+    "brand": "leo",
+    "words": ["loe"],
+    "colors": ["red", "white", "gray", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "D3/plate14_127.jpg",
+    "brand": "moretti",
+    "words": ["birra", "moretti", "alla", "piemontese"],
+    "colors": ["golden", "red"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "D3/plate14_128.jpg",
+    "brand": "leo",
+    "words": ["leo", "lager", "beer", "product", "of", "thailand"],
+    "colors": ["red", "white", "gray", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "D3/plate14_129.jpg",
+    "brand": "saison",
+    "words": ["saison", "1858"],
+    "colors": ["red", "yellow"],
+    "figures": ["square"]
+  },
+  {
+    "imageName": "D3/plate14_130.jpg",
+    "brand": "manabrea",
+    "words": ["manabrea", "1846", "biella", "italia"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "D3/plate14_131.jpg",
+    "words": [
+      "designed",
+      "built",
+      "in",
+      "the",
+      "scottish",
+      "borders",
+      "est",
+      "2010"
+    ],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "D3/plate14_132.jpg",
+    "brand": "berliner kindl",
+    "words": ["berliner", "kindl", "weisse", "himbeere"],
+    "colors": ["red", "orange", "white", "silver"],
+    "figures": ["boy", "glass"]
+  },
+  {
+    "imageName": "D3/plate14_133.jpg",
+    "brand": "pilsner urquell",
+    "words": ["p", "18", "42"],
+    "colors": ["red", "green", "golden", "white", "black"],
+    "figures": ["gate", "cask"]
+  },
+  {
+    "imageName": "D3/plate14_134.jpg",
+    "brand": "",
+    "words": ["petra", "bock"],
+    "colors": ["white", "red", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "D3/plate14_135.jpg",
+    "words": [],
+    "colors": ["red", "golden"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "D3/plate14_136.jpg",
+    "words": [],
+    "colors": ["red", "black", "golden"],
+    "figures": ["gate", "arrow", "grain"]
+  },
+  {
+    "imageName": "D3/plate14_137.jpg",
+    "words": ["z", "1801"],
+    "colors": ["red", "black", "golden"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "D3/plate14_138.jpg",
+    "brand": "moretti",
+    "words": ["birra", "moretti", "1859", "premium", "laget"],
+    "colors": ["red", "golden"],
+    "figures": ["hops", "grain"]
+  },
+  {
+    "imageName": "D3/plate14_139.jpg",
+    "words": [],
+    "colors": ["red", "white", "golden"],
+    "figures": ["angel"]
+  },
+  {
+    "imageName": "D3/plate14_140.jpg",
+    "words": [],
+    "colors": ["brown", "green", "red", "white"],
+    "figures": ["jester"]
+  },
+  {
+    "imageName": "D3/plate14_141.jpg",
+    "words": [],
+    "colors": ["silver", "green", "red", "white"],
+    "figures": ["jester"]
+  },
+  {
+    "imageName": "D3/plate14_142.jpg",
+    "words": [
+      "designed",
+      "built",
+      "in",
+      "the",
+      "scottish",
+      "borders",
+      "est",
+      "2010"
+    ],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "D3/plate14_143.jpg",
+    "words": [
+      "designed",
+      "built",
+      "in",
+      "the",
+      "scottish",
+      "borders",
+      "est",
+      "2010"
+    ],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "D3/plate14_144.jpg",
+    "words": [
+      "designed",
+      "built",
+      "in",
+      "the",
+      "scottish",
+      "borders",
+      "est",
+      "2010"
+    ],
+    "colors": ["green", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "D3/plate14_145.jpg",
+    "brand": "moretti",
+    "words": ["birra", "moretti", "la", "rossa"],
+    "colors": ["red", "silver"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "D3/plate14_146.jpg",
+    "brand": "kasteel",
+    "words": ["kasteel", "rouge"],
+    "colors": ["red", "white", "black", "yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "D3/plate14_147.jpg",
+    "brand": "ichnusa",
+    "words": ["ichnusa"],
+    "colors": ["red", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "D3/plate14_148.jpg",
+    "brand": "ichnusa",
+    "words": ["ichnusa", "non", "filtrata"],
+    "colors": ["red", "black"],
+    "figures": []
+  }
+]

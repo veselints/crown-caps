@@ -1,771 +1,338 @@
 [
-    {
-        "imageName": "E2/plate12_100.jpg",
-        "brand": "london pride",
-        "words": [
-            "london",
-            "pride"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ],
-        "figures": [
-            "shield"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_101.jpg",
-        "brand": "lucky buddha",
-        "words": [
-            "lucky",
-            "buddha"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ],
-        "figures": [
-            "buddha"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_102.jpg",
-        "brand": "liefmans",
-        "words": [
-            "liefmans",
-            "master",
-            "blenders"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "E2/plate12_103.jpg",
-        "brand": "super bock",
-        "words": [
-            "super",
-            "bock"
-        ],
-        "colors": [
-            "red",
-            "white",
-            "golden"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "E2/plate12_104.jpg",
-        "brand": "san miguel philippines",
-        "words": [
-            "sam",
-            "miguel",
-            "philippines",
-            "hkdnp",
-            "since",
-            "1890"
-        ],
-        "colors": [
-            "red",
-            "silver"
-        ],
-        "figures": [
-            "shield",
-            "crown"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_105.jpg",
-        "brand": "baltika",
-        "words": [
-            "балтика",
-            "9",
-            "крепкое"
-        ],
-        "colors": [
-            "red",
-            "white",
-            "black",
-            "golden"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_106.jpg",
-        "brand": "bergenbier",
-        "words": [
-            "bergenbier",
-            "cauta",
-            "premiile",
-            "sub",
-            "capac"
-        ],
-        "colors": [
-            "red",
-            "yellow"
-        ],
-        "figures": [
-            "mountain",
-            "shield"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_107.jpg",
-        "brand": "baltika",
-        "words": [
-            "балтика",
-            "3",
-            "классическое"
-        ],
-        "colors": [
-            "blue",
-            "white",
-            "black",
-            "golden"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_108.jpg",
-        "words": [],
-        "colors": [
-            "brown",
-            "yellow",
-            "red"
-        ],
-        "figures": [
-            "goat"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_109.jpg",
-        "words": [
-            "uhersky",
-            "brod"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "E2/plate12_110.jpg",
-        "words": [
-            "kuqalashe"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ],
-        "figures": [
-            "arrow"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_111.jpg",
-        "words": [
-            "r"
-        ],
-        "colors": [
-            "red",
-            "silver"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_112.jpg",
-        "brand": "brahma",
-        "words": [
-            "brahma",
-            "1l"
-        ],
-        "colors": [
-            "red",
-            "black",
-            "silver"
-        ],
-        "figures": [
-            "barcode"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_113.jpg",
-        "brand": "moretti",
-        "words": [
-            "birra",
-            "moretti",
-            "la",
-            "rossa",
-            "malto",
-            "brunito"
-        ],
-        "colors": [
-            "red",
-            "silver"
-        ],
-        "figures": [
-            "grain"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_114.jpg",
-        "brand": "moretti",
-        "words": [
-            "birra",
-            "morettin",
-            "baffo",
-            "d'oro",
-            "malti",
-            "primaverili",
-            "italiani"
-        ],
-        "colors": [
-            "orange",
-            "silver"
-        ],
-        "figures": [
-            "grain"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_115.jpg",
-        "words": [],
-        "colors": [
-            "red",
-            "yellow",
-            "green"
-        ],
-        "figures": [
-            "cherry",
-            "leaf"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_116.jpg",
-        "brand": "hetanker",
-        "words": [
-            "hetanker"
-        ],
-        "colors": [
-            "red",
-            "golden"
-        ],
-        "figures": [
-            "crown",
-            "shield"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_117.jpg",
-        "brand": "shumensko",
-        "words": [
-            "шуменско"
-        ],
-        "colors": [
-            "red",
-            "golden"
-        ],
-        "figures": [
-            "lion"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_118.jpg",
-        "words": [
-            "daura",
-            "damm",
-            "1878"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "E2/plate12_119.jpg",
-        "brand": "baltika",
-        "words": [
-            "балтика",
-            "4",
-            "избранное"
-        ],
-        "colors": [
-            "red",
-            "white",
-            "black",
-            "golden"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_120.jpg",
-        "words": [
-            "biere",
-            "des",
-            "trappistes",
-            "rochefort",
-            "6",
-            "cat"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_121.jpg",
-        "brand": "glarus",
-        "words": [
-            "glarus",
-            "craft",
-            "brewing",
-            "co"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ],
-        "figures": [
-            "bird"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_122.jpg",
-        "brand": "gambrinus",
-        "words": [
-            "gambrinus",
-            "v",
-            "plzni",
-            "roku",
-            "1869",
-            "g"
-        ],
-        "colors": [
-            "red",
-            "golden"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_123.jpg",
-        "brand": "gambrinus",
-        "words": [
-            "gambrinus",
-            "v",
-            "plzni",
-            "roku",
-            "1869",
-            "g"
-        ],
-        "colors": [
-            "orange",
-            "golden"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_124.jpg",
-        "brand": "uhersky brod",
-        "words": [
-            "uhersky",
-            "brod",
-            "14%"
-        ],
-        "colors": [
-            "orange",
-            "golden",
-            "white"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "E2/plate12_125.jpg",
-        "words": [
-            "yuste"
-        ],
-        "colors": [
-            "red",
-            "silver"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "E2/plate12_126.jpg",
-        "brand": "kamenitza",
-        "words": [
-            "kamenitza",
-            "fresh"
-        ],
-        "colors": [
-            "red",
-            "white",
-            "black"
-        ],
-        "figures": [
-            "shield",
-            "lion"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_127.jpg",
-        "brand": "chimay",
-        "words": [
-            "chimay",
-            "trappist"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "E2/plate12_128.jpg",
-        "brand": "dreher",
-        "words": [
-            "dreher"
-        ],
-        "colors": [
-            "black",
-            "white",
-            "red"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "E2/plate12_129.jpg",
-        "brand": "ichnusa",
-        "words": [],
-        "colors": [
-            "white",
-            "red",
-            "black"
-        ],
-        "figures": [
-            "head",
-            "cross"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_130.jpg",
-        "brand": "ichnusa",
-        "words": [],
-        "colors": [
-            "white",
-            "red",
-            "black"
-        ],
-        "figures": [
-            "head",
-            "cross"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_131.jpg",
-        "brand": "baltika",
-        "words": [
-            "балтика",
-            "5",
-            "избранное"
-        ],
-        "colors": [
-            "golden",
-            "black",
-            "white"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_132.jpg",
-        "brand": "ichnusa",
-        "words": [
-            "ichnusa",
-            "cruda",
-            "du",
-            "sardegna"
-        ],
-        "colors": [
-            "white",
-            "red",
-            "black",
-            "golden"
-        ],
-        "figures": [
-            "head",
-            "cross"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_133.jpg",
-        "brand": "uhersky brod",
-        "words": [
-            "uhersky",
-            "brod",
-            "kounic",
-            "lezak",
-            "vidensky"
-        ],
-        "colors": [
-            "red",
-            "white",
-            "golden"
-        ],
-        "figures": [
-            "lion"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_134.jpg",
-        "words": [
-            "st",
-            "bernardus",
-            "pater",
-            "6"
-        ],
-        "colors": [
-            "yellow",
-            "silver",
-            "black"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_135.jpg",
-        "words": [
-            "st",
-            "bernardus",
-            "prior",
-            "8"
-        ],
-        "colors": [
-            "red",
-            "silver",
-            "black"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_136.jpg",
-        "words": [
-            "st",
-            "bernardus",
-            "prior",
-            "12"
-        ],
-        "colors": [
-            "blue",
-            "black",
-            "silver"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_137.jpg",
-        "brand": "schlenkeria",
-        "words": [
-            "schlenkeria"
-        ],
-        "colors": [
-            "white",
-            "blue"
-        ],
-        "figures": [
-            "man",
-            "glass"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_138.jpg",
-        "words": [],
-        "colors": [
-            "red",
-            "black",
-            "white"
-        ],
-        "figures": [
-            "bull",
-            "shield"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_139.jpg",
-        "brand": "schlenkeria",
-        "words": [
-            "schlenkeria"
-        ],
-        "colors": [
-            "red",
-            "white",
-            "green"
-        ],
-        "figures": [
-            "man",
-            "glass"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_140.jpg",
-        "brand": "tucher",
-        "words": [
-            "tucher",
-            "da",
-            "steckt",
-            "viel",
-            "liebe",
-            "drin"
-        ],
-        "colors": [
-            "brown"
-        ],
-        "figures": [
-            "crown",
-            "head"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_141.jpg",
-        "brand": "tucher",
-        "words": [
-            "tucher",
-            "da",
-            "steckt",
-            "viel",
-            "liebe",
-            "drin",
-            "weizen"
-        ],
-        "colors": [
-            "brown",
-            "blue",
-            "white"
-        ],
-        "figures": [
-            "crown",
-            "head"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_142.jpg",
-        "words": [],
-        "colors": [
-            "red"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "E2/plate12_143.jpg",
-        "brand": "baltika",
-        "words": [
-            "балтика",
-            "6",
-            "избранное"
-        ],
-        "colors": [
-            "blue",
-            "white",
-            "silver",
-            "black"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_144.jpg",
-        "words": [],
-        "colors": [
-            "red",
-            "brown",
-            "blue"
-        ],
-        "figures": [
-            "guillotine"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_145.jpg",
-        "words": [
-            "333",
-            "premium"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "E2/plate12_146.jpg",
-        "brand": "ursus",
-        "words": [
-            "ursus",
-            "twist",
-            "off"
-        ],
-        "colors": [
-            "red",
-            "silver"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "E2/plate12_147.jpg",
-        "brand": "ursus",
-        "words": [
-            "ursus",
-            "twist",
-            "off"
-        ],
-        "colors": [
-            "blue",
-            "silver"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "E2/plate12_148.jpg",
-        "brand": "benediktiner",
-        "words": [
-            "benediktiner"
-        ],
-        "colors": [
-            "red",
-            "golden",
-            "black"
-        ],
-        "figures": [
-            "man",
-            "glass"
-        ]
-    }
+  {
+    "imageName": "E2/plate12_100.jpg",
+    "brand": "london pride",
+    "words": ["london", "pride"],
+    "colors": ["red", "white"],
+    "figures": ["shield"]
+  },
+  {
+    "imageName": "E2/plate12_101.jpg",
+    "brand": "lucky buddha",
+    "words": ["lucky", "buddha"],
+    "colors": ["red", "white"],
+    "figures": ["buddha"]
+  },
+  {
+    "imageName": "E2/plate12_102.jpg",
+    "brand": "liefmans",
+    "words": ["liefmans", "master", "blenders"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "E2/plate12_103.jpg",
+    "brand": "super bock",
+    "words": ["super", "bock"],
+    "colors": ["red", "white", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "E2/plate12_104.jpg",
+    "brand": "san miguel philippines",
+    "words": ["sam", "miguel", "philippines", "hkdnp", "since", "1890"],
+    "colors": ["red", "silver"],
+    "figures": ["shield", "crown"]
+  },
+  {
+    "imageName": "E2/plate12_105.jpg",
+    "brand": "baltika",
+    "words": ["балтика", "9", "крепкое"],
+    "colors": ["red", "white", "black", "golden"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "E2/plate12_106.jpg",
+    "brand": "bergenbier",
+    "words": ["bergenbier", "cauta", "premiile", "sub", "capac"],
+    "colors": ["red", "yellow"],
+    "figures": ["mountain", "shield"]
+  },
+  {
+    "imageName": "E2/plate12_107.jpg",
+    "brand": "baltika",
+    "words": ["балтика", "3", "классическое"],
+    "colors": ["blue", "white", "black", "golden"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "E2/plate12_108.jpg",
+    "words": [],
+    "colors": ["brown", "yellow", "red"],
+    "figures": ["goat"]
+  },
+  {
+    "imageName": "E2/plate12_109.jpg",
+    "words": ["uhersky", "brod"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "E2/plate12_110.jpg",
+    "words": ["kuqalashe"],
+    "colors": ["red", "white"],
+    "figures": ["arrow"]
+  },
+  {
+    "imageName": "E2/plate12_111.jpg",
+    "words": ["r"],
+    "colors": ["red", "silver"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "E2/plate12_112.jpg",
+    "brand": "brahma",
+    "words": ["brahma", "1l"],
+    "colors": ["red", "black", "silver"],
+    "figures": ["barcode"]
+  },
+  {
+    "imageName": "E2/plate12_113.jpg",
+    "brand": "moretti",
+    "words": ["birra", "moretti", "la", "rossa", "malto", "brunito"],
+    "colors": ["red", "silver"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "E2/plate12_114.jpg",
+    "brand": "moretti",
+    "words": [
+      "birra",
+      "morettin",
+      "baffo",
+      "d'oro",
+      "malti",
+      "primaverili",
+      "italiani"
+    ],
+    "colors": ["orange", "silver"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "E2/plate12_115.jpg",
+    "words": [],
+    "colors": ["red", "yellow", "green"],
+    "figures": ["cherry", "leaf"]
+  },
+  {
+    "imageName": "E2/plate12_116.jpg",
+    "brand": "hetanker",
+    "words": ["hetanker"],
+    "colors": ["red", "golden"],
+    "figures": ["crown", "shield"]
+  },
+  {
+    "imageName": "E2/plate12_117.jpg",
+    "brand": "shumansko",
+    "words": ["шуменско"],
+    "colors": ["red", "golden"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "E2/plate12_118.jpg",
+    "words": ["daura", "damm", "1878"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "E2/plate12_119.jpg",
+    "brand": "baltika",
+    "words": ["балтика", "4", "избранное"],
+    "colors": ["red", "white", "black", "golden"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "E2/plate12_120.jpg",
+    "words": ["biere", "des", "trappistes", "rochefort", "6", "cat"],
+    "colors": ["red", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "E2/plate12_121.jpg",
+    "brand": "glarus",
+    "words": ["glarus", "craft", "brewing", "co"],
+    "colors": ["red", "white"],
+    "figures": ["bird"]
+  },
+  {
+    "imageName": "E2/plate12_122.jpg",
+    "brand": "gambrinus",
+    "words": ["gambrinus", "v", "plzni", "roku", "1869", "g"],
+    "colors": ["red", "golden"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "E2/plate12_123.jpg",
+    "brand": "gambrinus",
+    "words": ["gambrinus", "v", "plzni", "roku", "1869", "g"],
+    "colors": ["orange", "golden"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "E2/plate12_124.jpg",
+    "brand": "uhersky brod",
+    "words": ["uhersky", "brod", "14%"],
+    "colors": ["orange", "golden", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "E2/plate12_125.jpg",
+    "words": ["yuste"],
+    "colors": ["red", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "E2/plate12_126.jpg",
+    "brand": "kamanitza",
+    "words": ["kamanitza", "fresh"],
+    "colors": ["red", "white", "black"],
+    "figures": ["shield", "lion"]
+  },
+  {
+    "imageName": "E2/plate12_127.jpg",
+    "brand": "chimay",
+    "words": ["chimay", "trappist"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "E2/plate12_128.jpg",
+    "brand": "dreher",
+    "words": ["dreher"],
+    "colors": ["black", "white", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "E2/plate12_129.jpg",
+    "brand": "ichnusa",
+    "words": [],
+    "colors": ["white", "red", "black"],
+    "figures": ["head", "cross"]
+  },
+  {
+    "imageName": "E2/plate12_130.jpg",
+    "brand": "ichnusa",
+    "words": [],
+    "colors": ["white", "red", "black"],
+    "figures": ["head", "cross"]
+  },
+  {
+    "imageName": "E2/plate12_131.jpg",
+    "brand": "baltika",
+    "words": ["балтика", "5", "избранное"],
+    "colors": ["golden", "black", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "E2/plate12_132.jpg",
+    "brand": "ichnusa",
+    "words": ["ichnusa", "cruda", "du", "sardegna"],
+    "colors": ["white", "red", "black", "golden"],
+    "figures": ["head", "cross"]
+  },
+  {
+    "imageName": "E2/plate12_133.jpg",
+    "brand": "uhersky brod",
+    "words": ["uhersky", "brod", "kounic", "lezak", "vidensky"],
+    "colors": ["red", "white", "golden"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "E2/plate12_134.jpg",
+    "words": ["st", "bernardus", "pater", "6"],
+    "colors": ["yellow", "silver", "black"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "E2/plate12_135.jpg",
+    "words": ["st", "bernardus", "prior", "8"],
+    "colors": ["red", "silver", "black"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "E2/plate12_136.jpg",
+    "words": ["st", "bernardus", "prior", "12"],
+    "colors": ["blue", "black", "silver"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "E2/plate12_137.jpg",
+    "brand": "schlenkeria",
+    "words": ["schlenkeria"],
+    "colors": ["white", "blue"],
+    "figures": ["man", "glass"]
+  },
+  {
+    "imageName": "E2/plate12_138.jpg",
+    "words": [],
+    "colors": ["red", "black", "white"],
+    "figures": ["bull", "shield"]
+  },
+  {
+    "imageName": "E2/plate12_139.jpg",
+    "brand": "schlenkeria",
+    "words": ["schlenkeria"],
+    "colors": ["red", "white", "green"],
+    "figures": ["man", "glass"]
+  },
+  {
+    "imageName": "E2/plate12_140.jpg",
+    "brand": "tucher",
+    "words": ["tucher", "da", "steckt", "viel", "liebe", "drin"],
+    "colors": ["brown"],
+    "figures": ["crown", "head"]
+  },
+  {
+    "imageName": "E2/plate12_141.jpg",
+    "brand": "tucher",
+    "words": ["tucher", "da", "steckt", "viel", "liebe", "drin", "weizen"],
+    "colors": ["brown", "blue", "white"],
+    "figures": ["crown", "head"]
+  },
+  {
+    "imageName": "E2/plate12_142.jpg",
+    "words": [],
+    "colors": ["red"],
+    "figures": []
+  },
+  {
+    "imageName": "E2/plate12_143.jpg",
+    "brand": "baltika",
+    "words": ["балтика", "6", "избранное"],
+    "colors": ["blue", "white", "silver", "black"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "E2/plate12_144.jpg",
+    "words": [],
+    "colors": ["red", "brown", "blue"],
+    "figures": ["guillotine"]
+  },
+  {
+    "imageName": "E2/plate12_145.jpg",
+    "words": ["333", "premium"],
+    "colors": ["red", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "E2/plate12_146.jpg",
+    "brand": "ursus",
+    "words": ["ursus", "twist", "off"],
+    "colors": ["red", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "E2/plate12_147.jpg",
+    "brand": "ursus",
+    "words": ["ursus", "twist", "off"],
+    "colors": ["blue", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "E2/plate12_148.jpg",
+    "brand": "benediktiner",
+    "words": ["benediktiner"],
+    "colors": ["red", "golden", "black"],
+    "figures": ["man", "glass"]
+  }
 ]
