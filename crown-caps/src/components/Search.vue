@@ -90,7 +90,16 @@
     import J3 from './data/J3.json'
     import small from './data/small.json'
     import large from './data/large.json'
-    import noplate from './data/noplate.json'
+
+    import Espagna from './data/Espagna.json'
+    import White from './data/White.json'
+    import Todi from './data/Todi.json'
+    import Green_Yellow from './data/Green_Yellow.json'
+    import Golden from './data/Golden.json'
+    import Blue_Red from './data/Blue_Red.json'
+    import Black from './data/Black.json'
+
+    import No_Plate from './data/No_Plate.json'
 
     export default({
         name: 'Serach',
@@ -131,7 +140,9 @@
                 H1, H2, H3,
                 I1, I2, I3,
                 J1, J2, J3,
-                small, large, noplate);
+                small, large,
+                Espagna, Golden, Black, White, Todi, Green_Yellow, Blue_Red,
+                No_Plate);
 
             this.allCaps.forEach(cap => {
                 if (cap.brand && this.allBrands.indexOf(cap.brand) === -1) {

@@ -1,728 +1,321 @@
 [
-    {
-        "imageName": "J3/plate30_01.jpg",
-        "brand": "federbrau",
-        "words": [
-            "federbrau"
-        ],
-        "colors": [
-            "white",
-            "black",
-            "red"
-        ],
-        "figures": [
-            "feather"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_02.jpg",
-        "brand": "menabrea",
-        "words": [
-            "menabrea",
-            "1846"
-        ],
-        "colors": [
-            "white",
-            "golden"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_03.jpg",
-        "brand": "staropramen",
-        "words": [
-            "balanced",
-            "taste",
-            "1869",
-            "s",
-            "a",
-            "p"
-        ],
-        "colors": [
-            "white",
-            "golden"
-        ],
-        "figures": [
-            "letter",
-            "hops",
-            "grain"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_04.jpg",
-        "brand": "staropramen",
-        "words": [
-            "staropramen",
-            "twist",
-            "off",
-            "s",
-            "est",
-            "in",
-            "prague"
-        ],
-        "colors": [
-            "white",
-            "green",
-            "golden",
-            "red"
-        ],
-        "figures": [
-            "hops",
-            "grain",
-            "arrow",
-            "letter"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_05.jpg",
-        "brand": "starobrno",
-        "words": [
-            "starebrno"
-        ],
-        "colors": [
-            "white",
-            "green"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_06.jpg",
-        "brand": "starobrno",
-        "words": [
-            "starobrno"
-        ],
-        "colors": [
-            "golden",
-            "green"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_07.jpg",
-        "brand": "budweiser",
-        "colors": [
-            "red",
-            "golden"
-        ],
-        "figures": [
-            "lion",
-            "shield",
-            "fortress"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_08.jpg",
-        "brand": "krombacher",
-        "words": [
-            "krombacher",
-            "weizen",
-            "alkoholfrei"
-        ],
-        "colors": [
-            "white",
-            "blue",
-            "orange",
-            "black"
-        ],
-        "figures": [
-            "shield",
-            "eagle"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_09.jpg",
-        "colors": [
-            "white",
-            "silver"
-        ],
-        "figures": [
-            "man",
-            "glass",
-            "scythe"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_10.jpg",
-        "brand": "kozel",
-        "words": [
-            "kozel"
-        ],
-        "colors": [
-            "white",
-            "orange"
-        ],
-        "figures": [
-            "goat",
-            "glass"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_11.jpg",
-        "brand": "kozel",
-        "words": [
-            "kozel"
-        ],
-        "colors": [
-            "brown",
-            "golden"
-        ],
-        "figures": [
-            "goat",
-            "glass"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_12.jpg",
-        "brand": "kozel",
-        "words": [
-            "kozel"
-        ],
-        "colors": [
-            "green",
-            "golden"
-        ],
-        "figures": [
-            "goat",
-            "glass"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_13.jpg",
-        "brand": "kozel",
-        "words": [
-            "kozel"
-        ],
-        "colors": [
-            "golden",
-            "brown"
-        ],
-        "figures": [
-            "goat",
-            "glass"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_14.jpg",
-        "brand": "madonna",
-        "words": [
-            "madonna"
-        ],
-        "colors": [
-            "golden",
-            "black"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_15.jpg",
-        "brand": "tucher",
-        "words": [
-            "tucher",
-            "weizen",
-            "freiherrlich",
-            "von"
-        ],
-        "colors": [
-            "golden",
-            "black",
-            "red",
-            "blue"
-        ],
-        "figures": [
-            "man"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_16.jpg",
-        "words": [
-            "premium",
-            "kellerbier"
-        ],
-        "colors": [
-            "orange",
-            "white"
-        ],
-        "figures": [
-            "grain"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_17.jpg",
-        "brand": "grimbergen",
-        "words": [
-            "grimbergen",
-            "1128"
-        ],
-        "colors": [
-            "orange",
-            "brown"
-        ],
-        "figures": [
-            "firebird"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_18.jpg",
-        "brand": "grimbergen",
-        "words": [
-            "grimbergen",
-            "1128"
-        ],
-        "colors": [
-            "golden",
-            "brown"
-        ],
-        "figures": [
-            "firebird"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_19.jpg",
-        "brand": "grimbergen",
-        "words": [
-            "grimbergen",
-            "1128"
-        ],
-        "colors": [
-            "green",
-            "brown"
-        ],
-        "figures": [
-            "firebird"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_20.jpg",
-        "brand": "zhiguli",
-        "words": [
-            "жигули",
-            "пиво"
-        ],
-        "colors": [
-            "golden",
-            "black"
-        ],
-        "figures": [
-            "shield",
-            "bird"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_21.jpg",
-        "words": [
-            "mahrs",
-            "brau"
-        ],
-        "colors": [
-            "golden",
-            "red",
-            "white"
-        ],
-        "figures": [
-            "angel"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_22.jpg",
-        "brand": "shumensko",
-        "words": [
-            "суменско",
-            "авторско",
-            "пиво"
-        ],
-        "colors": [
-            "red",
-            "white",
-            "black"
-        ],
-        "figures": [
-            "lion"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_23.jpg",
-        "brand": "shumensko",
-        "words": [
-            "шуменско",
-            "авторско",
-            "пиво"
-        ],
-        "colors": [
-            "red",
-            "golden",
-            "black"
-        ],
-        "figures": [
-            "lion"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_24.jpg",
-        "brand": "shumensko",
-        "words": [
-            "шуменско"
-        ],
-        "colors": [
-            "red",
-            "golden"
-        ],
-        "figures": [
-            "lion"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_25.jpg",
-        "brand": "shumensko",
-        "words": [
-            "шуменско"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ],
-        "figures": [
-            "lion"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_26.jpg",
-        "brand": "svijani",
-        "words": [
-            "s"
-        ],
-        "colors": [
-            "green"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_27.jpg",
-        "brand": "praha",
-        "words": [
-            "praha"
-        ],
-        "colors": [
-            "green",
-            "white"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_28.jpg",
-        "brand": "primus",
-        "words": [
-            "prius",
-            "svetle",
-            "vycepni"
-        ],
-        "colors": [
-            "green",
-            "golden"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_29.jpg",
-        "brand": "guinness",
-        "words": [
-            "guinness",
-            "est",
-            "1759"
-        ],
-        "colors": [
-            "black",
-            "yellow",
-            "white"
-        ],
-        "figures": [
-            "harp"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_30.jpg",
-        "brand": "kamenitza",
-        "words": [
-            "каменица",
-            "1881"
-        ],
-        "colors": [
-            "red",
-            "white",
-            "black"
-        ],
-        "figures": [
-            "lion",
-            "shield"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_31.jpg",
-        "brand": "kamenitza",
-        "words": [
-            "каменица",
-            "1881"
-        ],
-        "colors": [
-            "white",
-            "red",
-            "golden"
-        ],
-        "figures": [
-            "lion",
-            "shield"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_32.jpg",
-        "brand": "kamenitza",
-        "words": [
-            "каменица",
-            "1881",
-            "140",
-            "години"
-        ],
-        "colors": [
-            "white",
-            "red",
-            "golden",
-            "green"
-        ],
-        "figures": [
-            "lion",
-            "shield"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_33.jpg",
-        "brand": "carlsberg",
-        "colors": [
-            "green"
-        ],
-        "figures": [
-            "leaf"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_34.jpg",
-        "brand": "carlsberg",
-        "colors": [
-            "blue",
-            "white"
-        ],
-        "figures": [
-            "leaf"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_35.jpg",
-        "brand": "camaro",
-        "words": [
-            "camaro"
-        ],
-        "colors": [
-            "blue",
-            "yellow"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_36.jpg",
-        "brand": "guinness",
-        "words": [
-            "the",
-            "original",
-            "extra",
-            "stout"
-        ],
-        "colors": [
-            "black",
-            "white",
-            "red"
-        ],
-        "figures": [
-            "harp"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_37.jpg",
-        "brand": "weiser hase",
-        "colors": [
-            "red",
-            "golden",
-            "white"
-        ],
-        "figures": [
-            "hare"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_38.jpg",
-        "words": [
-            "bitr"
-        ],
-        "colors": [
-            "golden",
-            "brown"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_39.jpg",
-        "brand": "fischer",
-        "words": [
-            "fischer"
-        ],
-        "colors": [
-            "green",
-            "silver"
-        ],
-        "figures": [
-            "chirch"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_40.jpg",
-        "brand": "heineken",
-        "words": [
-            "heineken",
-            "original"
-        ],
-        "colors": [
-            "green",
-            "white",
-            "red"
-        ],
-        "figures": [
-            "star"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_41.jpg",
-        "brand": "heineken",
-        "words": [
-            "heineken"
-        ],
-        "colors": [
-            "blue",
-            "white",
-            "red"
-        ],
-        "figures": [
-            "star"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_42.jpg",
-        "words": [
-            "alkoholfrei",
-            "pils"
-        ],
-        "colors": [
-            "blue",
-            "white"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_43.jpg",
-        "words": [
-            "zalozen",
-            "1348",
-            "pivovar"
-        ],
-        "colors": [
-            "brown",
-            "golden"
-        ],
-        "figures": [
-            "abstract"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_44.jpg",
-        "brand": "gambrinus",
-        "words": [
-            "gambrinus",
-            "original",
-            "10"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_45.jpg",
-        "brand": "gambrinus",
-        "words": [
-            "gambrinus",
-            "patron",
-            "12"
-        ],
-        "colors": [
-            "golden",
-            "brown"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_46.jpg",
-        "words": [
-            "1119",
-            "bayerische",
-            "klosterbiere",
-            "seit"
-        ],
-        "colors": [
-            "white",
-            "golden"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_47.jpg",
-        "brand": "san miguel",
-        "words": [
-            "san",
-            "miguel",
-            "exploring",
-            "the",
-            "world",
-            "since"
-        ],
-        "colors": [
-            "white",
-            "green",
-            "red"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_48.jpg",
-        "brand": "san miguel",
-        "words": [
-            "san",
-            "miguel",
-            "zerveza",
-            "internacional"
-        ],
-        "colors": [
-            "blue",
-            "white",
-            "red"
-        ]
-    },
-    {
-        "imageName": "J3/plate30_49.jpg",
-        "colors": [
-            "blue",
-            "white",
-            "yellow"
-        ],
-        "figures": [
-            "circle"
-        ]
-    }
+  {
+    "imageName": "J3/plate30_01.jpg",
+    "brand": "federbrau",
+    "words": ["federbrau"],
+    "colors": ["white", "black", "red"],
+    "figures": ["feather"]
+  },
+  {
+    "imageName": "J3/plate30_02.jpg",
+    "brand": "manabrea",
+    "words": ["manabrea", "1846"],
+    "colors": ["white", "golden"]
+  },
+  {
+    "imageName": "J3/plate30_03.jpg",
+    "brand": "staropraman",
+    "words": ["balanced", "taste", "1869", "s", "a", "p"],
+    "colors": ["white", "golden"],
+    "figures": ["letter", "hops", "grain"]
+  },
+  {
+    "imageName": "J3/plate30_04.jpg",
+    "brand": "staropraman",
+    "words": ["staropraman", "twist", "off", "s", "est", "in", "prague"],
+    "colors": ["white", "green", "golden", "red"],
+    "figures": ["hops", "grain", "arrow", "letter"]
+  },
+  {
+    "imageName": "J3/plate30_05.jpg",
+    "brand": "starobrno",
+    "words": ["starebrno"],
+    "colors": ["white", "green"]
+  },
+  {
+    "imageName": "J3/plate30_06.jpg",
+    "brand": "starobrno",
+    "words": ["starobrno"],
+    "colors": ["golden", "green"]
+  },
+  {
+    "imageName": "J3/plate30_07.jpg",
+    "brand": "budweiser",
+    "colors": ["red", "golden"],
+    "figures": ["lion", "shield", "fortress"]
+  },
+  {
+    "imageName": "J3/plate30_08.jpg",
+    "brand": "krombacher",
+    "words": ["krombacher", "weizen", "alkoholfrei"],
+    "colors": ["white", "blue", "orange", "black"],
+    "figures": ["shield", "eagle"]
+  },
+  {
+    "imageName": "J3/plate30_09.jpg",
+    "colors": ["white", "silver"],
+    "figures": ["man", "glass", "scythe"]
+  },
+  {
+    "imageName": "J3/plate30_10.jpg",
+    "brand": "kozel",
+    "words": ["kozel"],
+    "colors": ["white", "orange"],
+    "figures": ["goat", "glass"]
+  },
+  {
+    "imageName": "J3/plate30_11.jpg",
+    "brand": "kozel",
+    "words": ["kozel"],
+    "colors": ["brown", "golden"],
+    "figures": ["goat", "glass"]
+  },
+  {
+    "imageName": "J3/plate30_12.jpg",
+    "brand": "kozel",
+    "words": ["kozel"],
+    "colors": ["green", "golden"],
+    "figures": ["goat", "glass"]
+  },
+  {
+    "imageName": "J3/plate30_13.jpg",
+    "brand": "kozel",
+    "words": ["kozel"],
+    "colors": ["golden", "brown"],
+    "figures": ["goat", "glass"]
+  },
+  {
+    "imageName": "J3/plate30_14.jpg",
+    "brand": "madonna",
+    "words": ["madonna"],
+    "colors": ["golden", "black"]
+  },
+  {
+    "imageName": "J3/plate30_15.jpg",
+    "brand": "tucher",
+    "words": ["tucher", "weizen", "freiherrlich", "von"],
+    "colors": ["golden", "black", "red", "blue"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "J3/plate30_16.jpg",
+    "words": ["premium", "kellerbier"],
+    "colors": ["orange", "white"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "J3/plate30_17.jpg",
+    "brand": "grimbergen",
+    "words": ["grimbergen", "1128"],
+    "colors": ["orange", "brown"],
+    "figures": ["firebird"]
+  },
+  {
+    "imageName": "J3/plate30_18.jpg",
+    "brand": "grimbergen",
+    "words": ["grimbergen", "1128"],
+    "colors": ["golden", "brown"],
+    "figures": ["firebird"]
+  },
+  {
+    "imageName": "J3/plate30_19.jpg",
+    "brand": "grimbergen",
+    "words": ["grimbergen", "1128"],
+    "colors": ["green", "brown"],
+    "figures": ["firebird"]
+  },
+  {
+    "imageName": "J3/plate30_20.jpg",
+    "brand": "zhiguli",
+    "words": ["жигули", "пиво"],
+    "colors": ["golden", "black"],
+    "figures": ["shield", "bird"]
+  },
+  {
+    "imageName": "J3/plate30_21.jpg",
+    "words": ["mahrs", "brau"],
+    "colors": ["golden", "red", "white"],
+    "figures": ["angel"]
+  },
+  {
+    "imageName": "J3/plate30_22.jpg",
+    "brand": "shumansko",
+    "words": ["суменско", "авторско", "пиво"],
+    "colors": ["red", "white", "black"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "J3/plate30_23.jpg",
+    "brand": "shumansko",
+    "words": ["шуменско", "авторско", "пиво"],
+    "colors": ["red", "golden", "black"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "J3/plate30_24.jpg",
+    "brand": "shumansko",
+    "words": ["шуменско"],
+    "colors": ["red", "golden"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "J3/plate30_25.jpg",
+    "brand": "shumansko",
+    "words": ["шуменско"],
+    "colors": ["red", "white"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "J3/plate30_26.jpg",
+    "brand": "svijani",
+    "words": ["s"],
+    "colors": ["green"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J3/plate30_27.jpg",
+    "brand": "praha",
+    "words": ["praha"],
+    "colors": ["green", "white"]
+  },
+  {
+    "imageName": "J3/plate30_28.jpg",
+    "brand": "primus",
+    "words": ["prius", "svetle", "vycepni"],
+    "colors": ["green", "golden"]
+  },
+  {
+    "imageName": "J3/plate30_29.jpg",
+    "brand": "guinness",
+    "words": ["guinness", "est", "1759"],
+    "colors": ["black", "yellow", "white"],
+    "figures": ["harp"]
+  },
+  {
+    "imageName": "J3/plate30_30.jpg",
+    "brand": "kamanitza",
+    "words": ["каменица", "1881"],
+    "colors": ["red", "white", "black"],
+    "figures": ["lion", "shield"]
+  },
+  {
+    "imageName": "J3/plate30_31.jpg",
+    "brand": "kamanitza",
+    "words": ["каменица", "1881"],
+    "colors": ["white", "red", "golden"],
+    "figures": ["lion", "shield"]
+  },
+  {
+    "imageName": "J3/plate30_32.jpg",
+    "brand": "kamanitza",
+    "words": ["каменица", "1881", "140", "години"],
+    "colors": ["white", "red", "golden", "green"],
+    "figures": ["lion", "shield"]
+  },
+  {
+    "imageName": "J3/plate30_33.jpg",
+    "brand": "carlsberg",
+    "colors": ["green"],
+    "figures": ["leaf"]
+  },
+  {
+    "imageName": "J3/plate30_34.jpg",
+    "brand": "carlsberg",
+    "colors": ["blue", "white"],
+    "figures": ["leaf"]
+  },
+  {
+    "imageName": "J3/plate30_35.jpg",
+    "brand": "camaro",
+    "words": ["camaro"],
+    "colors": ["blue", "yellow"]
+  },
+  {
+    "imageName": "J3/plate30_36.jpg",
+    "brand": "guinness",
+    "words": ["the", "original", "extra", "stout"],
+    "colors": ["black", "white", "red"],
+    "figures": ["harp"]
+  },
+  {
+    "imageName": "J3/plate30_37.jpg",
+    "brand": "weiser hase",
+    "colors": ["red", "golden", "white"],
+    "figures": ["hare"]
+  },
+  {
+    "imageName": "J3/plate30_38.jpg",
+    "words": ["bitr"],
+    "colors": ["golden", "brown"]
+  },
+  {
+    "imageName": "J3/plate30_39.jpg",
+    "brand": "fischer",
+    "words": ["fischer"],
+    "colors": ["green", "silver"],
+    "figures": ["chirch"]
+  },
+  {
+    "imageName": "J3/plate30_40.jpg",
+    "brand": "heineken",
+    "words": ["heineken", "original"],
+    "colors": ["green", "white", "red"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "J3/plate30_41.jpg",
+    "brand": "heineken",
+    "words": ["heineken"],
+    "colors": ["blue", "white", "red"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "J3/plate30_42.jpg",
+    "words": ["alkoholfrei", "pils"],
+    "colors": ["blue", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J3/plate30_43.jpg",
+    "words": ["zalozen", "1348", "pivovar"],
+    "colors": ["brown", "golden"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "J3/plate30_44.jpg",
+    "brand": "gambrinus",
+    "words": ["gambrinus", "original", "10"],
+    "colors": ["red", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J3/plate30_45.jpg",
+    "brand": "gambrinus",
+    "words": ["gambrinus", "patron", "12"],
+    "colors": ["golden", "brown"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J3/plate30_46.jpg",
+    "words": ["1119", "bayerische", "klosterbiere", "seit"],
+    "colors": ["white", "golden"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J3/plate30_47.jpg",
+    "brand": "san miguel",
+    "words": ["san", "miguel", "exploring", "the", "world", "since"],
+    "colors": ["white", "green", "red"]
+  },
+  {
+    "imageName": "J3/plate30_48.jpg",
+    "brand": "san miguel",
+    "words": ["san", "miguel", "zerveza", "internacional"],
+    "colors": ["blue", "white", "red"]
+  },
+  {
+    "imageName": "J3/plate30_49.jpg",
+    "colors": ["blue", "white", "yellow"],
+    "figures": ["circle"]
+  }
 ]

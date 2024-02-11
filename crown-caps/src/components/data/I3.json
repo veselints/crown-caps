@@ -1,720 +1,309 @@
 [
-    {
-        "imageName": "I3/plate29_01.jpg",
-        "brand": "schneider weisse",
-        "words": [
-            "schneider",
-            "weisse",
-            "tap",
-            "01",
-            "helle",
-            "weisse"
-        ],
-        "colors": [
-            "blue",
-            "yellow",
-            "white"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_02.jpg",
-        "brand": "schneider weisse",
-        "words": [
-            "schneider",
-            "weisse",
-            "tap",
-            "02",
-            "kristall"
-        ],
-        "colors": [
-            "blue",
-            "white"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_03.jpg",
-        "brand": "schneider weisse",
-        "words": [
-            "schneider",
-            "weisse",
-            "tap",
-            "03",
-            "alkoholfrei"
-        ],
-        "colors": [
-            "blue",
-            "white",
-            "red"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_04.jpg",
-        "brand": "schneider weisse",
-        "words": [
-            "schneider",
-            "weisse",
-            "tap",
-            "04"
-        ],
-        "colors": [
-            "blue",
-            "green",
-            "white",
-            "golden"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_05.jpg",
-        "brand": "schneider weisse",
-        "words": [
-            "schneider",
-            "weisse",
-            "tap",
-            "05",
-            "hopfenweisse"
-        ],
-        "colors": [
-            "blue",
-            "white",
-            "green"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_06.jpg",
-        "brand": "schneider weisse",
-        "words": [
-            "schneider",
-            "weisse",
-            "tap",
-            "06",
-            "aventinus"
-        ],
-        "colors": [
-            "blue",
-            "white",
-            "velvet",
-            "golden"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_07.jpg",
-        "brand": "schneider weisse",
-        "words": [
-            "schneider",
-            "weisse",
-            "tap",
-            "07",
-            "original"
-        ],
-        "colors": [
-            "blue",
-            "orange",
-            "white"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_08.jpg",
-        "brand": "kasteel",
-        "words": [
-            "kasteel",
-            "7",
-            "blond"
-        ],
-        "colors": [
-            "yellow",
-            "black",
-            "white"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_09.jpg",
-        "brand": "trutnovska",
-        "words": [
-            "trutnovska",
-            "10",
-            "pivo",
-            "svetle",
-            "vycepni",
-            "krakonos"
-        ],
-        "colors": [
-            "red",
-            "yellow",
-            "white"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_10.jpg",
-        "words": [
-            "бро"
-        ],
-        "colors": [
-            "white",
-            "black",
-            "brown"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_11.jpg",
-        "colors": [
-            "white",
-            "gray",
-            "yellow"
-        ],
-        "figures": [
-            "man",
-            "women"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_12.jpg",
-        "brand": "hobgoblin",
-        "words": [
-            "ho"
-        ],
-        "colors": [
-            "blue",
-            "white"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_13.jpg",
-        "brand": "moretti",
-        "words": [
-            "birra",
-            "moretti",
-            "filtrata",
-            "a",
-            "freddo"
-        ],
-        "colors": [
-            "white",
-            "blue"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_14.jpg",
-        "brand": "moretti",
-        "words": [
-            "birra",
-            "moretti",
-            "baffo",
-            "doro"
-        ],
-        "colors": [
-            "orange",
-            "silver"
-        ],
-        "figures": [
-            "man",
-            "glass",
-            "hat"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_15.jpg",
-        "brand": "dreher",
-        "words": [
-            "dreher",
-            "la",
-            "birra",
-            "fatta",
-            "col",
-            "sole"
-        ],
-        "colors": [
-            "white",
-            "black",
-            "yello"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_16.jpg",
-        "brand": "urthel",
-        "words": [
-            "urthel",
-            "brewed",
-            "in",
-            "flanders"
-        ],
-        "colors": [
-            "white",
-            "black"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_17.jpg",
-        "brand": "amstel",
-        "words": [
-            "amstel",
-            "mpyra"
-        ],
-        "colors": [
-            "red",
-            "white",
-            "black",
-            "golden"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_18.jpg",
-        "brand": "amstel",
-        "words": [
-            "amstel",
-            "radler"
-        ],
-        "colors": [
-            "black",
-            "white",
-            "silver",
-            "blue"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_19.jpg",
-        "brand": "amstel",
-        "words": [
-            "amstel",
-            "free"
-        ],
-        "colors": [
-            "black",
-            "silver",
-            "blue"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_20.jpg",
-        "brand": "pils hellas",
-        "words": [
-            "pils",
-            "hellas"
-        ],
-        "colors": [
-            "blue",
-            "white",
-            "red",
-            "golden"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_21.jpg",
-        "brand": "fix",
-        "words": [
-            "fix",
-            "hellas"
-        ],
-        "colors": [
-            "white",
-            "blue",
-            "red"
-        ],
-        "figures": [
-            "glass"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_22.jpg",
-        "brand": "alfa",
-        "words": [
-            "alfa",
-            "a"
-        ],
-        "colors": [
-            "white",
-            "red",
-            "green",
-            "blue"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_23.jpg",
-        "brand": "alfa",
-        "words": [
-            "a",
-            "weiss"
-        ],
-        "colors": [
-            "golden",
-            "white",
-            "red",
-            "blue"
-        ],
-        "figures": [
-            "grain",
-            "letter"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_24.jpg",
-        "brand": "vergina",
-        "words": [
-            "vergina",
-            "premium",
-            "lager",
-            "beer"
-        ],
-        "colors": [
-            "red",
-            "white",
-            "black"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_25.jpg",
-        "brand": "vergina",
-        "words": [
-            "vergina",
-            "weiss",
-            "premium",
-            "quality"
-        ],
-        "colors": [
-            "red",
-            "white",
-            "siver",
-            "yellow"
-        ],
-        "figures": [
-            "lion"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_26.jpg",
-        "brand": "vergina",
-        "words": [
-            "vergina"
-        ],
-        "colors": [
-            "blue",
-            "red",
-            "golden"
-        ],
-        "figures": [
-            "lion"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_27.jpg",
-        "brand": "eza",
-        "words": [
-            "eza"
-        ],
-        "colors": [
-            "blue",
-            "silver"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_28.jpg",
-        "brand": "eza",
-        "words": [
-            "eza"
-        ],
-        "colors": [
-            "black",
-            "golden"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_29.jpg",
-        "brand": "chimay",
-        "words": [
-            "chimay"
-        ],
-        "colors": [
-            "white",
-            "golden"
-        ],
-        "figures": [
-            "shield"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_30.jpg",
-        "colors": [
-            "white",
-            "golden"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_31.jpg",
-        "brand": "primator",
-        "words": [
-            "primator",
-            "craft",
-            "brewery",
-            "czech",
-            "republic",
-            "1872"
-        ],
-        "colors": [
-            "green",
-            "white",
-            "black"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_32.jpg",
-        "brand": "primator",
-        "words": [
-            "primator",
-            "craft",
-            "brewery",
-            "czech",
-            "republic",
-            "1872"
-        ],
-        "colors": [
-            "white",
-            "gray"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_33.jpg",
-        "brand": "primator",
-        "words": [
-            "primator",
-            "craft",
-            "brewery",
-            "czech",
-            "republic",
-            "1872"
-        ],
-        "colors": [
-            "black",
-            "white",
-            "red"
-        ],
-        "figures": [
-            "woman"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_34.jpg",
-        "brand": "corona",
-        "words": [
-            "corona",
-            "extra"
-        ],
-        "colors": [
-            "blue",
-            "white"
-        ],
-        "figures": [
-            "crown"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_35.jpg",
-        "brand": "corona",
-        "words": [
-            "corona",
-            "extra"
-        ],
-        "colors": [
-            "blue",
-            "white"
-        ],
-        "figures": [
-            "crown"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_36.jpg",
-        "colors": [
-            "white",
-            "golden"
-        ],
-        "figures": [
-            "lion"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_37.jpg",
-        "brand": "troilo",
-        "words": [
-            "troilo"
-        ],
-        "colors": [
-            "white",
-            "golden"
-        ],
-        "figures": [
-            "crown"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_38.jpg",
-        "brand": "odyssey",
-        "words": [
-            "odyssey"
-        ],
-        "colors": [
-            "white",
-            "golden"
-        ],
-        "figures": [
-            "woman"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_39.jpg",
-        "brand": "odyssey",
-        "words": [
-            "odyssey"
-        ],
-        "colors": [
-            "red",
-            "white",
-            "golden"
-        ],
-        "figures": [
-            "woman"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_40.jpg",
-        "brand": "odyssey",
-        "words": [
-            "odyssey"
-        ],
-        "colors": [
-            "black",
-            "golden",
-            "white"
-        ],
-        "figures": [
-            "woman"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_41.jpg",
-        "colors": [
-            "black",
-            "red"
-        ],
-        "figures": [
-            "star",
-            "abstract"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_42.jpg",
-        "words": [
-            "z"
-        ],
-        "colors": [
-            "black",
-            "silver"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_43.jpg",
-        "brand": "birra lucana",
-        "words": [
-            "birra",
-            "lucana"
-        ],
-        "colors": [
-            "blue",
-            "white"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_44.jpg",
-        "brand": "nastro azzurro",
-        "words": [
-            "nastro",
-            "azzurro"
-        ],
-        "colors": [
-            "blue",
-            "white"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_45.jpg",
-        "brand": "peroni",
-        "words": [
-            "peroni",
-            "birra",
-            "roma"
-        ],
-        "colors": [
-            "white",
-            "red",
-            "golden"
-        ],
-        "figures": [
-            "eagle"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_46.jpg",
-        "brand": "peroni",
-        "words": [
-            "peroni",
-            "cruda"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_47.jpg",
-        "brand": "peroni",
-        "words": [
-            "peroni"
-        ],
-        "colors": [
-            "red",
-            "white"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_48.jpg",
-        "brand": "peroni",
-        "words": [
-            "peroni",
-            "gran",
-            "riserva"
-        ],
-        "colors": [
-            "black",
-            "golden"
-        ]
-    },
-    {
-        "imageName": "I3/plate29_49.jpg",
-        "colors": [
-            "black",
-            "golden"
-        ],
-        "figures": [
-            "turtle"
-        ]
-    }
+  {
+    "imageName": "I3/plate29_01.jpg",
+    "brand": "schneider weisse",
+    "words": ["schneider", "weisse", "tap", "01", "helle", "weisse"],
+    "colors": ["blue", "yellow", "white"]
+  },
+  {
+    "imageName": "I3/plate29_02.jpg",
+    "brand": "schneider weisse",
+    "words": ["schneider", "weisse", "tap", "02", "kristall"],
+    "colors": ["blue", "white"]
+  },
+  {
+    "imageName": "I3/plate29_03.jpg",
+    "brand": "schneider weisse",
+    "words": ["schneider", "weisse", "tap", "03", "alkoholfrei"],
+    "colors": ["blue", "white", "red"]
+  },
+  {
+    "imageName": "I3/plate29_04.jpg",
+    "brand": "schneider weisse",
+    "words": ["schneider", "weisse", "tap", "04"],
+    "colors": ["blue", "green", "white", "golden"]
+  },
+  {
+    "imageName": "I3/plate29_05.jpg",
+    "brand": "schneider weisse",
+    "words": ["schneider", "weisse", "tap", "05", "hopfenweisse"],
+    "colors": ["blue", "white", "green"]
+  },
+  {
+    "imageName": "I3/plate29_06.jpg",
+    "brand": "schneider weisse",
+    "words": ["schneider", "weisse", "tap", "06", "aventinus"],
+    "colors": ["blue", "white", "purple", "golden"]
+  },
+  {
+    "imageName": "I3/plate29_07.jpg",
+    "brand": "schneider weisse",
+    "words": ["schneider", "weisse", "tap", "07", "original"],
+    "colors": ["blue", "orange", "white"]
+  },
+  {
+    "imageName": "I3/plate29_08.jpg",
+    "brand": "kasteel",
+    "words": ["kasteel", "7", "blond"],
+    "colors": ["yellow", "black", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "I3/plate29_09.jpg",
+    "brand": "trutnovska",
+    "words": ["trutnovska", "10", "pivo", "svetle", "vycepni", "krakonos"],
+    "colors": ["red", "yellow", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "I3/plate29_10.jpg",
+    "words": ["бро"],
+    "colors": ["white", "black", "brown"]
+  },
+  {
+    "imageName": "I3/plate29_11.jpg",
+    "colors": ["white", "gray", "yellow"],
+    "figures": ["man", "woman"]
+  },
+  {
+    "imageName": "I3/plate29_12.jpg",
+    "brand": "hobgoblin",
+    "words": ["ho"],
+    "colors": ["blue", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "I3/plate29_13.jpg",
+    "brand": "moretti",
+    "words": ["birra", "moretti", "filtrata", "a", "freddo"],
+    "colors": ["white", "blue"]
+  },
+  {
+    "imageName": "I3/plate29_14.jpg",
+    "brand": "moretti",
+    "words": ["birra", "moretti", "baffo", "doro"],
+    "colors": ["orange", "silver"],
+    "figures": ["man", "glass", "hat"]
+  },
+  {
+    "imageName": "I3/plate29_15.jpg",
+    "brand": "dreher",
+    "words": ["dreher", "la", "birra", "fatta", "col", "sole"],
+    "colors": ["white", "black", "yellow"]
+  },
+  {
+    "imageName": "I3/plate29_16.jpg",
+    "brand": "urthel",
+    "words": ["urthel", "brewed", "in", "flanders"],
+    "colors": ["white", "black"]
+  },
+  {
+    "imageName": "I3/plate29_17.jpg",
+    "brand": "amstel",
+    "words": ["amstel", "mpyra"],
+    "colors": ["red", "white", "black", "golden"]
+  },
+  {
+    "imageName": "I3/plate29_18.jpg",
+    "brand": "amstel",
+    "words": ["amstel", "radler"],
+    "colors": ["black", "white", "silver", "blue"]
+  },
+  {
+    "imageName": "I3/plate29_19.jpg",
+    "brand": "amstel",
+    "words": ["amstel", "free"],
+    "colors": ["black", "silver", "blue"]
+  },
+  {
+    "imageName": "I3/plate29_20.jpg",
+    "brand": "pils hellas",
+    "words": ["pils", "hellas"],
+    "colors": ["blue", "white", "red", "golden"]
+  },
+  {
+    "imageName": "I3/plate29_21.jpg",
+    "brand": "fix",
+    "words": ["fix", "hellas"],
+    "colors": ["white", "blue", "red"],
+    "figures": ["glass"]
+  },
+  {
+    "imageName": "I3/plate29_22.jpg",
+    "brand": "alfa",
+    "words": ["alfa", "a"],
+    "colors": ["white", "red", "green", "blue"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "I3/plate29_23.jpg",
+    "brand": "alfa",
+    "words": ["a", "weiss"],
+    "colors": ["golden", "white", "red", "blue"],
+    "figures": ["grain", "letter"]
+  },
+  {
+    "imageName": "I3/plate29_24.jpg",
+    "brand": "vergina",
+    "words": ["vergina", "premium", "lager", "beer"],
+    "colors": ["red", "white", "black"]
+  },
+  {
+    "imageName": "I3/plate29_25.jpg",
+    "brand": "vergina",
+    "words": ["vergina", "weiss", "premium", "quality"],
+    "colors": ["red", "white", "silver", "yellow"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "I3/plate29_26.jpg",
+    "brand": "vergina",
+    "words": ["vergina"],
+    "colors": ["blue", "red", "golden"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "I3/plate29_27.jpg",
+    "brand": "eza",
+    "words": ["eza"],
+    "colors": ["blue", "silver"]
+  },
+  {
+    "imageName": "I3/plate29_28.jpg",
+    "brand": "eza",
+    "words": ["eza"],
+    "colors": ["black", "golden"]
+  },
+  {
+    "imageName": "I3/plate29_29.jpg",
+    "brand": "chimay",
+    "words": ["chimay"],
+    "colors": ["white", "golden"],
+    "figures": ["shield"]
+  },
+  {
+    "imageName": "I3/plate29_30.jpg",
+    "colors": ["white", "golden"]
+  },
+  {
+    "imageName": "I3/plate29_31.jpg",
+    "brand": "primator",
+    "words": ["primator", "craft", "brewery", "czech", "republic", "1872"],
+    "colors": ["green", "white", "black"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "I3/plate29_32.jpg",
+    "brand": "primator",
+    "words": ["primator", "craft", "brewery", "czech", "republic", "1872"],
+    "colors": ["white", "gray"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "I3/plate29_33.jpg",
+    "brand": "primator",
+    "words": ["primator", "craft", "brewery", "czech", "republic", "1872"],
+    "colors": ["black", "white", "red"],
+    "figures": ["woman"]
+  },
+  {
+    "imageName": "I3/plate29_34.jpg",
+    "brand": "corona",
+    "words": ["corona", "extra"],
+    "colors": ["blue", "white"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "I3/plate29_35.jpg",
+    "brand": "corona",
+    "words": ["corona", "extra"],
+    "colors": ["blue", "white"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "I3/plate29_36.jpg",
+    "colors": ["white", "golden"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "I3/plate29_37.jpg",
+    "brand": "troilo",
+    "words": ["troilo"],
+    "colors": ["white", "golden"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "I3/plate29_38.jpg",
+    "brand": "odyssey",
+    "words": ["odyssey"],
+    "colors": ["white", "golden"],
+    "figures": ["woman"]
+  },
+  {
+    "imageName": "I3/plate29_39.jpg",
+    "brand": "odyssey",
+    "words": ["odyssey"],
+    "colors": ["red", "white", "golden"],
+    "figures": ["woman"]
+  },
+  {
+    "imageName": "I3/plate29_40.jpg",
+    "brand": "odyssey",
+    "words": ["odyssey"],
+    "colors": ["black", "golden", "white"],
+    "figures": ["woman"]
+  },
+  {
+    "imageName": "I3/plate29_41.jpg",
+    "colors": ["black", "red"],
+    "figures": ["star", "abstract"]
+  },
+  {
+    "imageName": "I3/plate29_42.jpg",
+    "words": ["z"],
+    "colors": ["black", "silver"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "I3/plate29_43.jpg",
+    "brand": "birra lucana",
+    "words": ["birra", "lucana"],
+    "colors": ["blue", "white"]
+  },
+  {
+    "imageName": "I3/plate29_44.jpg",
+    "brand": "nastro azzurro",
+    "words": ["nastro", "azzurro"],
+    "colors": ["blue", "white"]
+  },
+  {
+    "imageName": "I3/plate29_45.jpg",
+    "brand": "peroni",
+    "words": ["peroni", "birra", "roma"],
+    "colors": ["white", "red", "golden"],
+    "figures": ["eagle"]
+  },
+  {
+    "imageName": "I3/plate29_46.jpg",
+    "brand": "peroni",
+    "words": ["peroni", "cruda"],
+    "colors": ["red", "white"]
+  },
+  {
+    "imageName": "I3/plate29_47.jpg",
+    "brand": "peroni",
+    "words": ["peroni"],
+    "colors": ["red", "white"]
+  },
+  {
+    "imageName": "I3/plate29_48.jpg",
+    "brand": "peroni",
+    "words": ["peroni", "gran", "riserva"],
+    "colors": ["black", "golden"]
+  },
+  {
+    "imageName": "I3/plate29_49.jpg",
+    "colors": ["black", "golden"],
+    "figures": ["turtle"]
+  }
 ]

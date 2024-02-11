@@ -1,747 +1,342 @@
 [
-    {
-        "imageName": "C2/plate17_100.jpg",
-        "words": [],
-        "colors": [
-            "white",
-            "silver"
-        ],
-        "figures": [
-            "eye"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_101.jpg",
-        "brand": "beck's",
-        "words": [],
-        "colors": [
-            "silver",
-            "red",
-            "white",
-            "black"
-        ],
-        "figures": [
-            "key",
-            "shield"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_102.jpg",
-        "words": [
-            "dois",
-            "corvos",
-            "portgal",
-            "lisboa",
-            "cervejeira"
-        ],
-        "colors": [
-            "silver",
-            "black"
-        ],
-        "figures": [
-            "raven"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_103.jpg",
-        "words": [
-            "r"
-        ],
-        "colors": [
-            "silver",
-            "black"
-        ],
-        "figures": [
-            "mountain"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_104.jpg",
-        "brand": "pohjala",
-        "words": [
-            "pohjala"
-        ],
-        "colors": [
-            "silver",
-            "black"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C2/plate17_105.jpg",
-        "brand": "flag",
-        "words": [
-            "flag",
-            "s"
-        ],
-        "colors": [
-            "blue",
-            "white",
-            "red"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_106.jpg",
-        "brand": "huda",
-        "words": [
-            "huda"
-        ],
-        "colors": [
-            "black",
-            "silver"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C2/plate17_107.jpg",
-        "brand": "motorhead",
-        "words": [],
-        "colors": [
-            "silver",
-            "black"
-        ],
-        "figures": [
-            "monster",
-            "chain"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_108.jpg",
-        "brand": "san miguel philippines",
-        "words": [
-            "san",
-            "miguel"
-        ],
-        "colors": [
-            "silver",
-            "blue"
-        ],
-        "figures": [
-            "shield",
-            "crown",
-            "lion"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_109.jpg",
-        "words": [
-            "cheers"
-        ],
-        "colors": [
-            "yellow",
-            "silver"
-        ],
-        "figures": [
-            "star"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_110.jpg",
-        "words": [
-            "america's",
-            "oldest",
-            "brewery",
-            "twist",
-            "off"
-        ],
-        "colors": [
-            "golden",
-            "red"
-        ],
-        "figures": [
-            "eagle",
-            "arrow"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_111.jpg",
-        "brand": "halida",
-        "words": [
-            "halida",
-            "chueng",
-            "trinh",
-            "khuyen",
-            "mai"
-        ],
-        "colors": [
-            "silver",
-            "black",
-            "red"
-        ],
-        "figures": [
-            "elephant"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_112.jpg",
-        "brand": "halida",
-        "words": [
-            "halida"
-        ],
-        "colors": [
-            "golden",
-            "black"
-        ],
-        "figures": [
-            "elephant"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_113.jpg",
-        "words": [
-            "l1156/20/05/15",
-            "30/11/16"
-        ],
-        "colors": [
-            "golden",
-            "black"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C2/plate17_114.jpg",
-        "brand": "huda",
-        "words": [
-            "huda"
-        ],
-        "colors": [
-            "golden",
-            "black"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C2/plate17_115.jpg",
-        "brand": "san miguel philippines",
-        "words": [
-            "san",
-            "miguel"
-        ],
-        "colors": [
-            "yellow",
-            "silver"
-        ],
-        "figures": [
-            "shield",
-            "crown",
-            "lion"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_116.jpg",
-        "words": [
-            "bs"
-        ],
-        "colors": [
-            "silver",
-            "white",
-            "black",
-            "red"
-        ],
-        "figures": [
-            "letter",
-            "grain",
-            "hops"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_117.jpg",
-        "brand": "moretti",
-        "words": [
-            "birra",
-            "moretti",
-            "radler",
-            "contien",
-            "malto",
-            "d'orzo"
-        ],
-        "colors": [
-            "yellow",
-            "red"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C2/plate17_118.jpg",
-        "words": [
-            "pinkus"
-        ],
-        "colors": [
-            "red",
-            "golden"
-        ],
-        "figures": [
-            "man"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_119.jpg",
-        "words": [
-            "hite"
-        ],
-        "colors": [
-            "silver",
-            "blue"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C2/plate17_120.jpg",
-        "brand": "habeco",
-        "words": [
-            "habeco",
-            "tong",
-            "cong",
-            "ty",
-            "cp",
-            "bia",
-            "ruou",
-            "ngk",
-            "ha",
-            "noi"
-        ],
-        "colors": [
-            "golden",
-            "red",
-            "yellow"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C2/plate17_121.jpg",
-        "brand": "zillertal",
-        "words": [
-            "zillertal",
-            "weisbier"
-        ],
-        "colors": [
-            "orange",
-            "black",
-            "red",
-            "golden"
-        ],
-        "figures": [
-            "shield"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_122.jpg",
-        "words": [
-            "kloster",
-            "nunc",
-            "est",
-            "bibendum",
-            "scheyern"
-        ],
-        "colors": [
-            "golden",
-            "black"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C2/plate17_123.jpg",
-        "brand": "larue",
-        "words": [],
-        "colors": [
-            "orange",
-            "yellow",
-            "blue",
-            "silver"
-        ],
-        "figures": [
-            "tiger"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_124.jpg",
-        "brand": "san miguel philippines",
-        "words": [
-            "san",
-            "miguel",
-            "since",
-            "1890"
-        ],
-        "colors": [
-            "golden",
-            "black",
-            "red"
-        ],
-        "figures": [
-            "shield",
-            "crown",
-            "lion"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_125.jpg",
-        "words": [],
-        "colors": [
-            "red",
-            "white"
-        ],
-        "figures": [
-            "goat",
-            "glass",
-            "grain",
-            "crown"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_126.jpg",
-        "brand": "konrad",
-        "words": [
-            "konrad",
-            "k"
-        ],
-        "colors": [
-            "orange",
-            "white",
-            "red"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_127.jpg",
-        "words": [
-            "hopen",
-            "recipe",
-            "1407",
-            "crafting",
-            "divine",
-            "beer"
-        ],
-        "colors": [
-            "silver",
-            "black",
-            "red"
-        ],
-        "figures": [
-            "church"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_128.jpg",
-        "words": [
-            "wells",
-            "brewers",
-            "since",
-            "1876"
-        ],
-        "colors": [
-            "golden",
-            "white",
-            "black"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C2/plate17_129.jpg",
-        "words": [
-            "ruddles"
-        ],
-        "colors": [
-            "golden",
-            "white"
-        ],
-        "figures": [
-            "tree"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_130.jpg",
-        "brand": "hobgoblin",
-        "words": [
-            "hobgoblin",
-            "gold"
-        ],
-        "colors": [
-            "golden",
-            "yellow"
-        ],
-        "figures": [
-            "goblin",
-            "axe"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_131.jpg",
-        "brand": "heineken",
-        "words": [
-            "heineken",
-            "0.0"
-        ],
-        "colors": [
-            "silver",
-            "blue",
-            "red",
-            "white"
-        ],
-        "figures": [
-            "star",
-            "letter"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_132.jpg",
-        "words": [
-            "mort",
-            "subite",
-            "original"
-        ],
-        "colors": [
-            "golden",
-            "white"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C2/plate17_133.jpg",
-        "brand": "goliath",
-        "words": [
-            "goliath",
-            "blonde",
-            "blond"
-        ],
-        "colors": [
-            "golden",
-            "white",
-            "black"
-        ],
-        "figures": [
-            "man",
-            "bird"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_134.jpg",
-        "brand": "praga",
-        "words": [
-            "p",
-            "praga",
-            "premium",
-            "beer",
-            "imported",
-            "authentic",
-            "czech"
-        ],
-        "colors": [
-            "golden",
-            "white",
-            "red",
-            "black"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_135.jpg",
-        "words": [
-            "p"
-        ],
-        "colors": [
-            "golden",
-            "white",
-            "red"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_136.jpg",
-        "brand": "herold",
-        "words": [
-            "herold",
-            "pivovar",
-            "1506"
-        ],
-        "colors": [
-            "red",
-            "orange",
-            "white"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C2/plate17_137.jpg",
-        "words": [
-            "nurnberg",
-            "dunkles",
-            "hefe",
-            "sebaldus",
-            "weizen"
-        ],
-        "colors": [
-            "brown",
-            "blue",
-            "golden"
-        ],
-        "figures": [
-            "grain"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_138.jpg",
-        "words": [
-            "beware",
-            "of",
-            "the",
-            "cangsters"
-        ],
-        "colors": [
-            "silver",
-            "black"
-        ],
-        "figures": [
-            "ken"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_139.jpg",
-        "brand": "antoniana",
-        "words": [
-            "birra",
-            "antoniana"
-        ],
-        "colors": [
-            "brown",
-            "white"
-        ],
-        "figures": [
-            "man",
-            "horse"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_140.jpg",
-        "brand": "shumensko",
-        "words": [
-            "шуменско"
-        ],
-        "colors": [
-            "brown",
-            "golden"
-        ],
-        "figures": [
-            "lion"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_141.jpg",
-        "words": [
-            "bohemia"
-        ],
-        "colors": [
-            "gray",
-            "yellow"
-        ],
-        "figures": [
-            "house",
-            "arrow"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_142.jpg",
-        "words": [
-            "kees",
-            "k"
-        ],
-        "colors": [
-            "silver",
-            "white"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_143.jpg",
-        "brand": "flag",
-        "words": [
-            "flag",
-            "s"
-        ],
-        "colors": [
-            "silver",
-            "blue",
-            "red"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_144.jpg",
-        "brand": "menabrea",
-        "words": [
-            "menabrea",
-            "1846",
-            "biella",
-            "italia"
-        ],
-        "colors": [
-            "silver",
-            "brown"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C2/plate17_145.jpg",
-        "words": [
-            "pinta"
-        ],
-        "colors": [
-            "silver",
-            "black"
-        ],
-        "figures": [
-            "man"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_146.jpg",
-        "words": [
-            "peak",
-            "organic"
-        ],
-        "colors": [
-            "silver",
-            "black"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "C2/plate17_147.jpg",
-        "brand": "tiger",
-        "words": [],
-        "colors": [
-            "silver",
-            "blue",
-            "white",
-            "yellow"
-        ],
-        "figures": [
-            "tiger"
-        ]
-    },
-    {
-        "imageName": "C2/plate17_148.jpg",
-        "brand": "tiger",
-        "words": [],
-        "colors": [
-            "blue",
-            "yellow",
-            "white"
-        ],
-        "figures": [
-            "tiger"
-        ]
-    }
+  {
+    "imageName": "C2/plate17_100.jpg",
+    "words": [],
+    "colors": ["white", "silver"],
+    "figures": ["eye"]
+  },
+  {
+    "imageName": "C2/plate17_101.jpg",
+    "brand": "beck's",
+    "words": [],
+    "colors": ["silver", "red", "white", "black"],
+    "figures": ["key", "shield"]
+  },
+  {
+    "imageName": "C2/plate17_102.jpg",
+    "words": ["dois", "corvos", "portgal", "lisboa", "cervejeira"],
+    "colors": ["silver", "black"],
+    "figures": ["raven"]
+  },
+  {
+    "imageName": "C2/plate17_103.jpg",
+    "words": ["r"],
+    "colors": ["silver", "black"],
+    "figures": ["mountain"]
+  },
+  {
+    "imageName": "C2/plate17_104.jpg",
+    "brand": "pohjala",
+    "words": ["pohjala"],
+    "colors": ["silver", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "C2/plate17_105.jpg",
+    "brand": "flag",
+    "words": ["flag", "s"],
+    "colors": ["blue", "white", "red"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "C2/plate17_106.jpg",
+    "brand": "huda",
+    "words": ["huda"],
+    "colors": ["black", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "C2/plate17_107.jpg",
+    "brand": "motorhead",
+    "words": [],
+    "colors": ["silver", "black"],
+    "figures": ["monster", "chain"]
+  },
+  {
+    "imageName": "C2/plate17_108.jpg",
+    "brand": "san miguel philippines",
+    "words": ["san", "miguel"],
+    "colors": ["silver", "blue"],
+    "figures": ["shield", "crown", "lion"]
+  },
+  {
+    "imageName": "C2/plate17_109.jpg",
+    "words": ["cheers"],
+    "colors": ["yellow", "silver"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "C2/plate17_110.jpg",
+    "words": ["america's", "oldest", "brewery", "twist", "off"],
+    "colors": ["golden", "red"],
+    "figures": ["eagle", "arrow"]
+  },
+  {
+    "imageName": "C2/plate17_111.jpg",
+    "brand": "halida",
+    "words": ["halida", "chueng", "trinh", "khuyen", "mai"],
+    "colors": ["silver", "black", "red"],
+    "figures": ["elephant"]
+  },
+  {
+    "imageName": "C2/plate17_112.jpg",
+    "brand": "halida",
+    "words": ["halida"],
+    "colors": ["golden", "black"],
+    "figures": ["elephant"]
+  },
+  {
+    "imageName": "C2/plate17_113.jpg",
+    "words": ["l1156/20/05/15", "30/11/16"],
+    "colors": ["golden", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "C2/plate17_114.jpg",
+    "brand": "huda",
+    "words": ["huda"],
+    "colors": ["golden", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "C2/plate17_115.jpg",
+    "brand": "san miguel philippines",
+    "words": ["san", "miguel"],
+    "colors": ["yellow", "silver"],
+    "figures": ["shield", "crown", "lion"]
+  },
+  {
+    "imageName": "C2/plate17_116.jpg",
+    "words": ["bs"],
+    "colors": ["silver", "white", "black", "red"],
+    "figures": ["letter", "grain", "hops"]
+  },
+  {
+    "imageName": "C2/plate17_117.jpg",
+    "brand": "moretti",
+    "words": ["birra", "moretti", "radler", "contien", "malto", "d'orzo"],
+    "colors": ["yellow", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "C2/plate17_118.jpg",
+    "words": ["pinkus"],
+    "colors": ["red", "golden"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "C2/plate17_119.jpg",
+    "words": ["hite"],
+    "colors": ["silver", "blue"],
+    "figures": []
+  },
+  {
+    "imageName": "C2/plate17_120.jpg",
+    "brand": "habeco",
+    "words": [
+      "habeco",
+      "tong",
+      "cong",
+      "ty",
+      "cp",
+      "bia",
+      "ruou",
+      "ngk",
+      "ha",
+      "noi"
+    ],
+    "colors": ["golden", "red", "yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "C2/plate17_121.jpg",
+    "brand": "zillertal",
+    "words": ["zillertal", "weisbier"],
+    "colors": ["orange", "black", "red", "golden"],
+    "figures": ["shield"]
+  },
+  {
+    "imageName": "C2/plate17_122.jpg",
+    "words": ["kloster", "nunc", "est", "bibendum", "scheyern"],
+    "colors": ["golden", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "C2/plate17_123.jpg",
+    "brand": "larue",
+    "words": [],
+    "colors": ["orange", "yellow", "blue", "silver"],
+    "figures": ["tiger"]
+  },
+  {
+    "imageName": "C2/plate17_124.jpg",
+    "brand": "san miguel philippines",
+    "words": ["san", "miguel", "since", "1890"],
+    "colors": ["golden", "black", "red"],
+    "figures": ["shield", "crown", "lion"]
+  },
+  {
+    "imageName": "C2/plate17_125.jpg",
+    "words": [],
+    "colors": ["red", "white"],
+    "figures": ["goat", "glass", "grain", "crown"]
+  },
+  {
+    "imageName": "C2/plate17_126.jpg",
+    "brand": "konrad",
+    "words": ["konrad", "k"],
+    "colors": ["orange", "white", "red"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "C2/plate17_127.jpg",
+    "words": ["hopen", "recipe", "1407", "crafting", "divine", "beer"],
+    "colors": ["silver", "black", "red"],
+    "figures": ["church"]
+  },
+  {
+    "imageName": "C2/plate17_128.jpg",
+    "words": ["wells", "brewers", "since", "1876"],
+    "colors": ["golden", "white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "C2/plate17_129.jpg",
+    "words": ["ruddles"],
+    "colors": ["golden", "white"],
+    "figures": ["tree"]
+  },
+  {
+    "imageName": "C2/plate17_130.jpg",
+    "brand": "hobgoblin",
+    "words": ["hobgoblin", "gold"],
+    "colors": ["golden", "yellow"],
+    "figures": ["goblin", "axe"]
+  },
+  {
+    "imageName": "C2/plate17_131.jpg",
+    "brand": "heineken",
+    "words": ["heineken", "0.0"],
+    "colors": ["silver", "blue", "red", "white"],
+    "figures": ["star", "letter"]
+  },
+  {
+    "imageName": "C2/plate17_132.jpg",
+    "words": ["mort", "subite", "original"],
+    "colors": ["golden", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "C2/plate17_133.jpg",
+    "brand": "goliath",
+    "words": ["goliath", "blonde", "blond"],
+    "colors": ["golden", "white", "black"],
+    "figures": ["man", "bird"]
+  },
+  {
+    "imageName": "C2/plate17_134.jpg",
+    "brand": "praga",
+    "words": [
+      "p",
+      "praga",
+      "premium",
+      "beer",
+      "imported",
+      "authentic",
+      "czech"
+    ],
+    "colors": ["golden", "white", "red", "black"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "C2/plate17_135.jpg",
+    "words": ["p"],
+    "colors": ["golden", "white", "red"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "C2/plate17_136.jpg",
+    "brand": "herold",
+    "words": ["herold", "pivovar", "1506"],
+    "colors": ["red", "orange", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "C2/plate17_137.jpg",
+    "words": ["nurnberg", "dunkles", "hefe", "sebaldus", "weizen"],
+    "colors": ["brown", "blue", "golden"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "C2/plate17_138.jpg",
+    "words": ["beware", "of", "the", "cangsters"],
+    "colors": ["silver", "black"],
+    "figures": ["ken"]
+  },
+  {
+    "imageName": "C2/plate17_139.jpg",
+    "brand": "antoniana",
+    "words": ["birra", "antoniana"],
+    "colors": ["brown", "white"],
+    "figures": ["man", "horse"]
+  },
+  {
+    "imageName": "C2/plate17_140.jpg",
+    "brand": "shumansko",
+    "words": ["шуменско"],
+    "colors": ["brown", "golden"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "C2/plate17_141.jpg",
+    "words": ["bohemia"],
+    "colors": ["gray", "yellow"],
+    "figures": ["house", "arrow"]
+  },
+  {
+    "imageName": "C2/plate17_142.jpg",
+    "words": ["kees", "k"],
+    "colors": ["silver", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "C2/plate17_143.jpg",
+    "brand": "flag",
+    "words": ["flag", "s"],
+    "colors": ["silver", "blue", "red"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "C2/plate17_144.jpg",
+    "brand": "manabrea",
+    "words": ["manabrea", "1846", "biella", "italia"],
+    "colors": ["silver", "brown"],
+    "figures": []
+  },
+  {
+    "imageName": "C2/plate17_145.jpg",
+    "words": ["pinta"],
+    "colors": ["silver", "black"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "C2/plate17_146.jpg",
+    "words": ["peak", "organic"],
+    "colors": ["silver", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "C2/plate17_147.jpg",
+    "brand": "tiger",
+    "words": [],
+    "colors": ["silver", "blue", "white", "yellow"],
+    "figures": ["tiger"]
+  },
+  {
+    "imageName": "C2/plate17_148.jpg",
+    "brand": "tiger",
+    "words": [],
+    "colors": ["blue", "yellow", "white"],
+    "figures": ["tiger"]
+  }
 ]

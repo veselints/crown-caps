@@ -1,0 +1,332 @@
+[
+  {
+    "imageName": "Espagna/Espagna(1).jpg",
+    "words": ["13"],
+    "colors": ["white", "red", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "Espagna/Espagna(10).jpg",
+    "brand": "alhambra",
+    "words": ["alhambra", "reserva", "esencia", "citra", "ipa"],
+    "colors": ["yellow"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "Espagna/Espagna/Espagna(11).jpg",
+    "brand": "alhambra",
+    "words": [
+      "alhambra",
+      "creada",
+      "lenta",
+      "degustada",
+      "barrica",
+      "de",
+      "ron"
+    ],
+    "colors": ["brown"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "Espagna/Espagna(12).jpg",
+    "brand": "alhambra",
+    "words": [],
+    "colors": ["yellow", "green"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "Espagna/Espagna(13).jpg",
+    "brand": "complot",
+    "words": ["complot", "ipa", "mediterranean"],
+    "colors": ["green", "white"],
+    "figures": ["hops", "leaf"]
+  },
+  {
+    "imageName": "Espagna/Espagna(14).jpg",
+    "words": [],
+    "colors": ["black", "golden"],
+    "figures": ["man", "hat", "glass"]
+  },
+  {
+    "imageName": "Espagna/Espagna(15).jpg",
+    "words": ["m", "1856"],
+    "colors": ["blue"],
+    "figures": []
+  },
+  {
+    "imageName": "Espagna/Espagna(16).jpg",
+    "brand": "amstel",
+    "words": ["amstel", "cerveza"],
+    "colors": ["silver", "red", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "Espagna/Espagna(17).jpg",
+    "words": ["amor"],
+    "colors": ["red", "black", "golden"],
+    "figures": ["heart"]
+  },
+  {
+    "imageName": "Espagna/Espagna(18).jpg",
+    "brand": "mahou",
+    "words": ["m"],
+    "colors": ["red", "white", "green"],
+    "figures": ["star", "grain"]
+  },
+  {
+    "imageName": "Espagna/Espagna(19).jpg",
+    "words": ["consentida"],
+    "colors": ["pink", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "Espagna/Espagna(2).jpg",
+    "brand": "rosita",
+    "words": ["rosita"],
+    "colors": ["pink", "white"],
+    "figures": ["woman"]
+  },
+  {
+    "imageName": "Espagna/Espagna(20).jpg",
+    "words": ["birra", "blues", "craft", "beer"],
+    "colors": ["purple", "pink", "silver"],
+    "figures": ["man", "grain", "glass"]
+  },
+  {
+    "imageName": "Espagna/Espagna(21).jpg",
+    "words": ["birra", "blues", "craft", "beer"],
+    "colors": ["red", "silver"],
+    "figures": ["man", "grain", "glass"]
+  },
+  {
+    "imageName": "Espagna/Espagna(22).jpg",
+    "brand": "amstel",
+    "words": ["amstel", "oro", "0,0"],
+    "colors": ["blue", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "Espagna/Espagna(23).jpg",
+    "brand": "amstel",
+    "words": ["amstel", "pura", "malta"],
+    "colors": ["blue", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "Espagna/Espagna(24).jpg",
+    "brand": "skol",
+    "words": ["skol", "international"],
+    "colors": ["green", "white"],
+    "figures": ["globe"]
+  },
+  {
+    "imageName": "Espagna/Espagna(25).jpg",
+    "brand": "mahou",
+    "words": ["m", "classica"],
+    "colors": ["green", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "Espagna/Espagna(26).jpg",
+    "brand": "ramblers",
+    "words": ["ramblers"],
+    "colors": ["green", "white"],
+    "figures": ["hat", "arrow"]
+  },
+  {
+    "imageName": "Espagna/Espagna(27).jpg",
+    "brand": "manito",
+    "words": ["manito", "cerveza"],
+    "colors": ["blue", "white"],
+    "figures": ["hat", "mustache"]
+  },
+  {
+    "imageName": "Espagna/Espagna(28).jpg",
+    "words": ["b", "craft", "beer"],
+    "colors": ["blue", "white"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "Espagna/Espagna(29).jpg",
+    "words": ["4243", "2135"],
+    "colors": ["white", "black", "golden"],
+    "figures": ["barcode"]
+  },
+  {
+    "imageName": "Espagna/Espagna(3).jpg",
+    "words": ["cervesa", "la", "rabosa"],
+    "colors": ["white", "black"],
+    "figures": ["fox"]
+  },
+  {
+    "imageName": "Espagna/Espagna(30).jpg",
+    "words": ["8419", "9669"],
+    "colors": ["green", "white", "black"],
+    "figures": ["barcode"]
+  },
+  {
+    "imageName": "Espagna/Espagna(31).jpg",
+    "words": ["reserva", "8419", "5326", "1925"],
+    "colors": ["green", "black", "white"],
+    "figures": ["barcode"]
+  },
+  {
+    "imageName": "Espagna/Espagna(32).jpg",
+    "words": [
+      "voll-damm",
+      "desde",
+      "1955",
+      "doble",
+      "malta",
+      "das",
+      "original",
+      "marzenbier"
+    ],
+    "colors": ["green", "white", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "Espagna/Espagna(33).jpg",
+    "brand": "ramblers",
+    "words": ["ramblers"],
+    "colors": ["black", "white"],
+    "figures": ["hat", "mustache"]
+  },
+  {
+    "imageName": "Espagna/Espagna(34).jpg",
+    "words": ["especialidades", "1900", "cervezasambar"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "Espagna/Espagna(35).jpg",
+    "words": ["olive", "craft", "beer", "with", "low", "gluten"],
+    "colors": ["green", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "Espagna/Espagna(36).jpg",
+    "words": ["ls"],
+    "colors": ["white", "black"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "Espagna/Espagna(37).jpg",
+    "words": ["cubanisto"],
+    "colors": ["black", "white"],
+    "figures": ["skull"]
+  },
+  {
+    "imageName": "Espagna/Espagna(38).jpg",
+    "words": ["questionmark"],
+    "colors": ["white", "black"],
+    "figures": ["punctuation"]
+  },
+  {
+    "imageName": "Espagna/Espagna(39).jpg",
+    "words": ["6"],
+    "colors": ["black", "silver"],
+    "figures": ["letter", "grid"]
+  },
+  {
+    "imageName": "Espagna/Espagna(4).jpg",
+    "words": ["sensation", "c"],
+    "colors": ["black", "white"],
+    "figures": ["arrow"]
+  },
+  {
+    "imageName": "Espagna/Espagna(40).jpg",
+    "brand": "gastro",
+    "words": ["gastro"],
+    "colors": ["black", "white"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "Espagna/Espagna(41).jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["horseshoe"]
+  },
+  {
+    "imageName": "Espagna/Espagna(42).jpg",
+    "words": [],
+    "colors": ["black", "golden", "green"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "Espagna/Espagna(43).jpg",
+    "brand": "estrella galicia",
+    "words": ["estrella", "galicia", "cerveceros", "desde1906"],
+    "colors": ["black", "white", "red"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "Espagna/Espagna(44).jpg",
+    "words": [],
+    "colors": ["black", "red", "white"],
+    "figures": ["hand", "heart"]
+  },
+  {
+    "imageName": "Espagna/Espagna(45).jpg",
+    "words": ["cervezas", "1906", "reserva", "especial"],
+    "colors": ["black", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "Espagna/Espagna(46).jpg",
+    "words": ["brutus", "inside"],
+    "colors": ["black", "white", "orange"],
+    "figures": ["arrow"]
+  },
+  {
+    "imageName": "Espagna/Espagna(47).jpg",
+    "words": ["ambiciosas", "ambar", "cerveceros", "independientes"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "Espagna/Espagna(48).jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["eagle"]
+  },
+  {
+    "imageName": "Espagna/Espagna(49).jpg",
+    "brand": "san miguel",
+    "words": ["san", "miguel", "selecta"],
+    "colors": ["black", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "Espagna/Espagna(5).jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["abstract", "star"]
+  },
+  {
+    "imageName": "Espagna/Espagna(6).jpg",
+    "words": [],
+    "colors": ["green", "white"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "Espagna/Espagna(7).jpg",
+    "brand": "ambar",
+    "words": ["ambar"],
+    "colors": ["white", "golden"],
+    "figures": ["triangle"]
+  },
+  {
+    "imageName": "Espagna/Espagna(8).jpg",
+    "words": ["m", "1856"],
+    "colors": ["blue", "yellow"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "Espagna/Espagna(9).jpg",
+    "brand": "Rosita",
+    "words": ["rosita"],
+    "colors": ["green", "yellow"],
+    "figures": ["woman"]
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "imageName": "Black/Black(1).jpg",
+    "brand": "Gyumri",
+    "words": ["Gyumri", "beer"],
+    "colors": ["golden", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "Black/Black(10).jpg",
+    "words": ["bibite", "sicilia", "t", "1920"],
+    "colors": ["black", "golden"],
+    "figures": ["rays"]
+  },
+  {
+    "imageName": "Black/Black(11).jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["rooster"]
+  },
+  {
+    "imageName": "Black/Black(12).jpg",
+    "words": ["brewed", "in", "ellon", "enjoyed", "worldwide"],
+    "colors": ["black", "white"],
+    "figures": ["dashes"]
+  },
+  {
+    "imageName": "Black/Black(13).jpg",
+    "words": ["slottskallan", "bryggeri", "estd", "1997"],
+    "colors": ["black", "gray"],
+    "figures": ["castle"]
+  },
+  {
+    "imageName": "Black/Black(14).jpg",
+    "brand": "ratar",
+    "words": ["ratar"],
+    "colors": ["black", "silver"],
+    "figures": ["monster"]
+  },
+  {
+    "imageName": "Black/Black(15).jpg",
+    "brand": "medvegrad",
+    "words": ["pivovara", "medvedgrad"],
+    "colors": ["black", "white"],
+    "figures": ["castle"]
+  },
+  {
+    "imageName": "Black/Black(16).jpg",
+    "brand": "super bock",
+    "words": ["super", "bock"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "Black/Black(17).jpg",
+    "words": ["lince"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "Black/Black(18).jpg",
+    "brand": "",
+    "words": ["hopfmeister", "manufaktur"],
+    "colors": ["black", "gray"],
+    "figures": ["hops", "drop", "grain", "heart"]
+  },
+  {
+    "imageName": "Black/Black(19).jpg",
+    "brand": "goose island",
+    "words": ["goose", "island", "beer", "co"],
+    "colors": ["black", "white", "green"],
+    "figures": ["goose"]
+  },
+  {
+    "imageName": "Black/Black(2).jpg",
+    "brand": "kozel",
+    "words": ["kozel"],
+    "colors": ["black", "golden"],
+    "figures": ["goat"]
+  },
+  {
+    "imageName": "Black/Black(20).jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["monkey"]
+  },
+  {
+    "imageName": "Black/Black(21).jpg",
+    "words": ["hop", "heads", "ale", "browar", "of", "poland"],
+    "colors": ["black", "white"],
+    "figures": ["hops", "glass"]
+  },
+  {
+    "imageName": "Black/Black(22).jpg",
+    "words": ["744"],
+    "colors": ["black", "white"],
+    "figures": ["mountain"]
+  },
+  {
+    "imageName": "Black/Black(23).jpg",
+    "words": ["x-markflavoured", "beers", "bold", "mix-drinks"],
+    "colors": ["white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "Black/Black(24).jpg",
+    "words": [],
+    "colors": ["black", "blue"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "Black/Black(25).jpg",
+    "words": [],
+    "colors": ["white", "yellow"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "Black/Black(26).jpg",
+    "words": [],
+    "colors": ["black", "golden"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "Black/Black(27).jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "Black/Black(29).jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["fist"]
+  },
+  {
+    "imageName": "Black/Black(3).jpg",
+    "words": [],
+    "colors": ["black", "golden"],
+    "figures": ["owl"]
+  },
+  {
+    "imageName": "Black/Black(30).jpg",
+    "words": ["brasserie", "des", "cimes"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "Black/Black(31).jpg",
+    "words": ["l", "b", "f"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "Black/Black(32).jpg",
+    "brand": "iron maiden",
+    "words": ["infinite", "dreams", "1989"],
+    "colors": ["black", "white", "red", "blue"],
+    "figures": ["eddie"]
+  },
+  {
+    "imageName": "Black/Black(33).jpg",
+    "words": ["brasserie", "des", "sources", "2005", "nord"],
+    "colors": ["black", "white"],
+    "figures": ["triangle", "circle"]
+  },
+  {
+    "imageName": "Black/Black(34).jpg",
+    "words": ["midnight", "circus", "gypsy", "brewing"],
+    "colors": ["black", "white"],
+    "figures": ["circus"]
+  },
+  {
+    "imageName": "Black/Black(35).jpg",
+    "brand": "zlaten dab",
+    "words": [
+      "zlaten",
+      "dab",
+      "macedonian",
+      "premium",
+      "beer",
+      "19prilepska",
+      "pivarnica",
+      "24"
+    ],
+    "colors": ["black", "white", "golden"],
+    "figures": ["tree"]
+  },
+  {
+    "imageName": "Black/Black(36).jpg",
+    "words": ["w"],
+    "colors": ["black", "yellow"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "Black/Black(37).jpg",
+    "words": [],
+    "colors": ["black", "yellow", "red"],
+    "figures": ["moose"]
+  },
+  {
+    "imageName": "Black/Black(38).jpg",
+    "words": ["cuvee", "des", "trolls"],
+    "colors": ["black", "yellow"],
+    "figures": ["troll"]
+  },
+  {
+    "imageName": "Black/Black(39).jpg",
+    "words": [],
+    "colors": ["red", "white", "black", "yellow"],
+    "figures": ["heart", "arrow", "book"]
+  },
+  {
+    "imageName": "Black/Black(4).jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["owl"]
+  },
+  {
+    "imageName": "Black/Black(40).jpg",
+    "words": ["belgian", "ale", "barista", "chocolate", "quad"],
+    "colors": ["black", "white", "purple"],
+    "figures": []
+  },
+  {
+    "imageName": "Black/Black(41).jpg",
+    "brand": "steiger",
+    "words": ["steiger"],
+    "colors": ["green", "brown", "white"],
+    "figures": ["lizard"]
+  },
+  {
+    "imageName": "Black/Black(42).jpg",
+    "words": ["lennet"],
+    "colors": ["black", "green", "white", "orange"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "Black/Black(43).jpg",
+    "brand": "gulden draak",
+    "words": ["gulden", "draak"],
+    "colors": ["white", "red", "golden"],
+    "figures": ["dragon"]
+  },
+  {
+    "imageName": "Black/Black(44).jpg",
+    "brand": "gulden draak",
+    "words": ["gulden", "draak"],
+    "colors": ["red", "black", "golden"],
+    "figures": ["dragon"]
+  },
+  {
+    "imageName": "Black/Black(45).jpg",
+    "words": [],
+    "colors": ["brown", "yellow"],
+    "figures": ["lion", "crown", "glass"]
+  },
+  {
+    "imageName": "Black/Black(46).jpg",
+    "words": ["abk", "aktienbrauerei", "kaufbeuren", "seit", "1308", "since"],
+    "colors": ["black", "white", "red", "yellow", "golden"],
+    "figures": ["lion", "star"]
+  },
+  {
+    "imageName": "Black/Black(47).jpg",
+    "brand": "marstons",
+    "words": ["marstons"],
+    "colors": ["black", "blue"],
+    "figures": ["circle", "cross"]
+  },
+  {
+    "imageName": "Black/Black(48).jpg",
+    "brand": "mb",
+    "words": ["mb", "ab"],
+    "colors": ["black", "white"],
+    "figures": ["hops", "grain"]
+  },
+  {
+    "imageName": "Black/Black(49).jpg",
+    "brand": "mb",
+    "words": ["mb", "1848", "anno", "mariestads", "bryggeri", "aktiebolag"],
+    "colors": ["golden", "white", "red"],
+    "figures": ["castle"]
+  },
+  {
+    "imageName": "Black/Black(5).jpg",
+    "brand": "primator",
+    "words": [
+      "primator",
+      "craft",
+      "brewery",
+      "czech",
+      "republic",
+      "1872",
+      "nachod",
+      "since"
+    ],
+    "colors": ["black", "gray"],
+    "figures": ["castle", "grain"]
+  },
+  {
+    "imageName": "Black/Black(6).jpg",
+    "brand": "pinta",
+    "words": ["pinta", "barrel", "brewing"],
+    "colors": ["black", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "Black/Black(7).jpg",
+    "words": ["b"],
+    "colors": ["black", "silver"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "Black/Black(8).jpg",
+    "words": ["craft", "beer", "5th", "elemant"],
+    "colors": ["black", "golden"],
+    "figures": ["rays"]
+  },
+  {
+    "imageName": "Black/Black(9).jpg",
+    "brand": "seven seals",
+    "words": ["seven", "seals", "brewery"],
+    "colors": ["black", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "Black/Black.jpg",
+    "words": ["dois", "corvos", "cervejeira"],
+    "colors": ["black", "white"],
+    "figures": ["raven"]
+  }
+]

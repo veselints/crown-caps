@@ -1,0 +1,338 @@
+[
+  {
+    "imageName": "White/White(1).jpg",
+    "brand": "shumansko",
+    "words": ["шуменско", "100", "малц"],
+    "colors": ["white", "golden"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "White/White(10).jpg",
+    "words": [],
+    "colors": ["white", "brown"],
+    "figures": ["apple", "bird"]
+  },
+  {
+    "imageName": "White/White(11).jpg",
+    "words": [],
+    "colors": ["white", "pink", "brown"],
+    "figures": ["gazelle"]
+  },
+  {
+    "imageName": "White/White(12).jpg",
+    "brand": "cheetah",
+    "words": ["cheetah"],
+    "colors": ["white", "pink", "orange", "red"],
+    "figures": ["cheetah", "sun"]
+  },
+  {
+    "imageName": "White/White(13).jpg",
+    "words": ["d", "b"],
+    "colors": ["red", "white"],
+    "figures": ["hops", "grain"]
+  },
+  {
+    "imageName": "White/White(14).jpg",
+    "words": [],
+    "colors": ["red", "white", "gray"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "White/White(15).jpg",
+    "words": [],
+    "colors": ["golden", "black", "white"],
+    "figures": ["building", "arrow"]
+  },
+  {
+    "imageName": "White/White(16).jpg",
+    "brand": "krombacher",
+    "words": ["krombacher", "pils"],
+    "colors": ["white", "black", "golden"],
+    "figures": ["shield", "eagle"]
+  },
+  {
+    "imageName": "White/White(17).jpg",
+    "brand": "duvel",
+    "words": ["duvel", "d", "tripple", "hop", "citra"],
+    "colors": ["green", "white", "red", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "White/White(18).jpg",
+    "brand": "duvel",
+    "words": ["duvel", "d", "belgian", "strong", "blond"],
+    "colors": ["red", "white", "golden", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "White/White(19).jpg",
+    "brand": "duvel",
+    "words": ["duvel", "d", "belgian", "blond"],
+    "colors": ["red", "yellow", "white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "White/White(2).jpg",
+    "brand": "dudak",
+    "words": ["dudak", "strakonicky"],
+    "colors": ["orange", "white"],
+    "figures": ["man", "pipe"]
+  },
+  {
+    "imageName": "White/White(20).jpg",
+    "brand": "berliner kindl",
+    "words": ["berliner", "kindl", "jubilaums", "pilsener"],
+    "colors": ["white", "black", "red", "orange"],
+    "figures": ["glass", "child"]
+  },
+  {
+    "imageName": "White/White(21).jpg",
+    "words": [],
+    "colors": ["red", "white"],
+    "figures": ["dragon"]
+  },
+  {
+    "imageName": "White/White(22).jpg",
+    "words": ["schonramer", "gegt", "1780"],
+    "colors": ["white", "black", "blue", "red", "yellow"],
+    "figures": ["decoration"]
+  },
+  {
+    "imageName": "White/White(23).jpg",
+    "words": ["sakiskiu", "alus"],
+    "colors": ["white", "black"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "White/White(24).jpg",
+    "words": ["krakonos", "pivovar"],
+    "colors": ["black", "white"],
+    "figures": ["dragon", "bird", "castle"]
+  },
+  {
+    "imageName": "White/White(25).jpg",
+    "words": ["birrificio", "manerba"],
+    "colors": ["black", "white"],
+    "figures": ["bear"]
+  },
+  {
+    "imageName": "White/White(26).jpg",
+    "brand": "grevensteiner",
+    "words": ["grevensteiner", "veltins"],
+    "colors": ["white", "black"],
+    "figures": ["cask", "lion", "grain", "hops"]
+  },
+  {
+    "imageName": "White/White(27).jpg",
+    "words": ["1854", "kellerbier"],
+    "colors": ["black", "white"],
+    "figures": ["kingfisher"]
+  },
+  {
+    "imageName": "White/White(28).jpg",
+    "words": ["river", "craft", "veer"],
+    "colors": ["black", "white"],
+    "figures": ["ship"]
+  },
+  {
+    "imageName": "White/White(29).jpg",
+    "brand": "peroni",
+    "words": ["peroni", "nastro", "azzurro"],
+    "colors": ["white", "red", "blue"],
+    "figures": []
+  },
+  {
+    "imageName": "White/White(3).jpg",
+    "brand": "ferdinand",
+    "words": ["ferdinand", "pivovar", "skutecne", "pivo", "benesov", "1897"],
+    "colors": ["white", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "White/White(30).jpg",
+    "brand": "miller",
+    "words": ["m", "lite", "the", "original", "light", "pilsner"],
+    "colors": ["white", "golden", "blue"],
+    "figures": []
+  },
+  {
+    "imageName": "White/White(31).jpg",
+    "words": ["zolter", "bier", "naturlich", "sympatisch", "frisch"],
+    "colors": ["white", "silver", "blue"],
+    "figures": ["eagle", "hops", "cask"]
+  },
+  {
+    "imageName": "White/White(32).jpg",
+    "words": ["palm"],
+    "colors": ["green", "white", "black", "red"],
+    "figures": ["horse"]
+  },
+  {
+    "imageName": "White/White(33).jpg",
+    "brand": "poutik",
+    "words": ["poutnik", "pelhrimov", "15", "52"],
+    "colors": ["white", "black"],
+    "figures": ["man", "stick"]
+  },
+  {
+    "imageName": "White/White(34).jpg",
+    "brand": "pulleken",
+    "words": ["pulleken"],
+    "colors": ["white", "black", "blue", "orange"],
+    "figures": ["man", "cask"]
+  },
+  {
+    "imageName": "White/White(35).jpg",
+    "brand": "eifelbrau",
+    "words": ["eifelbrau", "helles", "landbier"],
+    "colors": ["green", "white"],
+    "figures": ["field", "house"]
+  },
+  {
+    "imageName": "White/White(36).jpg",
+    "brand": "karg",
+    "words": ["karg", "weissbier"],
+    "colors": ["white", "blue"],
+    "figures": ["grain", "cask"]
+  },
+  {
+    "imageName": "White/White(37).jpg",
+    "words": [],
+    "colors": ["white", "black", "golden"],
+    "figures": ["abstract", "flower"]
+  },
+  {
+    "imageName": "White/White(38).jpg",
+    "words": [],
+    "colors": ["golden", "white", "black", "blue"],
+    "figures": ["circle"]
+  },
+  {
+    "imageName": "White/White(39).jpg",
+    "brand": "kilikia",
+    "words": ["kilikia", "1952"],
+    "colors": ["white", "black", "orange"],
+    "figures": ["crown", "circle"]
+  },
+  {
+    "imageName": "White/White(4).jpg",
+    "words": [],
+    "colors": ["white"],
+    "figures": []
+  },
+  {
+    "imageName": "White/White(40).jpg",
+    "words": ["landsberger.de"],
+    "colors": ["white", "blue"],
+    "figures": ["bike", "bottle", "squirrel"]
+  },
+  {
+    "imageName": "White/White(41).jpg",
+    "words": [
+      "unfiltered",
+      "capovolgere",
+      "la",
+      "bottiglia",
+      "prima",
+      "dell",
+      "apertura"
+    ],
+    "colors": ["green", "white", "red"],
+    "figures": ["bottle", "arrow"]
+  },
+  {
+    "imageName": "White/White(42).jpg",
+    "words": ["eifeler", "landbier"],
+    "colors": ["white", "green"],
+    "figures": ["forest", "deer", "hops"]
+  },
+  {
+    "imageName": "White/White(43).jpg",
+    "brand": "gaffel",
+    "words": ["gaffel", "wiess"],
+    "colors": ["blue", "white"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "White/White(44).jpg",
+    "brand": "gaffel",
+    "words": ["prost", "zesamme"],
+    "colors": ["blue", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "White/White(45).jpg",
+    "words": ["two", "chefs", "brewing"],
+    "colors": ["white", "green", "blue"],
+    "figures": []
+  },
+  {
+    "imageName": "White/White(46).jpg",
+    "brand": "heineken",
+    "words": ["heineken", "silver"],
+    "colors": ["red", "white", "green", "silver"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "White/White(47).jpg",
+    "words": ["oblon", "beer", "пиво", "premium", "ukrainian", "beer"],
+    "colors": ["green", "white", "golden"],
+    "figures": ["shield", "crown", "griffon"]
+  },
+  {
+    "imageName": "White/White(48).jpg",
+    "brand": "staropraman",
+    "words": ["staropraman", "smichovsky", "vyber", "s"],
+    "colors": ["white", "golden"],
+    "figures": ["hops", "grain", "circle"]
+  },
+  {
+    "imageName": "White/White(49).jpg",
+    "brand": "staropraman",
+    "words": ["staropraman", "smichovsky", "vyber", "s"],
+    "colors": ["green", "golden"],
+    "figures": ["hops", "grain", "circle"]
+  },
+  {
+    "imageName": "White/White(5).jpg",
+    "brand": "zywiec",
+    "words": ["zywiec", "1856", "warzony", "zawsze", "skladnikow"],
+    "colors": ["white", "red", "blue", "silver"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "White/White(6).jpg",
+    "brand": "tyskie",
+    "words": [
+      "tyskie",
+      "trade",
+      "mark",
+      "browary",
+      "ksiazece",
+      "registered",
+      "1629"
+    ],
+    "colors": ["white", "red"],
+    "figures": ["crown", "cross"]
+  },
+  {
+    "imageName": "White/White(7).jpg",
+    "brand": "tyskie",
+    "words": ["tyskie", "jestesmy", "na", "ty"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "White/White(8).jpg",
+    "brand": "aleksandrapol",
+    "words": ["aleksandrapol", "premium", "beer", "1898"],
+    "colors": ["white", "golden"],
+    "figures": ["arrow", "circle"]
+  },
+  {
+    "imageName": "White/White(9).jpg",
+    "words": ["m"],
+    "colors": ["golden", "white"],
+    "figures": ["circle", "wave"]
+  }
+]

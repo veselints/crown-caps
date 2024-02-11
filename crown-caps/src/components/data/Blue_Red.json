@@ -1,0 +1,322 @@
+[
+  {
+    "imageName": "Blue_Red/Blue_Red(1).jpg",
+    "words": ["nrtd", "prt", "2017"],
+    "colors": ["blue", "yellow", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(10).jpg",
+    "words": ["n"],
+    "colors": ["blue", "white", "red"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(11).jpg",
+    "brand": "safari",
+    "words": ["safari", "lager"],
+    "colors": ["blue", "golden", "red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(12).jpg",
+    "brand": "giesinger",
+    "words": ["giesinger", "brau", "munchen"],
+    "colors": ["blue"],
+    "figures": ["church", "leaf", "hops"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(13).jpg",
+    "words": [],
+    "colors": ["blue"],
+    "figures": []
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(14).jpg",
+    "words": ["1859", "jc"],
+    "colors": ["blue", "white"],
+    "figures": ["hops", "abstract"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(15).jpg",
+    "words": ["weltenburger", "kloster"],
+    "colors": ["blue", "white", "red"],
+    "figures": ["cross"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(16).jpg",
+    "brand": "flying fish",
+    "words": ["flying", "fish", "premium", "flavoured", "beer"],
+    "colors": ["blue", "white", "silver"],
+    "figures": ["fish"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(17).jpg",
+    "brand": "ozujsko",
+    "words": ["ozujsko", "cool"],
+    "colors": ["blue", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(18).jpg",
+    "brand": "hb",
+    "words": ["hb", "schutz", "marke"],
+    "colors": ["blue", "white"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(19).jpg",
+    "brand": "benediktiner",
+    "words": ["benediktiner", "hell"],
+    "colors": ["blue", "white", "silver"],
+    "figures": ["monk", "hops", "grain"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(2).jpg",
+    "brand": "puntigamer",
+    "words": ["puntigamer", "das", "bierige", "bier", "auf", "open"],
+    "colors": ["blue", "white"],
+    "figures": ["lion", "arrow"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(20).jpg",
+    "brand": "grimbergen",
+    "words": ["grimbergen", "1128"],
+    "colors": ["blue", "black"],
+    "figures": ["bird"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(21).jpg",
+    "words": [],
+    "colors": ["blue", "yellow", "green", "brown"],
+    "figures": ["church", "house"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(22).jpg",
+    "brand": "budweiser",
+    "words": [],
+    "colors": ["red", "silver"],
+    "figures": ["castle", "lion"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(23).jpg",
+    "words": ["uvareno", "narodnim", "pivovaru"],
+    "colors": ["red", "silver"],
+    "figures": ["lion", "circle"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(24).jpg",
+    "brand": "starobrno",
+    "words": ["starobrno", "soutez"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(25).jpg",
+    "words": ["1702"],
+    "colors": ["red", "white"],
+    "figures": ["cask", "mole"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(26).jpg",
+    "words": ["17", "02"],
+    "colors": ["red", "black"],
+    "figures": ["cask", "mole"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(27).jpg",
+    "brand": "grimbergen",
+    "words": ["grimbergen", "1128"],
+    "colors": ["red", "black"],
+    "figures": ["bird"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(28).jpg",
+    "words": ["union"],
+    "colors": ["red", "black"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(29).jpg",
+    "brand": "bud",
+    "words": ["king", "of", "beers"],
+    "colors": ["red", "silver"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(3).jpg",
+    "brand": "edelweiss",
+    "words": ["edelweiss", "weizenbier", "original"],
+    "colors": ["blue", "white", "golden"],
+    "figures": ["mountain"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(30).jpg",
+    "words": [],
+    "colors": ["red", "white"],
+    "figures": ["paw"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(31).jpg",
+    "brand": "ursus",
+    "words": ["ursus"],
+    "colors": ["red", "white", "golden"],
+    "figures": ["arrow", "crown"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(32).jpg",
+    "brand": "saigon",
+    "words": [],
+    "colors": ["red", "golden", "silver"],
+    "figures": ["dragon"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(33).jpg",
+    "words": [],
+    "colors": ["red", "white"],
+    "figures": ["wolf"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(34).jpg",
+    "brand": "ichnusa",
+    "words": ["ichnusa", "ambra", "limpida"],
+    "colors": ["red", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(35).jpg",
+    "brand": "bos",
+    "words": ["bos", "brasserie", "bieres", "artisanales"],
+    "colors": ["red", "black", "white"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(36).jpg",
+    "brand": "ozujsko",
+    "words": ["ozujsko"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(37).jpg",
+    "words": ["h"],
+    "colors": ["red", "white"],
+    "figures": ["letter", "square"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(38).jpg",
+    "words": [],
+    "colors": ["red", "green", "yellow", "white"],
+    "figures": ["cherry"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(39).jpg",
+    "words": ["velebitsko", "pivo", "licanka"],
+    "colors": ["golden", "black", "red"],
+    "figures": ["line"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(40).jpg",
+    "brand": "corgon",
+    "words": ["corgon"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(41).jpg",
+    "brand": "chotebor",
+    "words": ["chotebor"],
+    "colors": ["red", "white"],
+    "figures": ["lion", "shield"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(42).jpg",
+    "brand": "burgasko",
+    "words": ["бургаско"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(43).jpg",
+    "words": ["schreckenskammer", "14", "42"],
+    "colors": ["red", "white"],
+    "figures": ["crown", "spade"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(44).jpg",
+    "words": ["saris", "10"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(45).jpg",
+    "words": ["saris"],
+    "colors": ["red", "white"],
+    "figures": ["12"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(46).jpg",
+    "words": ["great", "minds", "drink", "alike", "gdbc", "denver", "co"],
+    "colors": ["red", "white"],
+    "figures": ["mountain"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(47).jpg",
+    "words": ["ploegsteert", "queue", "de", "charrue"],
+    "colors": ["orange", "blue"],
+    "figures": ["soil", "an"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(48).jpg",
+    "brand": "peroni",
+    "words": ["peroni", "non", "filtrata"],
+    "colors": ["orange", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(49).jpg",
+    "brand": "peroni",
+    "words": ["peroni", "cruda"],
+    "colors": ["gray", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(5).jpg",
+    "words": ["extra", "cold", "lagered", "premium", "beer"],
+    "colors": ["white", "blue"],
+    "figures": ["snowflake", "castle"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(6).jpg",
+    "brand": "kona",
+    "words": ["kona", "brewing", "co"],
+    "colors": ["blue", "white"],
+    "figures": ["lizard"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(7).jpg",
+    "words": ["lake", "district", "castle", "brewery", "est", "1828"],
+    "colors": ["blue", "white"],
+    "figures": ["triangle"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(8).jpg",
+    "brand": "samuel adams",
+    "words": ["samuel", "adams"],
+    "colors": ["blue", "golden", "white"],
+    "figures": ["shield"]
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red(9).jpg",
+    "brand": "bud",
+    "words": ["bud", "light", "platinium"],
+    "colors": ["blue", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "Blue_Red/Blue_Red.jpg",
+    "words": ["maxl", "helles", "original"],
+    "colors": ["white", "blue"],
+    "figures": []
+  }
+]

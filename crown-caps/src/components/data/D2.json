@@ -1,717 +1,315 @@
 [
-    {
-        "imageName": "D2/plate15_100.jpg",
-        "brand": "miller",
-        "words": [
-            "miller",
-            "twist",
-            "offsince"
-        ],
-        "colors": [
-            "black",
-            "white",
-            "red",
-            "golden"
-        ],
-        "figures": [
-            "arrow"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_101.jpg",
-        "words": [],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": [
-            "bull"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_102.jpg",
-        "words": [],
-        "colors": [
-            "black",
-            "golden"
-        ],
-        "figures": [
-            "skull"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_103.jpg",
-        "brand": "manila",
-        "words": [
-            "manila"
-        ],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "D2/plate15_104.jpg",
-        "words": [
-            "in",
-            "hops",
-            "we",
-            "believe"
-        ],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": [
-            "hops"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_105.jpg",
-        "brand": "krusovice",
-        "words": [
-            "cerne"
-        ],
-        "colors": [
-            "black",
-            "golden"
-        ],
-        "figures": [
-            "crown"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_106.jpg",
-        "words": [
-            "in",
-            "hops",
-            "we",
-            "believe"
-        ],
-        "colors": [
-            "blue",
-            "white"
-        ],
-        "figures": [
-            "hops"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_107.jpg",
-        "words": [
-            "r.i.p."
-        ],
-        "colors": [
-            "black",
-            "golden"
-        ],
-        "figures": [
-            "cross"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_108.jpg",
-        "brand": "kalnapilis",
-        "words": [
-            "kalnapilis"
-        ],
-        "colors": [
-            "black",
-            "green",
-            "red",
-            "white"
-        ],
-        "figures": [
-            "star",
-            "triangle"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_109.jpg",
-        "brand": "badger",
-        "words": [
-            "badger",
-            "brewed",
-            "in",
-            "dorset"
-        ],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": [
-            "badger",
-            "leaf"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_110.jpg",
-        "words": [
-            "s"
-        ],
-        "colors": [
-            "white",
-            "black"
-        ],
-        "figures": [
-            "letter",
-            "anchor"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_111.jpg",
-        "brand": "warsteiner",
-        "words": [
-            "warsteiner",
-            "das",
-            "einzig",
-            "wahre",
-            "seit",
-            "1753"
-        ],
-        "colors": [
-            "black",
-            "golden"
-        ],
-        "figures": [
-            "crown"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_112.jpg",
-        "words": [
-            "oakhamales.com"
-        ],
-        "colors": [
-            "black",
-            "white",
-            "yellow"
-        ],
-        "figures": [
-            "abstract"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_113.jpg",
-        "words": [],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": [
-            "zeppelin"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_114.jpg",
-        "words": [
-            "ny"
-        ],
-        "colors": [
-            "blue",
-            "white"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_115.jpg",
-        "brand": "bernard",
-        "words": [
-            "bernard",
-            "11",
-            "nepasterovano"
-        ],
-        "colors": [
-            "gray",
-            "yellow",
-            "red"
-        ],
-        "figures": [
-            "dog",
-            "shield"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_116.jpg",
-        "brand": "krombacher",
-        "words": [
-            "krombacher",
-            "dark"
-        ],
-        "colors": [
-            "black",
-            "white",
-            "red",
-            "golden"
-        ],
-        "figures": [
-            "shield"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_117.jpg",
-        "words": [],
-        "colors": [
-            "black",
-            "silver"
-        ],
-        "figures": [
-            "deamon"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_118.jpg",
-        "words": [],
-        "colors": [
-            "black",
-            "silver"
-        ],
-        "figures": [
-            "panda"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_119.jpg",
-        "words": [
-            "true",
-            "independent",
-            "craft"
-        ],
-        "colors": [
-            "black",
-            "silver"
-        ],
-        "figures": [
-            "deamon"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_120.jpg",
-        "brand": "saporo",
-        "words": [
-            "saporo"
-        ],
-        "colors": [
-            "black",
-            "silver",
-            "yellow"
-        ],
-        "figures": [
-            "star"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_121.jpg",
-        "words": [
-            "ninkasi",
-            "brewing",
-            "eugene",
-            "oregon"
-        ],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_122.jpg",
-        "words": [],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": [
-            "abstract"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_123.jpg",
-        "words": [
-            "o"
-        ],
-        "colors": [
-            "black",
-            "silver"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_124.jpg",
-        "words": [
-            "trade",
-            "mark",
-            "registered",
-            "since",
-            "1801"
-        ],
-        "colors": [
-            "green",
-            "white"
-        ],
-        "figures": [
-            "elephant"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_125.jpg",
-        "brand": "pelforth",
-        "words": [
-            "pelforth",
-            "biere",
-            "de",
-            "caractere"
-        ],
-        "colors": [
-            "red",
-            "yellow",
-            "white",
-            "black"
-        ],
-        "figures": [
-            "pelican"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_126.jpg",
-        "brand": "belgoo",
-        "words": [
-            "belgoo",
-            "brouwerij",
-            "brasserie"
-        ],
-        "colors": [
-            "brown",
-            "white"
-        ],
-        "figures": [
-            "star"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_127.jpg",
-        "words": [
-            "indipendente",
-            "elav",
-            "birrificio"
-        ],
-        "colors": [
-            "gray",
-            "silver"
-        ],
-        "figures": [
-            "abstract"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_128.jpg",
-        "words": [
-            "08"
-        ],
-        "colors": [
-            "yellow",
-            "brown"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_129.jpg",
-        "words": [],
-        "colors": [
-            "black",
-            "yellow"
-        ],
-        "figures": [
-            "abstract"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_130.jpg",
-        "words": [
-            "u"
-        ],
-        "colors": [
-            "black",
-            "yellow"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_131.jpg",
-        "words": [],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": [
-            "abstract"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_132.jpg",
-        "words": [
-            "m",
-            "premium",
-            "draught"
-        ],
-        "colors": [
-            "black",
-            "golden"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_133.jpg",
-        "words": [
-            "m",
-            "premium",
-            "lager"
-        ],
-        "colors": [
-            "green",
-            "golden"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_134.jpg",
-        "brand": "carling",
-        "words": [
-            "carling",
-            "black",
-            "label"
-        ],
-        "colors": [
-            "black",
-            "golden",
-            "red"
-        ],
-        "figures": [
-            "arrow",
-            "cup"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_135.jpg",
-        "words": [
-            "twist",
-            "off"
-        ],
-        "colors": [
-            "golden",
-            "black"
-        ],
-        "figures": [
-            "mountain"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_136.jpg",
-        "words": [
-            "twist",
-            "off"
-        ],
-        "colors": [
-            "golden",
-            "brown"
-        ],
-        "figures": [
-            "mountain"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_137.jpg",
-        "brand": "kozel",
-        "words": [
-            "kezel",
-            "rezany",
-            "velkopopovicky"
-        ],
-        "colors": [
-            "golden",
-            "brown"
-        ],
-        "figures": [
-            "goat",
-            "glass"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_138.jpg",
-        "words": [
-            "docteur",
-            "gab's",
-            "pepite"
-        ],
-        "colors": [
-            "green",
-            "black"
-        ],
-        "figures": [
-            "glass"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_139.jpg",
-        "brand": "warsteiner",
-        "words": [
-            "warsteiner",
-            "premium",
-            "beer"
-        ],
-        "colors": [
-            "golden",
-            "black"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "D2/plate15_140.jpg",
-        "words": [],
-        "colors": [
-            "black",
-            "golden"
-        ],
-        "figures": [
-            "cross"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_141.jpg",
-        "brand": "franziskaner",
-        "words": [
-            "franziskaner",
-            "weissbier"
-        ],
-        "colors": [
-            "black",
-            "white",
-            "golden"
-        ],
-        "figures": [
-            "man",
-            "glass"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_142.jpg",
-        "words": [],
-        "colors": [
-            "black",
-            "orange"
-        ],
-        "figures": [
-            "abstract"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_143.jpg",
-        "brand": "marstons",
-        "words": [
-            "marstons"
-        ],
-        "colors": [
-            "black",
-            "purple"
-        ],
-        "figures": [
-            "circle",
-            "abstract",
-            "cross"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_144.jpg",
-        "words": [
-            "piensa",
-            "global",
-            "bebe",
-            "local"
-        ],
-        "colors": [
-            "black",
-            "silver"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "D2/plate15_145.jpg",
-        "brand": "bakunin",
-        "words": [
-            "бакунин",
-            "пивоварня",
-            "санкт-петербург",
-            "est",
-            "2013"
-        ],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": [
-            "hops",
-            "grain"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_146.jpg",
-        "words": [
-            "b"
-        ],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_147.jpg",
-        "brand": "angkor",
-        "words": [
-            "angkor",
-            "extra",
-            "stout"
-        ],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": [
-            "temple"
-        ]
-    },
-    {
-        "imageName": "D2/plate15_148.jpg",
-        "brand": "lakeland",
-        "words": [
-            "lakeland",
-            "ales",
-            "jennings"
-        ],
-        "colors": [
-            "black",
-            "white",
-            "golden"
-        ],
-        "figures": [
-            "mountain"
-        ]
-    }
+  {
+    "imageName": "D2/plate15_100.jpg",
+    "brand": "miller",
+    "words": ["miller", "twist", "offsince"],
+    "colors": ["black", "white", "red", "golden"],
+    "figures": ["arrow"]
+  },
+  {
+    "imageName": "D2/plate15_101.jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["bull"]
+  },
+  {
+    "imageName": "D2/plate15_102.jpg",
+    "words": [],
+    "colors": ["black", "golden"],
+    "figures": ["skull"]
+  },
+  {
+    "imageName": "D2/plate15_103.jpg",
+    "brand": "manila",
+    "words": ["manila"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "D2/plate15_104.jpg",
+    "words": ["in", "hops", "we", "believe"],
+    "colors": ["black", "white"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "D2/plate15_105.jpg",
+    "brand": "krusovice",
+    "words": ["cerne"],
+    "colors": ["black", "golden"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "D2/plate15_106.jpg",
+    "words": ["in", "hops", "we", "believe"],
+    "colors": ["blue", "white"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "D2/plate15_107.jpg",
+    "words": ["r.i.p."],
+    "colors": ["black", "golden"],
+    "figures": ["cross"]
+  },
+  {
+    "imageName": "D2/plate15_108.jpg",
+    "brand": "kalnapilis",
+    "words": ["kalnapilis"],
+    "colors": ["black", "green", "red", "white"],
+    "figures": ["star", "triangle"]
+  },
+  {
+    "imageName": "D2/plate15_109.jpg",
+    "brand": "badger",
+    "words": ["badger", "brewed", "in", "dorset"],
+    "colors": ["black", "white"],
+    "figures": ["badger", "leaf"]
+  },
+  {
+    "imageName": "D2/plate15_110.jpg",
+    "words": ["s"],
+    "colors": ["white", "black"],
+    "figures": ["letter", "anchor"]
+  },
+  {
+    "imageName": "D2/plate15_111.jpg",
+    "brand": "warsteiner",
+    "words": ["warsteiner", "das", "einzig", "wahre", "seit", "1753"],
+    "colors": ["black", "golden"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "D2/plate15_112.jpg",
+    "words": ["oakhamales.com"],
+    "colors": ["black", "white", "yellow"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "D2/plate15_113.jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["zeppelin"]
+  },
+  {
+    "imageName": "D2/plate15_114.jpg",
+    "words": ["ny"],
+    "colors": ["blue", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "D2/plate15_115.jpg",
+    "brand": "bernard",
+    "words": ["bernard", "11", "nepasterovano"],
+    "colors": ["gray", "yellow", "red"],
+    "figures": ["dog", "shield"]
+  },
+  {
+    "imageName": "D2/plate15_116.jpg",
+    "brand": "krombacher",
+    "words": ["krombacher", "dark"],
+    "colors": ["black", "white", "red", "golden"],
+    "figures": ["shield"]
+  },
+  {
+    "imageName": "D2/plate15_117.jpg",
+    "words": [],
+    "colors": ["black", "silver"],
+    "figures": ["deamon"]
+  },
+  {
+    "imageName": "D2/plate15_118.jpg",
+    "words": [],
+    "colors": ["black", "silver"],
+    "figures": ["panda"]
+  },
+  {
+    "imageName": "D2/plate15_119.jpg",
+    "words": ["true", "independent", "craft"],
+    "colors": ["black", "silver"],
+    "figures": ["deamon"]
+  },
+  {
+    "imageName": "D2/plate15_120.jpg",
+    "brand": "sapporo",
+    "words": ["sapporo"],
+    "colors": ["black", "silver", "yellow"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "D2/plate15_121.jpg",
+    "words": ["ninkasi", "brewing", "eugene", "oregon"],
+    "colors": ["black", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "D2/plate15_122.jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "D2/plate15_123.jpg",
+    "words": ["o"],
+    "colors": ["black", "silver"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "D2/plate15_124.jpg",
+    "words": ["trade", "mark", "registered", "since", "1801"],
+    "colors": ["green", "white"],
+    "figures": ["elephant"]
+  },
+  {
+    "imageName": "D2/plate15_125.jpg",
+    "brand": "pelforth",
+    "words": ["pelforth", "biere", "de", "caractere"],
+    "colors": ["red", "yellow", "white", "black"],
+    "figures": ["pelican"]
+  },
+  {
+    "imageName": "D2/plate15_126.jpg",
+    "brand": "belgoo",
+    "words": ["belgoo", "brouwerij", "brasserie"],
+    "colors": ["brown", "white"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "D2/plate15_127.jpg",
+    "words": ["indipendente", "elav", "birrificio"],
+    "colors": ["gray", "silver"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "D2/plate15_128.jpg",
+    "words": ["08"],
+    "colors": ["yellow", "brown"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "D2/plate15_129.jpg",
+    "words": [],
+    "colors": ["black", "yellow"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "D2/plate15_130.jpg",
+    "words": ["u"],
+    "colors": ["black", "yellow"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "D2/plate15_131.jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "D2/plate15_132.jpg",
+    "words": ["m", "premium", "draught"],
+    "colors": ["black", "golden"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "D2/plate15_133.jpg",
+    "words": ["m", "premium", "lager"],
+    "colors": ["green", "golden"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "D2/plate15_134.jpg",
+    "brand": "carling",
+    "words": ["carling", "black", "label"],
+    "colors": ["black", "golden", "red"],
+    "figures": ["arrow", "cup"]
+  },
+  {
+    "imageName": "D2/plate15_135.jpg",
+    "words": ["twist", "off"],
+    "colors": ["golden", "black"],
+    "figures": ["mountain"]
+  },
+  {
+    "imageName": "D2/plate15_136.jpg",
+    "words": ["twist", "off"],
+    "colors": ["golden", "brown"],
+    "figures": ["mountain"]
+  },
+  {
+    "imageName": "D2/plate15_137.jpg",
+    "brand": "kozel",
+    "words": ["kezel", "rezany", "velkopopovicky"],
+    "colors": ["golden", "brown"],
+    "figures": ["goat", "glass"]
+  },
+  {
+    "imageName": "D2/plate15_138.jpg",
+    "words": ["docteur", "gab's", "pepite"],
+    "colors": ["green", "black"],
+    "figures": ["glass"]
+  },
+  {
+    "imageName": "D2/plate15_139.jpg",
+    "brand": "warsteiner",
+    "words": ["warsteiner", "premium", "beer"],
+    "colors": ["golden", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "D2/plate15_140.jpg",
+    "words": [],
+    "colors": ["black", "golden"],
+    "figures": ["cross"]
+  },
+  {
+    "imageName": "D2/plate15_141.jpg",
+    "brand": "franziskaner",
+    "words": ["franziskaner", "weissbier"],
+    "colors": ["black", "white", "golden"],
+    "figures": ["man", "glass"]
+  },
+  {
+    "imageName": "D2/plate15_142.jpg",
+    "words": [],
+    "colors": ["black", "orange"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "D2/plate15_143.jpg",
+    "brand": "marstons",
+    "words": ["marstons"],
+    "colors": ["black", "purple"],
+    "figures": ["circle", "abstract", "cross"]
+  },
+  {
+    "imageName": "D2/plate15_144.jpg",
+    "words": ["piensa", "global", "bebe", "local"],
+    "colors": ["black", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "D2/plate15_145.jpg",
+    "brand": "bakunin",
+    "words": ["бакунин", "пивоварня", "санкт-петербург", "est", "2013"],
+    "colors": ["black", "white"],
+    "figures": ["hops", "grain"]
+  },
+  {
+    "imageName": "D2/plate15_146.jpg",
+    "words": ["b"],
+    "colors": ["black", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "D2/plate15_147.jpg",
+    "brand": "angkor",
+    "words": ["angkor", "extra", "stout"],
+    "colors": ["black", "white"],
+    "figures": ["temple"]
+  },
+  {
+    "imageName": "D2/plate15_148.jpg",
+    "brand": "lakeland",
+    "words": ["lakeland", "ales", "jennings"],
+    "colors": ["black", "white", "golden"],
+    "figures": ["mountain"]
+  }
 ]

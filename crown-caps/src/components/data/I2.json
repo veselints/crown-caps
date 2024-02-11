@@ -1,743 +1,315 @@
 [
-    {
-       "imageName":"I2/plate4_100.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "red",
-          "black",
-          "silver"
-       ],
-       "figures":[
-          "heart"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_101.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "red",
-          "silver",
-          "black"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_102.jpg",
-       "brand":"zagorka",
-       "words":[
-          "загорка",
-          "пиво"
-       ],
-       "colors":[
-          "golden",
-          "white",
-          "brown"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I2/plate4_103.jpg",
-       "words":[
-          "spalter"
-       ],
-       "colors":[
-          "blue",
-          "silver"
-       ],
-       "figures":[
-          "house"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_104.jpg",
-       "words":[
-          "cass",
-          "fresh",
-          "korea",
-          "beer",
-          "no"
-       ],
-       "colors":[
-          "blue",
-          "silver",
-          "yellow"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I2/plate4_105.jpg",
-       "words":[
-          "munchner",
-          "reinhfitsgebot",
-          "bier",
-          "525",
-          "jahre"
-       ],
-       "colors":[
-          "black",
-          "silver",
-          "yellow"
-       ],
-       "figures":[
-          "man"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_106.jpg",
-       "words":[
-          "munchner",
-          "reinhfitsgebot",
-          "bier",
-          "seit",
-          "1487"
-       ],
-       "colors":[
-          "black",
-          "silver",
-          "yellow"
-       ],
-       "figures":[
-          "man"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_107.jpg",
-       "brand":"radegast",
-       "words":[
-          "radegast",
-          "10"
-       ],
-       "colors":[
-          "green",
-          "silver"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_108.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "black",
-          "silver"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I2/plate4_109.jpg",
-       "words":[
-          "korca",
-          "beer",
-          "1928"
-       ],
-       "colors":[
-          "black",
-          "silver"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I2/plate4_110.jpg",
-       "brand":"stella artois",
-       "words":[
-          "stella",
-          "artois",
-          "belgum",
-          "anno"
-       ],
-       "colors":[
-          "golden"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I2/plate4_111.jpg",
-       "words":[
-          "мохнатий",
-          "шмел"
-       ],
-       "colors":[
-          "silver",
-          "black"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I2/plate4_112.jpg",
-       "brand":"kutna hora",
-       "words":[
-          "kutna",
-          "hora"
-       ],
-       "colors":[
-          "black",
-          "silver"
-       ],
-       "figures":[
-          "crown"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_113.jpg",
-       "words":[
-          "les",
-          "bieres",
-          "du",
-          "bernard",
-          "grand",
-          "st"
-       ],
-       "colors":[
-          "black",
-          "silver"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I2/plate4_114.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "golden",
-          "black"
-       ],
-       "figures":[
-          "helmet"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_115.jpg",
-       "words":[
-          "off",
-          "color",
-          "chicago"
-       ],
-       "colors":[
-          "black",
-          "silver"
-       ],
-       "figures":[
-          "mouse"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_116.jpg",
-       "brand":"bernard",
-       "words":[
-          "bernard",
-          "12",
-          "nepasterovano"
-       ],
-       "colors":[
-          "brown",
-          "yellow"
-       ],
-       "figures":[
-          "dog"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_117.jpg",
-       "brand":"bernard",
-       "words":[
-          "bernard",
-          "12",
-          "nepasterovano"
-       ],
-       "colors":[
-          "silver",
-          "yellow"
-       ],
-       "figures":[
-          "dog"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_118.jpg",
-       "brand":"argus",
-       "words":[
-          "argus"
-       ],
-       "colors":[
-          "golden",
-          "white",
-          "red",
-          "green"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I2/plate4_119.jpg",
-       "words":[
-          "coop"
-       ],
-       "colors":[
-          "white",
-          "red",
-          "golden"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I2/plate4_120.jpg",
-       "brand":"tsingtao",
-       "words":[
-          "tsingtao"
-       ],
-       "colors":[
-          "red",
-          "golden"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I2/plate4_121.jpg",
-       "brand":"stella artois",
-       "words":[
-          "stella",
-          "artois"
-       ],
-       "colors":[
-          "golden"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I2/plate4_122.jpg",
-       "brand":"kanec",
-       "words":[
-          "kanec"
-       ],
-       "colors":[
-          "black",
-          "golden"
-       ],
-       "figures":[
-          "boar"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_123.jpg",
-       "brand":"peja",
-       "words":[
-          "peja",
-          "birra"
-       ],
-       "colors":[
-          "golden",
-          "black",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I2/plate4_124.jpg",
-       "words":[
-          "bourgogne",
-          "des",
-          "handres"
-       ],
-       "colors":[
-          "golden",
-          "white",
-          "red"
-       ],
-       "figures":[
-          "house"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_125.jpg",
-       "words":[
-          "1903"
-       ],
-       "colors":[
-          "green",
-          "golden"
-       ],
-       "figures":[
-          "eagle",
-          "dragon",
-          "shield",
-          "man"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_126.jpg",
-       "words":[
-          "kloud"
-       ],
-       "colors":[
-          "golden",
-          "black",
-          "red"
-       ],
-       "figures":[
-          "grain",
-          "tube"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_127.jpg",
-       "words":[
-          "староградско",
-          "сг"
-       ],
-       "colors":[
-          "golden",
-          "black"
-       ],
-       "figures":[
-          "grain",
-          "shield",
-          "crown"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_128.jpg",
-       "words":[
-          "vicaris",
-          "tripel"
-       ],
-       "colors":[
-          "golden",
-          "black"
-       ],
-       "figures":[
-          "horse"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_129.jpg",
-       "brand":"staroburno",
-       "words":[
-          "staroburno",
-          "medium"
-       ],
-       "colors":[
-          "golden",
-          "black"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I2/plate4_130.jpg",
-       "brand":"phoenix",
-       "words":[
-          "phoenix",
-          "beer",
-          "of",
-          "mauritius",
-          "the",
-          "famous"
-          
-       ],
-       "colors":[
-          "golden",
-          "red",
-          "black",
-          "white",
-          "blue"
-       ],
-       "figures":[
-          "phoenix"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_131.jpg",
-       "brand":"",
-       "words":[
-          
-       ],
-       "colors":[
-          "golden",
-          "red",
-          "white"
-       ],
-       "figures":[
-          "crown",
-          "goose"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_132.jpg",
-       "words":[
-          "benediktinerabtei",
-          "plankstetten"
-       ],
-       "colors":[
-          "golden",
-          "black"
-       ],
-       "figures":[
-          "house"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_133.jpg",
-       "words":[
-          "18",
-          "42"
-       ],
-       "colors":[
-          "golden",
-          "white"
-       ],
-       "figures":[
-          "castle"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_134.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "white",
-          "golden"
-       ],
-       "figures":[
-          "hops"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_135.jpg",
-       "brand":"gaida",
-       "words":[
-          "гайда"
-       ],
-       "colors":[
-          "red",
-          "golden"
-       ],
-       "figures":[
-          "pipe"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_136.jpg",
-       "words":[
-          "extra"
-       ],
-       "colors":[
-          "black",
-          "golden"
-       ],
-       "figures":[
-          "goat"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_137.jpg",
-       "brand":"martens",
-       "words":[
-          "martens"
-       ],
-       "colors":[
-          "golden",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I2/plate4_138.jpg",
-       "words":[
-          "oedipus"
-       ],
-       "colors":[
-          "white",
-          "silver"
-       ],
-       "figures":[
-          "leaf"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_139.jpg",
-       "words":[
-          "df"
-       ],
-       "colors":[
-          "black",
-          "golden"
-       ],
-       "figures":[
-          "man",
-          "shield",
-          "letter"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_140.jpg",
-       "words":[
-          "df"
-       ],
-       "colors":[
-          "golden",
-          "yellow"
-       ],
-       "figures":[
-          "man",
-          "shield",
-          "letter"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_141.jpg",
-       "words":[
-          "df"
-       ],
-       "colors":[
-          "golden",
-          "red"
-       ],
-       "figures":[
-          "man",
-          "shield",
-          "letter"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_142.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "golden",
-          "black"
-       ],
-       "figures":[
-          "lion"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_143.jpg",
-       "brand":"andechs",
-       "words":[
-          "andechs",
-          "klosterbrauerei",
-          "seit",
-          "1455"
-       ],
-       "colors":[
-          "golden",
-          "blue"
-       ],
-       "figures":[
-          "shield",
-          "lion",
-          "eagle"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_144.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "black",
-          "golden"
-       ],
-       "figures":[
-          "plant"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_145.jpg",
-       "words":[
-          "des",
-          "amis",
-          "biere"
-       ],
-       "colors":[
-          "golden",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I2/plate4_146.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "black",
-          "white",
-          "yellow"
-       ],
-       "figures":[
-          "bee"
-       ]
-    },
-    {
-       "imageName":"I2/plate4_147.jpg",
-       "brand":"rychtar",
-       "words":[
-          "rychtar"
-       ],
-       "colors":[
-          "golden",
-          "white",
-          "black"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"I2/plate4_148.jpg",
-       "brand":"lobkowicz",
-       "words":[
-          "lobkowicz",
-          "anno"
-       ],
-       "colors":[
-          "golden",
-          "brown"
-       ],
-       "figures":[
-          "shield",
-          "crown"
-       ]
-    }
- ]
+  {
+    "imageName": "I2/plate4_100.jpg",
+    "words": [],
+    "colors": ["red", "black", "silver"],
+    "figures": ["heart"]
+  },
+  {
+    "imageName": "I2/plate4_101.jpg",
+    "words": [],
+    "colors": ["red", "silver", "black"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "I2/plate4_102.jpg",
+    "brand": "zagorka",
+    "words": ["загорка", "пиво"],
+    "colors": ["golden", "white", "brown"],
+    "figures": []
+  },
+  {
+    "imageName": "I2/plate4_103.jpg",
+    "words": ["spalter"],
+    "colors": ["blue", "silver"],
+    "figures": ["house"]
+  },
+  {
+    "imageName": "I2/plate4_104.jpg",
+    "words": ["cass", "fresh", "korea", "beer", "no"],
+    "colors": ["blue", "silver", "yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "I2/plate4_105.jpg",
+    "words": ["munchner", "reinhfitsgebot", "bier", "525", "jahre"],
+    "colors": ["black", "silver", "yellow"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "I2/plate4_106.jpg",
+    "words": ["munchner", "reinhfitsgebot", "bier", "seit", "1487"],
+    "colors": ["black", "silver", "yellow"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "I2/plate4_107.jpg",
+    "brand": "radegast",
+    "words": ["radegast", "10"],
+    "colors": ["green", "silver"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "I2/plate4_108.jpg",
+    "words": [],
+    "colors": ["black", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "I2/plate4_109.jpg",
+    "words": ["korca", "beer", "1928"],
+    "colors": ["black", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "I2/plate4_110.jpg",
+    "brand": "stella artois",
+    "words": ["stella", "artois", "belgum", "anno"],
+    "colors": ["golden"],
+    "figures": []
+  },
+  {
+    "imageName": "I2/plate4_111.jpg",
+    "words": ["мохнатий", "шмел"],
+    "colors": ["silver", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "I2/plate4_112.jpg",
+    "brand": "kutna hora",
+    "words": ["kutna", "hora"],
+    "colors": ["black", "silver"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "I2/plate4_113.jpg",
+    "words": ["les", "bieres", "du", "bernard", "grand", "st"],
+    "colors": ["black", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "I2/plate4_114.jpg",
+    "words": [],
+    "colors": ["golden", "black"],
+    "figures": ["helmet"]
+  },
+  {
+    "imageName": "I2/plate4_115.jpg",
+    "words": ["off", "color", "chicago"],
+    "colors": ["black", "silver"],
+    "figures": ["mouse"]
+  },
+  {
+    "imageName": "I2/plate4_116.jpg",
+    "brand": "bernard",
+    "words": ["bernard", "12", "nepasterovano"],
+    "colors": ["brown", "yellow"],
+    "figures": ["dog"]
+  },
+  {
+    "imageName": "I2/plate4_117.jpg",
+    "brand": "bernard",
+    "words": ["bernard", "12", "nepasterovano"],
+    "colors": ["silver", "yellow"],
+    "figures": ["dog"]
+  },
+  {
+    "imageName": "I2/plate4_118.jpg",
+    "brand": "argus",
+    "words": ["argus"],
+    "colors": ["golden", "white", "red", "green"],
+    "figures": []
+  },
+  {
+    "imageName": "I2/plate4_119.jpg",
+    "words": ["coop"],
+    "colors": ["white", "red", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "I2/plate4_120.jpg",
+    "brand": "tsingtao",
+    "words": ["tsingtao"],
+    "colors": ["red", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "I2/plate4_121.jpg",
+    "brand": "stella artois",
+    "words": ["stella", "artois"],
+    "colors": ["golden"],
+    "figures": []
+  },
+  {
+    "imageName": "I2/plate4_122.jpg",
+    "brand": "kanec",
+    "words": ["kanec"],
+    "colors": ["black", "golden"],
+    "figures": ["boar"]
+  },
+  {
+    "imageName": "I2/plate4_123.jpg",
+    "brand": "peja",
+    "words": ["peja", "birra"],
+    "colors": ["golden", "black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "I2/plate4_124.jpg",
+    "words": ["bourgogne", "des", "handres"],
+    "colors": ["golden", "white", "red"],
+    "figures": ["house"]
+  },
+  {
+    "imageName": "I2/plate4_125.jpg",
+    "words": ["1903"],
+    "colors": ["green", "golden"],
+    "figures": ["eagle", "dragon", "shield", "man"]
+  },
+  {
+    "imageName": "I2/plate4_126.jpg",
+    "words": ["kloud"],
+    "colors": ["golden", "black", "red"],
+    "figures": ["grain", "tube"]
+  },
+  {
+    "imageName": "I2/plate4_127.jpg",
+    "words": ["староградско", "сг"],
+    "colors": ["golden", "black"],
+    "figures": ["grain", "shield", "crown"]
+  },
+  {
+    "imageName": "I2/plate4_128.jpg",
+    "words": ["vicaris", "tripel"],
+    "colors": ["golden", "black"],
+    "figures": ["horse"]
+  },
+  {
+    "imageName": "I2/plate4_129.jpg",
+    "brand": "starobrno",
+    "words": ["starobrno", "medium"],
+    "colors": ["golden", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "I2/plate4_130.jpg",
+    "brand": "phoenix",
+    "words": ["phoenix", "beer", "of", "mauritius", "the", "famous"],
+    "colors": ["golden", "red", "black", "white", "blue"],
+    "figures": ["phoenix"]
+  },
+  {
+    "imageName": "I2/plate4_131.jpg",
+    "brand": "",
+    "words": [],
+    "colors": ["golden", "red", "white"],
+    "figures": ["crown", "goose"]
+  },
+  {
+    "imageName": "I2/plate4_132.jpg",
+    "words": ["benediktinerabtei", "plankstetten"],
+    "colors": ["golden", "black"],
+    "figures": ["house"]
+  },
+  {
+    "imageName": "I2/plate4_133.jpg",
+    "words": ["18", "42"],
+    "colors": ["golden", "white"],
+    "figures": ["castle"]
+  },
+  {
+    "imageName": "I2/plate4_134.jpg",
+    "words": [],
+    "colors": ["white", "golden"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "I2/plate4_135.jpg",
+    "brand": "gaida",
+    "words": ["гайда"],
+    "colors": ["red", "golden"],
+    "figures": ["pipe"]
+  },
+  {
+    "imageName": "I2/plate4_136.jpg",
+    "words": ["extra"],
+    "colors": ["black", "golden"],
+    "figures": ["goat"]
+  },
+  {
+    "imageName": "I2/plate4_137.jpg",
+    "brand": "martens",
+    "words": ["martens"],
+    "colors": ["golden", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "I2/plate4_138.jpg",
+    "words": ["oedipus"],
+    "colors": ["white", "silver"],
+    "figures": ["leaf"]
+  },
+  {
+    "imageName": "I2/plate4_139.jpg",
+    "words": ["df"],
+    "colors": ["black", "golden"],
+    "figures": ["man", "shield", "letter"]
+  },
+  {
+    "imageName": "I2/plate4_140.jpg",
+    "words": ["df"],
+    "colors": ["golden", "yellow"],
+    "figures": ["man", "shield", "letter"]
+  },
+  {
+    "imageName": "I2/plate4_141.jpg",
+    "words": ["df"],
+    "colors": ["golden", "red"],
+    "figures": ["man", "shield", "letter"]
+  },
+  {
+    "imageName": "I2/plate4_142.jpg",
+    "words": [],
+    "colors": ["golden", "black"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "I2/plate4_143.jpg",
+    "brand": "andechs",
+    "words": ["andechs", "klosterbrauerei", "seit", "1455"],
+    "colors": ["golden", "blue"],
+    "figures": ["shield", "lion", "eagle"]
+  },
+  {
+    "imageName": "I2/plate4_144.jpg",
+    "words": [],
+    "colors": ["black", "golden"],
+    "figures": ["plant"]
+  },
+  {
+    "imageName": "I2/plate4_145.jpg",
+    "words": ["des", "amis", "biere"],
+    "colors": ["golden", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "I2/plate4_146.jpg",
+    "words": [],
+    "colors": ["black", "white", "yellow"],
+    "figures": ["bee"]
+  },
+  {
+    "imageName": "I2/plate4_147.jpg",
+    "brand": "rychtar",
+    "words": ["rychtar"],
+    "colors": ["golden", "white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "I2/plate4_148.jpg",
+    "brand": "lobkowicz",
+    "words": ["lobkowicz", "anno"],
+    "colors": ["golden", "brown"],
+    "figures": ["shield", "crown"]
+  }
+]

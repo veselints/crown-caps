@@ -1,736 +1,334 @@
 [
-    {
-        "imageName": "G2/plate7_100.jpg",
-        "words": [
-            "g"
-        ],
-        "colors": [
-            "white",
-            "black",
-            "blue",
-            "yellow"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_101.jpg",
-        "words": [],
-        "colors": [
-            "blue",
-            "black"
-        ],
-        "figures": [
-            "boy"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_102.jpg",
-        "words": [
-            "n"
-        ],
-        "colors": [
-            "black",
-            "green",
-            "red",
-            "yellow"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_103.jpg",
-        "words": [
-            "r"
-        ],
-        "colors": [
-            "black",
-            "green",
-            "yellow"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_104.jpg",
-        "words": [
-            "lupulus"
-        ],
-        "colors": [
-            "black",
-            "green"
-        ],
-        "figures": [
-            "wolf"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_105.jpg",
-        "words": [
-            "lagunitas",
-            "company",
-            "brewing"
-        ],
-        "colors": [
-            "green",
-            "white"
-        ],
-        "figures": [
-            "dog"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_106.jpg",
-        "words": [],
-        "colors": [
-            "black",
-            "green"
-        ],
-        "figures": [
-            "hops"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_107.jpg",
-        "words": [
-            "cinema",
-            "brewers"
-        ],
-        "colors": [
-            "black",
-            "green",
-            "gray"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "G2/plate7_108.jpg",
-        "words": [
-            "aura"
-        ],
-        "colors": [
-            "black",
-            "red"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "G2/plate7_109.jpg",
-        "brand": "fix",
-        "words": [
-            "fix",
-            "dark"
-        ],
-        "colors": [
-            "white",
-            "black"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "G2/plate7_110.jpg",
-        "words": [
-            "db"
-        ],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_111.jpg",
-        "words": [],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_112.jpg",
-        "brand": "metalhead",
-        "words": [
-            "metalhead",
-            "brewery"
-        ],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": [
-            "monster"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_113.jpg",
-        "words": [],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": [
-            "anchor",
-            "rope"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_114.jpg",
-        "words": [],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": [
-            "flash"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_115.jpg",
-        "words": [
-            "omer"
-        ],
-        "colors": [
-            "black",
-            "white",
-            "red"
-        ],
-        "figures": [
-            "shield"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_116.jpg",
-        "words": [
-            "cerne"
-        ],
-        "colors": [
-            "black",
-            "golden"
-        ],
-        "figures": [
-            "crown"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_117.jpg",
-        "brand": "guinness",
-        "words": [
-            "guinness",
-            "st",
-            "james's",
-            "gate",
-            "dublin",
-            "trade",
-            "ark",
-            "17",
-            "59",
-            "tm"
-        ],
-        "colors": [
-            "white",
-            "black"
-        ],
-        "figures": [
-            "harp"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_118.jpg",
-        "brand": "guinness",
-        "words": [
-            "use",
-            "opener",
-            "to",
-            "enjoy",
-            "safely",
-            "tm"
-        ],
-        "colors": [
-            "black",
-            "white",
-            "golden"
-        ],
-        "figures": [
-            "harp"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_119.jpg",
-        "words": [
-            "kwaremont"
-        ],
-        "colors": [
-            "black",
-            "white",
-            "red"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "G2/plate7_120.jpg",
-        "brand": "ararat",
-        "words": [
-            "ararat",
-            "beer"
-        ],
-        "colors": [
-            "black",
-            "white",
-            "golden"
-        ],
-        "figures": [
-            "arrow",
-            "mountain"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_121.jpg",
-        "words": [
-            "flying",
-            "monkeys",
-            "magnum",
-            "opus"
-        ],
-        "colors": [
-            "black",
-            "white",
-            "golden",
-            "blue",
-            "red",
-            "green"
-        ],
-        "figures": [
-            "monkey",
-            "house"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_122.jpg",
-        "brand": "miller",
-        "words": [
-            "miller",
-            "draft",
-            "twist",
-            "off",
-            "genuine"
-        ],
-        "colors": [
-            "black",
-            "golden",
-            "red"
-        ],
-        "figures": [
-            "arrow"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_123.jpg",
-        "words": [
-            "schoppe",
-            "brau",
-            "berlin"
-        ],
-        "colors": [
-            "black",
-            "yellow",
-            "red"
-        ],
-        "figures": [
-            "letter",
-            "grain",
-            "star"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_124.jpg",
-        "words": [
-            "rogue",
-            "dedicated",
-            "to",
-            "the",
-            "rogue",
-            "in",
-            "each",
-            "of",
-            "us"
-        ],
-        "colors": [
-            "black",
-            "silver",
-            "red"
-        ],
-        "figures": [
-            "star"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_125.jpg",
-        "brand": "gulden draak",
-        "words": [
-            "gulden",
-            "draak"
-        ],
-        "colors": [
-            "white",
-            "black",
-            "red",
-            "golden"
-        ],
-        "figures": [
-            "dragon"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_126.jpg",
-        "brand": "gulden draak",
-        "words": [
-            "gulden",
-            "draak",
-            "9000",
-            "quadruple"
-        ],
-        "colors": [
-            "black",
-            "white",
-            "red",
-            "golden"
-        ],
-        "figures": [
-            "dragon"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_127.jpg",
-        "words": [
-            "griffin",
-            "brewery"
-        ],
-        "colors": [
-            "black",
-            "golden"
-        ],
-        "figures": [
-            "griffon"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_128.jpg",
-        "words": [
-            "svyturys",
-            "1784"
-        ],
-        "colors": [
-            "golden",
-            "black",
-            "white",
-            "red"
-        ],
-        "figures": [
-            "eagle",
-            "shield",
-            "hops",
-            "grain"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_129.jpg",
-        "words": [
-            "orval",
-            "trappist",
-            "ale"
-        ],
-        "colors": [
-            "golden",
-            "black",
-            "blue"
-        ],
-        "figures": [
-            "fish"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_130.jpg",
-        "words": [
-            "speciale",
-            "belge",
-            "la",
-            "binchoise"
-        ],
-        "colors": [
-            "red",
-            "yellow",
-            "black"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "G2/plate7_131.jpg",
-        "words": [
-            "browar",
-            "stu",
-            "mostow"
-        ],
-        "colors": [
-            "black",
-            "gray",
-            "yellow"
-        ],
-        "figures": [
-            "hops",
-            "grain",
-            "drop"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_132.jpg",
-        "brand": "",
-        "words": [],
-        "colors": [
-            "green"
-        ],
-        "figures": [
-            "face",
-            "moon"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_133.jpg",
-        "brand": "red erik",
-        "words": [
-            "red",
-            "erik"
-        ],
-        "colors": [
-            "brown",
-            "white"
-        ],
-        "figures": [
-            "man"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_134.jpg",
-        "brand": "perla",
-        "words": [
-            "perla",
-            "export"
-        ],
-        "colors": [
-            "white",
-            "red",
-            "green"
-        ],
-        "figures": [
-            "shield",
-            "hops"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_135.jpg",
-        "brand": "perla",
-        "words": [
-            "perla",
-            "chmielowa"
-        ],
-        "colors": [
-            "red",
-            "green",
-            "white"
-        ],
-        "figures": [
-            "shield",
-            "hops"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_136.jpg",
-        "brand": "perla",
-        "words": [
-            "perla",
-            "mocna"
-        ],
-        "colors": [
-            "black",
-            "red",
-            "white"
-        ],
-        "figures": [
-            "shield",
-            "hops"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_137.jpg",
-        "words": [
-            "steenhuffel",
-            "anno",
-            "1706"
-        ],
-        "colors": [
-            "green",
-            "white",
-            "yellow"
-        ],
-        "figures": [
-            "horse"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_138.jpg",
-        "words": [
-            "passion",
-            "innovation",
-            "knowledge"
-        ],
-        "colors": [
-            "black",
-            "golden"
-        ],
-        "figures": [
-            "letter"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_139.jpg",
-        "words": [
-            "van",
-            "hunsebrouck",
-            "brewery"
-        ],
-        "colors": [
-            "gray"
-        ],
-        "figures": [
-            "house"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_140.jpg",
-        "words": [
-            "boulevard",
-            "brewing",
-            "co",
-            "make",
-            "your",
-            "own",
-            "way"
-        ],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "G2/plate7_141.jpg",
-        "words": [],
-        "colors": [
-            "brown",
-            "white"
-        ],
-        "figures": [
-            "man"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_142.jpg",
-        "brand": "ceres",
-        "words": [],
-        "colors": [
-            "white",
-            "gray",
-            "green"
-        ],
-        "figures": [
-            "crown"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_143.jpg",
-        "words": [],
-        "colors": [
-            "white",
-            "black"
-        ],
-        "figures": [
-            "cat"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_144.jpg",
-        "brand": "kabinet",
-        "words": [
-            "kabinet",
-            "brewery"
-        ],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "G2/plate7_145.jpg",
-        "words": [
-            "kormoran"
-        ],
-        "colors": [
-            "black",
-            "golden"
-        ],
-        "figures": [
-            "bird"
-        ]
-    },
-    {
-        "imageName": "G2/plate7_146.jpg",
-        "words": [
-            "dubuisson",
-            "anno",
-            "1769",
-            "250",
-            "years"
-        ],
-        "colors": [
-            "black",
-            "yellow"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "G2/plate7_147.jpg",
-        "brand": "lowlander",
-        "words": [
-            "lowlander",
-            "brewed",
-            "with",
-            "botanicals"
-        ],
-        "colors": [
-            "black",
-            "white"
-        ],
-        "figures": []
-    },
-    {
-        "imageName": "G2/plate7_148.jpg",
-        "brand": "serengeti",
-        "words": [
-            "serengeti"
-        ],
-        "colors": [
-            "white",
-            "black",
-            "golden"
-        ],
-        "figures": []
-    }
+  {
+    "imageName": "G2/plate7_100.jpg",
+    "words": ["g"],
+    "colors": ["white", "black", "blue", "yellow"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "G2/plate7_101.jpg",
+    "words": [],
+    "colors": ["blue", "black"],
+    "figures": ["boy"]
+  },
+  {
+    "imageName": "G2/plate7_102.jpg",
+    "words": ["n"],
+    "colors": ["black", "green", "red", "yellow"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "G2/plate7_103.jpg",
+    "words": ["r"],
+    "colors": ["black", "green", "yellow"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "G2/plate7_104.jpg",
+    "words": ["lupulus"],
+    "colors": ["black", "green"],
+    "figures": ["wolf"]
+  },
+  {
+    "imageName": "G2/plate7_105.jpg",
+    "words": ["lagunitas", "company", "brewing"],
+    "colors": ["green", "white"],
+    "figures": ["dog"]
+  },
+  {
+    "imageName": "G2/plate7_106.jpg",
+    "words": [],
+    "colors": ["black", "green"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "G2/plate7_107.jpg",
+    "words": ["cinema", "brewers"],
+    "colors": ["black", "green", "gray"],
+    "figures": []
+  },
+  {
+    "imageName": "G2/plate7_108.jpg",
+    "words": ["aura"],
+    "colors": ["black", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "G2/plate7_109.jpg",
+    "brand": "fix",
+    "words": ["fix", "dark"],
+    "colors": ["white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "G2/plate7_110.jpg",
+    "words": ["db"],
+    "colors": ["black", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "G2/plate7_111.jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "G2/plate7_112.jpg",
+    "brand": "metalhead",
+    "words": ["metalhead", "brewery"],
+    "colors": ["black", "white"],
+    "figures": ["monster"]
+  },
+  {
+    "imageName": "G2/plate7_113.jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["anchor", "rope"]
+  },
+  {
+    "imageName": "G2/plate7_114.jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["flash"]
+  },
+  {
+    "imageName": "G2/plate7_115.jpg",
+    "words": ["omer"],
+    "colors": ["black", "white", "red"],
+    "figures": ["shield"]
+  },
+  {
+    "imageName": "G2/plate7_116.jpg",
+    "words": ["cerne"],
+    "colors": ["black", "golden"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "G2/plate7_117.jpg",
+    "brand": "guinness",
+    "words": [
+      "guinness",
+      "st",
+      "james's",
+      "gate",
+      "dublin",
+      "trade",
+      "ark",
+      "17",
+      "59",
+      "tm"
+    ],
+    "colors": ["white", "black"],
+    "figures": ["harp"]
+  },
+  {
+    "imageName": "G2/plate7_118.jpg",
+    "brand": "guinness",
+    "words": ["use", "opener", "to", "enjoy", "safely", "tm"],
+    "colors": ["black", "white", "golden"],
+    "figures": ["harp"]
+  },
+  {
+    "imageName": "G2/plate7_119.jpg",
+    "words": ["kwaremont"],
+    "colors": ["black", "white", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "G2/plate7_120.jpg",
+    "brand": "ararat",
+    "words": ["ararat", "beer"],
+    "colors": ["black", "white", "golden"],
+    "figures": ["arrow", "mountain"]
+  },
+  {
+    "imageName": "G2/plate7_121.jpg",
+    "words": ["flying", "monkeys", "magnum", "opus"],
+    "colors": ["black", "white", "golden", "blue", "red", "green"],
+    "figures": ["monkey", "house"]
+  },
+  {
+    "imageName": "G2/plate7_122.jpg",
+    "brand": "miller",
+    "words": ["miller", "draft", "twist", "off", "genuine"],
+    "colors": ["black", "golden", "red"],
+    "figures": ["arrow"]
+  },
+  {
+    "imageName": "G2/plate7_123.jpg",
+    "words": ["schoppe", "brau", "berlin"],
+    "colors": ["black", "yellow", "red"],
+    "figures": ["letter", "grain", "star"]
+  },
+  {
+    "imageName": "G2/plate7_124.jpg",
+    "words": [
+      "rogue",
+      "dedicated",
+      "to",
+      "the",
+      "rogue",
+      "in",
+      "each",
+      "of",
+      "us"
+    ],
+    "colors": ["black", "silver", "red"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "G2/plate7_125.jpg",
+    "brand": "gulden draak",
+    "words": ["gulden", "draak"],
+    "colors": ["white", "black", "red", "golden"],
+    "figures": ["dragon"]
+  },
+  {
+    "imageName": "G2/plate7_126.jpg",
+    "brand": "gulden draak",
+    "words": ["gulden", "draak", "9000", "quadruple"],
+    "colors": ["black", "white", "red", "golden"],
+    "figures": ["dragon"]
+  },
+  {
+    "imageName": "G2/plate7_127.jpg",
+    "words": ["griffon", "brewery"],
+    "colors": ["black", "golden"],
+    "figures": ["griffon"]
+  },
+  {
+    "imageName": "G2/plate7_128.jpg",
+    "words": ["svyturys", "1784"],
+    "colors": ["golden", "black", "white", "red"],
+    "figures": ["eagle", "shield", "hops", "grain"]
+  },
+  {
+    "imageName": "G2/plate7_129.jpg",
+    "words": ["orval", "trappist", "ale"],
+    "colors": ["golden", "black", "blue"],
+    "figures": ["fish"]
+  },
+  {
+    "imageName": "G2/plate7_130.jpg",
+    "words": ["speciale", "belge", "la", "binchoise"],
+    "colors": ["red", "yellow", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "G2/plate7_131.jpg",
+    "words": ["browar", "stu", "mostow"],
+    "colors": ["black", "gray", "yellow"],
+    "figures": ["hops", "grain", "drop"]
+  },
+  {
+    "imageName": "G2/plate7_132.jpg",
+    "brand": "",
+    "words": [],
+    "colors": ["green"],
+    "figures": ["face", "moon"]
+  },
+  {
+    "imageName": "G2/plate7_133.jpg",
+    "brand": "red erik",
+    "words": ["red", "erik"],
+    "colors": ["brown", "white"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "G2/plate7_134.jpg",
+    "brand": "perla",
+    "words": ["perla", "export"],
+    "colors": ["white", "red", "green"],
+    "figures": ["shield", "hops"]
+  },
+  {
+    "imageName": "G2/plate7_135.jpg",
+    "brand": "perla",
+    "words": ["perla", "chmielowa"],
+    "colors": ["red", "green", "white"],
+    "figures": ["shield", "hops"]
+  },
+  {
+    "imageName": "G2/plate7_136.jpg",
+    "brand": "perla",
+    "words": ["perla", "mocna"],
+    "colors": ["black", "red", "white"],
+    "figures": ["shield", "hops"]
+  },
+  {
+    "imageName": "G2/plate7_137.jpg",
+    "words": ["steenhuffel", "anno", "1706"],
+    "colors": ["green", "white", "yellow"],
+    "figures": ["horse"]
+  },
+  {
+    "imageName": "G2/plate7_138.jpg",
+    "words": ["passion", "innovation", "knowledge"],
+    "colors": ["black", "golden"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "G2/plate7_139.jpg",
+    "words": ["van", "hunsebrouck", "brewery"],
+    "colors": ["gray"],
+    "figures": ["house"]
+  },
+  {
+    "imageName": "G2/plate7_140.jpg",
+    "words": ["boulevard", "brewing", "co", "make", "your", "own", "way"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "G2/plate7_141.jpg",
+    "words": [],
+    "colors": ["brown", "white"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "G2/plate7_142.jpg",
+    "brand": "ceres",
+    "words": [],
+    "colors": ["white", "gray", "green"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "G2/plate7_143.jpg",
+    "words": [],
+    "colors": ["white", "black"],
+    "figures": ["cat"]
+  },
+  {
+    "imageName": "G2/plate7_144.jpg",
+    "brand": "kabinet",
+    "words": ["kabinet", "brewery"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "G2/plate7_145.jpg",
+    "words": ["kormoran"],
+    "colors": ["black", "golden"],
+    "figures": ["bird"]
+  },
+  {
+    "imageName": "G2/plate7_146.jpg",
+    "words": ["dubuisson", "anno", "1769", "250", "years"],
+    "colors": ["black", "yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "G2/plate7_147.jpg",
+    "brand": "lowlander",
+    "words": ["lowlander", "brewed", "with", "botanicals"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "G2/plate7_148.jpg",
+    "brand": "serengeti",
+    "words": ["serengeti"],
+    "colors": ["white", "black", "golden"],
+    "figures": []
+  }
 ]

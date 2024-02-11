@@ -1,823 +1,376 @@
 [
-    {
-       "imageName":"H2/plate3_100.jpg",
-       "words":[
-          "cerveza",
-          "oscura",
-          "elaborada",
-          "con",
-          "malta",
-          "de",
-          "cebada",
-          "caramelo",
-          "y",
-          "maiz"
-       ],
-       "colors":[
-          "green",
-          "golden"
-       ],
-       "figures":[
-          "grain",
-          "corn"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_101.jpg",
-       "brand":"coors",
-       "words":[
-          "coors",
-          "light",
-          "born",
-          "in",
-          "the",
-          "rockies",
-          "no",
-          "retornable"
-       ],
-       "colors":[
-          "gray",
-          "silver"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"H2/plate3_102.jpg",
-       "brand":"tecate",
-       "words":[
-          
-       ],
-       "colors":[
-          "black",
-          "silver",
-          "red"
-       ],
-       "figures":[
-          "letter",
-          "eagle"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_103.jpg",
-       "brand":"corona",
-       "words":[
-          "corona",
-          "18+",
-          "no",
-          "venta",
-          "a",
-          "menores"
-       ],
-       "colors":[
-          "golden",
-          "blue"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"H2/plate3_104.jpg",
-       "brand":"tecate",
-       "words":[
-          
-       ],
-       "colors":[
-          "black",
-          "silver",
-          "blue"
-       ],
-       "figures":[
-          "letter",
-          "eagle"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_105.jpg",
-       "brand":"minerva",
-       "words":[
-          "minerva",
-          "la",
-          "cerveza",
-          "artesanal",
-          "de",
-          "mexico",
-          "guadalajara",
-          "jalisco",
-          "mexico"
-       ],
-       "colors":[
-          "white",
-          "gray"
-       ],
-       "figures":[
-          "grain"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_106.jpg",
-       "brand":"dorada",
-       "words":[
-          "cerveza",
-          "dorada",
-          "premium",
-          "lager",
-          "de",
-          "exportacion"
-       ],
-       "colors":[
-          "golden",
-          "yellow",
-          "brown"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"H2/plate3_107.jpg",
-       "words":[
-          "tequila",
-          "flavoured"
-       ],
-       "colors":[
-          "red",
-          "golden"
-       ],
-       "figures":[
-          "agave"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_108.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "golden",
-          "black"
-       ],
-       "figures":[
-          "castle"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_109.jpg",
-       "words":[
-          "original",
-          "de",
-          "orizaba"
-       ],
-       "colors":[
-          "golden",
-          "red"
-       ],
-       "figures":[
-          "eagle"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_110.jpg",
-       "brand":"modelo",
-       "words":[
-          "modelo",
-          "cerveza",
-          "especial"
-       ],
-       "colors":[
-          "golden",
-          "blue"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"H2/plate3_111.jpg",
-       "brand":"cadejo",
-       "words":[
-          "cadejo",
-          "brewing",
-          "company",
-          "mmxii"
-       ],
-       "colors":[
-          "orange",
-          "black"
-       ],
-       "figures":[
-          "dog"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_112.jpg",
-       "words":[
-          "original",
-          "de",
-          "orizaba",
-          "no",
-          "retornable"
-       ],
-       "colors":[
-          "golden",
-          "red"
-       ],
-       "figures":[
-          "eagle"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_113.jpg",
-       "brand":"",
-       "words":[
-          "ultra",
-          "michelob"
-       ],
-       "colors":[
-          "white",
-          "blue",
-          "red"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"H2/plate3_114.jpg",
-       "brand":"amstel",
-       "words":[
-          "amstel",
-          "ultra",
-          "85",
-          "cals"
-       ],
-       "colors":[
-          "white",
-          "blue"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"H2/plate3_115.jpg",
-       "brand":"corona",
-       "words":[
-          "corona",
-          "18+",
-          "no",
-          "venta",
-          "a",
-          "menores"
-       ],
-       "colors":[
-          "blue",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"H2/plate3_116.jpg",
-       "brand":"leon",
-       "words":[
-          "leon",
-          "18+",
-          "no",
-          "venta",
-          "a",
-          "menores"
-       ],
-       "colors":[
-          "red",
-          "golden"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"H2/plate3_117.jpg",
-       "brand":"montejo",
-       "words":[
-          "montejo",
-          "18+",
-          "no",
-          "venta",
-          "a",
-          "menores"
-       ],
-       "colors":[
-          "blue",
-          "golden"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"H2/plate3_118.jpg",
-       "brand":"cadejo",
-       "words":[
-          "cadejo",
-          "brewing",
-          "company",
-          "mmxii"
-       ],
-       "colors":[
-          "white",
-          "black"
-       ],
-       "figures":[
-          "dog"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_119.jpg",
-       "brand":"cadejo",
-       "words":[
-          "cadejo",
-          "brewing",
-          "company",
-          "mmxii"
-       ],
-       "colors":[
-          "orange",
-          "white"
-       ],
-       "figures":[
-          "dog"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_120.jpg",
-       "brand":"brahva",
-       "words":[
-          "brahva",
-          "cerveza",
-          "tipo",
-          "pilsen"
-       ],
-       "colors":[
-          "orange",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"H2/plate3_121.jpg",
-       "brand":"bocanegra",
-       "words":[
-          "bocanegra",
-          "elaborada",
-          "con",
-          "esfuerzo",
-          "en",
-          "monterrey",
-          "una",
-          "cerveza",
-          "independiente"
-       ],
-       "colors":[
-          "black",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"H2/plate3_122.jpg",
-       "words":[
-          "carta",
-          "blanca",
-          "1880",
-          "no",
-          "retornable",
-          "onica",
-          "desde",
-          "cerveza"
-       ],
-       "colors":[
-          "red",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"H2/plate3_123.jpg",
-       "brand":"barrilito",
-       "words":[
-          "barrilito",
-          "cerveza",
-          "clara"
-       ],
-       "colors":[
-          "blue",
-          "golden"
-       ],
-       "figures":[
-          "cask"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_124.jpg",
-       "brand":"dorada",
-       "words":[
-          "dorada",
-          "ice"
-       ],
-       "colors":[
-          "blue",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"H2/plate3_125.jpg",
-       "brand":"gallo",
-       "words":[
-          "gallo",
-          "cerveza"
-       ],
-       "colors":[
-          "golden",
-          "black",
-          "red"
-       ],
-       "figures":[
-          "rooster"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_126.jpg",
-       "words":[
-          "presidente"
-       ],
-       "colors":[
-          "red",
-          "white",
-          "yellow",
-          "golden"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"H2/plate3_127.jpg",
-       "brand":"sol",
-       "words":[
-          "sol",
-          "cerveza"
-       ],
-       "colors":[
-          "red",
-          "white"
-       ],
-       "figures":[
-          "sun"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_128.jpg",
-       "brand":"tempus",
-       "words":[
-          "tempus",
-          "cerveza",
-          "artesanal"
-       ],
-       "colors":[
-          "red",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"H2/plate3_129.jpg",
-       "brand":"sol",
-       "words":[
-          "sol",
-          "cerveza",
-          "facil",
-          "abre",
-          "no",
-          "retornable"
-       ],
-       "colors":[
-          "red",
-          "white",
-          "black"
-       ],
-       "figures":[
-          "sun"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_130.jpg",
-       "brand":"montejo",
-       "words":[
-          "montejo",
-          "18+",
-          "no",
-          "venta",
-          "a",
-          "menores"
-       ],
-       "colors":[
-          "blue",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"H2/plate3_131.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "black",
-          "red"
-       ],
-       "figures":[
-          "wolf"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_132.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "pink",
-          "white"
-       ],
-       "figures":[
-          "triangle"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_133.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "blue",
-          "white",
-          "silver"
-       ],
-       "figures":[
-          "swordfish"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_134.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "blue",
-          "white",
-          "golden"
-       ],
-       "figures":[
-          "horse"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_135.jpg",
-       "words":[
-          "xx",
-          "no",
-          "retornable",
-          "gire",
-          "para",
-          "abrir"
-       ],
-       "colors":[
-          "red",
-          "green",
-          "silver"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_136.jpg",
-       "words":[
-          "xx"
-       ],
-       "colors":[
-          "red",
-          "green",
-          "silver"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_137.jpg",
-       "words":[
-          "xx"
-       ],
-       "colors":[
-          "red",
-          "orange",
-          "silver"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_138.jpg",
-       "words":[
-          "xx",
-          "no",
-          "retornable",
-          "gire",
-          "para",
-          "abrir"
-       ],
-       "colors":[
-          "red",
-          "orange",
-          "silver"
-       ],
-       "figures":[
-          "letter"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_139.jpg",
-       "brand":"almus",
-       "words":[
-          
-       ],
-       "colors":[
-          "golden"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"H2/plate3_140.jpg",
-       "brand":"corona",
-       "words":[
-          "corona",
-          "cerveza"
-       ],
-       "colors":[
-          "blue",
-          "white"
-       ],
-       "figures":[
-          "crown"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_141.jpg",
-       "brand":"tulum",
-       "words":[
-          
-       ],
-       "colors":[
-          "blue",
-          "white"
-       ],
-       "figures":[
-          "bird"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_142.jpg",
-       "words":[
-          
-       ],
-       "colors":[
-          "pink",
-          "white"
-       ],
-       "figures":[
-          "man"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_143.jpg",
-       "words":[
-          "original",
-          "de",
-          "baja",
-          "california",
-          "desde",
-          "2002"
-       ],
-       "colors":[
-          "pink",
-          "black"
-       ],
-       "figures":[
-          "square"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_144.jpg",
-       "brand":"desperados",
-       "words":[
-          "desperados",
-          "biere",
-          "beer",
-          "bier",
-          "birra",
-          "cervez"
-       ],
-       "colors":[
-          "green",
-          "white"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"H2/plate3_145.jpg",
-       "words":[
-          "tequila",
-          "flavoured"
-       ],
-       "colors":[
-          "green",
-          "silver"
-       ],
-       "figures":[
-          "agave"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_146.jpg",
-       "brand":"corona",
-       "words":[
-          "corona",
-          "light"
-       ],
-       "colors":[
-          "yellow",
-          "blue"
-       ],
-       "figures":[
-          "crown"
-       ]
-    },
-    {
-       "imageName":"H2/plate3_147.jpg",
-       "brand":"pacifico",
-       "words":[
-          "pacifico",
-          "cerveza",
-          "clara"
-       ],
-       "colors":[
-          "blue",
-          "yellow"
-       ],
-       "figures":[
-          
-       ]
-    },
-    {
-       "imageName":"H2/plate3_148.jpg",
-       "brand":"victoria",
-       "words":[
-          "victoria",
-          "18+",
-          "no",
-          "venta",
-          "a",
-          "menores"
-       ],
-       "colors":[
-          "white",
-          "black",
-          "yellow"
-       ],
-       "figures":[
-          
-       ]
-    }
- ]
+  {
+    "imageName": "H2/plate3_100.jpg",
+    "words": [
+      "cerveza",
+      "oscura",
+      "elaborada",
+      "con",
+      "malta",
+      "de",
+      "cebada",
+      "caramelo",
+      "y",
+      "maiz"
+    ],
+    "colors": ["green", "golden"],
+    "figures": ["grain", "corn"]
+  },
+  {
+    "imageName": "H2/plate3_101.jpg",
+    "brand": "coors",
+    "words": [
+      "coors",
+      "light",
+      "born",
+      "in",
+      "the",
+      "rockies",
+      "no",
+      "retornable"
+    ],
+    "colors": ["gray", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "H2/plate3_102.jpg",
+    "brand": "tecate",
+    "words": [],
+    "colors": ["black", "silver", "red"],
+    "figures": ["letter", "eagle"]
+  },
+  {
+    "imageName": "H2/plate3_103.jpg",
+    "brand": "corona",
+    "words": ["corona", "18+", "no", "venta", "a", "manores"],
+    "colors": ["golden", "blue"],
+    "figures": []
+  },
+  {
+    "imageName": "H2/plate3_104.jpg",
+    "brand": "tecate",
+    "words": [],
+    "colors": ["black", "silver", "blue"],
+    "figures": ["letter", "eagle"]
+  },
+  {
+    "imageName": "H2/plate3_105.jpg",
+    "brand": "minerva",
+    "words": [
+      "minerva",
+      "la",
+      "cerveza",
+      "artesanal",
+      "de",
+      "mexico",
+      "guadalajara",
+      "jalisco",
+      "mexico"
+    ],
+    "colors": ["white", "gray"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "H2/plate3_106.jpg",
+    "brand": "dorada",
+    "words": ["cerveza", "dorada", "premium", "lager", "de", "exportacion"],
+    "colors": ["golden", "yellow", "brown"],
+    "figures": []
+  },
+  {
+    "imageName": "H2/plate3_107.jpg",
+    "words": ["tequila", "flavoured"],
+    "colors": ["red", "golden"],
+    "figures": ["agave"]
+  },
+  {
+    "imageName": "H2/plate3_108.jpg",
+    "words": [],
+    "colors": ["golden", "black"],
+    "figures": ["castle"]
+  },
+  {
+    "imageName": "H2/plate3_109.jpg",
+    "words": ["original", "de", "orizaba"],
+    "colors": ["golden", "red"],
+    "figures": ["eagle"]
+  },
+  {
+    "imageName": "H2/plate3_110.jpg",
+    "brand": "modelo",
+    "words": ["modelo", "cerveza", "especial"],
+    "colors": ["golden", "blue"],
+    "figures": []
+  },
+  {
+    "imageName": "H2/plate3_111.jpg",
+    "brand": "cadejo",
+    "words": ["cadejo", "brewing", "company", "mmxii"],
+    "colors": ["orange", "black"],
+    "figures": ["dog"]
+  },
+  {
+    "imageName": "H2/plate3_112.jpg",
+    "words": ["original", "de", "orizaba", "no", "retornable"],
+    "colors": ["golden", "red"],
+    "figures": ["eagle"]
+  },
+  {
+    "imageName": "H2/plate3_113.jpg",
+    "brand": "",
+    "words": ["ultra", "michelob"],
+    "colors": ["white", "blue", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "H2/plate3_114.jpg",
+    "brand": "amstel",
+    "words": ["amstel", "ultra", "85", "cals"],
+    "colors": ["white", "blue"],
+    "figures": []
+  },
+  {
+    "imageName": "H2/plate3_115.jpg",
+    "brand": "corona",
+    "words": ["corona", "18+", "no", "venta", "a", "manores"],
+    "colors": ["blue", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "H2/plate3_116.jpg",
+    "brand": "leon",
+    "words": ["leon", "18+", "no", "venta", "a", "manores"],
+    "colors": ["red", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "H2/plate3_117.jpg",
+    "brand": "montejo",
+    "words": ["montejo", "18+", "no", "venta", "a", "manores"],
+    "colors": ["blue", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "H2/plate3_118.jpg",
+    "brand": "cadejo",
+    "words": ["cadejo", "brewing", "company", "mmxii"],
+    "colors": ["white", "black"],
+    "figures": ["dog"]
+  },
+  {
+    "imageName": "H2/plate3_119.jpg",
+    "brand": "cadejo",
+    "words": ["cadejo", "brewing", "company", "mmxii"],
+    "colors": ["orange", "white"],
+    "figures": ["dog"]
+  },
+  {
+    "imageName": "H2/plate3_120.jpg",
+    "brand": "brahva",
+    "words": ["brahva", "cerveza", "tipo", "pilsen"],
+    "colors": ["orange", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "H2/plate3_121.jpg",
+    "brand": "bocanegra",
+    "words": [
+      "bocanegra",
+      "elaborada",
+      "con",
+      "esfuerzo",
+      "en",
+      "monterrey",
+      "una",
+      "cerveza",
+      "independiente"
+    ],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "H2/plate3_122.jpg",
+    "words": [
+      "carta",
+      "blanca",
+      "1880",
+      "no",
+      "retornable",
+      "onica",
+      "desde",
+      "cerveza"
+    ],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "H2/plate3_123.jpg",
+    "brand": "barrilito",
+    "words": ["barrilito", "cerveza", "clara"],
+    "colors": ["blue", "golden"],
+    "figures": ["cask"]
+  },
+  {
+    "imageName": "H2/plate3_124.jpg",
+    "brand": "dorada",
+    "words": ["dorada", "ice"],
+    "colors": ["blue", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "H2/plate3_125.jpg",
+    "brand": "gallo",
+    "words": ["gallo", "cerveza"],
+    "colors": ["golden", "black", "red"],
+    "figures": ["rooster"]
+  },
+  {
+    "imageName": "H2/plate3_126.jpg",
+    "words": ["presidente"],
+    "colors": ["red", "white", "yellow", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "H2/plate3_127.jpg",
+    "brand": "sol",
+    "words": ["sol", "cerveza"],
+    "colors": ["red", "white"],
+    "figures": ["sun"]
+  },
+  {
+    "imageName": "H2/plate3_128.jpg",
+    "brand": "tempus",
+    "words": ["tempus", "cerveza", "artesanal"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "H2/plate3_129.jpg",
+    "brand": "sol",
+    "words": ["sol", "cerveza", "facil", "abre", "no", "retornable"],
+    "colors": ["red", "white", "black"],
+    "figures": ["sun"]
+  },
+  {
+    "imageName": "H2/plate3_130.jpg",
+    "brand": "montejo",
+    "words": ["montejo", "18+", "no", "venta", "a", "manores"],
+    "colors": ["blue", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "H2/plate3_131.jpg",
+    "words": [],
+    "colors": ["black", "red"],
+    "figures": ["wolf"]
+  },
+  {
+    "imageName": "H2/plate3_132.jpg",
+    "words": [],
+    "colors": ["pink", "white"],
+    "figures": ["triangle"]
+  },
+  {
+    "imageName": "H2/plate3_133.jpg",
+    "words": [],
+    "colors": ["blue", "white", "silver"],
+    "figures": ["swordfish"]
+  },
+  {
+    "imageName": "H2/plate3_134.jpg",
+    "words": [],
+    "colors": ["blue", "white", "golden"],
+    "figures": ["horse"]
+  },
+  {
+    "imageName": "H2/plate3_135.jpg",
+    "words": ["xx", "no", "retornable", "gire", "para", "abrir"],
+    "colors": ["red", "green", "silver"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "H2/plate3_136.jpg",
+    "words": ["xx"],
+    "colors": ["red", "green", "silver"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "H2/plate3_137.jpg",
+    "words": ["xx"],
+    "colors": ["red", "orange", "silver"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "H2/plate3_138.jpg",
+    "words": ["xx", "no", "retornable", "gire", "para", "abrir"],
+    "colors": ["red", "orange", "silver"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "H2/plate3_139.jpg",
+    "brand": "almus",
+    "words": [],
+    "colors": ["golden"],
+    "figures": []
+  },
+  {
+    "imageName": "H2/plate3_140.jpg",
+    "brand": "corona",
+    "words": ["corona", "cerveza"],
+    "colors": ["blue", "white"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "H2/plate3_141.jpg",
+    "brand": "tulum",
+    "words": [],
+    "colors": ["blue", "white"],
+    "figures": ["bird"]
+  },
+  {
+    "imageName": "H2/plate3_142.jpg",
+    "words": [],
+    "colors": ["pink", "white"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "H2/plate3_143.jpg",
+    "words": ["original", "de", "baja", "california", "desde", "2002"],
+    "colors": ["pink", "black"],
+    "figures": ["square"]
+  },
+  {
+    "imageName": "H2/plate3_144.jpg",
+    "brand": "desperados",
+    "words": ["desperados", "biere", "beer", "bier", "birra", "cervez"],
+    "colors": ["green", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "H2/plate3_145.jpg",
+    "words": ["tequila", "flavoured"],
+    "colors": ["green", "silver"],
+    "figures": ["agave"]
+  },
+  {
+    "imageName": "H2/plate3_146.jpg",
+    "brand": "corona",
+    "words": ["corona", "light"],
+    "colors": ["yellow", "blue"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "H2/plate3_147.jpg",
+    "brand": "pacifico",
+    "words": ["pacifico", "cerveza", "clara"],
+    "colors": ["blue", "yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "H2/plate3_148.jpg",
+    "brand": "victoria",
+    "words": ["victoria", "18+", "no", "venta", "a", "manores"],
+    "colors": ["white", "black", "yellow"],
+    "figures": []
+  }
+]
