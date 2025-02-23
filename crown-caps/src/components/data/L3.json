@@ -1,0 +1,366 @@
+[
+  {
+    "imageName": "L3/L3_01.jpg",
+    "brand": "zagorka",
+    "words": ["загорка", "classic"],
+    "colors": ["red", "white"],
+    "figures": ["lion", "shield", "crown"]
+  },
+  {
+    "imageName": "L3/L3_02.jpg",
+    "brand": "shumensko",
+    "words": ["шуменско", "обикновено", "пиво"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "L3/L3_03.jpg",
+    "brand": "ledenika",
+    "words": ["леденика", "пиво"],
+    "colors": ["white", "black"],
+    "figures": ["ball"]
+  },
+  {
+    "imageName": "L3/L3_04.jpg",
+    "brand": "ariana",
+    "words": ["ариана"],
+    "colors": ["golden", "green"],
+    "figures": ["lion", "shield"]
+  },
+  {
+    "imageName": "L3/L3_05.jpg",
+    "brand": "kamenitza",
+    "words": ["kamenitza"],
+    "colors": ["green", "white", "black"],
+    "figures": ["ball"]
+  },
+  {
+    "imageName": "L3/L3_06.jpg",
+    "brand": "astika",
+    "words": ["astika"],
+    "colors": ["green", "white", "black"],
+    "figures": ["glass"]
+  },
+  {
+    "imageName": "L3/L3_07.jpg",
+    "brand": "pleven",
+    "words": ["плевен", "p", "b"],
+    "colors": ["green", "red", "white"],
+    "figures": ["lion", "crown", "flag", "shield"]
+  },
+  {
+    "imageName": "L3/L3_08.jpg",
+    "words": ["eins", "hell"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "L3/L3_09.jpg",
+    "brand": "bintang",
+    "words": ["bintang"],
+    "colors": ["red", "white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "L3/L3_10.jpg",
+    "brand": "pirinsko",
+    "words": ["спечели", "с", "пиринско"],
+    "colors": ["red", "white"],
+    "figures": ["sign"]
+  },
+  {
+    "imageName": "L3/L3_11.jpg",
+    "brand": "st. bernardus",
+    "words": ["st", "bernardus", "watou", "prior", "8"],
+    "colors": ["white", "red"],
+    "figures": ["monk", "glass"]
+  },
+  {
+    "imageName": "L3/L3_12.jpg",
+    "brand": "st. bernardus",
+    "words": ["st", "bernardus", "watou", "abt", "12"],
+    "colors": ["white", "blue"],
+    "figures": ["monk", "glass"]
+  },
+  {
+    "imageName": "L3/L3_13.jpg",
+    "brand": "st. bernardus",
+    "words": ["st", "bernardus", "watou", "tripel"],
+    "colors": ["white", "green"],
+    "figures": ["monk", "glass"]
+  },
+  {
+    "imageName": "L3/L3_14.jpg",
+    "brand": "complot",
+    "words": ["complot", "2020", "mediterranean"],
+    "colors": ["green", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "L3/L3_15.jpg",
+    "words": ["m", "p"],
+    "colors": ["red", "white", "black"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "L3/L3_16.jpg",
+    "brand": "kirin ichiban",
+    "words": ["kirin"],
+    "colors": ["red", "golden"],
+    "figures": ["dragon"]
+  },
+  {
+    "imageName": "L3/L3_17.jpg",
+    "words": ["rawd", "brewery", "co", "ltd", "boon"],
+    "colors": ["red", "white"],
+    "figures": ["dragon"]
+  },
+  {
+    "imageName": "L3/L3_18.jpg",
+    "words": ["c"],
+    "colors": ["white", "red"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "L3/L3_19.jpg",
+    "words": ["c"],
+    "colors": ["white", "green"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "L3/L3_20.jpg",
+    "words": ["anker", "real"],
+    "colors": ["green", "black", "white", "silver"],
+    "figures": ["anchor"]
+  },
+  {
+    "imageName": "L3/L3_21.jpg",
+    "brand": "coopers",
+    "words": ["coopers"],
+    "colors": ["green", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "L3/L3_22.jpg",
+    "brand": "peja",
+    "words": ["peja", "crudo", "birra"],
+    "colors": ["black", "red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "L3/L3_23.jpg",
+    "words": [],
+    "colors": ["red", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "L3/L3_24.jpg",
+    "words": ["cold", "filtered", "draft", "beer", "lager", "bir", "beer"],
+    "colors": ["red", "white"],
+    "figures": ["shield"]
+  },
+  {
+    "imageName": "L3/L3_25.jpg",
+    "brand": "tsingtao",
+    "words": ["tsingtao"],
+    "colors": ["red", "white", "golden"],
+    "figures": ["grain", "tower"]
+  },
+  {
+    "imageName": "L3/L3_26.jpg",
+    "brand": "bernard",
+    "words": ["nernard", "11", "kvasnicova"],
+    "colors": ["green", "white", "red", "golden"],
+    "figures": ["dog", "shield"]
+  },
+  {
+    "imageName": "L3/L3_27.jpg",
+    "brand": "tirana",
+    "words": ["tirana", "birra", "shija", "shqiptare", "t"],
+    "colors": ["green", "white"],
+    "figures": ["wing"]
+  },
+  {
+    "imageName": "L3/L3_28.jpg",
+    "brand": "coopers",
+    "words": ["coopers"],
+    "colors": ["yellow", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "L3/L3_29.jpg",
+    "brand": "san miguel",
+    "words": [
+      "san",
+      "miguel",
+      "1890",
+      "hkdnp",
+      "philippines",
+      "malt",
+      "water",
+      "hops",
+      "cereal",
+      "sugar",
+      "pale",
+      "pilsen"
+    ],
+    "colors": ["red", "silver"],
+    "figures": ["shield", "crown"]
+  },
+  {
+    "imageName": "L3/L3_30.jpg",
+    "brand": "san miguel",
+    "words": [
+      "san",
+      "miguel",
+      "39",
+      "pale",
+      "pilsnen",
+      "hkdnp",
+      "philippines",
+      "malt",
+      "water",
+      "hops",
+      "cereal",
+      "sugar",
+      "320"
+    ],
+    "colors": ["red", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "L3/L3_31.jpg",
+    "brand": "san miguel",
+    "words": ["san", "miguel"],
+    "colors": ["golden", "black"],
+    "figures": ["shield", "criown", "lion"]
+  },
+  {
+    "imageName": "L3/L3_32.jpg",
+    "brand": "san miguel",
+    "words": ["san", "mig", "light", "43"],
+    "colors": ["silver", "blue"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "L3/L3_33.jpg",
+    "brand": "san miguel",
+    "words": ["san", "mig", "light"],
+    "colors": ["silver", "white", "blue"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "L3/L3_34.jpg",
+    "brand": "tirana",
+    "words": ["tirana", "birra", "shija", "shqiptare", "t"],
+    "colors": ["red", "white"],
+    "figures": ["shiled", "wing"]
+  },
+  {
+    "imageName": "L3/L3_35.jpg",
+    "brand": "coopers",
+    "words": ["coopers"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "L3/L3_36.jpg",
+    "words": [],
+    "colors": ["brown", "red", "white", "golden"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "L3/L3_37.jpg",
+    "words": ["ameraja"],
+    "colors": ["brown", "golden"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "L3/L3_38.jpg",
+    "words": ["raja", "rimba"],
+    "colors": ["red", "white", "golden"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "L3/L3_39.jpg",
+    "brand": "sierra nevada",
+    "words": [
+      "sierra",
+      "nevada",
+      "fresh",
+      "seal",
+      "cap",
+      "use",
+      "bottle",
+      "opener"
+    ],
+    "colors": ["red", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "L3/L3_40.jpg",
+    "words": ["brasserie", "dachouffe", "belgium"],
+    "colors": ["red", "green", "white", "yellow", "blue"],
+    "figures": ["dwarf", "cherry"]
+  },
+  {
+    "imageName": "L3/L3_41.jpg",
+    "brand": "elbar",
+    "words": ["elbar", "birra"],
+    "colors": ["red", "golden"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "L3/L3_42.jpg",
+    "words": ["mu", "sa"],
+    "colors": ["pink", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "L3/L3_43.jpg",
+    "words": ["bock", "damm", "1888", "negra", "munich"],
+    "colors": ["brown", "white", "red"],
+    "figures": ["goat", "star"]
+  },
+  {
+    "imageName": "L3/L3_44.jpg",
+    "brand": "amber",
+    "words": ["pequenos", "cerveceros", "grandes", "momentos"],
+    "colors": ["black", "golden"],
+    "figures": ["triangle"]
+  },
+  {
+    "imageName": "L3/L3_45.jpg",
+    "brand": "amber",
+    "words": ["pequenos", "cerveceros", "grandes", "momentos"],
+    "colors": ["red", "golden"],
+    "figures": ["triangle"]
+  },
+  {
+    "imageName": "L3/L3_46.jpg",
+    "brand": "gambrinus",
+    "words": ["gambrinus", "10"],
+    "colors": ["red", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "L3/L3_47.jpg",
+    "words": ["le"],
+    "colors": ["red", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "L3/L3_48.jpg",
+    "brand": "obolon",
+    "words": ["пиво", "оболон", "original", "ukrainian", "beer", "obolon"],
+    "colors": ["red", "silver"],
+    "figures": ["griffin", "crown", "shield", "grain"]
+  },
+  {
+    "imageName": "L3/L3_49.jpg",
+    "brand": "chimay",
+    "words": ["chimay"],
+    "colors": ["red", "golden", "white"],
+    "figures": ["shield"]
+  }
+]

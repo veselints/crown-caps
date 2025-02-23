@@ -1,0 +1,364 @@
+[
+  {
+    "imageName": "L1/L1_01.jpg",
+    "brand": "schneider weisse",
+    "words": ["schneider", "weisse", "helle", "weisse"],
+    "colors": ["yellow", "white", "blue", "red"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "L1/L1_02.jpg",
+    "brand": "schneider weisse",
+    "words": ["schneider", "weisse", "kristall"],
+    "colors": ["blue", "white", "silver", "red"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "L1/L1_03.jpg",
+    "brand": "schneider weisse",
+    "words": ["schneider", "weisse"],
+    "colors": ["blue", "white", "red", "alkoholfrei"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "L1/L1_04.jpg",
+    "brand": "schneider weisse",
+    "words": ["schneider", "weisse"],
+    "colors": ["blue", "white", "red", "silver", "festweisse"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "L1/L1_05.jpg",
+    "brand": "schneider weisse",
+    "words": ["schneider", "weissehopfenweisse"],
+    "colors": ["blue", "white", "green", "red"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "L1/L1_06.jpg",
+    "brand": "schneider weisse",
+    "words": ["schneider", "weisse", "aventinus"],
+    "colors": ["blue", "white", "red", "purple", "golden"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "L1/L1_07.jpg",
+    "brand": "schneider weisse",
+    "words": ["schneider", "weisse", "original"],
+    "colors": ["blue", "white", "orange", "red"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "L1/L1_08.jpg",
+    "brand": "sierra nevada",
+    "words": ["sierra", "nevada", "bigfoot", "2023"],
+    "colors": ["white", "blue"],
+    "figures": ["foot"]
+  },
+  {
+    "imageName": "L1/L1_09.jpg",
+    "brand": "sierra nevada",
+    "words": ["sierra", "nevada", "bigfoot", "2024"],
+    "colors": ["white", "blue"],
+    "figures": ["foot"]
+  },
+  {
+    "imageName": "L1/L1_10.jpg",
+    "brand": "Munchen 1860",
+    "words": ["1860"],
+    "colors": ["black", "blue", "white", "silver"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "L1/L1_11.jpg",
+    "brand": "Munchen 1860",
+    "words": [],
+    "colors": ["black", "blue", "white", "silver"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "L1/L1_12.jpg",
+    "brand": "Munchen 1860",
+    "words": ["1860", "einmal", "lowe", "immer"],
+    "colors": ["black", "white", "silver"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "L1/L1_13.jpg",
+    "brand": "sapporo",
+    "words": ["sapporo"],
+    "colors": ["golden", "red"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "L1/L1_14.jpg",
+    "brand": "estrella galicia",
+    "words": ["estrella", "galicia", "la", "primera", "generacion"],
+    "colors": ["black", "white", "red", "golden"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "L1/L1_15.jpg",
+    "brand": "hopgoblin",
+    "words": [],
+    "colors": ["blue", "white"],
+    "figures": ["goblin"]
+  },
+  {
+    "imageName": "L1/L1_16.jpg",
+    "brand": "hopgoblin",
+    "words": [],
+    "colors": ["blue", "white"],
+    "figures": ["goblin"]
+  },
+  {
+    "imageName": "L1/L1_17.jpg",
+    "brand": "lefebvre",
+    "words": ["lefebvrebiere", "bier", "belgium", "1876"],
+    "colors": ["blue", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "L1/L1_18.jpg",
+    "brand": "lowenbrau",
+    "words": ["lowenbrau"],
+    "colors": ["blue", "golden"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "L1/L1_19.jpg",
+    "brand": "prost",
+    "words": ["prost", "pilsner"],
+    "colors": ["red", "golden", "white"],
+    "figures": ["wing"]
+  },
+  {
+    "imageName": "L1/L1_20.jpg",
+    "brand": "sapporo",
+    "words": ["sapporo"],
+    "colors": ["silver", "black", "golden"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "L1/L1_21.jpg",
+    "brand": "estrella galicia",
+    "words": [
+      "estrella",
+      "galicia",
+      "sin",
+      "gluten",
+      "cerveceros",
+      "desde",
+      "1906"
+    ],
+    "colors": ["black", "white", "yellow"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "L1/L1_22.jpg",
+    "brand": "corona",
+    "words": ["corona", "cero"],
+    "colors": ["blue", "white"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "L1/L1_23.jpg",
+    "brand": "hahn",
+    "words": ["hahn", "twist", "off", "only"],
+    "colors": ["silver", "blue", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "L1/L1_24.jpg",
+    "brand": "warsteiner",
+    "words": ["warsteiner", "fresh", "0.0"],
+    "colors": ["golden", "black", "blue", "white", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "L1/L1_25.jpg",
+    "words": [],
+    "colors": ["blue", "golden"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "L1/L1_26.jpg",
+    "brand": "prost",
+    "words": ["prost", "premium", "lager"],
+    "colors": ["blue", "white", "silver"],
+    "figures": ["wing"]
+  },
+  {
+    "imageName": "L1/L1_27.jpg",
+    "brand": "sapporo",
+    "words": ["sapporo", "classic"],
+    "colors": ["blue", "golden", "silver"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "L1/L1_28.jpg",
+    "brand": "estrella galicia",
+    "words": ["estrella", "galicia", "cerveceros", "desde", "1906", "0.0"],
+    "colors": ["black", "white", "blue"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "L1/L1_29.jpg",
+    "brand": "bavaria",
+    "words": ["s"],
+    "colors": ["bue", "silver"],
+    "figures": ["compass"]
+  },
+  {
+    "imageName": "L1/L1_30.jpg",
+    "brand": "bavaria",
+    "words": ["s"],
+    "colors": ["blue", "white", "siver"],
+    "figures": ["compass"]
+  },
+  {
+    "imageName": "L1/L1_31.jpg",
+    "brand": "moretti",
+    "words": ["moretti", "1859", "birra", "zero"],
+    "colors": ["blue", "white"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "L1/L1_32.jpg",
+    "words": [],
+    "colors": ["blue", "golden"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "L1/L1_33.jpg",
+    "brand": "primator",
+    "words": [
+      "primator",
+      "craft",
+      "brewery",
+      "nachod",
+      "since",
+      "czech",
+      "repubic",
+      "1872"
+    ],
+    "colors": ["white", "blue", "black"],
+    "figures": ["grandmother"]
+  },
+  {
+    "imageName": "L1/L1_34.jpg",
+    "brand": "yotei",
+    "words": ["yotei", "niseko", "lupicia", "brewery"],
+    "colors": ["golden", "blue", "red"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "L1/L1_35.jpg",
+    "brand": "fix",
+    "words": ["fix", "ellas"],
+    "colors": ["blue", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "L1/L1_36.jpg",
+    "brand": "blue moon",
+    "words": ["blue", "moon", "established", "1995", "brewing", "company"],
+    "colors": ["blue", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "L1/L1_37.jpg",
+    "brand": "anchor",
+    "words": ["anchor", "use", "opener"],
+    "colors": ["blue", "white"],
+    "figures": ["anchor", "rope"]
+  },
+  {
+    "imageName": "L1/L1_38.jpg",
+    "words": ["trade", "mark", "use", "opener"],
+    "colors": ["blue", "silver"],
+    "figures": ["anchor", "rope"]
+  },
+  {
+    "imageName": "L1/L1_39.jpg",
+    "words": ["trade", "mark", "use", "opener"],
+    "colors": ["breen", "silver"],
+    "figures": ["anchor", "rope"]
+  },
+  {
+    "imageName": "L1/L1_40.jpg",
+    "words": [
+      "trade",
+      "mark",
+      "use",
+      "opener",
+      "americas",
+      "first",
+      "craft",
+      "brewery"
+    ],
+    "colors": ["blue", "golden"],
+    "figures": ["anchor", "rope"]
+  },
+  {
+    "imageName": "L1/L1_41.jpg",
+    "words": ["k", "est", "1974"],
+    "colors": ["blue", "silver", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "L1/L1_42.jpg",
+    "brand": "corona",
+    "words": ["corona", "extra"],
+    "colors": ["white", "blue"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "L1/L1_43.jpg",
+    "words": ["t"],
+    "colors": ["blue", "white"],
+    "figures": ["shield", "letter"]
+  },
+  {
+    "imageName": "L1/L1_44.jpg",
+    "brand": "xirdalan",
+    "words": ["xirdalan", "original"],
+    "colors": ["blue", "golden", "red"],
+    "figures": ["egle"]
+  },
+  {
+    "imageName": "L1/L1_45.jpg",
+    "brand": "tiger",
+    "words": [],
+    "colors": ["blue", "white", "orange"],
+    "figures": ["tiger"]
+  },
+  {
+    "imageName": "L1/L1_46.jpg",
+    "brand": "stella",
+    "words": [],
+    "colors": ["blue", "yellow", "red"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "L1/L1_47.jpg",
+    "brand": "semedorado",
+    "words": ["semedorado", "birra", "siciliana", "premium"],
+    "colors": ["blue", "yellow", "white"],
+    "figures": ["leg", "face"]
+  },
+  {
+    "imageName": "L1/L1_48.jpg",
+    "brand": "tooheys",
+    "words": ["tooheys", "twist", "off", "only"],
+    "colors": ["blue", "white", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "L1/L1_49.jpg",
+    "brand": "efes",
+    "words": ["efes"],
+    "colors": ["white", "blue"],
+    "figures": []
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "imageName": "L2/L2_01.jpg",
+    "words": [],
+    "colors": ["blue", "white"],
+    "figures": ["tree"]
+  },
+  {
+    "imageName": "L2/L2_02.jpg",
+    "brand": "bedele",
+    "words": ["bedele", "special"],
+    "colors": ["blue", "white", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "L2/L2_03.jpg",
+    "brand": "castel",
+    "words": ["castel", "beer"],
+    "colors": ["golden", "black"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "L2/L2_04.jpg",
+    "words": [],
+    "colors": ["black", "golden", "brown"],
+    "figures": ["woman"]
+  },
+  {
+    "imageName": "L2/L2_05.jpg",
+    "words": [],
+    "colors": ["black", "golden", "brown"],
+    "figures": ["woman"]
+  },
+  {
+    "imageName": "L2/L2_06.jpg",
+    "words": ["harar", "beer"],
+    "colors": ["golden", "red", "black", "white", "gray"],
+    "figures": ["rays"]
+  },
+  {
+    "imageName": "L2/L2_07.jpg",
+    "words": ["bgi", "ethiopia"],
+    "colors": ["red", "yellow"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "L2/L2_08.jpg",
+    "brand": "desperados",
+    "words": ["desperados"],
+    "colors": ["golden", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "L2/L2_09.jpg",
+    "brand": "sakara",
+    "words": ["sakara"],
+    "colors": ["golden", "black"],
+    "figures": ["pyramid", "triangle"]
+  },
+  {
+    "imageName": "L2/L2_10.jpg",
+    "brand": "zagorka",
+    "words": ["спеели", "7500", "000", "бири", "и", "награди"],
+    "colors": ["golden", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "L2/L2_11.jpg",
+    "words": [],
+    "colors": ["golden"],
+    "figures": []
+  },
+  {
+    "imageName": "L2/L2_12.jpg",
+    "words": ["15"],
+    "colors": ["golden", "green"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "L2/L2_13.jpg",
+    "brand": "efes",
+    "words": ["efes"],
+    "colors": ["golden", "brown"],
+    "figures": ["arrow"]
+  },
+  {
+    "imageName": "L2/L2_14.jpg",
+    "brand": "peroni",
+    "words": ["peroni", "nastro", "azzurro", "stile", "capri"],
+    "colors": ["golden", "blue", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "L2/L2_15.jpg",
+    "brand": "perlenbacher",
+    "words": ["twist", "off"],
+    "colors": ["golden", "green"],
+    "figures": ["lion", "arrow"]
+  },
+  {
+    "imageName": "L2/L2_16.jpg",
+    "words": ["л"],
+    "colors": ["golden", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "L2/L2_17.jpg",
+    "words": [],
+    "colors": ["golden", "black"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "L2/L2_18.jpg",
+    "brand": "bohem",
+    "words": ["bohem", "lezak"],
+    "colors": ["blue", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "L2/L2_19.jpg",
+    "words": ["15"],
+    "colors": ["green", "golden"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "L2/L2_20.jpg",
+    "words": [],
+    "colors": ["black", "golden"],
+    "figures": ["tower", "arrow"]
+  },
+  {
+    "imageName": "L2/L2_21.jpg",
+    "words": ["върни", "ме"],
+    "colors": ["blck", "golden"],
+    "figures": ["arrow", "bottle"]
+  },
+  {
+    "imageName": "L2/L2_22.jpg",
+    "words": ["shonan", "beer", "tap", "your", "potential", "since"],
+    "colors": ["golden", "yellow"],
+    "figures": ["grain", "mountain"]
+  },
+  {
+    "imageName": "L2/L2_23.jpg",
+    "words": [],
+    "colors": ["golden"],
+    "figures": []
+  },
+  {
+    "imageName": "L2/L2_24.jpg",
+    "words": ["independent", "family", "brewers"],
+    "colors": ["golden"],
+    "figures": ["neptune", "trident", "man"]
+  },
+  {
+    "imageName": "L2/L2_25.jpg",
+    "words": ["original", "munchner", "hell"],
+    "colors": ["golden", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "L2/L2_26.jpg",
+    "words": ["birre", "importi", "ministria", "financave"],
+    "colors": ["golden", "orange", "yellow"],
+    "figures": ["eagle"]
+  },
+  {
+    "imageName": "L2/L2_27.jpg",
+    "words": ["kloster", "biere"],
+    "colors": ["black", "golden"],
+    "figures": ["shield", "grain", "building"]
+  },
+  {
+    "imageName": "L2/L2_28.jpg",
+    "words": ["estd", "2016"],
+    "colors": ["golden", "green"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "L2/L2_29.jpg",
+    "words": ["otoc"],
+    "colors": ["silver", "white", "red"],
+    "figures": ["arrow"]
+  },
+  {
+    "imageName": "L2/L2_30.jpg",
+    "brand": "coors",
+    "words": ["coors", "light", "rockies", "cold", "as", "the"],
+    "colors": ["silver", "red", "blue", "gray"],
+    "figures": ["mountain"]
+  },
+  {
+    "imageName": "L2/L2_31.jpg",
+    "brand": "stella",
+    "words": ["stela"],
+    "colors": ["black", "silver"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "L2/L2_32.jpg",
+    "brand": "cass",
+    "words": ["cass", "fresh"],
+    "colors": ["blue", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "L2/L2_33.jpg",
+    "brand": "chiemseer",
+    "words": ["chiemseer", "hell"],
+    "colors": ["silver", "blue"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "L2/L2_34.jpg",
+    "words": ["owned"],
+    "colors": ["silver", "blue"],
+    "figures": ["dot", "seed"]
+  },
+  {
+    "imageName": "L2/L2_35.jpg",
+    "brand": "",
+    "words": [],
+    "colors": ["silver"],
+    "figures": []
+  },
+  {
+    "imageName": "L2/L2_36.jpg",
+    "words": [],
+    "colors": ["silver", "white"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "L2/L2_37.jpg",
+    "words": ["tradicni"],
+    "colors": ["silver", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "L2/L2_38.jpg",
+    "words": ["schweppe"],
+    "colors": ["silver", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "L2/L2_39.jpg",
+    "brand": "klackabacken",
+    "words": ["klackabacken", "2012"],
+    "colors": ["black", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "L2/L2_40.jpg",
+    "brand": "nils oscar",
+    "words": ["nils", "oscar"],
+    "colors": ["black", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "L2/L2_41.jpg",
+    "brand": "kutno horska",
+    "words": ["kutno", "horska"],
+    "colors": ["black", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "L2/L2_42.jpg",
+    "words": [],
+    "colors": ["black", "silver"],
+    "figures": ["tree"]
+  },
+  {
+    "imageName": "L2/L2_43.jpg",
+    "words": [],
+    "colors": ["black", "silver"],
+    "figures": ["ion", "arrow"]
+  },
+  {
+    "imageName": "L2/L2_44.jpg",
+    "words": [],
+    "colors": ["black", "silver"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "L2/L2_45.jpg",
+    "words": ["t"],
+    "colors": ["black", "silver", "red"],
+    "figures": ["letter", "eagle"]
+  },
+  {
+    "imageName": "L2/L2_46.jpg",
+    "words": [],
+    "colors": ["black", "silver", "blue"],
+    "figures": ["eagle", "letter"]
+  },
+  {
+    "imageName": "L2/L2_47.jpg",
+    "brand": "castello",
+    "words": ["castello", "c"],
+    "colors": ["black", "silver"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "L2/L2_48.jpg",
+    "words": ["trzech", "kumpli", "twoje"],
+    "colors": ["black", "silver"],
+    "figures": ["triangle", "abstract"]
+  },
+  {
+    "imageName": "L2/L2_49.jpg",
+    "words": ["poppels"],
+    "colors": ["black", "silver"],
+    "figures": []
+  }
+]

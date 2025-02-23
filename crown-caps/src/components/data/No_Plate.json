@@ -1,18 +1,204 @@
 [
   {
-    "imageName": "No_Plate/No_Plate(1).jpg",
+    "imageName": "NoPlate_01.jpg",
+    "words": [],
+    "colors": ["red"],
+    "figures": []
+  },
+  {
+    "imageName": "NoPlate_02.jpg",
     "words": ["riegele", "biermanufaktur"],
-    "colors": ["black", "gray"],
+    "colors": ["green", "golden"],
     "figures": ["horse"]
   },
   {
-    "imageName": "No_Plate/No_Plate(41).jpg",
-    "brand": "devils peak",
+    "imageName": "NoPlate_03.jpg",
+    "brand": "faxe",
+    "words": ["faxe,10"],
+    "colors": ["green", "red", "white", "golden"],
+    "figures": ["vicking"]
+  },
+  {
+    "imageName": "NoPlate_04.jpg",
+    "words": [],
+    "colors": ["purple"],
+    "figures": []
+  },
+  {
+    "imageName": "NoPlate_05.jpg",
+    "brand": "keo",
+    "words": [
+      "keo",
+      "beer",
+      "on",
+      "the",
+      "island",
+      "of",
+      "cyprus",
+      "proudly",
+      "brewed"
+    ],
+    "colors": ["yellow", "red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NoPlate_06.jpg",
+    "brand": "Innis and Gunn",
+    "words": ["innis", "gunn", "est", "2003", "brewing", "co"],
+    "colors": ["green", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NoPlate_07.jpg",
+    "words": ["9", "ou"],
+    "colors": ["orange", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "NoPlate_09.jpg",
+    "words": [],
+    "colors": ["black", "gray", "red", "white"],
+    "figures": ["star", "abstract"]
+  },
+  {
+    "imageName": "NoPlate_10.jpg",
+    "words": [],
+    "colors": ["yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "NoPlate_11.jpg",
+    "brand": "grimbergen",
+    "words": ["grimbergen", "1128"],
+    "colors": ["white", "brown"],
+    "figures": ["phenix"]
+  },
+  {
+    "imageName": "NoPlate_12.jpg",
+    "brand": "primator",
+    "words": [
+      "primator",
+      "craft",
+      "brewery",
+      "nachod",
+      "since",
+      "1872",
+      "czech",
+      "republic",
+      "a"
+    ],
+    "colors": ["green", "white", "black"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "NoPlate_13.jpg",
+    "words": [],
+    "colors": ["pink", "black"],
+    "figures": ["hen", "bird"]
+  },
+  {
+    "imageName": "NoPlate_14.jpg",
+    "brand": "savanna",
+    "words": ["savanna"],
+    "colors": ["green", "white"],
+    "figures": ["tree"]
+  },
+  {
+    "imageName": "NoPlate_15.jpg",
+    "brand": "schofferhofer",
+    "words": ["schofferhofer", "weizen", "dunkel"],
+    "colors": ["orange", "golden", "brown", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NoPlate_17.jpg",
+    "brand": "cisk",
+    "words": ["cisk", "excel"],
+    "colors": ["white", "yellow", "red", "blue"],
+    "figures": ["horse"]
+  },
+  {
+    "imageName": "NoPlate_18.jpg",
+    "words": ["oedipus"],
+    "colors": ["pink", "red", "yellow", "white", "silver"],
+    "figures": ["leaf"]
+  },
+  {
+    "imageName": "NoPlate_19.jpg",
+    "brand": "argus",
+    "words": ["argus"],
+    "colors": ["yellow", "green", "red"],
+    "figures": ["agave"]
+  },
+  {
+    "imageName": "NoPlate_20.jpg",
+    "brand": "keo",
+    "words": ["keo", "light", "beer"],
+    "colors": ["silver", "white", "black", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "NoPlate_21.jpg",
+    "brand": "coral",
+    "words": ["coral", "premium"],
+    "colors": ["white", "green", "red"],
+    "figures": ["hops", "grain"]
+  },
+  {
+    "imageName": "NoPlate_22.jpg",
+    "brand": "erdinger",
+    "words": ["erdinger", "weissbrau"],
+    "colors": ["red", "blue", "white", "golden"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "NoPlate_23.jpg",
+    "brand": "schofferhofer",
+    "words": ["schofferhofer", "grapefruit", "weizen", "mix"],
+    "colors": ["orange", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "NoPlate_25.jpg",
+    "words": ["pivovar", "1649", "strakonice"],
+    "colors": ["golden", "white"],
+    "figures": ["factory"]
+  },
+  {
+    "imageName": "NoPlate_26.jpg",
+    "brand": "cisk",
+    "words": ["cisk", "alc", "vol", "0.0"],
+    "colors": ["white", "yellow", "red"],
+    "figures": ["horse"]
+  },
+  {
+    "imageName": "NoPlate_27.jpg",
+    "brand": "archivist",
+    "words": ["archivist"],
+    "colors": ["yellow", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "NoPlate_28.jpg",
+    "words": ["varmdo", "bryggeri", "modernt", "hantverk"],
+    "colors": ["golden", "brown"],
+    "figures": ["lighthouse"]
+  },
+  {
+    "imageName": "NoPlate_29.jpg",
+    "brand": "pilsner urquel",
+    "words": ["plzen"],
+    "colors": ["green", "golden"],
+    "figures": ["cask"]
+  },
+  {
+    "imageName": "NoPlate_30.jpg",
+    "brand": "devil's peak",
     "words": [
       "devils",
       "peak",
       "south",
-      "africas",
+      "africa",
       "premium",
       "beer",
       "fortune",
@@ -20,461 +206,153 @@
       "bold"
     ],
     "colors": ["white", "blue", "golden"],
-    "figures": ["leaf"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(43).jpg",
-    "brand": "weihenstephaner",
-    "words": ["weihenstephaner", "reinheit", "garantierte"],
-    "colors": ["white", "brown", "golden"],
-    "figures": ["lion", "shield"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(10).jpg",
-    "brand": "",
-    "words": ["eins", "hell"],
-    "colors": ["red", "white", "blue"],
     "figures": []
   },
   {
-    "imageName": "No_Plate/No_Plate(11).jpg",
-    "words": [],
-    "colors": ["white", "silver"],
-    "figures": ["grain", "grass"]
+    "imageName": "NoPlate_31.jpg",
+    "brand": "kona",
+    "words": ["kona", "brewing", "co"],
+    "colors": ["white", "yellow"],
+    "figures": ["lizard"]
   },
   {
-    "imageName": "No_Plate/No_Plate(12).jpg",
-    "words": ["trzech", "kumpli", "twoje", "zdrowie"],
-    "colors": ["black", "silver"],
-    "figures": ["abstract", "man", "table", "glass"]
+    "imageName": "NoPlate_33.jpg",
+    "words": ["vrid"],
+    "colors": ["red", "silver"],
+    "figures": ["moose", "fish"]
   },
   {
-    "imageName": "No_Plate/No_Plate(13).jpg",
-    "words": ["flip", "your", "bottle", "keep", "cold", "pour", "hard"],
-    "colors": ["black", "red", "white"],
-    "figures": ["hand"]
+    "imageName": "NoPlate_34.jpg",
+    "brand": "alhambra",
+    "words": ["reserva", "1925", "8419", "5326"],
+    "colors": ["green", "white", "black"],
+    "figures": ["barcode"]
   },
   {
-    "imageName": "No_Plate/No_Plate(14).jpg",
-    "words": [],
-    "colors": ["white", "golden", "blue", "red"],
-    "figures": ["lion", "crown", "shield"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(15).jpg",
-    "words": ["boon", "rawd", "brewery", "co", "ltd"],
-    "colors": ["white", "red"],
-    "figures": ["dragon"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(16).jpg",
-    "brand": "kirin",
-    "words": ["kirin"],
-    "colors": ["red", "golden"],
-    "figures": ["dragon"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(17).jpg",
-    "words": ["л"],
-    "colors": ["golden", "white"],
-    "figures": ["abstract", "letter"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(18).jpg",
-    "brand": "glarus",
-    "words": ["glarus", "craft", "brewingco"],
-    "colors": ["black", "white"],
-    "figures": ["seagull"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(19).jpg",
-    "words": ["15"],
-    "colors": ["green", "golden"],
-    "figures": ["grain"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(2).jpg",
-    "words": ["klackablacken"],
-    "colors": ["black", "silver"],
+    "imageName": "NoPlate_35.jpg",
+    "brand": "salitos",
+    "words": ["salitos", "cerveza"],
+    "colors": ["green", "yellow", "silver"],
     "figures": []
   },
   {
-    "imageName": "No_Plate/No_Plate(20).jpg",
-    "words": ["ollenaut"],
-    "colors": ["black", "white", "yellow"],
-    "figures": ["man", "glasses", "glass"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(21).jpg",
-    "brand": "holba",
-    "words": ["holba", "serak"],
-    "colors": ["red", "silver", "green"],
-    "figures": ["sun", "mountain"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(22).jpg",
-    "brand": "efes",
-    "words": ["efes"],
-    "colors": ["golden", "brown"],
-    "figures": ["arrow", "line"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(23).jpg",
-    "words": [],
-    "colors": ["pink", "black"],
-    "figures": ["hen"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(24).jpg",
+    "imageName": "NoPlate_36.jpg",
     "brand": "breznak",
     "words": ["breznak", "velke", "brezno", "zalozeno", "1753"],
     "colors": ["white", "brown"],
-    "figures": ["man", "glass"]
+    "figures": ["glass", "man"]
   },
   {
-    "imageName": "No_Plate/No_Plate(25).jpg",
-    "words": ["birra", "baladin"],
-    "colors": ["black", "silver", "white"],
-    "figures": ["glass"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(26).jpg",
-    "brand": "bohem",
-    "words": [],
-    "colors": ["black", "white"],
-    "figures": ["factory"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(27).jpg",
-    "words": ["lx", "beer"],
-    "colors": ["black", "white"],
-    "figures": ["circle"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(28).jpg",
-    "words": ["unertl", "der", "weissbrau", "aus", "haag"],
-    "colors": ["white", "green", "red"],
-    "figures": ["hops", "tower"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(29).jpg",
-    "brand": "kutno horska",
-    "words": ["kutno", "horska"],
-    "colors": ["silver", "black"],
-    "figures": []
-  },
-  {
-    "imageName": "No_Plate/No_Plate(3).jpg",
-    "words": ["original", "munchner", "hell"],
-    "colors": ["golden", "blue"],
-    "figures": []
-  },
-  {
-    "imageName": "No_Plate/No_Plate(30).jpg",
-    "brand": "coors",
-    "words": ["coors", "light", "rockies", "cold", "as", "the"],
-    "colors": ["silver", "red", "gray", "blue"],
-    "figures": ["mountain"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(31).jpg",
-    "brand": "forst",
-    "words": [],
-    "colors": ["green", "silver"],
-    "figures": ["tree", "crown", "circle"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(32).jpg",
-    "words": ["oedipus"],
-    "colors": ["white", "silver", "pink", "purple", "red", "blue", "yellow"],
-    "figures": ["leaf"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(33).jpg",
-    "brand": "chiemseer",
-    "words": ["chiemseer", "hell"],
-    "colors": ["blue", "silver"],
-    "figures": ["lion"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(34).jpg",
-    "brand": "schneider weisse",
-    "words": ["schneider", "weisse", "original"],
-    "colors": ["white", "blue", "golden", "red"],
-    "figures": ["hops", "crown"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(35).jpg",
-    "brand": "schneider weisse",
-    "words": ["schneider", "weisse", "festweisse"],
-    "colors": ["blue", "white", "red", "silver"],
-    "figures": ["hops", "crown"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(36).jpg",
-    "words": ["t", "18", "36"],
-    "colors": ["black", "white"],
-    "figures": ["triangle"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(37).jpg",
-    "brand": "semedorato",
-    "words": ["seme", "dorato", "premium", "birra", "siciliana"],
-    "colors": ["blue", "yellow", "white"],
-    "figures": ["face", "legs", "circle"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(38).jpg",
-    "words": ["turm", "weisse", "weissbierbrauer", "kochlbauer"],
-    "colors": ["black", "silver"],
-    "figures": []
-  },
-  {
-    "imageName": "No_Plate/No_Plate(39).jpg",
-    "brand": "faxe",
-    "words": ["faxe", "10"],
-    "colors": ["green", "golden", "red", "white"],
-    "figures": ["viking"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(4).jpg",
-    "brand": "corona",
-    "words": ["corona", "extra"],
-    "colors": ["blue", "white"],
-    "figures": ["crown"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(40).jpg",
-    "words": ["alma", "do", "alentejo", "barona", "brewing", "company"],
-    "colors": ["black", "white"],
-    "figures": ["hops", "circle", "abstract"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(42).jpg",
+    "imageName": "NoPlate_37.jpg",
     "words": ["alkoholfrei", "alcohol", "free", "sans", "alcool"],
-    "colors": ["silver", "red", "white"],
-    "figures": ["arrow", "rays"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(44).jpg",
-    "words": [],
-    "colors": ["silver", "white"],
-    "figures": ["abstract"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(45).jpg",
-    "brand": "efes",
-    "words": ["efes"],
-    "colors": ["blue", "white"],
-    "figures": []
-  },
-  {
-    "imageName": "No_Plate/No_Plate(46).jpg",
-    "brand": "zagorka",
-    "words": ["върни", "ме"],
-    "colors": ["golden", "black"],
-    "figures": ["bottle", "arrow"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(47).jpg",
-    "brand": "castello",
-    "words": ["castello", "c"],
-    "colors": ["black", "silver"],
-    "figures": []
-  },
-  {
-    "imageName": "No_Plate/No_Plate(48).jpg",
-    "brand": "svijany",
-    "words": ["svijany", "s", "1564"],
-    "colors": ["black", "red", "golden"],
-    "figures": ["shield"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(49).jpg",
-    "words": ["mu", "sa"],
-    "colors": ["pink", "white"],
-    "figures": ["rectangle"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(5).jpg",
-    "words": ["vrid"],
-    "colors": ["red", "silver"],
-    "figures": ["crown", "fish", "moose"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(50).jpg",
-    "words": [],
-    "colors": ["orange"],
-    "figures": []
-  },
-  {
-    "imageName": "No_Plate/No_Plate(51).jpg",
-    "words": ["plzen"],
-    "colors": ["green", "golden"],
-    "figures": ["cask", "castle"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(52).jpg",
-    "words": [],
-    "colors": ["red", "white"],
-    "figures": ["lips"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(53).jpg",
-    "words": ["varmdo", "bryggeri", "modernt", "hantverk"],
-    "colors": ["golden", "brown"],
-    "figures": ["lighthouse"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(54).jpg",
-    "brand": "lowenbrau",
-    "words": ["lowenbrau"],
-    "colors": ["blue", "golden"],
-    "figures": ["lion"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(55).jpg",
-    "brand": "warsteiner",
-    "words": ["warsteiner", "fresh", "o.o"],
-    "colors": ["golden", "black", "red", "blue"],
-    "figures": []
-  },
-  {
-    "imageName": "No_Plate/No_Plate(56).jpg",
-    "brand": "archivist",
-    "words": ["archivist"],
-    "colors": ["yellow", "black"],
-    "figures": ["circle"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(57).jpg",
-    "brand": "poppels",
-    "words": ["poppels", "bryggeri"],
-    "colors": ["black", "silver"],
-    "figures": []
-  },
-  {
-    "imageName": "No_Plate/No_Plate(58).jpg",
-    "brand": "savanna",
-    "words": ["savanna"],
-    "colors": ["gray", "green", "white"],
-    "figures": ["tree"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(59).jpg",
-    "brand": "warka",
-    "words": ["warka", "beer"],
-    "colors": ["black", "white", "red", "silver"],
-    "figures": ["man"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(6).jpg",
-    "words": ["b"],
-    "colors": ["blue", "gray"],
-    "figures": ["crown"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(60).jpg",
-    "brand": "coral",
-    "words": ["coral", "premium"],
-    "colors": ["white", "red", "green"],
-    "figures": ["hops", "grain"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(61).jpg",
-    "words": [],
-    "colors": ["gray", "red", "white"],
-    "figures": ["star", "abstract"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(62).jpg",
-    "brand": "grimbergen",
-    "words": ["grimbergen", "1128"],
-    "colors": ["white", "brown"],
-    "figures": ["bird"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(63).jpg",
-    "words": ["bohem", "lezak"],
-    "colors": ["blue", "golden"],
-    "figures": []
-  },
-  {
-    "imageName": "No_Plate/No_Plate(64).jpg",
-    "brand": "nils oscar",
-    "words": ["nils", "oscar"],
-    "colors": ["black", "silver"],
-    "figures": []
-  },
-  {
-    "imageName": "No_Plate/No_Plate(65).jpg",
-    "words": ["otoc"],
     "colors": ["silver", "red", "white"],
     "figures": ["arrow"]
   },
   {
-    "imageName": "No_Plate/No_Plate(66).jpg",
-    "brand": "sapporo",
-    "words": ["sapporo", "classic"],
-    "colors": ["silver", "blue", "golden"],
-    "figures": ["star"]
+    "imageName": "NoPlate_38.jpg",
+    "brand": "weihenstephaner",
+    "words": ["weihenstephaner", "garantierte", "reinheit"],
+    "colors": ["brown", "white", "golden"],
+    "figures": ["lion", "shield"]
   },
   {
-    "imageName": "No_Plate/No_Plate(67).jpg",
-    "words": ["het", "nest", "brouwerij"],
-    "colors": ["black", "white", "golden", "red"],
-    "figures": ["card", "circle"]
+    "imageName": "NoPlate_39.jpg",
+    "words": [
+      "das",
+      "original",
+      "doble",
+      "malta",
+      "voll",
+      "damm",
+      "marzenbier",
+      "desde"
+    ],
+    "colors": ["green", "white", "red"],
+    "figures": []
   },
   {
-    "imageName": "No_Plate/No_Plate(69).jpg",
+    "imageName": "NoPlate_41.jpg",
+    "words": ["xx", "desde", "1897"],
+    "colors": ["red", "golden"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "NoPlate_42.jpg",
+    "words": ["pivovar", "1649", "strakonice"],
+    "colors": ["green", "white"],
+    "figures": ["factory"]
+  },
+  {
+    "imageName": "NoPlate_43.jpg",
     "brand": "kasteel",
     "words": ["kasteel", "donker"],
     "colors": ["orange", "yellow", "black", "white"],
     "figures": []
   },
   {
-    "imageName": "No_Plate/No_Plate(7).jpg",
-    "brand": "peroni",
-    "words": ["peroni", "capri", "stile", "nastro", "azzurro"],
-    "colors": ["golden", "white", "blue"],
+    "imageName": "NoPlate_44.jpg",
+    "brand": "cisk",
+    "words": ["cisk", "lager"],
+    "colors": ["yellow", "red", "black"],
     "figures": []
   },
   {
-    "imageName": "No_Plate/No_Plate(70).jpg",
-    "words": ["yotei", "brewery", "niseko", "lupicia"],
-    "colors": ["golden", "red", "blue"],
+    "imageName": "NoPlate_47.jpg",
+    "words": ["b"],
+    "colors": ["blue", "white", "black", "golden"],
+    "figures": ["letter", "crown"]
+  },
+  {
+    "imageName": "NoPlate_49.jpg",
+    "brand": "holba",
+    "words": ["holba", "serak"],
+    "colors": ["green", "silver", "red"],
+    "figures": ["sun", "mountain"]
+  },
+  {
+    "imageName": "NoPlate_50.jpg",
+    "words": [],
+    "colors": ["green", "silver"],
+    "figures": ["pie", "tree", "crown"]
+  },
+  {
+    "imageName": "NoPlate_51.jpg",
+    "brand": "coors",
+    "words": ["coors", "light", "born", "in", "the", "rockies"],
+    "colors": ["silver", "gray"],
+    "figures": ["mountain"]
+  },
+  {
+    "imageName": "NoPlate_52.jpg",
+    "brand": "cisk",
+    "words": ["cisk", "excel"],
+    "colors": ["silver", "yellow", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "NoPlate_53.jpg",
+    "words": [],
+    "colors": ["silver", "white"],
     "figures": ["abstract"]
   },
   {
-    "imageName": "No_Plate/No_Plate(71).jpg",
-    "brand": "kingfisher",
-    "words": ["kingfisher"],
-    "colors": ["red", "white"],
-    "figures": ["kingfisher"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(72).jpg",
-    "brand": "",
-    "words": ["brasserie", "d", "achouffe", "belgium"],
-    "colors": ["red", "blue", "green", "white"],
-    "figures": ["dwarf"]
-  },
-  {
-    "imageName": "No_Plate/No_Plate(73).jpg",
-    "words": [],
+    "imageName": "NoPlate_54.jpg",
+    "words": ["birra", "baladin"],
     "colors": ["black", "silver"],
-    "figures": ["tree"]
+    "figures": ["glass"]
   },
   {
-    "imageName": "No_Plate/No_Plate(8).jpg",
-    "words": [],
-    "colors": ["blue", "silver"],
-    "figures": ["abstract", "dot", "circle"]
+    "imageName": "NoPlate_55.jpg",
+    "brand": "zlaty bazant",
+    "words": ["zlaty", "bazant", "hurbanovo"],
+    "colors": ["white", "red", "golden"],
+    "figures": ["phasant"]
   },
   {
-    "imageName": "No_Plate/No_Plate(9).jpg",
-    "words": ["15"],
-    "colors": ["green", "golden"],
-    "figures": []
+    "imageName": "NoPlate_64.jpg",
+    "brand": "red horse",
+    "words": ["red", "horse", "beer", "extra", "strong"],
+    "colors": ["red", "silver"],
+    "figures": ["horse"]
   }
 ]

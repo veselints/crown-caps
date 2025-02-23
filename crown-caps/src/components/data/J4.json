@@ -1,0 +1,326 @@
+[
+  {
+    "imageName": "J4/J4_01.jpg",
+    "brand": "svijany",
+    "words": ["svijany", "1564", "pivovar"],
+    "colors": ["black", "red", "golden"],
+    "figures": ["shield"]
+  },
+  {
+    "imageName": "J4/J4_02.jpg",
+    "words": ["since", "t", "2005"],
+    "colors": ["black", "golden"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J4/J4_03.jpg",
+    "brand": "krushovice",
+    "words": [],
+    "colors": ["black", "golden"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "J4/J4_04.jpg",
+    "brand": "panther",
+    "words": ["panther", "black", "beer"],
+    "colors": ["black", "yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "J4/J4_05.jpg",
+    "words": ["ilgezeem", "brewed", "in", "riga", "anno", "1863"],
+    "colors": ["black", "gray", "white"],
+    "figures": ["lion", "shield", "key"]
+  },
+  {
+    "imageName": "J4/J4_06.jpg",
+    "brand": "iron maiden",
+    "words": ["iron", "maiden"],
+    "colors": ["black", "yellow"],
+    "figures": ["unicorn"]
+  },
+  {
+    "imageName": "J4/J4_07.jpg",
+    "brand": "iron maiden",
+    "words": ["stranger", "i", "a", "strange", "land", "1986"],
+    "colors": ["black", "white", "red", "blue"],
+    "figures": ["eddie"]
+  },
+  {
+    "imageName": "J4/J4_08.jpg",
+    "words": ["lurm", "weisse", "weissbierbrauer", "kuchlbauer"],
+    "colors": ["black", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "J4/J4_09.jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["hops", "abstract"]
+  },
+  {
+    "imageName": "J4/J4_10.jpg",
+    "words": ["maternus", "gama", "artesanas"],
+    "colors": ["black", "white"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "J4/J4_11.jpg",
+    "words": ["stads", "haven", "brouwerij", "fearless", "brewers"],
+    "colors": ["black", "white"],
+    "figures": ["anchor"]
+  },
+  {
+    "imageName": "J4/J4_12.jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["triangle", "abstract"]
+  },
+  {
+    "imageName": "J4/J4_13.jpg",
+    "words": ["h"],
+    "colors": ["black", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J4/J4_14.jpg",
+    "words": ["&"],
+    "colors": ["black", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J4/J4_15.jpg",
+    "brand": "badger",
+    "words": ["badger", "doorset", "brewers", "estd", "1777"],
+    "colors": ["black", "white"],
+    "figures": ["badger"]
+  },
+  {
+    "imageName": "J4/J4_16.jpg",
+    "brand": "badger",
+    "words": ["badger", "doorset", "brewery", "17", "77"],
+    "colors": ["black", "white"],
+    "figures": ["badger"]
+  },
+  {
+    "imageName": "J4/J4_17.jpg",
+    "brand": "glarus",
+    "words": ["glarus", "craft", "brewing", "co"],
+    "colors": ["black", "white"],
+    "figures": ["gull"]
+  },
+  {
+    "imageName": "J4/J4_18.jpg",
+    "words": ["courage", "est", "1787"],
+    "colors": ["black", "white"],
+    "figures": ["rooster"]
+  },
+  {
+    "imageName": "J4/J4_19.jpg",
+    "words": ["flip", "your", "bottle", "keep", "cold", "pour", "hard"],
+    "colors": ["black", "white", "red"],
+    "figures": ["hand"]
+  },
+  {
+    "imageName": "J4/J4_20.jpg",
+    "words": ["b"],
+    "colors": ["black", "white", "red", "yellow", "gray"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J4/J4_21.jpg",
+    "brand": "brewdog",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "J4/J4_22.jpg",
+    "brand": "madri",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "J4/J4_23.jpg",
+    "brand": "bohem",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["factory"]
+  },
+  {
+    "imageName": "J4/J4_24.jpg",
+    "brand": "bohem",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["factory"]
+  },
+  {
+    "imageName": "J4/J4_25.jpg",
+    "words": ["t", "18", "36"],
+    "colors": ["black", "white"],
+    "figures": ["letter", "triangle"]
+  },
+  {
+    "imageName": "J4/J4_26.jpg",
+    "words": ["b"],
+    "colors": ["black", "white"],
+    "figures": ["letter", "circle"]
+  },
+  {
+    "imageName": "J4/J4_27.jpg",
+    "words": ["lx", "been"],
+    "colors": ["black", "white"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J4/J4_28.jpg",
+    "words": ["ollenaut"],
+    "colors": ["black", "white", "golden"],
+    "figures": ["man", "glass", "glasses"]
+  },
+  {
+    "imageName": "J4/J4_29.jpg",
+    "words": ["barona", "brewing", "company", "alma", "do", "alentejo"],
+    "colors": ["black", "white"],
+    "figures": ["hops", "map"]
+  },
+  {
+    "imageName": "J4/J4_30.jpg",
+    "brand": "califa",
+    "words": ["califa", "born", "brewed", "and", "in", "cordoba"],
+    "colors": ["black", "white", "yellow"],
+    "figures": ["grain", "hops"]
+  },
+  {
+    "imageName": "J4/J4_31.jpg",
+    "words": ["het", "nest", "brouwerij"],
+    "colors": ["black", "white", "golden"],
+    "figures": ["cards"]
+  },
+  {
+    "imageName": "J4/J4_32.jpg",
+    "brand": "dargett",
+    "words": ["dargett", "brewery"],
+    "colors": ["black", "white"],
+    "figures": ["star", "circle"]
+  },
+  {
+    "imageName": "J4/J4_33.jpg",
+    "words": ["anno", "1998"],
+    "colors": ["black", "white"],
+    "figures": ["man", "hops"]
+  },
+  {
+    "imageName": "J4/J4_34.jpg",
+    "words": ["on", "lemon"],
+    "colors": ["black", "white"],
+    "figures": ["arrow"]
+  },
+  {
+    "imageName": "J4/J4_35.jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["boat"]
+  },
+  {
+    "imageName": "J4/J4_36.jpg",
+    "brand": "kingfisher",
+    "words": ["kingfisher"],
+    "colors": ["white", "red"],
+    "figures": ["kingfisher"]
+  },
+  {
+    "imageName": "J4/J4_37.jpg",
+    "brand": "hutt",
+    "words": ["hutt", "seit", "1752"],
+    "colors": ["red", "yellow", "white"],
+    "figures": ["town"]
+  },
+  {
+    "imageName": "J4/J4_38.jpg",
+    "words": ["api", "din"],
+    "colors": ["white", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "J4/J4_39.jpg",
+    "words": [],
+    "colors": ["white", "golden", "red", "blue"],
+    "figures": ["lion", "crown", "shield"]
+  },
+  {
+    "imageName": "J4/J4_40.jpg",
+    "words": ["noam"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "J4/J4_41.jpg",
+    "words": ["c"],
+    "colors": ["white", "gray"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J4/J4_42.jpg",
+    "brand": "alfa",
+    "words": ["a"],
+    "colors": ["white", "red", "green"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J4/J4_43.jpg",
+    "words": [],
+    "colors": ["red", "white"],
+    "figures": ["lips", "kiss"]
+  },
+  {
+    "imageName": "J4/J4_44.jpg",
+    "brand": "filou",
+    "words": ["filou"],
+    "colors": ["black", "white", "red"],
+    "figures": ["boy", "hops"]
+  },
+  {
+    "imageName": "J4/J4_45.jpg",
+    "brand": "clausthaler",
+    "words": ["clausthaler"],
+    "colors": ["black", "white", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "J4/J4_46.jpg",
+    "words": ["m", "michelob", "ultra"],
+    "colors": ["white", "silver", "red", "blue"],
+    "figures": ["letter"]
+  },
+  {
+    "imageName": "J4/J4_47.jpg",
+    "brand": "unertl",
+    "words": ["unertl", "der", "weissbrau", "aus", "haag"],
+    "colors": ["white", "red", "green"],
+    "figures": ["tower", "grain"]
+  },
+  {
+    "imageName": "J4/J4_48.jpg",
+    "words": ["h"],
+    "colors": ["green", "white"],
+    "figures": ["letter", "hops"]
+  },
+  {
+    "imageName": "J4/J4_49.jpg",
+    "brand": "san miguel",
+    "words": [
+      "san",
+      "miguel",
+      "especial",
+      "exploring",
+      "the",
+      "world",
+      "cluten",
+      "free"
+    ],
+    "colors": ["green", "golden", "white", "red"],
+    "figures": ["globe", "grain"]
+  }
+]

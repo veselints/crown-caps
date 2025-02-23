@@ -1,0 +1,217 @@
+[
+  {
+    "imageName": "PL/PL_01.jpg",
+    "brand": "zywiec",
+    "words": [],
+    "colors": ["white", "red", "blue"],
+    "figures": ["man", "hat"]
+  },
+  {
+    "imageName": "PL/PL_02.jpg",
+    "brand": "brackie",
+    "words": ["brackie", "zatecky", "pils"],
+    "colors": ["green", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "PL/PL_03.jpg",
+    "brand": "lech",
+    "words": ["lech", "free"],
+    "colors": ["blue", "silver", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "PL/PL_04.jpg",
+    "brand": "lomza",
+    "words": ["lomza", "1968"],
+    "colors": ["red", "green"],
+    "figures": ["deer"]
+  },
+  {
+    "imageName": "PL/PL_05.jpg",
+    "brand": "wroclaw",
+    "words": ["wrclw"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "PL/PL_06.jpg",
+    "brand": "namyslow",
+    "words": ["namyslow", "w", "namislowie", "kasa", "plynie", "pils"],
+    "colors": ["brown", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "PL/PL_07.jpg",
+    "brand": "perla",
+    "words": ["perla", "export"],
+    "colors": ["white", "green", "red"],
+    "figures": ["goat", "shield"]
+  },
+  {
+    "imageName": "PL/PL_08.jpg",
+    "brand": "tatra",
+    "words": ["tatra", "jasne", "pelne"],
+    "colors": ["yellow", "blue"],
+    "figures": ["eagle", "forest", "tree", "mountain"]
+  },
+  {
+    "imageName": "PL/PL_09.jpg",
+    "brand": "warka",
+    "words": ["warka", "beer"],
+    "colors": ["red", "white", "black"],
+    "figures": ["man", "scarf"]
+  },
+  {
+    "imageName": "PL/PL_10.jpg",
+    "brand": "warka",
+    "words": ["warka", "beer"],
+    "colors": ["black", "white", "golden"],
+    "figures": ["man", "scarf"]
+  },
+  {
+    "imageName": "PL/PL_11.jpg",
+    "brand": "tatra",
+    "words": ["tatra", "wygraj", "pack", "lub", "tatre"],
+    "colors": ["yellow", "blue"],
+    "figures": ["mountain"]
+  },
+  {
+    "imageName": "PL/PL_12.jpg",
+    "brand": "zubr",
+    "words": [],
+    "colors": ["golden", "green"],
+    "figures": ["zubr"]
+  },
+  {
+    "imageName": "PL/PL_13.jpg",
+    "words": ["twist", "off"],
+    "colors": ["silver", "black"],
+    "figures": ["arrow"]
+  },
+  {
+    "imageName": "PL/PL_14.jpg",
+    "brand": "desperados",
+    "words": ["wygrywaj", "co", "chcesz"],
+    "colors": ["golden", "red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "PL/PL_15.jpg",
+    "brand": "perla",
+    "words": ["perla", "chmielowa"],
+    "colors": ["green", "red", "white"],
+    "figures": ["hops", "shield", "goat"]
+  },
+  {
+    "imageName": "PL/PL_16.jpg",
+    "brand": "cornelius",
+    "words": ["cornelius", "hazy", "beer"],
+    "colors": ["white", "black"],
+    "figures": ["rooster"]
+  },
+  {
+    "imageName": "PL/PL_17.jpg",
+    "words": ["eb", "oryginalna", "receptura"],
+    "colors": ["white", "red", "gray"],
+    "figures": ["cangoroo", "emu", "shield"]
+  },
+  {
+    "imageName": "PL/PL_18.jpg",
+    "brand": "ksiazece",
+    "words": ["ksiazece", "piwne", "style", "swiata", "kolekcja"],
+    "colors": ["red", "golden"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "PL/PL_19.jpg",
+    "brand": "perla",
+    "words": ["perla", "browary", "lubelskie", "kozlak"],
+    "colors": ["red", "white", "golden", "brown"],
+    "figures": ["goat"]
+  },
+  {
+    "imageName": "PL/PL_20.jpg",
+    "brand": "warka",
+    "words": ["warka", "loteria", "beer"],
+    "colors": ["red", "golden", "blue", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "PL/PL_21.jpg",
+    "brand": "zywiec",
+    "words": ["z", "browaru", "1856", "receptura"],
+    "colors": ["golden", "silver", "red"],
+    "figures": ["man", "woman", "dancer", "letter"]
+  },
+  {
+    "imageName": "PL/PL_22.jpg",
+    "brand": "perla",
+    "words": ["perla", "miodowa"],
+    "colors": ["yellow", "red", "white", "green"],
+    "figures": ["goat", "shield"]
+  },
+  {
+    "imageName": "PL/PL_23.jpg",
+    "brand": "lomza",
+    "words": ["lomza", "1968"],
+    "colors": ["orange", "white"],
+    "figures": ["deer"]
+  },
+  {
+    "imageName": "PL/PL_24.jpg",
+    "brand": "piast",
+    "words": ["piast", "2024", "szukajpod", "kapslem"],
+    "colors": ["yellow", "pink", "white", "black", "gray"],
+    "figures": ["chirch", "arrow"]
+  },
+  {
+    "imageName": "PL/PL_25.jpg",
+    "brand": "zubr",
+    "words": ["wygraj"],
+    "colors": ["red", "white", "golden"],
+    "figures": ["zubr"]
+  },
+  {
+    "imageName": "PL/PL_26.jpg",
+    "brand": "kasztelan",
+    "words": ["kasztelan", "niepasteryzowane", "receptura", "browaru"],
+    "colors": ["green", "white", "red", "black"],
+    "figures": ["lion", "hops", "crown", "shield", "grain"]
+  },
+  {
+    "imageName": "PL/PL_27.jpg",
+    "brand": "harnas",
+    "words": ["harnas", "jasne", "pelne"],
+    "colors": ["white", "red", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "PL/PL_28.jpg",
+    "brand": "amber",
+    "words": ["amber", "browar", "94", "30", "lat", "1994", "2024"],
+    "colors": ["white", "black", "golden"],
+    "figures": ["glass"]
+  },
+  {
+    "imageName": "PL/PL_29.jpg",
+    "brand": "miloslaw",
+    "words": ["miloslaw", "browar", "fortuna"],
+    "colors": ["golden", "brown"],
+    "figures": []
+  },
+  {
+    "imageName": "PL/PL_30.jpg",
+    "brand": "kasztelan",
+    "words": ["kasztelan", "wygraj", "jasne", "pelne", "browaru"],
+    "colors": [],
+    "figures": []
+  },
+  {
+    "imageName": "PL/PL_32.jpg",
+    "brand": "zywiec",
+    "words": ["z", "browaru", "1856", "receptura"],
+    "colors": ["silver", "white"],
+    "figures": ["man", "woman", "dancer", "letter"]
+  }
+]
