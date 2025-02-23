@@ -1,287 +1,287 @@
 [
   {
-    "imageName": "Green_Yellow/Green_Yellow(1).jpg",
+    "imageName": "K1/Green_Yellow(1).jpg",
     "words": [],
     "colors": ["green"],
     "figures": []
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(10).jpg",
+    "imageName": "K1/Green_Yellow(10).jpg",
     "brand": "lagunitas",
     "words": ["lagunitas", "company", "brewing"],
     "colors": ["green", "black"],
     "figures": ["dog"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(11).jpg",
+    "imageName": "K1/Green_Yellow(11).jpg",
     "brand": "lagunitas",
     "words": ["lagunitas", "company", "brewing"],
     "colors": ["black", "silver"],
     "figures": ["dog"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(12).jpg",
+    "imageName": "K1/Green_Yellow(12).jpg",
     "brand": "bernard",
     "words": ["bernard", "11", "nepasterovano"],
     "colors": ["green", "golden", "white", "red"],
     "figures": ["dog", "shield", "crown"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(13).jpg",
+    "imageName": "K1/Green_Yellow(13).jpg",
     "brand": "gosser",
     "words": ["gosser", "natur", "raddler"],
     "colors": ["green", "white", "yellow"],
     "figures": []
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(14).jpg",
+    "imageName": "K1/Green_Yellow(14).jpg",
     "brand": "wickuler",
     "words": ["wickuler"],
     "colors": ["white", "silver", "green", "red", "black"],
     "figures": ["man", "hat", "sword"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(15).jpg",
+    "imageName": "K1/Green_Yellow(15).jpg",
     "brand": "kasteel",
     "words": ["kasteel", "xtra"],
     "colors": ["blue", "white", "black", "yellow"],
     "figures": []
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(16).jpg",
+    "imageName": "K1/Green_Yellow(16).jpg",
     "words": ["tequila", "flavoured"],
     "colors": ["silver", "blue"],
     "figures": ["agave"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(17).jpg",
+    "imageName": "K1/Green_Yellow(17).jpg",
     "brand": "kamanitza",
     "words": ["каменица", "първата", "българска", "бира"],
     "colors": ["green", "red", "golden", "white"],
     "figures": ["lion", "shield"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(18).jpg",
+    "imageName": "K1/Green_Yellow(18).jpg",
     "brand": "pirinsko",
     "words": ["пиринско"],
     "colors": ["green", "white"],
     "figures": ["horse"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(19).jpg",
+    "imageName": "K1/Green_Yellow(19).jpg",
     "brand": "branik",
     "words": ["branik"],
     "colors": ["green", "silver"],
     "figures": ["shield", "crown"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(2).jpg",
+    "imageName": "K1/Green_Yellow(2).jpg",
     "words": ["oppigards"],
     "colors": ["green", "white"],
     "figures": ["star"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(20).jpg",
+    "imageName": "K1/Green_Yellow(20).jpg",
     "brand": "branik",
     "words": ["branik"],
     "colors": ["green", "golden"],
     "figures": ["shield", "crown"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(21).jpg",
+    "imageName": "K1/Green_Yellow(21).jpg",
     "words": ["original", "crocodile"],
     "colors": ["green", "golden", "black"],
     "figures": ["crocodile", "star"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(22).jpg",
+    "imageName": "K1/Green_Yellow(22).jpg",
     "brand": "kasteel",
     "words": ["kasteel", "cuvee", "du", "chateau"],
     "colors": ["yellow", "white", "gray", "black"],
     "figures": []
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(23).jpg",
+    "imageName": "K1/Green_Yellow(23).jpg",
     "brand": "kilimanjaro",
     "words": ["kilimanjaro", "light"],
     "colors": ["yellow", "blue", "white"],
     "figures": ["abstract"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(24).jpg",
+    "imageName": "K1/Green_Yellow(24).jpg",
     "brand": "kamanitza",
     "words": ["каменица", "140", "години", "1881"],
     "colors": ["green", "white", "red", "golden"],
     "figures": ["lion", "shield"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(25).jpg",
+    "imageName": "K1/Green_Yellow(25).jpg",
     "brand": "pirinsko",
     "words": ["пиринско", "светло"],
     "colors": ["green", "yellow"],
     "figures": ["mountain"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(26).jpg",
+    "imageName": "K1/Green_Yellow(26).jpg",
     "brand": "karlovacko",
     "words": ["karlovacko", "natur", "radler"],
     "colors": ["green", "yellow"],
     "figures": ["shield"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(27).jpg",
+    "imageName": "K1/Green_Yellow(27).jpg",
     "words": [],
     "colors": ["yellow", "white"],
     "figures": ["lemon"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(28).jpg",
+    "imageName": "K1/Green_Yellow(28).jpg",
     "brand": "bergenbier",
     "words": ["bergenbier"],
     "colors": ["yellow", "white", "black"],
     "figures": ["mountain"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(29).jpg",
+    "imageName": "K1/Green_Yellow(29).jpg",
     "brand": "jatvarka",
     "words": ["ж"],
     "colors": ["yellow", "black"],
     "figures": []
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(3).jpg",
+    "imageName": "K1/Green_Yellow(3).jpg",
     "brand": "perlenbacher",
     "words": ["open"],
     "colors": ["green", "golden", "white"],
     "figures": ["lion", "shield", "arrow"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(30).jpg",
+    "imageName": "K1/Green_Yellow(30).jpg",
     "words": ["tatra", "jasne", "pelne"],
     "colors": ["blue", "yellow"],
     "figures": ["eagle", "mountain", "forest"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(31).jpg",
+    "imageName": "K1/Green_Yellow(31).jpg",
     "brand": "kamanitza",
     "words": ["каменица", "първата", "българска", "бира"],
     "colors": ["red", "white", "golden"],
     "figures": ["shield", "lion"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(32).jpg",
+    "imageName": "K1/Green_Yellow(32).jpg",
     "brand": "pirinsko",
     "words": ["пиринско"],
     "colors": ["red", "white"],
     "figures": ["mountain"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(33).jpg",
+    "imageName": "K1/Green_Yellow(33).jpg",
     "brand": "karlovacko",
     "words": ["karlovacko"],
     "colors": ["red", "white"],
     "figures": ["shield", "", "crown", "woman"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(34).jpg",
+    "imageName": "K1/Green_Yellow(34).jpg",
     "words": ["uita-te", "sub", "capac", "ciucas", "brasov"],
     "colors": ["red", "yellow"],
     "figures": []
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(35).jpg",
+    "imageName": "K1/Green_Yellow(35).jpg",
     "words": [],
     "colors": ["yellow", "black"],
     "figures": ["spade", "hops"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(36).jpg",
+    "imageName": "K1/Green_Yellow(36).jpg",
     "brand": "schofferhofer",
     "words": ["schofferhofer", "kristall", "weizen"],
     "colors": ["orange", "golden", "gray", "black"],
     "figures": []
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(37).jpg",
+    "imageName": "K1/Green_Yellow(37).jpg",
     "brand": "vedett",
     "words": ["vedett", "ipa", "extra"],
     "colors": ["black", "orange", "white"],
     "figures": ["sun"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(38).jpg",
+    "imageName": "K1/Green_Yellow(38).jpg",
     "brand": "svijani",
     "words": ["s"],
     "colors": ["orange", "yellow"],
     "figures": []
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(39).jpg",
+    "imageName": "K1/Green_Yellow(39).jpg",
     "brand": "svijani",
     "words": ["s"],
     "colors": ["golden", "silver"],
     "figures": []
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(4).jpg",
+    "imageName": "K1/Green_Yellow(4).jpg",
     "words": [],
     "colors": ["green"],
     "figures": []
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(40).jpg",
+    "imageName": "K1/Green_Yellow(40).jpg",
     "brand": "karlovacko",
     "words": ["karlovacko", "crno"],
     "colors": ["black", "golden"],
     "figures": ["shield", "crown", "woman"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(41).jpg",
+    "imageName": "K1/Green_Yellow(41).jpg",
     "words": ["rockshore"],
     "colors": ["yellow", "green"],
     "figures": []
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(42).jpg",
+    "imageName": "K1/Green_Yellow(42).jpg",
     "words": ["100"],
     "colors": ["yellow", "black", "white"],
     "figures": []
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(43).jpg",
+    "imageName": "K1/Green_Yellow(43).jpg",
     "words": ["bayerische", "klosterbiere", "seit", "1119", "s"],
     "colors": ["orange", "golden", "black"],
     "figures": []
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(44).jpg",
+    "imageName": "K1/Green_Yellow(44).jpg",
     "brand": "kibo",
     "words": ["kibo", "tzs", "1256", "tbs"],
     "colors": ["yellow", "white", "blue"],
     "figures": ["mountain"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(45).jpg",
+    "imageName": "K1/Green_Yellow(45).jpg",
     "words": ["anchor", "use", "opener"],
     "colors": ["orange", "white"],
     "figures": ["anchor"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(46).jpg",
+    "imageName": "K1/Green_Yellow(46).jpg",
     "brand": "guinness",
     "words": ["guinness", "smoot", "distinctive", "quality"],
     "colors": ["white", "black", "pink"],
     "figures": ["harp"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(47).jpg",
+    "imageName": "K1/Green_Yellow(47).jpg",
     "brand": "guinness",
     "words": ["guinness", "smoot", "distinctive", "quality"],
     "colors": ["white", "orange", "black"],
     "figures": ["harp"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(48).jpg",
+    "imageName": "K1/Green_Yellow(48).jpg",
     "brand": "guinness",
     "words": [
       "guinness",
@@ -295,40 +295,40 @@
     "figures": ["harp"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(49).jpg",
+    "imageName": "K1/Green_Yellow(49).jpg",
     "brand": "guinness",
     "words": ["guinness"],
     "colors": ["black", "yellow", "golden", "white"],
     "figures": ["harp"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(5).jpg",
+    "imageName": "K1/Green_Yellow(5).jpg",
     "words": ["diebels", "alt"],
     "colors": ["green", "silver", "white", "yellow"],
     "figures": []
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(6).jpg",
+    "imageName": "K1/Green_Yellow(6).jpg",
     "brand": "chimay",
     "words": ["chimay"],
     "colors": ["green", "golden", "white"],
     "figures": ["shield"]
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(7).jpg",
+    "imageName": "K1/Green_Yellow(7).jpg",
     "brand": "serengeti",
     "words": ["serengeti"],
     "colors": ["green", "white", "black", "silver"],
     "figures": []
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(8).jpg",
+    "imageName": "K1/Green_Yellow(8).jpg",
     "words": ["terra"],
     "colors": ["green", "white", "silver"],
     "figures": []
   },
   {
-    "imageName": "Green_Yellow/Green_Yellow(9).jpg",
+    "imageName": "K1/Green_Yellow(9).jpg",
     "words": ["tequila", "flavoured"],
     "colors": ["green"],
     "figures": ["agave"]

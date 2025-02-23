@@ -1,102 +1,102 @@
 [
   {
-    "imageName": "Golden/Golden(1).jpg",
+    "imageName": "A1/Golden(1).jpg",
     "brand": "moretti",
     "words": ["birra", "moretti", "ipa"],
     "colors": ["blue", "silver"],
     "figures": ["man", "hat", "glass", "hops"]
   },
   {
-    "imageName": "Golden/Golden(10).jpg",
+    "imageName": "A1/Golden(10).jpg",
     "words": ["sankt", "eriks", "bryggeri", "kork-stampel", "1859"],
     "colors": ["black", "golden"],
     "figures": ["star"]
   },
   {
-    "imageName": "Golden/Golden(11).jpg",
+    "imageName": "A1/Golden(11).jpg",
     "words": [],
     "colors": ["golden"],
     "figures": ["shield"]
   },
   {
-    "imageName": "Golden/Golden(12).jpg",
+    "imageName": "A1/Golden(12).jpg",
     "words": ["pardubicky", "pivovar"],
     "colors": ["golden", "red", "white"],
     "figures": ["horse", "shield"]
   },
   {
-    "imageName": "Golden/Golden(13).jpg",
+    "imageName": "A1/Golden(13).jpg",
     "brand": "zlaty bazant",
     "words": [],
     "colors": ["golden", "red", "green", "white"],
     "figures": ["pheasant"]
   },
   {
-    "imageName": "Golden/Golden(14).jpg",
+    "imageName": "A1/Golden(14).jpg",
     "words": ["xx"],
     "colors": ["golden", "red"],
     "figures": ["face", "cross"]
   },
   {
-    "imageName": "Golden/Golden(15).jpg",
+    "imageName": "A1/Golden(15).jpg",
     "words": ["e", "18", "64"],
     "colors": ["blue", "golden"],
     "figures": []
   },
   {
-    "imageName": "Golden/Golden(16).jpg",
+    "imageName": "A1/Golden(16).jpg",
     "words": ["m", "b", "mb"],
     "colors": ["golden", "white"],
     "figures": []
   },
   {
-    "imageName": "Golden/Golden(17).jpg",
+    "imageName": "A1/Golden(17).jpg",
     "words": [],
     "colors": ["golden", "green"],
     "figures": ["lion", "crown"]
   },
   {
-    "imageName": "Golden/Golden(18).jpg",
+    "imageName": "A1/Golden(18).jpg",
     "words": ["jb"],
     "colors": ["golden", "green"],
     "figures": ["snake"]
   },
   {
-    "imageName": "Golden/Golden(19).jpg",
+    "imageName": "A1/Golden(19).jpg",
     "brand": "zatecky hus",
     "words": ["zatecky"],
     "colors": ["golden", "red", "green", "white"],
     "figures": ["goose"]
   },
   {
-    "imageName": "Golden/Golden(2).jpg",
+    "imageName": "A1/Golden(2).jpg",
     "brand": "moretti",
     "words": ["birra", "moretti", "ricetta", "originale"],
     "colors": ["red", "golden"],
     "figures": ["man", "glass", "hat"]
   },
   {
-    "imageName": "Golden/Golden(20).jpg",
+    "imageName": "A1/Golden(20).jpg",
     "brand": "ostravar",
     "words": ["ostravar"],
     "colors": ["golden", "red", "black", "white"],
     "figures": ["horse"]
   },
   {
-    "imageName": "Golden/Golden(21).jpg",
+    "imageName": "A1/Golden(21).jpg",
     "brand": "radegast",
     "words": ["radegast", "12"],
     "colors": ["golden", "red", "green"],
     "figures": []
   },
   {
-    "imageName": "Golden/Golden(22).jpg",
+    "imageName": "A1/Golden(22).jpg",
     "words": [],
     "colors": ["golden", "black"],
     "figures": ["viking"]
   },
   {
-    "imageName": "Golden/Golden(23).jpg",
+    "imageName": "A1/Golden(23).jpg",
     "brand": "sierra nevada",
     "words": [
       "sierra",
@@ -112,206 +112,206 @@
     "figures": []
   },
   {
-    "imageName": "Golden/Golden(24).jpg",
+    "imageName": "A1/Golden(24).jpg",
     "brand": "tomislav",
     "words": ["tomislav", "hrvatsko", "kraljevsko", "pivo"],
     "colors": ["golden", "black"],
     "figures": []
   },
   {
-    "imageName": "Golden/Golden(25).jpg",
+    "imageName": "A1/Golden(25).jpg",
     "words": [],
     "colors": ["golden", "green"],
     "figures": []
   },
   {
-    "imageName": "Golden/Golden(26).jpg",
+    "imageName": "A1/Golden(26).jpg",
     "brand": "pedavena",
     "words": ["pedavena", "1897"],
     "colors": ["golden", "white", "black"],
     "figures": []
   },
   {
-    "imageName": "Golden/Golden(27).jpg",
+    "imageName": "A1/Golden(27).jpg",
     "words": [],
     "colors": ["golden", "white"],
     "figures": ["hops", "grain", "shield", "castle"]
   },
   {
-    "imageName": "Golden/Golden(28).jpg",
+    "imageName": "A1/Golden(28).jpg",
     "brand": "zubr",
     "words": ["zubr", "1872"],
     "colors": ["golden", "white", "red"],
     "figures": ["grain", "shield", "crown"]
   },
   {
-    "imageName": "Golden/Golden(29).jpg",
+    "imageName": "A1/Golden(29).jpg",
     "brand": "leffe",
     "words": ["leffe"],
     "colors": ["golden", "black"],
     "figures": []
   },
   {
-    "imageName": "Golden/Golden(3).jpg",
+    "imageName": "A1/Golden(3).jpg",
     "brand": "kloud",
     "words": ["kloud"],
     "colors": ["golden", "red", "black"],
     "figures": ["grain", "leaf", "tube"]
   },
   {
-    "imageName": "Golden/Golden(30).jpg",
+    "imageName": "A1/Golden(30).jpg",
     "words": ["golden", "bull", "craft", "beer"],
     "colors": ["golden", "black"],
     "figures": ["bull"]
   },
   {
-    "imageName": "Golden/Golden(31).jpg",
+    "imageName": "A1/Golden(31).jpg",
     "brand": "vukovarsko",
     "words": ["vukovarsko"],
     "colors": ["golden", "black"],
     "figures": ["abstract"]
   },
   {
-    "imageName": "Golden/Golden(32).jpg",
+    "imageName": "A1/Golden(32).jpg",
     "brand": "shumansko",
     "words": ["шуменско", "пиво"],
     "colors": ["golden", "black"],
     "figures": []
   },
   {
-    "imageName": "Golden/Golden(33).jpg",
+    "imageName": "A1/Golden(33).jpg",
     "words": ["kekette"],
     "colors": ["golden", "white"],
     "figures": []
   },
   {
-    "imageName": "Golden/Golden(34).jpg",
+    "imageName": "A1/Golden(34).jpg",
     "brand": "ararat",
     "words": ["ararat"],
     "colors": ["white", "golden"],
     "figures": ["mountain", "arrow"]
   },
   {
-    "imageName": "Golden/Golden(35).jpg",
+    "imageName": "A1/Golden(35).jpg",
     "words": [],
     "colors": ["golden", "white"],
     "figures": ["lion"]
   },
   {
-    "imageName": "Golden/Golden(36).jpg",
+    "imageName": "A1/Golden(36).jpg",
     "brand": "franziskaner",
     "words": ["franziskaner", "weissbier", "premium"],
     "colors": ["brown", "white", "golden"],
     "figures": ["grain"]
   },
   {
-    "imageName": "Golden/Golden(37).jpg",
+    "imageName": "A1/Golden(37).jpg",
     "brand": "warsteiner",
     "words": ["pilsener", "jetzt", "offnen", "und", "gewinnen"],
     "colors": ["black", "golden", "red"],
     "figures": []
   },
   {
-    "imageName": "Golden/Golden(38).jpg",
+    "imageName": "A1/Golden(38).jpg",
     "words": ["be", "you", "stay", "original"],
     "colors": ["golden", "black", "white"],
     "figures": ["letter", "abstract"]
   },
   {
-    "imageName": "Golden/Golden(39).jpg",
+    "imageName": "A1/Golden(39).jpg",
     "brand": "zagorka",
     "words": ["върни", "бутилката"],
     "colors": ["golden", "black"],
     "figures": ["bottle", "arrow"]
   },
   {
-    "imageName": "Golden/Golden(4).jpg",
+    "imageName": "A1/Golden(4).jpg",
     "brand": "sarajevsko",
     "words": ["sarajevsko"],
     "colors": ["red", "golden"],
     "figures": []
   },
   {
-    "imageName": "Golden/Golden(40).jpg",
+    "imageName": "A1/Golden(40).jpg",
     "brand": "rohozec",
     "words": ["rohozec", "pivo", "ceskeho", "raje"],
     "colors": ["golden", "brown"],
     "figures": ["shield", "letter"]
   },
   {
-    "imageName": "Golden/Golden(41).jpg",
+    "imageName": "A1/Golden(41).jpg",
     "brand": "cerna hora",
     "words": ["cerna", "hora"],
     "colors": ["golden", "black"],
     "figures": []
   },
   {
-    "imageName": "Golden/Golden(42).jpg",
+    "imageName": "A1/Golden(42).jpg",
     "brand": "platan",
     "words": ["platan"],
     "colors": ["golden", "black"],
     "figures": ["leaf"]
   },
   {
-    "imageName": "Golden/Golden(43).jpg",
+    "imageName": "A1/Golden(43).jpg",
     "brand": "niksicko",
     "words": ["niksicko", "gold"],
     "colors": ["golden", "brown", "white"],
     "figures": ["mountain"]
   },
   {
-    "imageName": "Golden/Golden(44).jpg",
+    "imageName": "A1/Golden(44).jpg",
     "brand": "niksicko",
     "words": ["niksicko"],
     "colors": ["black", "golden"],
     "figures": []
   },
   {
-    "imageName": "Golden/Golden(45).jpg",
+    "imageName": "A1/Golden(45).jpg",
     "words": ["helo", "brau", "oberailsfeld", "schweiz", "frank"],
     "colors": ["golden", "black"],
     "figures": ["man", "shield", "bird", "sword"]
   },
   {
-    "imageName": "Golden/Golden(46).jpg",
+    "imageName": "A1/Golden(46).jpg",
     "words": ["officina", "della", "birra", "cogliate"],
     "colors": ["black", "golden"],
     "figures": ["shield", "crown", "grain"]
   },
   {
-    "imageName": "Golden/Golden(47).jpg",
+    "imageName": "A1/Golden(47).jpg",
     "words": ["lezek"],
     "colors": ["golden", "black"],
     "figures": []
   },
   {
-    "imageName": "Golden/Golden(48).jpg",
+    "imageName": "A1/Golden(48).jpg",
     "brand": "gambrinus",
     "words": ["gambrinus", "plna", "12"],
     "colors": ["golden", "black"],
     "figures": ["line"]
   },
   {
-    "imageName": "Golden/Golden(49).jpg",
+    "imageName": "A1/Golden(49).jpg",
     "brand": "gambrinus",
     "words": ["gambrinus", "dry"],
     "colors": ["gray", "white"],
     "figures": ["line"]
   },
   {
-    "imageName": "Golden/Golden(5).jpg",
+    "imageName": "A1/Golden(5).jpg",
     "words": ["urtyp"],
     "colors": ["golden", "black", "red"],
     "figures": ["heart", "anchor"]
   },
   {
-    "imageName": "Golden/Golden(6).jpg",
+    "imageName": "A1/Golden(6).jpg",
     "words": ["tradicni", "klasik", "reseptura"],
     "colors": ["golden", "red"],
     "figures": []
   },
   {
-    "imageName": "Golden/Golden(7).jpg",
+    "imageName": "A1/Golden(7).jpg",
     "brand": "tucher",
     "words": [
       "tucher",
@@ -328,13 +328,13 @@
     "figures": ["head", "circle"]
   },
   {
-    "imageName": "Golden/Golden(8).jpg",
+    "imageName": "A1/Golden(8).jpg",
     "words": ["bohem", "lezak"],
     "colors": ["golden", "blue"],
     "figures": []
   },
   {
-    "imageName": "Golden/Golden(9).jpg",
+    "imageName": "A1/Golden(9).jpg",
     "words": [],
     "colors": ["golden", "black"],
     "figures": ["bird", "arrow", "sun"]
