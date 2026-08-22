@@ -1,0 +1,311 @@
+[
+  {
+    "imageName": "E4/E4_01.jpg",
+    "words": ["wrclw"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "E4/E4_02.jpg",
+    "words": ["okocim", "18", "45"],
+    "colors": ["black", "white"],
+    "figures": ["cask", "hops"]
+  },
+  {
+    "imageName": "E4/E4_03.jpg",
+    "words": ["okocim", "o", "k", "beer"],
+    "colors": ["red", "black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "E4/E4_04.jpg",
+    "words": ["bojan", "browar", "regionalny", "w", "bojanowie"],
+    "colors": ["brown", "black", "white", "blue"],
+    "figures": ["chirch"]
+  },
+  {
+    "imageName": "E4/E4_05.jpg",
+    "words": ["eb", "oryginalna", "receptura"],
+    "colors": ["red", "white", "gray"],
+    "figures": ["kangaroo", "emu", "shield"]
+  },
+  {
+    "imageName": "E4/E4_06.jpg",
+    "words": ["amber", "browar", "30", "lat", "1994", "2024", "94"],
+    "colors": ["white", "black", "golden"],
+    "figures": ["glass"]
+  },
+  {
+    "imageName": "E4/E4_07.jpg",
+    "words": ["solveza", "twist", "off"],
+    "colors": ["golden", "white", "black"],
+    "figures": ["arrow"]
+  },
+  {
+    "imageName": "E4/E4_08.jpg",
+    "words": ["zatecky"],
+    "colors": ["black", "golden"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "E4/E4_09.jpg",
+    "words": ["brackie", "zatecky", "pils"],
+    "colors": ["blue", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "E4/E4_10.jpg",
+    "words": ["lomza", "1968"],
+    "colors": ["red", "green"],
+    "figures": ["deer"]
+  },
+  {
+    "imageName": "E4/E4_11.jpg",
+    "brand": "lomza",
+    "words": ["kup", "lomze", "wygraj", "domek"],
+    "colors": ["red", "yellow"],
+    "figures": ["deer"]
+  },
+  {
+    "imageName": "E4/E4_12.jpg",
+    "words": ["lomza", "1968"],
+    "colors": ["orange", "white"],
+    "figures": ["deer"]
+  },
+  {
+    "imageName": "E4/E4_13.jpg",
+    "words": [
+      "lomza",
+      "piwo",
+      "jasne",
+      "pelne",
+      "browarze",
+      "1968",
+      "roku",
+      "warzone"
+    ],
+    "colors": ["orange", "black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "E4/E4_14.jpg",
+    "words": ["cornelius", "hazy", "beer"],
+    "colors": ["black", "white"],
+    "figures": ["rooster"]
+  },
+  {
+    "imageName": "E4/E4_15.jpg",
+    "words": ["perla", "chmielowa"],
+    "colors": ["red", "green", "white"],
+    "figures": ["goat", "hops"]
+  },
+  {
+    "imageName": "E4/E4_16.jpg",
+    "words": ["perla", "export"],
+    "colors": ["red", "white", "green"],
+    "figures": ["goat"]
+  },
+  {
+    "imageName": "E4/E4_17.jpg",
+    "words": ["perla", "miodowa"],
+    "colors": ["yellow", "green", "red", "white"],
+    "figures": ["goat", "bee"]
+  },
+  {
+    "imageName": "E4/E4_18.jpg",
+    "words": ["perla", "browary", "kozlak", "lubelskie"],
+    "colors": ["golden", "brown", "red", "white", "black"],
+    "figures": ["goat"]
+  },
+  {
+    "imageName": "E4/E4_19.jpg",
+    "words": ["harnas", "jasne", "pelne"],
+    "colors": ["blue", "red", "white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "E4/E4_20.jpg",
+    "words": ["harnas", "jasne", "pelne"],
+    "colors": ["red", "white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "E4/E4_21.jpg",
+    "words": [],
+    "colors": ["green", "white"],
+    "figures": ["man", "hat", "horn"]
+  },
+  {
+    "imageName": "E4/E4_22.jpg",
+    "words": ["kasztelan", "niepasteryzowane"],
+    "colors": ["green", "red", "white", "blue"],
+    "figures": ["shield", "lion"]
+  },
+  {
+    "imageName": "E4/E4_23.jpg",
+    "brand": "",
+    "words": ["kasztelan", "jasne", "pelne"],
+    "colors": ["red", "white", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "E4/E4_24.jpg",
+    "words": ["browar", "fortuna", "miloslaw"],
+    "colors": ["golden", "green"],
+    "figures": []
+  },
+  {
+    "imageName": "E4/E4_25.jpg",
+    "words": ["tatra", "wygraj", "4", "pak", "lub", "tatre"],
+    "colors": ["yellow", "blue"],
+    "figures": ["peak"]
+  },
+  {
+    "imageName": "E4/E4_26.jpg",
+    "words": ["1858", "z", "browaru", "w", "receptura", "zyvcu"],
+    "colors": ["golden", "silver", "red"],
+    "figures": ["nam", "woman", "hat", "dance"]
+  },
+  {
+    "imageName": "E4/E4_27.jpg",
+    "words": ["1858", "z", "browaru", "w", "receptura", "zyvcu"],
+    "colors": ["silver", "white"],
+    "figures": ["man", "woman", "hat", "dance"]
+  },
+  {
+    "imageName": "E4/E4_28.jpg",
+    "words": [],
+    "colors": ["red", "white", "blue"],
+    "figures": ["man", "hat"]
+  },
+  {
+    "imageName": "E4/E4_29.jpg",
+    "words": ["namyslow", "w", "namyslowie", "kasa", "plynie", "pils"],
+    "colors": ["red", "white", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "E4/E4_30.jpg",
+    "brand": "zubr",
+    "words": ["wygraj"],
+    "colors": ["red", "yellow", "white"],
+    "figures": ["zubr"]
+  },
+  {
+    "imageName": "E4/E4_31.jpg",
+    "brand": "desperados",
+    "words": ["wygrywaj", "co", "chcesz"],
+    "colors": ["red", "golden", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "E4/E4_32.jpg",
+    "words": ["piast", "2024", "szukaj", "pod", "kapslem"],
+    "colors": ["red", "yellow", "black", "white"],
+    "figures": ["church", "arrow"]
+  },
+  {
+    "imageName": "E4/E4_33.jpg",
+    "brand": "leck",
+    "words": ["pils", "receptura", "lech"],
+    "colors": ["green", "white", "golden"],
+    "figures": ["goat"]
+  },
+  {
+    "imageName": "E4/E4_34.jpg",
+    "words": ["lech", "free"],
+    "colors": ["silver", "blue", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "E4/E4_35.jpg",
+    "words": ["twist", "off"],
+    "colors": ["silver", "black"],
+    "figures": ["arrow"]
+  },
+  {
+    "imageName": "E4/E4_36.jpg",
+    "words": ["ksiazece", "kolekcja", "piwne", "style", "swiata"],
+    "colors": ["black", "golden"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "E4/E4_37.jpg",
+    "words": ["ksiazece", "kolekcja", "piwne", "style", "swiata"],
+    "colors": ["red", "golden"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "E4/E4_38.jpg",
+    "words": ["ksiazece", "kolekcja", "piwne", "style", "swiata"],
+    "colors": ["silver", "black"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "E4/E4_39.jpg",
+    "words": ["ksiazece", "kolekcja", "piwne", "style", "swiata"],
+    "colors": ["yellow", "black"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "E4/E4_40.jpg",
+    "words": ["holba"],
+    "colors": ["golden", "white", "red", "green"],
+    "figures": ["sun", "mountain"]
+  },
+  {
+    "imageName": "E4/E4_41.jpg",
+    "words": ["holba", "serak"],
+    "colors": ["silver", "green", "red", "white"],
+    "figures": ["sunn", "mountain"]
+  },
+  {
+    "imageName": "E4/E4_42.jpg",
+    "words": ["holba", "horska", "10"],
+    "colors": ["green", "white", "red"],
+    "figures": ["sun", "mountain"]
+  },
+  {
+    "imageName": "E4/E4_43.jpg",
+    "words": ["warka", "strong"],
+    "colors": ["black", "white", "golden"],
+    "figures": ["shield"]
+  },
+  {
+    "imageName": "E4/E4_44.jpg",
+    "words": ["warka", "classic"],
+    "colors": ["red", "white", "golden"],
+    "figures": ["shield"]
+  },
+  {
+    "imageName": "E4/E4_45.jpg",
+    "words": ["warka", "loteria", "beer"],
+    "colors": ["red", "golden", "white", "blue"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "E4/E4_46.jpg",
+    "words": ["warka", "beer"],
+    "colors": ["black", "white", "red"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "E4/E4_47.jpg",
+    "words": ["warka", "beer"],
+    "colors": ["golden", "white", "black"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "E4/E4_48.jpg",
+    "words": ["lech", "l"],
+    "colors": ["green", "white", "red"],
+    "figures": ["goat"]
+  },
+  {
+    "imageName": "E4/E4_49.jpg",
+    "brand": "zubr",
+    "words": [],
+    "colors": ["green", "yellow"],
+    "figures": ["zubr"]
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "imageName": "A4/A4_01.jpg",
+    "words": ["mystica", "cerveza", "artesanal"],
+    "colors": ["black", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "A4/A4_02.jpg",
+    "words": ["cerveceria", "zenith", "cusco", "peru"],
+    "colors": ["black", "white"],
+    "figures": ["mountain", "peak"]
+  },
+  {
+    "imageName": "A4/A4_03.jpg",
+    "words": ["compania", "cervecera", "est", "2014", "san", "miguel"],
+    "colors": ["black", "white"],
+    "figures": ["mountain", "peak"]
+  },
+  {
+    "imageName": "A4/A4_04.jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["cat"]
+  },
+  {
+    "imageName": "A4/A4_05.jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["horn", "hops", "helpet", "viking"]
+  },
+  {
+    "imageName": "A4/A4_06.jpg",
+    "words": ["cdv"],
+    "colors": ["black", "white"],
+    "figures": ["mountain"]
+  },
+  {
+    "imageName": "A4/A4_07.jpg",
+    "words": ["spezia", "craft", "beer", "brewing", "s"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "A4/A4_08.jpg",
+    "words": [],
+    "colors": ["white", "black"],
+    "figures": ["helmet", "griffin"]
+  },
+  {
+    "imageName": "A4/A4_09.jpg",
+    "words": ["candelaria"],
+    "colors": ["black", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "A4/A4_10.jpg",
+    "words": ["candelaria"],
+    "colors": ["white", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "A4/A4_11.jpg",
+    "words": ["auri", "negra"],
+    "colors": ["yellow", "black"],
+    "figures": ["abstract", "cross"]
+  },
+  {
+    "imageName": "A4/A4_12.jpg",
+    "words": ["madera", "cervecera", "independiente"],
+    "colors": ["black", "yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "A4/A4_13.jpg",
+    "words": ["maltita", "potosina"],
+    "colors": ["white", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "A4/A4_14.jpg",
+    "words": ["potosina"],
+    "colors": ["green", "white"],
+    "figures": ["lion", "crown"]
+  },
+  {
+    "imageName": "A4/A4_15.jpg",
+    "words": [],
+    "colors": ["white", "black"],
+    "figures": ["condor", "bird"]
+  },
+  {
+    "imageName": "A4/A4_16.jpg",
+    "words": ["r"],
+    "colors": ["black", "white"],
+    "figures": ["puma"]
+  },
+  {
+    "imageName": "A4/A4_17.jpg",
+    "words": ["c", "v", "cerveceria", "vicos"],
+    "colors": ["green", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "A4/A4_18.jpg",
+    "words": ["c", "v", "cerveceria", "vicos"],
+    "colors": ["orange", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "A4/A4_19.jpg",
+    "words": ["c", "v", "cerveceria", "vicos"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "A4/A4_20.jpg",
+    "words": ["pacena", "desde", "1886", "cerveceria", "boliviana", "nacional"],
+    "colors": ["red", "white"],
+    "figures": ["man", "hops"]
+  },
+  {
+    "imageName": "A4/A4_21.jpg",
+    "words": ["bolivar"],
+    "colors": ["blue", "golden"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "A4/A4_22.jpg",
+    "words": ["tinku"],
+    "colors": ["black", "white"],
+    "figures": ["hops", "grain"]
+  },
+  {
+    "imageName": "A4/A4_23.jpg",
+    "words": ["tinku"],
+    "colors": ["red", "white"],
+    "figures": ["hops", "grain"]
+  },
+  {
+    "imageName": "A4/A4_24.jpg",
+    "words": ["tinku"],
+    "colors": ["green", "white"],
+    "figures": ["hops", "grain"]
+  },
+  {
+    "imageName": "A4/A4_25.jpg",
+    "words": ["tinku"],
+    "colors": ["yellow", "white"],
+    "figures": ["hops", "grain"]
+  },
+  {
+    "imageName": "A4/A4_26.jpg",
+    "words": ["cerveza", "craft", "stier", "cochabamba", "bolivia"],
+    "colors": ["black", "red", "white", "grad"],
+    "figures": []
+  },
+  {
+    "imageName": "A4/A4_27.jpg",
+    "words": ["huari"],
+    "colors": ["golden", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "A4/A4_28.jpg",
+    "words": ["cbn"],
+    "colors": ["silver", "red", "orange"],
+    "figures": ["hops", "grain"]
+  },
+  {
+    "imageName": "A4/A4_29.jpg",
+    "words": ["cerveza", "uyuni", "premium", "lager"],
+    "colors": ["golden", "black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "A4/A4_30.jpg",
+    "words": [],
+    "colors": ["golden", "broun", "black", "silver"],
+    "figures": ["man", "sun", "cloud"]
+  },
+  {
+    "imageName": "A4/A4_31.jpg",
+    "words": [
+      "yo",
+      "cuido",
+      "a",
+      "los",
+      "demas",
+      "yo",
+      "tomo",
+      "conmipropiovaso"
+    ],
+    "colors": ["golden", "brown"],
+    "figures": ["hand", "glass"]
+  },
+  {
+    "imageName": "A4/A4_32.jpg",
+    "words": ["calidad", "de", "exortacion"],
+    "colors": ["black", "golden"],
+    "figures": ["mountain", "peak", "machu", "picchu"]
+  },
+  {
+    "imageName": "A4/A4_33.jpg",
+    "words": [],
+    "colors": ["gray", "black", "golden"],
+    "figures": ["abstract", "acient"]
+  },
+  {
+    "imageName": "A4/A4_34.jpg",
+    "words": ["andina", "dorada"],
+    "colors": ["golden", "white", "blue"],
+    "figures": ["condor", "bird"]
+  },
+  {
+    "imageName": "A4/A4_35.jpg",
+    "words": ["andina", "light"],
+    "colors": ["silver", "blue", "white"],
+    "figures": ["condor", "bird"]
+  },
+  {
+    "imageName": "A4/A4_36.jpg",
+    "words": ["heineken", "original"],
+    "colors": ["green", "white", "red", "silver"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "A4/A4_37.jpg",
+    "brand": "borghesa",
+    "words": ["producido", "e", "envasado", "por", "casa", "di", "contiltida"],
+    "colors": ["black", "white"],
+    "figures": ["flower", "abstract"]
+  },
+  {
+    "imageName": "A4/A4_38.jpg",
+    "words": ["3"],
+    "colors": ["orange", "brown", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "A4/A4_39.jpg",
+    "words": [],
+    "colors": ["black", "gray", "white"],
+    "figures": ["car"]
+  },
+  {
+    "imageName": "A4/A4_40.jpg",
+    "words": ["ab", "cire", "para", "abrir", "america", "asia", "africa"],
+    "colors": ["red", "white", "black"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "A4/A4_41.jpg",
+    "words": [
+      "amstel",
+      "premium",
+      "european",
+      "quality",
+      "pure",
+      "malt",
+      "lager"
+    ],
+    "colors": ["black", "white", "golden", "red", "blue", "1870"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "A4/A4_42.jpg",
+    "words": ["amstel", "lager", "1870"],
+    "colors": ["golden", "white", "red", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "A4/A4_43.jpg",
+    "brand": "stella artois",
+    "words": [],
+    "colors": ["golden", "white"],
+    "figures": ["glass"]
+  },
+  {
+    "imageName": "A4/A4_44.jpg",
+    "words": ["warsteiner", "pilsner"],
+    "colors": ["black", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "A4/A4_45.jpg",
+    "words": ["binding", "pils"],
+    "colors": ["golden", "blue", "red", "white"],
+    "figures": ["eagle"]
+  },
+  {
+    "imageName": "A4/A4_46.jpg",
+    "words": ["licher", "export"],
+    "colors": ["white", "golden", "green", "blue"],
+    "figures": ["kingfisher"]
+  },
+  {
+    "imageName": "A4/A4_47.jpg",
+    "words": ["licher", "pilsner"],
+    "colors": ["white", "golden", "green", "blue"],
+    "figures": ["kingfisher"]
+  },
+  {
+    "imageName": "A4/A4_48.jpg",
+    "words": ["gude", "hessische", "braukunsk", "anstich", "2012"],
+    "colors": ["black", "white", "gray"],
+    "figures": []
+  },
+  {
+    "imageName": "A4/A4_49.jpg",
+    "words": ["glaabs", "brau"],
+    "colors": ["red", "white"],
+    "figures": []
+  }
+]

@@ -1,0 +1,313 @@
+[
+  {
+    "imageName": "C4/C4_01.jpg",
+    "words": ["xx", "desde", "1897"],
+    "colors": ["red", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "C4/C4_02.jpg",
+    "words": [
+      "keo",
+      "beer",
+      "on",
+      "the",
+      "island",
+      "of",
+      "cyprus",
+      "proudly",
+      "brewed"
+    ],
+    "colors": ["red", "white", "black", "yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "C4/C4_03.jpg",
+    "words": [],
+    "colors": ["brown", "yellow", "golden"],
+    "figures": ["dear", "circle"]
+  },
+  {
+    "imageName": "C4/C4_04.jpg",
+    "words": ["cisk", "lager"],
+    "colors": ["red", "brown", "yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "C4/C4_05.jpg",
+    "words": ["cisk", "excel"],
+    "colors": ["red", "yellow", "silver", "blue"],
+    "figures": []
+  },
+  {
+    "imageName": "C4/C4_06.jpg",
+    "words": ["cisk", "excel"],
+    "colors": ["red", "yellow", "white", "blue"],
+    "figures": ["horse", "hops"]
+  },
+  {
+    "imageName": "C4/C4_07.jpg",
+    "words": ["cisk", "0.0", "alc", "vol"],
+    "colors": ["white", "red", "yellow"],
+    "figures": ["horse", "hops"]
+  },
+  {
+    "imageName": "C4/C4_08.jpg",
+    "words": ["archivist"],
+    "colors": ["yellow", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "C4/C4_09.jpg",
+    "words": ["argus"],
+    "colors": ["red", "green", "yellow"],
+    "figures": ["agave"]
+  },
+  {
+    "imageName": "C4/C4_10.jpg",
+    "words": ["raffo", "lavorazione", "grezza"],
+    "colors": ["red", "yellow", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "C4/C4_11.jpg",
+    "words": ["birra", "pallanza"],
+    "colors": ["black", "red", "yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "C4/C4_12.jpg",
+    "brand": "kona",
+    "words": ["kona", "brewing", "co"],
+    "colors": ["white", "yellow"],
+    "figures": ["lizard"]
+  },
+  {
+    "imageName": "C4/C4_13.jpg",
+    "words": ["pater", "6", "st", "bernardus", "watou"],
+    "colors": ["yellow", "white"],
+    "figures": ["monk", "glass"]
+  },
+  {
+    "imageName": "C4/C4_14.jpg",
+    "words": ["wit", "st", "bernardus", "watou"],
+    "colors": ["blue", "white"],
+    "figures": ["monk", "glass"]
+  },
+  {
+    "imageName": "C4/C4_15.jpg",
+    "words": ["9", "ou"],
+    "colors": ["black", "yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "C4/C4_16.jpg",
+    "words": ["schlenkerla"],
+    "colors": ["orange", "black", "white"],
+    "figures": ["man", "glass"]
+  },
+  {
+    "imageName": "C4/C4_17.jpg",
+    "words": ["free", "damm", "tostada"],
+    "colors": ["orange", "white", "blue"],
+    "figures": []
+  },
+  {
+    "imageName": "C4/C4_18.jpg",
+    "words": [],
+    "colors": ["orange"],
+    "figures": []
+  },
+  {
+    "imageName": "C4/C4_19.jpg",
+    "words": ["schofferhofer", "weizen", "mix", "grapefruit"],
+    "colors": ["silver", "black", "orange", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "C4/C4_20.jpg",
+    "words": ["schofferhofer", "weizen", "dunkel"],
+    "colors": ["orange", "golden", "white", "brown", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "C4/C4_21.jpg",
+    "brand": "",
+    "words": ["schofferhofer", "weizen", "mix", "grapefruit"],
+    "colors": ["orange", "pink", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "C4/C4_22.jpg",
+    "words": ["red", "horse", "been", "strong"],
+    "colors": ["silver", "red"],
+    "figures": ["unicorn", "horse"]
+  },
+  {
+    "imageName": "C4/C4_23.jpg",
+    "words": ["alkoholfrei", "alcohol", "free", "sans", "alcool"],
+    "colors": ["silver", "red", "white"],
+    "figures": ["arrow"]
+  },
+  {
+    "imageName": "C4/C4_24.jpg",
+    "words": ["vrid"],
+    "colors": ["silver", "red"],
+    "figures": ["moose", "dear", "crown", "shield"]
+  },
+  {
+    "imageName": "C4/C4_25.jpg",
+    "words": ["oedious"],
+    "colors": ["pink", "yellow", "white", "silver", "blue"],
+    "figures": ["leaf", "absract"]
+  },
+  {
+    "imageName": "C4/C4_26.jpg",
+    "words": ["keo", "light", "beer"],
+    "colors": ["silver", "white", "black", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "C4/C4_27.jpg",
+    "words": [],
+    "colors": ["pink", "black"],
+    "figures": ["hen"]
+  },
+  {
+    "imageName": "C4/C4_28.jpg",
+    "words": [],
+    "colors": ["pink", "black"],
+    "figures": ["bison", "zubr"]
+  },
+  {
+    "imageName": "C4/C4_29.jpg",
+    "words": ["forst"],
+    "colors": ["silver", "green"],
+    "figures": ["tree", "crown"]
+  },
+  {
+    "imageName": "C4/C4_30.jpg",
+    "words": ["forst"],
+    "colors": ["golden", "red"],
+    "figures": ["tree", "crown"]
+  },
+  {
+    "imageName": "C4/C4_31.jpg",
+    "words": ["amstel"],
+    "colors": ["red", "white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "C4/C4_32.jpg",
+    "words": ["amstel", "mpyra"],
+    "colors": ["red", "white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "C4/C4_33.jpg",
+    "words": ["j", "jopen", "hrlm", "craft", "beer"],
+    "colors": ["red", "silver", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "C4/C4_34.jpg",
+    "words": ["henninger", "quality", "lager", "1869", "since"],
+    "colors": ["red", "white"],
+    "figures": ["lion", "crown"]
+  },
+  {
+    "imageName": "C4/C4_35.jpg",
+    "words": ["vbdck", "belgian", "brewery", "untouched", "by", "monks"],
+    "colors": ["red", "white"],
+    "figures": ["rectangle"]
+  },
+  {
+    "imageName": "C4/C4_36.jpg",
+    "words": ["k"],
+    "colors": ["green", "white"],
+    "figures": ["spade", "crown"]
+  },
+  {
+    "imageName": "C4/C4_37.jpg",
+    "words": ["k"],
+    "colors": ["red", "white"],
+    "figures": ["spade", "crown"]
+  },
+  {
+    "imageName": "C4/C4_38.jpg",
+    "words": ["stiegel", "weisse"],
+    "colors": ["white", "red"],
+    "figures": ["stairs"]
+  },
+  {
+    "imageName": "C4/C4_39.jpg",
+    "words": ["karlovacko", "est", "1854"],
+    "colors": ["red", "white"],
+    "figures": ["shield"]
+  },
+  {
+    "imageName": "C4/C4_40.jpg",
+    "words": ["borsodi"],
+    "colors": ["red", "golden", "white"],
+    "figures": ["goat"]
+  },
+  {
+    "imageName": "C4/C4_41.jpg",
+    "words": ["arany", "aszok"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "C4/C4_42.jpg",
+    "words": ["sopronban", "ota", "1895", "s"],
+    "colors": ["golden", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "C4/C4_43.jpg",
+    "brand": "pirinsko",
+    "words": ["открий", "над", "1800000", "бири"],
+    "colors": ["green", "white"],
+    "figures": ["can", "mountain"]
+  },
+  {
+    "imageName": "C4/C4_44.jpg",
+    "brand": "pirinsko",
+    "words": ["1000000", "кена", "под", "капачката"],
+    "colors": ["red", "white"],
+    "figures": ["mountain"]
+  },
+  {
+    "imageName": "C4/C4_45.jpg",
+    "brand": "pirinsko",
+    "words": ["1500000", "кена", "под", "капачката"],
+    "colors": ["red", "white"],
+    "figures": ["mountain"]
+  },
+  {
+    "imageName": "C4/C4_46.jpg",
+    "brand": "shumensko",
+    "words": ["шуменско"],
+    "colors": ["white", "red"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "C4/C4_47.jpg",
+    "brand": "shumensko",
+    "words": ["шуменско"],
+    "colors": ["black", "golden"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "C4/C4_48.jpg",
+    "words": ["riegele", "riermanufaktur"],
+    "colors": ["gray", "brown", "white"],
+    "figures": ["horse"]
+  },
+  {
+    "imageName": "C4/C4_49.jpg",
+    "words": ["bayerische", "klosterbiere", "seit", "1119", "s"],
+    "colors": ["red", "brown", "golden"],
+    "figures": []
+  }
+]

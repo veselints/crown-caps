@@ -1,0 +1,330 @@
+[
+  {
+    "imageName": "G4/G4_01.jpg",
+    "words": ["faxe", "10"],
+    "colors": ["green", "golden", "white", "red"],
+    "figures": ["viking"]
+  },
+  {
+    "imageName": "G4/G4_02.jpg",
+    "words": [],
+    "colors": ["golden", "black"],
+    "figures": ["shield", "crown", "hops", "grain"]
+  },
+  {
+    "imageName": "G4/G4_03.jpg",
+    "words": [
+      "voll",
+      "damm",
+      "das",
+      "original",
+      "doble",
+      "malta",
+      "desde",
+      "1955",
+      "marzenbier"
+    ],
+    "colors": ["white", "red", "green"],
+    "figures": []
+  },
+  {
+    "imageName": "G4/G4_04.jpg",
+    "words": ["savanna"],
+    "colors": ["white", "green"],
+    "figures": ["tree"]
+  },
+  {
+    "imageName": "G4/G4_05.jpg",
+    "words": ["innis", "&", "gunn", "est", "2003", "brewing", "co"],
+    "colors": ["green", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "G4/G4_06.jpg",
+    "words": ["pivovar", "1649", "strakonice"],
+    "colors": ["green", "white"],
+    "figures": ["factory"]
+  },
+  {
+    "imageName": "G4/G4_07.jpg",
+    "words": ["pivovar", "1649", "strakonice"],
+    "colors": ["golden", "white"],
+    "figures": ["factory"]
+  },
+  {
+    "imageName": "G4/G4_08.jpg",
+    "words": [],
+    "colors": ["green", "red"],
+    "figures": ["colibri"]
+  },
+  {
+    "imageName": "G4/G4_09.jpg",
+    "words": ["medium"],
+    "colors": ["green", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "G4/G4_10.jpg",
+    "words": ["gosser", "bier"],
+    "colors": ["green", "golden", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "G4/G4_11.jpg",
+    "words": ["gosser", "premium"],
+    "colors": ["green", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "G4/G4_12.jpg",
+    "words": ["product", "of", "thailand"],
+    "colors": ["green", "golden", "white", "red"],
+    "figures": ["elephant", "tree"]
+  },
+  {
+    "imageName": "G4/G4_13.jpg",
+    "words": ["simplon", "bier"],
+    "colors": ["green", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "G4/G4_14.jpg",
+    "words": ["reserva", "1925"],
+    "colors": ["green", "white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "G4/G4_15.jpg",
+    "words": ["apa", "primatorcraft", "brewery"],
+    "colors": ["pink", "white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "G4/G4_16.jpg",
+    "words": ["a", "primator", "craft", "brewery"],
+    "colors": ["black", "green", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "G4/G4_17.jpg",
+    "words": ["book", "brouwerij", "lembeek"],
+    "colors": ["green", "white", "golden"],
+    "figures": ["key"]
+  },
+  {
+    "imageName": "G4/G4_18.jpg",
+    "words": ["edelweiss", "original", "hefetrub"],
+    "colors": ["green", "white"],
+    "figures": ["mountain", "peak"]
+  },
+  {
+    "imageName": "G4/G4_19.jpg",
+    "words": ["ratar", "intenzivne", "horky", "lezak"],
+    "colors": ["green", "white", "golden"],
+    "figures": ["monster", "bird"]
+  },
+  {
+    "imageName": "G4/G4_20.jpg",
+    "words": [],
+    "colors": ["green", "white"],
+    "figures": ["goblin"]
+  },
+  {
+    "imageName": "G4/G4_21.jpg",
+    "words": [],
+    "colors": ["pink", "white"],
+    "figures": ["goblin"]
+  },
+  {
+    "imageName": "G4/G4_22.jpg",
+    "words": ["coral"],
+    "colors": ["green", "white", "red"],
+    "figures": ["hops", "grain"]
+  },
+  {
+    "imageName": "G4/G4_23.jpg",
+    "words": [
+      "european",
+      "beer",
+      "star",
+      "future",
+      "award",
+      "2022",
+      "international",
+      "breweries",
+      "compotition",
+      "the",
+      "bee",
+      "tasting",
+      "award"
+    ],
+    "colors": ["golden", "green", "white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "G4/G4_24.jpg",
+    "brand": "plzen urquell",
+    "words": ["plzen"],
+    "colors": ["green", "golden"],
+    "figures": ["gate"]
+  },
+  {
+    "imageName": "G4/G4_25.jpg",
+    "words": ["dreher"],
+    "colors": ["green", "white", "red"],
+    "figures": ["circle", "triangle"]
+  },
+  {
+    "imageName": "G4/G4_26.jpg",
+    "brand": "",
+    "words": ["hop", "n", "spice", "b"],
+    "colors": ["white", "green", "golden"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "G4/G4_27.jpg",
+    "words": ["salitos", "cerveza", "twist", "to", "open"],
+    "colors": ["green", "yellow", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "G4/G4_28.jpg",
+    "words": ["giesinger", "brau", "munchen"],
+    "colors": ["green", "white", "yellow"],
+    "figures": ["chirch"]
+  },
+  {
+    "imageName": "G4/G4_29.jpg",
+    "words": ["nisos"],
+    "colors": ["white", "golden", "green"],
+    "figures": ["sun"]
+  },
+  {
+    "imageName": "G4/G4_30.jpg",
+    "words": ["oliba", "green", "beer", "lager"],
+    "colors": ["white", "blue", "green"],
+    "figures": []
+  },
+  {
+    "imageName": "G4/G4_31.jpg",
+    "words": ["heineken", "silver"],
+    "colors": ["white", "red", "green", "silver"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "G4/G4_32.jpg",
+    "words": ["sogna", "doppiomalto", "com"],
+    "colors": ["blue", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "G4/G4_33.jpg",
+    "words": ["trappist", "westmalle", "extra", "w", "a"],
+    "colors": ["blue", "white", "red"],
+    "figures": ["circle"]
+  },
+  {
+    "imageName": "G4/G4_34.jpg",
+    "words": [],
+    "colors": ["blue", "white"],
+    "figures": ["goat"]
+  },
+  {
+    "imageName": "G4/G4_35.jpg",
+    "words": ["oberdorfer", "helles"],
+    "colors": ["blue", "white", "silver"],
+    "figures": ["lion", "village"]
+  },
+  {
+    "imageName": "G4/G4_36.jpg",
+    "words": ["birra", "moretti", "la", "zero"],
+    "colors": ["blue", "white"],
+    "figures": ["man", "hat", "glass"]
+  },
+  {
+    "imageName": "G4/G4_37.jpg",
+    "words": ["gaffel", "kolsch"],
+    "colors": ["blue", "white"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "G4/G4_38.jpg",
+    "words": ["berliner", "kindl", "weisse", "original"],
+    "colors": ["blue", "red", "orange", "white", "black"],
+    "figures": ["boy", "glass"]
+  },
+  {
+    "imageName": "G4/G4_39.jpg",
+    "words": ["berliner", "kindl", "jubilaums", "pilsener"],
+    "colors": ["red", "orange", "white", "black"],
+    "figures": ["boy", "glass"]
+  },
+  {
+    "imageName": "G4/G4_40.jpg",
+    "words": [
+      "berliner",
+      "kindl",
+      "aktionskronkoren",
+      "2025",
+      "1.000",
+      "gewinnen",
+      "spenden"
+    ],
+    "colors": ["red", "white", "silver", "orange"],
+    "figures": ["boy", "glass"]
+  },
+  {
+    "imageName": "G4/G4_41.jpg",
+    "words": ["17", "02"],
+    "colors": ["black", "blue"],
+    "figures": ["mole", "cask"]
+  },
+  {
+    "imageName": "G4/G4_42.jpg",
+    "words": [],
+    "colors": ["blue", "orange", "black"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "G4/G4_43.jpg",
+    "words": ["einstok", "olgerd", "iceland"],
+    "colors": ["blue", "black"],
+    "figures": ["axe"]
+  },
+  {
+    "imageName": "G4/G4_44.jpg",
+    "words": ["aus", "bayerns", "altester", "weissbierwrauerei", "g", "s", "u"],
+    "colors": ["golden", "blue"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "G4/G4_45.jpg",
+    "words": ["vergina", "premium", "quality"],
+    "colors": ["golden", "red", "blue", "white"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "G4/G4_46.jpg",
+    "words": ["pequenos", "cerveceros", "grandes", "momentos"],
+    "colors": ["glue", "white", "golden"],
+    "figures": ["triangle"]
+  },
+  {
+    "imageName": "G4/G4_47.jpg",
+    "words": ["bakalar", "1454", "nealko"],
+    "colors": ["blue", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "G4/G4_48.jpg",
+    "words": ["stella", "artois", "anno", "1366"],
+    "colors": ["blue", "white"],
+    "figures": ["horn", "star"]
+  },
+  {
+    "imageName": "G4/G4_49.jpg",
+    "words": [],
+    "colors": ["blue", "silver"],
+    "figures": ["abstract", "wave"]
+  }
+]

@@ -43,7 +43,7 @@ export default {
 
     mounted() {
         this.importAll(
-            require.context("../../public/images/PL/", true, /\.jpg$/)
+            require.context("../../public/images/G4/", true, /\.jpg$/)
         );
     },
 

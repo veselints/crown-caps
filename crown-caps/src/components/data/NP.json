@@ -1,0 +1,1288 @@
+[
+  {
+    "imageName": "NP/NP1_01.jpg",
+    "brand": "suntory",
+    "words": ["suntory"],
+    "colors": ["golden", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_02.jpg",
+    "brand": "svijany",
+    "words": ["s"],
+    "colors": ["golden", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_03.jpg",
+    "brand": "miyazaki",
+    "words": ["miyazaki", "hide", "beer"],
+    "colors": ["red", "yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_04.jpg",
+    "words": ["bink"],
+    "colors": ["black", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_05.jpg",
+    "brand": "coors",
+    "words": ["coors", "rockies", "cold", "as", "the"],
+    "colors": ["silver", "gray"],
+    "figures": ["peak"]
+  },
+  {
+    "imageName": "NP/NP1_06.jpg",
+    "words": ["only", "18", "days", "taiwan", "beer", "w", "070802"],
+    "colors": ["white", "green", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_07.jpg",
+    "brand": "Jiguli",
+    "words": ["Жигули", "барное", "пиво"],
+    "colors": ["black", "golden"],
+    "figures": ["gull", "arrow"]
+  },
+  {
+    "imageName": "NP/NP1_08.jpg",
+    "brand": "Shumensko",
+    "words": ["спечели", "над", "500000", "награди"],
+    "colors": ["golden", "white", "black"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "NP/NP1_09.jpg",
+    "brand": "krombacher",
+    "words": ["krombacher", "weizen"],
+    "colors": ["white", "golden", "black", "orange"],
+    "figures": ["eagle"]
+  },
+  {
+    "imageName": "NP/NP1_10.jpg",
+    "words": ["selected", "malt", "and", "hops", "specially", "brewed"],
+    "colors": ["black", "silver"],
+    "figures": ["hops", "grain"]
+  },
+  {
+    "imageName": "NP/NP1_11.jpg",
+    "words": ["brice"],
+    "colors": ["white", "yellow"],
+    "figures": ["man", "glass"]
+  },
+  {
+    "imageName": "NP/NP1_12.jpg",
+    "words": ["anno", "1050"],
+    "colors": ["white", "red", "blue"],
+    "figures": ["cross"]
+  },
+  {
+    "imageName": "NP/NP1_13.jpg",
+    "brand": "suntory",
+    "words": ["suntory"],
+    "colors": ["silver", "blue"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_14.jpg",
+    "brand": "zubr",
+    "words": ["zubr", "gold", "1872"],
+    "colors": ["yellow", "white", "red"],
+    "figures": ["crown", "grain"]
+  },
+  {
+    "imageName": "NP/NP1_15.jpg",
+    "brand": "Kronenburg",
+    "words": ["1664"],
+    "colors": ["white", "blue"],
+    "figures": ["cross"]
+  },
+  {
+    "imageName": "NP/NP1_16.jpg",
+    "brand": "kirin",
+    "words": ["kirin"],
+    "colors": ["white", "golden"],
+    "figures": ["dragon"]
+  },
+  {
+    "imageName": "NP/NP1_17.jpg",
+    "brand": "yamata",
+    "words": ["yamata", "brewery"],
+    "colors": ["white", "black"],
+    "figures": ["container"]
+  },
+  {
+    "imageName": "NP/NP1_18.jpg",
+    "brand": "chiemseer",
+    "words": ["chiemseer", "hell"],
+    "colors": ["silver", "blue"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "NP/NP1_19.jpg",
+    "brand": "grimbergen",
+    "words": ["grimbergen", "1128"],
+    "colors": ["white", "brown"],
+    "figures": ["phenix"]
+  },
+  {
+    "imageName": "NP/NP1_2 (1).jpg",
+    "words": ["capsule", "recyclable", "pensez", "a", "trier"],
+    "colors": ["silver", "black"],
+    "figures": ["man", "arrow", "circle"]
+  },
+  {
+    "imageName": "NP/NP1_2 (10).jpg",
+    "words": ["m"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (11).jpg",
+    "words": ["zunft", "kolsch", "der", "zunftige", "schluck"],
+    "colors": ["black", "silver", "white", "red"],
+    "figures": ["crown", "tree"]
+  },
+  {
+    "imageName": "NP/NP1_2 (12).jpg",
+    "brand": "tyris",
+    "words": ["tyris", "cerveza", "local", "valencia"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (13).jpg",
+    "brand": "sapporo",
+    "words": ["alc", "0.00"],
+    "colors": ["golden", "black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (14).jpg",
+    "brand": "alhambra",
+    "words": ["zerveza", "de", "edicion", "limitada", "rosas"],
+    "colors": ["white", "green"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "NP/NP1_2 (15).jpg",
+    "brand": "erdinger",
+    "words": ["erdinger", "brauhaus", "helles"],
+    "colors": ["silver", "blue"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (16).jpg",
+    "words": ["konishi", "brewing", "co"],
+    "colors": ["black", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (17).jpg",
+    "words": ["mort", "subite"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (18).jpg",
+    "brand": "rydeen",
+    "words": ["rydeen", "beer"],
+    "colors": ["black", "silver"],
+    "figures": ["monkey"]
+  },
+  {
+    "imageName": "NP/NP1_2 (19).jpg",
+    "words": [],
+    "colors": ["white", "green"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "NP/NP1_2 (2).jpg",
+    "words": ["la", "sagra", "estacionales"],
+    "colors": ["black", "white"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "NP/NP1_2 (20).jpg",
+    "words": ["alc", "0.00"],
+    "colors": [],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (21).jpg",
+    "brand": "franziskaner",
+    "words": ["franziskaner", "premium", "weissbier"],
+    "colors": ["golden", "gray"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "NP/NP1_2 (22).jpg",
+    "words": ["sunner"],
+    "colors": ["yellow", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (23).jpg",
+    "brand": "chiemseer",
+    "words": ["chiemseer", "braustoff"],
+    "colors": ["golden", "white"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "NP/NP1_2 (24).jpg",
+    "brand": "erdinger",
+    "words": ["erdinger", "weissbrau"],
+    "colors": ["golden", "blue", "red", "white"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "NP/NP1_2 (25).jpg",
+    "words": [],
+    "colors": ["silver", "white"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "NP/NP1_2 (26).jpg",
+    "brand": "nymfi",
+    "words": ["nymfi"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (27).jpg",
+    "brand": "alfa",
+    "words": ["a"],
+    "colors": ["red", "white", "blue"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (28).jpg",
+    "brand": "krushovice",
+    "words": ["imperial"],
+    "colors": ["white", "brown"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "NP/NP1_2 (29).jpg",
+    "words": ["bmc"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (3).jpg",
+    "brand": "kasteel",
+    "words": ["kasteel", "donker"],
+    "colors": ["brown", "yellow", "black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (30).jpg",
+    "brand": "krombacher",
+    "words": ["krombacher", "pils"],
+    "colors": ["balck", "white", "silver", "green", "red"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "NP/NP1_2 (31).jpg",
+    "brand": "kostritser",
+    "words": ["kostritser", "schwarzbier"],
+    "colors": ["white", "black", "silver", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (32).jpg",
+    "words": [],
+    "colors": ["golden", "black"],
+    "figures": ["man", "kask"]
+  },
+  {
+    "imageName": "NP/NP1_2 (33).jpg",
+    "brand": "richmodis",
+    "words": ["richmodis", "kolsch"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (34).jpg",
+    "brand": "coors",
+    "words": ["born", "in", "the", "rockies", "coors", "light"],
+    "colors": ["silver", "gray"],
+    "figures": ["peak"]
+  },
+  {
+    "imageName": "NP/NP1_2 (35).jpg",
+    "brand": "grimbergen",
+    "words": ["grimbergen", "1128"],
+    "colors": ["golden", "brown"],
+    "figures": ["phenix"]
+  },
+  {
+    "imageName": "NP/NP1_2 (36).jpg",
+    "words": [],
+    "colors": ["white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (37).jpg",
+    "brand": "peroni",
+    "words": ["peroni", "chill", "lemon"],
+    "colors": ["silver", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (38).jpg",
+    "brand": "shumensko",
+    "words": ["спеели", "над", "500000", "награди"],
+    "colors": ["white", "brown", "golden"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "NP/NP1_2 (39).jpg",
+    "words": ["fourchette"],
+    "colors": ["black", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (4).jpg",
+    "brand": "founders",
+    "words": ["founders", "brewing", "since", "1997"],
+    "colors": ["black", "silver", "yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (40).jpg",
+    "words": [],
+    "colors": ["gray", "black", "red", "white"],
+    "figures": ["star", "abstract"]
+  },
+  {
+    "imageName": "NP/NP1_2 (41).jpg",
+    "brand": "mahou",
+    "words": ["m", "reserva"],
+    "colors": ["golden", "green"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (42).jpg",
+    "brand": "rychtar",
+    "words": ["rychtar"],
+    "colors": ["golden", "green"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (43).jpg",
+    "words": ["rakonos"],
+    "colors": ["green", "white", "blue", "brown"],
+    "figures": ["man", "kask"]
+  },
+  {
+    "imageName": "NP/NP1_2 (44).jpg",
+    "words": ["kix", "izumisu"],
+    "colors": ["silver", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (45).jpg",
+    "brand": "shipyard",
+    "words": ["shipyard", "maine", "usa", "est", "portland"],
+    "colors": ["silver", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (46).jpg",
+    "brand": "salto",
+    "words": ["sa", "lto", "beograd"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (47).jpg",
+    "words": ["stone", "wood"],
+    "colors": ["black", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (48).jpg",
+    "brand": "bernard",
+    "words": ["bernard", "free"],
+    "colors": ["blue", "white", "silver", "red"],
+    "figures": ["dog", "shield", "crown"]
+  },
+  {
+    "imageName": "NP/NP1_2 (49).jpg",
+    "brand": "duvel",
+    "words": ["duvel", "6,66", "alc", "vol", "belgian", "blond"],
+    "colors": ["yellow", "white", "black", "red", "d"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (5).jpg",
+    "brand": "weihenstephaner",
+    "words": ["weihenstephaner", "garantierte", "reinheit"],
+    "colors": ["brown", ""],
+    "figures": ["lion", "shield", "crown"]
+  },
+  {
+    "imageName": "NP/NP1_2 (50).jpg",
+    "words": [],
+    "colors": ["white", "black", "red"],
+    "figures": ["man", "shield", "hat", "crown"]
+  },
+  {
+    "imageName": "NP/NP1_2 (51).jpg",
+    "words": ["hellers", "kolsch", "koln", "rhein", "braueraiabfullung"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (52).jpg",
+    "words": [],
+    "colors": ["orange", "yellow"],
+    "figures": ["dwarf"]
+  },
+  {
+    "imageName": "NP/NP1_2 (53).jpg",
+    "words": ["lupulus"],
+    "colors": ["white", "green", "black"],
+    "figures": ["wolf", "hops"]
+  },
+  {
+    "imageName": "NP/NP1_2 (54).jpg",
+    "words": ["maredsous"],
+    "colors": ["yellow", "blue"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (6).jpg",
+    "brand": "krushovice",
+    "words": ["12"],
+    "colors": ["black", "golden"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "NP/NP1_2 (7).jpg",
+    "words": ["statl"],
+    "colors": ["golden", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (8).jpg",
+    "words": ["150", "seit", "1874", "jahre", "weiherer", "bier"],
+    "colors": ["black", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_2 (9).jpg",
+    "brand": "bittburger",
+    "words": ["premium", "pils", "bitte", "dein", "sommer"],
+    "colors": ["black", "golden", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_20.jpg",
+    "brand": "svijany",
+    "words": ["s"],
+    "colors": ["silver", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_21.jpg",
+    "brand": "zlaty bazant",
+    "words": [],
+    "colors": ["red", "white", "green", "brown"],
+    "figures": ["phaesan"]
+  },
+  {
+    "imageName": "NP/NP1_22.jpg",
+    "words": ["y"],
+    "colors": ["blue", "orange"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_23.jpg",
+    "words": ["&"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_24.jpg",
+    "words": ["nu", "in", "statiegeld", "flies"],
+    "colors": ["black", "silver"],
+    "figures": ["ostrich", "egg"]
+  },
+  {
+    "imageName": "NP/NP1_25.jpg",
+    "brand": "yebisu",
+    "words": ["yebisu", "premium", "born", "in", "1890", "tokyo"],
+    "colors": ["black", "red", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_26.jpg",
+    "words": ["bayreuther", "brauhaus"],
+    "colors": ["golden", "white", "blue"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "NP/NP1_27.jpg",
+    "words": [
+      "devils",
+      "peak",
+      "south",
+      "africas",
+      "premium",
+      "beer",
+      "fortune",
+      "favours",
+      "bold"
+    ],
+    "colors": ["blue", "white", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_28.jpg",
+    "brand": "platan",
+    "words": ["platan"],
+    "colors": ["green", "white"],
+    "figures": ["leaf"]
+  },
+  {
+    "imageName": "NP/NP1_29.jpg",
+    "words": ["craft", "beers", "brewery", "de", "meester"],
+    "colors": ["black", "white"],
+    "figures": ["man", "skull"]
+  },
+  {
+    "imageName": "NP/NP1_30.jpg",
+    "words": [],
+    "colors": ["white", "golden"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "NP/NP1_31.jpg",
+    "brand": "coopers",
+    "words": ["coopers"],
+    "colors": ["black", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_32.jpg",
+    "brand": "paulaner",
+    "words": [
+      "paulaner",
+      "fankorken",
+      "munchen",
+      "jetzt",
+      "mitmachen",
+      "und",
+      "gewinnen"
+    ],
+    "colors": ["golden", "blue", "red", "white"],
+    "figures": ["monk"]
+  },
+  {
+    "imageName": "NP/NP1_33.jpg",
+    "brand": "sion",
+    "words": ["sion", "kolsch"],
+    "colors": ["white", "silver"],
+    "figures": ["church"]
+  },
+  {
+    "imageName": "NP/NP1_34.jpg",
+    "words": ["zichovec", "family", "brewery", "rodinny", "pivovar"],
+    "colors": ["white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_35.jpg",
+    "brand": "fix",
+    "words": ["fix", "mayri"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_36.jpg",
+    "words": ["hokkaido", "abashiri", "beer"],
+    "colors": ["black", "white", "golden"],
+    "figures": ["island"]
+  },
+  {
+    "imageName": "NP/NP1_37.jpg",
+    "words": ["mu", "sa"],
+    "colors": ["black", "white"],
+    "figures": ["rectangle"]
+  },
+  {
+    "imageName": "NP/NP1_38.jpg",
+    "words": [],
+    "colors": ["golden", "white"],
+    "figures": ["fish", "swordfish"]
+  },
+  {
+    "imageName": "NP/NP1_39.jpg",
+    "words": ["перша", "приватна", "броварня", "1", "est", "2004"],
+    "colors": ["white", "yellow", "red"],
+    "figures": ["hops", "grain"]
+  },
+  {
+    "imageName": "NP/NP1_40.jpg",
+    "words": ["breznak", "velke", "brezno", "zalozeno", "1753"],
+    "colors": ["white", "brown"],
+    "figures": ["man", "glass"]
+  },
+  {
+    "imageName": "NP/NP1_41.jpg",
+    "words": ["cervezas", "1906", "la", "milnueve"],
+    "colors": ["black", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_42.jpg",
+    "words": [],
+    "colors": ["red", "yellow"],
+    "figures": ["dwarf"]
+  },
+  {
+    "imageName": "NP/NP1_43.jpg",
+    "words": [],
+    "colors": ["white", "red", "blue"],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "NP/NP1_44.jpg",
+    "words": ["muhlen", "kolsch"],
+    "colors": ["black", "white", "green"],
+    "figures": ["mill"]
+  },
+  {
+    "imageName": "NP/NP1_45.jpg",
+    "brand": "suntory",
+    "words": ["suntory", "the", "premium", "malts"],
+    "colors": ["golden", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_46.jpg",
+    "brand": "spaten",
+    "words": ["spaten", "s", "g"],
+    "colors": ["golden", "white", "black", "red"],
+    "figures": ["spade"]
+  },
+  {
+    "imageName": "NP/NP1_47.jpg",
+    "words": [],
+    "colors": ["white", "black", "brown"],
+    "figures": ["man", "woman", "hat"]
+  },
+  {
+    "imageName": "NP/NP1_48.jpg",
+    "words": ["varmdo", "bryggeri", "modernt", "hantverk"],
+    "colors": ["brown", "yellow"],
+    "figures": ["lighthouse"]
+  },
+  {
+    "imageName": "NP/NP1_49.jpg",
+    "words": [],
+    "colors": ["purple"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_50.jpg",
+    "words": [],
+    "colors": ["red", "white", "yellow"],
+    "figures": ["lion", "glass"]
+  },
+  {
+    "imageName": "NP/NP1_51.jpg",
+    "words": ["purum", "laudatur"],
+    "colors": ["silver", "white", "red"],
+    "figures": ["crown", "anchor"]
+  },
+  {
+    "imageName": "NP/NP1_52.jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["fox"]
+  },
+  {
+    "imageName": "NP/NP1_53.jpg",
+    "words": ["funky", "fluid", "are", "you"],
+    "colors": ["pink", "white"],
+    "figures": ["triangle"]
+  },
+  {
+    "imageName": "NP/NP1_54.jpg",
+    "brand": "asahi",
+    "words": ["asahi", "super", "dry"],
+    "colors": ["silver", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_55.jpg",
+    "words": ["twist", "off", "ritchie"],
+    "colors": ["white", "red", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_56.jpg",
+    "words": ["sternla", "original"],
+    "colors": ["white", "black", "red", "golden"],
+    "figures": ["woman", "class"]
+  },
+  {
+    "imageName": "NP/NP1_57.jpg",
+    "words": [],
+    "colors": ["silver"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP1_58.jpg",
+    "words": [],
+    "colors": ["blue", "yellow"],
+    "figures": ["dwarf"]
+  },
+  {
+    "imageName": "NP/NP1_59.jpg",
+    "words": ["birra", "baladin"],
+    "colors": ["black", "silver"],
+    "figures": ["glass"]
+  },
+  {
+    "imageName": "NP/NP1_60.jpg",
+    "words": [],
+    "colors": ["black", "golden"],
+    "figures": ["spade"]
+  },
+  {
+    "imageName": "NP/NP1_61.jpg",
+    "brand": "kona",
+    "words": ["kona", "brewing", "co"],
+    "colors": ["white", "red"],
+    "figures": ["lizard"]
+  },
+  {
+    "imageName": "NP/NP1_62.jpg",
+    "words": ["borg", "brugghus"],
+    "colors": ["black", "white"],
+    "figures": ["bottle"]
+  },
+  {
+    "imageName": "NP/NP1_63.jpg",
+    "words": ["hurbanovo", "zlaty", "bazant"],
+    "colors": ["white", "blue", "golden", "red"],
+    "figures": ["phaesant"]
+  },
+  {
+    "imageName": "NP/NP1_64.jpg",
+    "words": ["namaste", "premium", "lager", "beer"],
+    "colors": ["white", "red", "black", "gray"],
+    "figures": ["woman"]
+  },
+  {
+    "imageName": "NP/NP1_65.jpg",
+    "words": ["2001"],
+    "colors": ["black", "red", "white"],
+    "figures": ["bear", "spade", "kask"]
+  },
+  {
+    "imageName": "NP/NP1_66.jpg",
+    "words": ["dom", "kolsch"],
+    "colors": ["silver", "red", "white"],
+    "figures": ["church"]
+  },
+  {
+    "imageName": "NP/NP2_01.jpg",
+    "words": ["veltins", "megachance", "2026", "pilsner"],
+    "colors": ["white", "green", "black", "red"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "NP/NP2_02.jpg",
+    "brand": "berliner",
+    "words": ["aktionskronkorken", "knack", "den", "jackpot"],
+    "colors": ["red", "green", "white", "golden"],
+    "figures": ["bear", "glass"]
+  },
+  {
+    "imageName": "NP/NP2_03.jpg",
+    "words": ["van", "pur"],
+    "colors": ["white", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_04.jpg",
+    "brand": "",
+    "words": ["lindemans", "1nno", "1822", "authentic", "lambic", "brewery"],
+    "colors": ["golden", "brown"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_05.jpg",
+    "brand": "berliner",
+    "words": ["berliner", "pranke"],
+    "colors": ["black", "white"],
+    "figures": ["bear", "glass"]
+  },
+  {
+    "imageName": "NP/NP2_06.jpg",
+    "brand": "berliner",
+    "words": ["berliner", "mildes", "lager"],
+    "colors": ["black", "white", "red"],
+    "figures": ["bear", "glass"]
+  },
+  {
+    "imageName": "NP/NP2_07.jpg",
+    "words": ["sapporo"],
+    "colors": ["black", "golden", "silver"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "NP/NP2_08.jpg",
+    "words": ["gordon", "scotch", "ale"],
+    "colors": ["white", "green", "blue", "yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_09.jpg",
+    "words": [],
+    "colors": ["golden", "red", "blue"],
+    "figures": ["lion", "wheel"]
+  },
+  {
+    "imageName": "NP/NP2_12.jpg",
+    "brand": "shumensko",
+    "words": ["1000000", "легендарни", "бири"],
+    "colors": ["golden", "red"],
+    "figures": ["lion"]
+  },
+  {
+    "imageName": "NP/NP2_13.jpg",
+    "words": ["banche", "de", "charleroi"],
+    "colors": ["golden", "blue"],
+    "figures": ["grain"]
+  },
+  {
+    "imageName": "NP/NP2_14.jpg",
+    "words": ["бакунин", "санкт", "петербург", "2013"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_15.jpg",
+    "words": [],
+    "colors": ["white", "yellow", "pink", "black"],
+    "figures": ["bear", "arrow"]
+  },
+  {
+    "imageName": "NP/NP2_16.jpg",
+    "words": ["magna"],
+    "colors": ["green", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_17.jpg",
+    "words": [],
+    "colors": ["white"],
+    "figures": ["wax"]
+  },
+  {
+    "imageName": "NP/NP2_18.jpg",
+    "words": ["uvijek", "na", "nektar", "dobitko"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_19.jpg",
+    "words": ["birra", "moretti", "lautentica"],
+    "colors": ["red", "white"],
+    "figures": ["man", "glass", "gran"]
+  },
+  {
+    "imageName": "NP/NP2_21.jpg",
+    "words": ["desperados"],
+    "colors": ["pink", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_23.jpg",
+    "words": ["freiberger", "erzgold", "hell"],
+    "colors": ["blue", "green"],
+    "figures": ["tree"]
+  },
+  {
+    "imageName": "NP/NP2_24.jpg",
+    "words": [],
+    "colors": ["black", "white"],
+    "figures": ["eddie"]
+  },
+  {
+    "imageName": "NP/NP2_25.jpg",
+    "words": ["berliner", "berg", "brauerei", "tradition", "neugebraut"],
+    "colors": ["black", "white"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "NP/NP2_26.jpg",
+    "words": ["hubertus", "pivovar", "kacov", "1457"],
+    "colors": ["white", "yellow", "red"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "NP/NP2_27.jpg",
+    "words": ["san", "miguel", "el", "mundo", "desde", "1890"],
+    "colors": ["white", "green", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_28.jpg",
+    "words": ["zubr", "gold", "zal", "1872"],
+    "colors": ["golden", "white", "blue"],
+    "figures": ["zubr"]
+  },
+  {
+    "imageName": "NP/NP2_29.jpg",
+    "words": ["pivovar", "pelhrimov", "1552"],
+    "colors": ["green", "white"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "NP/NP2_30.jpg",
+    "brand": "zlaty bazant",
+    "words": [],
+    "colors": ["green", "golden"],
+    "figures": ["phaesent"]
+  },
+  {
+    "imageName": "NP/NP2_31.jpg",
+    "words": ["kasteel", "rouge", "original"],
+    "colors": ["red", "white", "black", "yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_32.jpg",
+    "words": ["be", "cerdo", "my", "friend"],
+    "colors": ["pick", "black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_33.jpg",
+    "brand": "berliner",
+    "words": [],
+    "colors": ["white", "red"],
+    "figures": ["bear"]
+  },
+  {
+    "imageName": "NP/NP2_34.jpg",
+    "words": ["gambrinus", "12"],
+    "colors": ["red", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_35.jpg",
+    "words": ["astika"],
+    "colors": ["golden", "black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_36.jpg",
+    "words": ["stare", "misto", "original", "lviv", "lager", "зварено"],
+    "colors": ["orange", "yellow", "brown", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_37.jpg",
+    "words": ["1628"],
+    "colors": ["white", "red", "black", "brown"],
+    "figures": ["lamb", "kask"]
+  },
+  {
+    "imageName": "NP/NP2_38.jpg",
+    "words": ["hokkaido", "kami", "furano", "hop", "kotan", "brewing"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_39.jpg",
+    "words": [],
+    "colors": ["orange", "brown", "black"],
+    "figures": ["paw"]
+  },
+  {
+    "imageName": "NP/NP2_40.jpg",
+    "brand": "bud",
+    "words": [],
+    "colors": ["red", "white", "golden"],
+    "figures": ["cup"]
+  },
+  {
+    "imageName": "NP/NP2_41.jpg",
+    "words": ["schlenkerla"],
+    "colors": ["golden", "black"],
+    "figures": ["man", "glass"]
+  },
+  {
+    "imageName": "NP/NP2_42.jpg",
+    "words": ["s"],
+    "colors": ["black", "white"],
+    "figures": ["hops"]
+  },
+  {
+    "imageName": "NP/NP2_43.jpg",
+    "words": [],
+    "colors": ["black", "silver"],
+    "figures": ["anchor"]
+  },
+  {
+    "imageName": "NP/NP2_44.jpg",
+    "words": ["1688"],
+    "colors": ["black", "white"],
+    "figures": ["gate"]
+  },
+  {
+    "imageName": "NP/NP2_45.jpg",
+    "words": ["berliner", "kindl", "bock", "dunkel"],
+    "colors": ["black", "pink", "silver", "orange", "white"],
+    "figures": ["boy", "glass"]
+  },
+  {
+    "imageName": "NP/NP2_46.jpg",
+    "words": ["kwak"],
+    "colors": ["brown", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_47.jpg",
+    "words": [],
+    "colors": ["orange", "white"],
+    "figures": ["goblin"]
+  },
+  {
+    "imageName": "NP/NP2_48.jpg",
+    "words": [],
+    "colors": ["orange", "white"],
+    "figures": ["abstract", "circle"]
+  },
+  {
+    "imageName": "NP/NP2_49.jpg",
+    "words": [],
+    "colors": ["black", "golden", "white", "red"],
+    "figures": ["man", "glass", "hat"]
+  },
+  {
+    "imageName": "NP/NP2_50.jpg",
+    "words": ["bauskas", "alus"],
+    "colors": ["red", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_51.jpg",
+    "words": ["4,6"],
+    "colors": ["golden", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_52.jpg",
+    "words": ["kelvardes"],
+    "colors": ["black", "golden", "red"],
+    "figures": ["shield", "crown"]
+  },
+  {
+    "imageName": "NP/NP2_53.jpg",
+    "words": ["craft", "beer", "z"],
+    "colors": ["golden", "black", "white", "red"],
+    "figures": ["star", "grain"]
+  },
+  {
+    "imageName": "NP/NP2_54.jpg",
+    "words": [],
+    "colors": ["white", "black", ""],
+    "figures": ["man"]
+  },
+  {
+    "imageName": "NP/NP2_55.jpg",
+    "words": ["robert", "domus", "колекция", "майстра"],
+    "colors": ["black", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_56.jpg",
+    "words": ["bauskas", "alus", "klasika"],
+    "colors": ["black", "white", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_57.jpg",
+    "words": ["k"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_58.jpg",
+    "words": ["m", "1906"],
+    "colors": ["golden", "black", "white"],
+    "figures": ["dear", "tree", "shield"]
+  },
+  {
+    "imageName": "NP/NP2_59.jpg",
+    "words": ["tervete"],
+    "colors": ["black", "white"],
+    "figures": ["horse", "grain"]
+  },
+  {
+    "imageName": "NP/NP2_60.jpg",
+    "brand": "saku",
+    "words": ["s"],
+    "colors": ["golden", "blue", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_61.jpg",
+    "words": [],
+    "colors": ["golden", "black"],
+    "figures": ["horse"]
+  },
+  {
+    "imageName": "NP/NP2_62.jpg",
+    "words": ["razots", "latvija"],
+    "colors": ["golden", "white", "red"],
+    "figures": ["map", "star"]
+  },
+  {
+    "imageName": "NP/NP2_63.jpg",
+    "brand": "lappin kulta",
+    "words": ["the", "golden", "beer", "of", "lapland", "n"],
+    "colors": ["white", "golden"],
+    "figures": ["star"]
+  },
+  {
+    "imageName": "NP/NP2_64.jpg",
+    "words": [],
+    "colors": ["black", "white", "yellow"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "NP/NP2_65.jpg",
+    "words": ["leo", "lager", "beer", "product", "of", "thailand"],
+    "colors": ["red", "white", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_66.jpg",
+    "words": ["salitos", "original", "superior", "lager", "agave"],
+    "colors": ["pink", "greed", "yellow"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_67.jpg",
+    "words": ["lacplesis"],
+    "colors": ["green", "golden", "white", "red"],
+    "figures": ["man", "grain"]
+  },
+  {
+    "imageName": "NP/NP2_68.jpg",
+    "words": ["piebalgaalos", "daritava"],
+    "colors": ["golden", "red", "white", "black"],
+    "figures": ["hat", "glass", "grain"]
+  },
+  {
+    "imageName": "NP/NP2_69.jpg",
+    "words": ["iso", "kallan", "panimo"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_70.jpg",
+    "words": ["a", "le", "coq", "alecoq"],
+    "colors": ["black", "golden", "red"],
+    "figures": ["crown"]
+  },
+  {
+    "imageName": "NP/NP2_71.jpg",
+    "words": ["klosterbrauerei", "furth", "seit", "1621"],
+    "colors": ["red", "white"],
+    "figures": ["church"]
+  },
+  {
+    "imageName": "NP/NP2_72.jpg",
+    "words": ["vakka", "suomen", "panimo", "osakeyhtio", "vasp"],
+    "colors": ["golden", "black"],
+    "figures": ["abstract"]
+  },
+  {
+    "imageName": "NP/NP2_73.jpg",
+    "words": ["bruza", "cesis", "joprojam", "nefiltrei"],
+    "colors": ["black", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_74.jpg",
+    "words": ["kaski"],
+    "colors": ["black", "white"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_75.jpg",
+    "words": ["saku", "olletehas", "1830", "brauerei"],
+    "colors": ["black", "golden"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_76.jpg",
+    "words": ["виж", "кода", "младо", "пиво", "под", "капачката"],
+    "colors": ["red", "white"],
+    "figures": ["mountain"]
+  },
+  {
+    "imageName": "NP/NP2_77.jpg",
+    "words": ["schofferhofer", "grapefruit"],
+    "colors": ["orange", "white", "black", "silver"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_78.jpg",
+    "words": [
+      "san",
+      "miguel",
+      "surgando",
+      "el",
+      "mundo",
+      "desde",
+      "1890",
+      "0,0"
+    ],
+    "colors": ["white", "blue", "green", "red"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_79.jpg",
+    "words": ["rakete"],
+    "colors": ["red", "silver", "white", "black"],
+    "figures": ["hart", "anchor"]
+  },
+  {
+    "imageName": "NP/NP2_80.jpg",
+    "words": ["kozel"],
+    "colors": ["red", "golden"],
+    "figures": ["goat", "glass"]
+  },
+  {
+    "imageName": "NP/NP2_81.jpg",
+    "words": ["uavas", "aus", "ventspils"],
+    "colors": ["golden", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_82.jpg",
+    "words": ["olutpaja"],
+    "colors": ["white", "black"],
+    "figures": []
+  },
+  {
+    "imageName": "NP/NP2_83.jpg",
+    "words": [],
+    "colors": ["white", "black"],
+    "figures": ["abstract"]
+  }
+]

@@ -22,6 +22,7 @@
 import A1 from './data/A1.json'
 import A2 from './data/A2.json'
 import A3 from './data/A3.json'
+import A4 from './data/A4.json'
 import B1 from './data/B1.json'
 import B2 from './data/B2.json'
 import B3 from './data/B3.json'
@@ -29,6 +30,7 @@ import B4 from './data/B4.json'
 import C1 from './data/C1.json'
 import C2 from './data/C2.json'
 import C3 from './data/C3.json'
+import C4 from './data/C4.json'
 import D1 from './data/D1.json'
 import D2 from './data/D2.json'
 import D3 from './data/D3.json'
@@ -36,6 +38,7 @@ import D4 from './data/D4.json'
 import E1 from './data/E1.json'
 import E2 from './data/E2.json'
 import E3 from './data/E3.json'
+import E4 from './data/E4.json'
 import F1 from './data/F1.json'
 import F2 from './data/F2.json'
 import F3 from './data/F3.json'
@@ -43,6 +46,7 @@ import F4 from './data/F4.json'
 import G1 from './data/G1.json'
 import G2 from './data/G2.json'
 import G3 from './data/G3.json'
+import G4 from './data/G4.json'
 import H1 from './data/H1.json'
 import H2 from './data/H2.json'
 import H3 from './data/H3.json'
@@ -60,12 +64,10 @@ import K3 from './data/K3.json'
 import L1 from './data/K1.json'
 import L2 from './data/K2.json'
 import L3 from './data/K3.json'
+import NP from './data/NP.json'
+
 import small from './data/small.json'
 import large from './data/large.json'
-
-import PL from './data/PL.json'
-
-import No_Plate from './data/No_Plate.json'
 
 export default ({
     name: 'Match',
@@ -85,20 +87,20 @@ export default ({
     // Implement also options sources upon other option change!!!!!!
     // ====================
     mounted() {
-        this.allCaps = A1.concat(A2, A3,
+        this.allCaps = A1.concat(A2, A3, A4,
             B1, B2, B3, B4,
-            C1, C2, C3,
+            C1, C2, C3, C4,
             D1, D2, D3, D4,
-            E1, E2, E3,
+            E1, E2, E3, E4,
             F1, F2, F3, F4,
-            G1, G2, G3,
+            G1, G2, G3, G4,
             H1, H2, H3, H4,
             I1, I2, I3,
             J1, J2, J3, J4,
             K1, K2, K3,
             L1, L2, L3,
             small, large,
-            No_Plate, PL);
+            NP);
 
         let length = this.allCaps.length,
             i;
